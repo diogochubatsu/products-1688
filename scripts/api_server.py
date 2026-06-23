@@ -102,10 +102,34 @@ def root():
 
 @app.get('/api/manifest')
 def get_manifest():
-    """Overall project stats."""
-    m = _load_json(DATA / '_manifest.json')
-    if not m:
-        raise HTTPException(404, 'manifest not found')
+    """Overall project stats + bronze file listing."""
+    m = _load_json(DATA / '_manifest.json') or {}
+    
+    # Add bronze file info dynamically
+    bronze = DATA / 'bronze'
+    sources = {}
+    for src_name in ['mtop', 'rakumart', 'su_detail']:
+        src_dir = bronze / src_name
+        if src_dir.exists():
+            files = list(src_dir.glob('*'))
+            total_size = sum(f.stat().st_size for f in files if f.is_file())
+            file_dates = sorted(set(f.name[:10] for f in files if f.is_file() and len(f.name) >= 10))
+            sources[src_name] = {
+                'files': len(files),
+                'size_mb': round(total_size / 1024 / 1024, 1),
+                'dates': ' to '.join(file_dates[:2]) if file_dates else 'unknown',
+            }
+    m['sources'] = sources
+    
+    # Add silver summary
+    silver_offers = list((DATA / 'silver' / 'offers').glob('*.json')) if (DATA / 'silver' / 'offers').exists() else []
+    matched = sum(1 for f in silver_offers if json.loads(f.read_text()).get('rakumart'))
+    m['silver'] = {
+        'offers': len(silver_offers),
+        'matched': matched,
+        'match_rate': f'{matched/len(silver_offers)*100:.1f}%' if silver_offers else '0%',
+    }
+    
     return m
 
 

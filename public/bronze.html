@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Bronze Data — Schema & Details</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; margin: 0; padding: 20px; background: #f5f5f5; color: #333; }
+  h1 { font-size: 22px; margin-bottom: 5px; }
+  .subtitle { color: #666; margin-bottom: 20px; font-size: 14px; }
+  .back { display: inline-block; margin-bottom: 15px; color: #1976d2; text-decoration: none; font-size: 14px; }
+  .back:hover { text-decoration: underline; }
+  .source { background: #fff; border: 1px solid #e0e0e0; border-radius: 6px; padding: 16px; margin-bottom: 16px; }
+  .source-header { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; cursor: pointer; }
+  .source-header h2 { font-size: 16px; margin: 0; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: 600; }
+  .badge-mtop { background: #e3f2fd; color: #1565c0; }
+  .badge-rakumart { background: #e8f5e9; color: #2e7d32; }
+  .badge-su { background: #fff3e0; color: #e65100; }
+  .stats { font-size: 13px; color: #666; margin-bottom: 12px; }
+  .stats span { margin-right: 16px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th { text-align: left; padding: 6px 8px; background: #f5f5f5; border-bottom: 2px solid #ddd; font-weight: 600; }
+  td { padding: 5px 8px; border-bottom: 1px solid #eee; vertical-align: top; }
+  td:first-child { font-family: monospace; font-weight: 500; white-space: nowrap; color: #1565c0; }
+  td:nth-child(2) { font-family: monospace; color: #666; }
+  td:nth-child(3) { color: #333; max-width: 400px; word-break: break-word; }
+  .sample { background: #fafafa; border: 1px solid #eee; border-radius: 4px; padding: 10px; font-family: monospace; font-size: 12px; white-space: pre-wrap; word-break: break-all; max-height: 300px; overflow-y: auto; margin-top: 10px; }
+  .toggle { font-size: 12px; color: #1976d2; cursor: pointer; margin-top: 8px; }
+  .hidden { display: none; }
+  .pipeline { background: #fff; border: 1px solid #e0e0e0; border-radius: 6px; padding: 16px; margin-bottom: 16px; }
+  .pipeline h2 { font-size: 16px; margin: 0 0 10px 0; }
+  .arrow { color: #999; margin: 0 8px; }
+  .step { display: inline-block; padding: 4px 10px; border-radius: 4px; font-size: 13px; font-weight: 500; }
+  .step-bronze { background: #fff3e0; color: #e65100; }
+  .step-silver { background: #e3f2fd; color: #1565c0; }
+  .step-gold { background: #e8f5e9; color: #2e7d32; }
+</style>
+</head>
+<body>
+<a href="/" class="back">← Back to Products</a>
+<h1>Bronze Data — Schema & Details</h1>
+<p class="subtitle">Raw scraped data from 3 sources: MTOP, SU Detail, Rakumart BR</p>
+
+<div class="pipeline">
+  <h2>Data Pipeline</h2>
+  <p>
+    <span class="step step-bronze">MTOP Search</span>
+    <span class="arrow">→</span>
+    <span class="step step-bronze">SU Detail</span>
+    <span class="arrow">→</span>
+    <span class="step step-silver">Silver (enriched)</span>
+    <span class="arrow">→</span>
+    <span class="step step-gold">Gold (Rakumart matched)</span>
+  </p>
+  <p style="font-size:13px;color:#666;margin:0">MTOP discovers products → SU Detail enriches with full data → Silver normalizes → Gold crosswalks with Rakumart BR prices</p>
+</div>
+
+<!-- MTOP -->
+<div class="source">
+  <div class="source-header">
+    <span class="badge badge-mtop">MTOP</span>
+    <h2>1688 MTOP Search Results</h2>
+  </div>
+  <div class="stats">
+    <span>📂 27 files</span>
+    <span>💾 25.5 MB</span>
+    <span>🔍 ~51 products per page</span>
+    <span>📅 2026-06-17 to 2026-06-22</span>
+  </div>
+  <p style="font-size:13px;color:#666;margin:0 0 10px 0">
+    MTOP API responses from 1688.com mobile search. Each file = 1 query × 1 page.
+    Contains product listings with basic info (title, price, image, shop).
+    Used for <strong>discovery</strong> — finding which products exist.
+  </p>
+  <table>
+    <tr><th>Field</th><th>Type</th><th>Description</th></tr>
+    <tr><td>offerId</td><td>int</td><td>Unique 1688 product ID</td></tr>
+    <tr><td>title</td><td>str</td><td>Product title (may contain HTML highlight tags)</td></tr>
+    <tr><td>priceInfo.price</td><td>str</td><td>Price string (e.g. "¥3.50")</td></tr>
+    <tr><td>offerPicUrl</td><td>str</td><td>Product image URL (alicdn.com)</td></tr>
+    <tr><td>shop.text</td><td>str</td><td>Shop/supplier name</td></tr>
+    <tr><td>loginId</td><td>str</td><td>Shop login ID on 1688</td></tr>
+    <tr><td>bookedCount</td><td>str</td><td>Monthly sales count</td></tr>
+    <tr><td>province</td><td>str</td><td>Seller province (Guangdong, Zhejiang, etc.)</td></tr>
+    <tr><td>city</td><td>str</td><td>Seller city</td></tr>
+    <tr><td>bizType</td><td>str</td><td>Business type (生产加工 = manufacturing)</td></tr>
+    <tr><td>offerRepurchaseRate</td><td>str</td><td>Repurchase rate (e.g. "6%")</td></tr>
+    <tr><td>tags</td><td>list</td><td>Product tags (quality, service, etc.)</td></tr>
+    <tr><td>linkUrl</td><td>str</td><td>Product detail page URL</td></tr>
+  </table>
+  <div class="toggle" onclick="this.nextElementSibling.classList.toggle('hidden')">▶ Show sample JSON</div>
+  <div class="sample hidden">{
+  "offerId": 1051482901293,
+  "title": "隐形加显瘦 无痕内衣女薄款大胸显小...",
+  "priceInfo": { "price": "¥8.50", "priceType": "interval_price" },
+  "offerPicUrl": "https://cbu01.alicdn.com/img/ibank/...",
+  "shop": { "text": "洛梦娅内衣" },
+  "loginId": "洛梦娅内衣",
+  "bookedCount": "17",
+  "province": "广东",
+  "bizType": "生产加工",
+  "offerRepurchaseRate": "6%"
+}</div>
+</div>
+
+<!-- SU DETAIL -->
+<div class="source">
+  <div class="source-header">
+    <span class="badge badge-su">SU Detail</span>
+    <h2>Decodo SU — Full Product Pages</h2>
+  </div>
+  <div class="stats">
+    <span>📂 171 files</span>
+    <span>💾 20.5 MB</span>
+    <span>📄 Full HTML pages</span>
+    <span>📅 2026-06-17 to 2026-06-22</span>
+  </div>
+  <p style="font-size:13px;color:#666;margin:0 0 10px 0">
+    Full HTML pages scraped via Decodo Scraper API with residential proxies.
+    Each file = 1 product detail page from m.1688.com.
+    Used for <strong>enrichment</strong> — getting full product data (specs, MOQ, supplier info).
+  </p>
+  <table>
+    <tr><th>Field</th><th>Type</th><th>Description</th></tr>
+    <tr><td>title</td><td>str</td><td>Full product title</td></tr>
+    <tr><td>price</td><td>float</td><td>Unit price in CNY</td></tr>
+    <tr><td>moq</td><td>int</td><td>Minimum order quantity</td></tr>
+    <tr><td>image_count</td><td>int</td><td>Number of product images</td></tr>
+    <tr><td>image_url</td><td>str</td><td>Primary product image</td></tr>
+    <tr><td>shop_name</td><td>str</td><td>Supplier shop name</td></tr>
+    <tr><td>province</td><td>str</td><td>Supplier location</td></tr>
+    <tr><td>monthly_sales</td><td>int</td><td>Monthly sales volume</td></tr>
+    <tr><td>repurchase_rate</td><td>str</td><td>Repeat purchase rate</td></tr>
+    <tr><td>user_type</td><td>str</td><td>Supplier type (manufacturing/trading)</td></tr>
+  </table>
+  <p style="font-size:12px;color:#999;margin:8px 0 0 0">
+    ⚠️ Raw HTML files — parsed by <code>scripts/build_silver_from_bronze.py</code> to extract structured data into Silver.
+  </p>
+</div>
+
+<!-- RAKUMART -->
+<div class="source">
+  <div class="source-header">
+    <span class="badge badge-rakumart">Rakumart</span>
+    <h2>Rakumart BR — Brazilian Marketplace</h2>
+  </div>
+  <div class="stats">
+    <span>📂 2 files</span>
+    <span>💾 144 KB</span>
+    <span>🛒 Crosswalk source (BRL prices)</span>
+    <span>📅 2026-06-17</span>
+  </div>
+  <p style="font-size:13px;color:#666;margin:0 0 10px 0">
+    Rakumart.com.br search results. Brazilian marketplace that resells 1688/Taobao products.
+    Used for <strong>price crosswalk</strong> — mapping CN products to BRL prices and PT-BR titles.
+  </p>
+  <table>
+    <tr><th>Field</th><th>Type</th><th>Description</th></tr>
+    <tr><td>source_platform</td><td>str</td><td>Always "rakumart-1688"</td></tr>
+    <tr><td>source_product_id</td><td>str</td><td>Rakumart product ID</td></tr>
+    <tr><td>source_url</td><td>str</td><td>Full product URL on Rakumart</td></tr>
+    <tr><td>product_name</td><td>str</td><td>Portuguese product title</td></tr>
+    <tr><td>price_low</td><td>float</td><td>Lowest price in BRL</td></tr>
+    <tr><td>price_high</td><td>float|null</td><td>Highest price (if range)</td></tr>
+    <tr><td>price_currency</td><td>str</td><td>Always "BRL"</td></tr>
+    <tr><td>image_url</td><td>str</td><td>Product image (alicdn.com)</td></tr>
+    <tr><td>monthly_sales</td><td>int</td><td>Sales count on Rakumart</td></tr>
+    <tr><td>seller_name</td><td>str</td><td>Rakumart seller name</td></tr>
+    <tr><td>raw_data</td><td>dict</td><td>Additional scraped fields (repurchase_rate, provcity, etc.)</td></tr>
+    <tr><td>scraped_at</td><td>str</td><td>ISO timestamp of scrape</td></tr>
+  </table>
+  <div class="toggle" onclick="this.nextElementSibling.classList.toggle('hidden')">▶ Show sample JSON</div>
+  <div class="sample hidden">{
+  "source_platform": "rakumart-1688",
+  "source_product_id": "901037194811",
+  "source_url": "https://www.rakumart.com.br/product/901037194811",
+  "product_name": "Caixa organizadora DIY de 6 compartimentos...",
+  "price_low": 4.5,
+  "price_currency": "BRL",
+  "image_url": "https://cbu01.alicdn.com/img/ibank/...",
+  "monthly_sales": 681,
+  "raw_data": {
+    "source": "1688",
+    "repurchase_rate": "14.55%",
+    "user_type": "1688",
+    "provcity": "浙江 金华"
+  }
+}</div>
+</div>
+
+<!-- FILE LISTING -->
+<div class="source">
+  <div class="source-header">
+    <h2>📂 File Listing</h2>
+  </div>
+  <div id="file-list" style="font-size:13px;">
+    <p style="color:#666">Loading...</p>
+  </div>
+</div>
+
+<script>
+const API = '';
+
+// Load file listing from API
+fetch(`${API}/api/manifest`).then(r => r.json()).then(d => {
+  const el = document.getElementById('file-list');
+  // Build file summary
+  const sources = d.sources || {};
+  let html = '<table><tr><th>Source</th><th>Files</th><th>Total Size</th><th>Date Range</th></tr>';
+  
+  if (sources.mtop) {
+    html += `<tr><td style="color:#1565c0">MTOP</td><td>${sources.mtop.files || '?'}</td><td>${sources.mtop.size_mb || '?'} MB</td><td>${sources.mtop.dates || '?'}</td></tr>`;
+  }
+  if (sources.su_detail) {
+    html += `<tr><td style="color:#e65100">SU Detail</td><td>${sources.su_detail.files || '?'}</td><td>${sources.su_detail.size_mb || '?'} MB</td><td>${sources.su_detail.dates || '?'}</td></tr>`;
+  }
+  if (sources.rakumart) {
+    html += `<tr><td style="color:#2e7d32">Rakumart</td><td>${sources.rakumart.files || '?'}</td><td>${sources.rakumart.size_mb || '?'} MB</td><td>${sources.rakumart.dates || '?'}</td></tr>`;
+  }
+  html += '</table>';
+  
+  // Add silver summary if available
+  if (d.silver) {
+    html += `<p style="margin-top:12px;color:#666"><strong>Silver:</strong> ${d.silver.offers || '?'} offers, ${d.silver.matched || '?'} matched (${d.silver.match_rate || '?'}%)</p>`;
+  }
+  
+  el.innerHTML = html;
+}).catch(e => {
+  document.getElementById('file-list').innerHTML = `<p style="color:#c62828">Error loading manifest: ${e.message}</p>`;
+});
+</script>
+</body>
+</html>
