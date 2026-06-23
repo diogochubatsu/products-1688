@@ -263,6 +263,117 @@
   </p>
 </div>
 
+
+<!-- PRODUCT TABLE (MIGRATION DESTINATION) -->
+<div class="source" style="border-color:#2e7d32;">
+  <div class="source-header">
+    <span class="badge" style="background:#e8f5e9;color:#2e7d32;">Destination</span>
+    <h2>Product Table — Migration Target</h2>
+  </div>
+  <div class="stats">
+    <span>🎯 What migrates to your database</span>
+    <span>🔒 Scraping data stays here</span>
+  </div>
+  <p style="font-size:13px;color:#666;margin:0 0 10px 0">
+    Clean separation: <strong>scraping operational data</strong> stays with the scraper,
+    <strong>product data</strong> migrates to your destination database.
+    This table has only what a Brazilian seller needs to make purchasing decisions.
+  </p>
+  
+  <div style="display:flex;gap:16px;margin-bottom:16px;">
+    <div style="flex:1;background:#e8f5e9;padding:12px;border-radius:6px;">
+      <strong style="color:#2e7d32;">✓ Migrates (9 fields)</strong>
+      <ul style="font-size:12px;margin:6px 0 0 0;padding-left:16px;">
+        <li><code>offer_id</code> — 1688 product ID (unique)</li>
+        <li><code>title_cn</code> — original Chinese title</li>
+        <li><code>title_br</code> — Portuguese translation</li>
+        <li><code>price_cny</code> — price in CNY</li>
+        <li><code>price_brl</code> — price in BRL</li>
+        <li><code>category</code> — product category</li>
+        <li><code>image_url</code> — product image</li>
+        <li><code>source_url</code> — 1688 or Rakumart link</li>
+        <li><code>supplier_name</code> — who sells it</li>
+      </ul>
+    </div>
+    <div style="flex:1;background:#fff3e0;padding:12px;border-radius:6px;">
+      <strong style="color:#e65100;">✗ Stays with scraper (operational)</strong>
+      <ul style="font-size:12px;margin:6px 0 0 0;padding-left:16px;">
+        <li><code>taxonomy.n1-n4</code> — our internal classification</li>
+        <li><code>match_score</code> — crosswalk confidence</li>
+        <li><code>enriched_at</code> — last scrape timestamp</li>
+        <li><code>shop</code> / <code>shop_name</code> — changes frequently</li>
+        <li><code>bronze_refs</code> — pipeline traceability</li>
+        <li><code>category</code> (flat) — our mapping</li>
+      </ul>
+    </div>
+  </div>
+
+  <h3 style="font-size:14px;margin:16px 0 8px 0;">Product Table Schema (SQL)</h3>
+  <div class="sample">CREATE TABLE products (
+  id            SERIAL PRIMARY KEY,
+  offer_id      BIGINT UNIQUE NOT NULL,  -- 1688 product ID
+  title_cn      TEXT NOT NULL,           -- original Chinese title
+  title_br      TEXT,                    -- Portuguese translation
+  price_cny     DECIMAL(10,2),           -- price in CNY
+  price_brl     DECIMAL(10,2),           -- price in BRL
+  category      VARCHAR(50),             -- product category
+  image_url     TEXT,                    -- product image
+  source_url    TEXT,                    -- 1688 or Rakumart link
+  supplier_name VARCHAR(200),            -- who sells it
+  last_updated  TIMESTAMP DEFAULT NOW(), -- when we last scraped
+  created_at    TIMESTAMP DEFAULT NOW()  -- first seen
+);
+
+-- Indexes for common queries
+CREATE INDEX idx_products_category ON products(category);
+CREATE INDEX idx_products_price_brl ON products(price_brl);
+CREATE INDEX idx_products_offer_id ON products(offer_id);</div>
+
+  <h3 style="font-size:14px;margin:16px 0 8px 0;">Data Flow</h3>
+  <div style="background:#f5f5f5;padding:12px;border-radius:6px;font-size:13px;">
+    <pre style="margin:0;font-family:monospace;">
+┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+│  1688.com   │────▶│   Scraper   │────▶│  Product DB │
+│  (source)   │     │  (here)     │     │  (yours)    │
+└─────────────┘     └─────────────┘     └─────────────┘
+                          │
+                    ┌─────┴─────┐
+                    │ Scraping  │
+                    │  Data     │
+                    │ (stays)   │
+                    └───────────┘
+
+Scraping flow:
+  1. MTOP discovers products (title, price, image, shop)
+  2. SU Detail enriches (supplier company name)
+  3. Rakumart crosswalks (Portuguese title, BRL price)
+  4. Taxonomy classifies (N1→N4)
+  5. Export: clean product table → your database
+  6. Operational data stays here for re-scraping</pre>
+  </div>
+
+  <h3 style="font-size:14px;margin:16px 0 8px 0;">Example Migration Query</h3>
+  <div class="sample">-- From silver offers to product table
+INSERT INTO products (offer_id, title_cn, title_br, price_cny, price_brl, 
+                      category, image_url, source_url, supplier_name)
+SELECT 
+  o.offer_id,
+  o.mtop->>'title' as title_cn,
+  o.rakumart->>'title_br' as title_br,
+  (o.mtop->>'price_cny')::decimal as price_cny,
+  (o.rakumart->>'price_brl')::decimal as price_brl,
+  o.category,
+  o.mtop->>'image_url' as image_url,
+  o.rakumart->>'url' as source_url,
+  o.su_detail->>'shop_name' as supplier_name
+FROM silver_offers o
+WHERE o.rakumart IS NOT NULL  -- only matched products
+ON CONFLICT (offer_id) 
+DO UPDATE SET 
+  price_brl = EXCLUDED.price_brl,
+  last_updated = NOW();</div>
+</div>
+
 <!-- FILE LISTING -->
 <div class="source">
   <div class="source-header">
