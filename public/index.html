@@ -134,28 +134,52 @@ let filters = { q: '', n1: '', n2: '', n3: '', category: '', has_match: '', min_
 
 // ── Load taxonomy into N1/N2/N3 dropdowns ──
 fetch(`${API}/api/categories`).then(r => r.json()).then(cat => {
+  // Build name_pt lookup: Chinese → Portuguese
+  const ptLookup = {};
+  Object.entries(cat).forEach(([n1, n1v]) => {
+    if (!n1v || typeof n1v !== 'object' || n1.startsWith('_')) return;
+    if (n1v.name_pt) ptLookup[n1] = n1v.name_pt;
+    if (n1v.n2) Object.entries(n1v.n2).forEach(([n2, n2v]) => {
+      if (!n2v || typeof n2v !== 'object') return;
+      if (n2v.name_pt) ptLookup[n2] = n2v.name_pt;
+      if (n2v.n3) Object.entries(n2v.n3).forEach(([n3, n3v]) => {
+        if (!n3v || typeof n3v !== 'object') return;
+        if (n3v.name_pt) ptLookup[n3] = n3v.name_pt;
+        if (n3v.n4) Object.entries(n3v.n4).forEach(([n4, n4v]) => {
+          if (n4v && n4v.name_pt) ptLookup[n4] = n4v.name_pt;
+        });
+      });
+    });
+  });
+  window._ptLookup = ptLookup;
+
+  function formatName(cn) {
+    return cn + (ptLookup[cn] ? ' (' + ptLookup[cn] + ')' : '');
+  }
+
   const sel1 = document.getElementById('n1-filter');
   Object.keys(cat).filter(k => !k.startsWith('_')).forEach(n1 => {
     const opt = document.createElement('option');
-    opt.value = n1; opt.textContent = n1;
+    opt.value = n1; opt.textContent = formatName(n1);
     sel1.appendChild(opt);
   });
   // Build N2/N3 sets from taxonomy tree
-  const n2set = new Set(), n3set = new Set();
+  const n2set = new Map(), n3set = new Map();
   Object.values(cat).filter(v => typeof v === 'object' && !v._meta).forEach(n1obj => {
-    if (n1obj.n2) Object.keys(n1obj.n2).filter(k => k !== '_meta').forEach(n2 => {
-      n2set.add(n2);
-      const n2obj = n1obj.n2[n2];
-      if (n2obj.n3) Object.keys(n2obj.n3).filter(k => k !== '_meta').forEach(n3 => n3set.add(n3));
+    if (n1obj.n2) Object.entries(n1obj.n2).forEach(([n2, n2v]) => {
+      if (!n2set.has(n2) && n2v && typeof n2v === 'object') n2set.set(n2, n2v);
+      if (n2v && n2v.n3) Object.entries(n2v.n3).forEach(([n3, n3v]) => {
+        if (!n3set.has(n3) && n3v && typeof n3v === 'object') n3set.set(n3, n3v);
+      });
     });
   });
   const sel2 = document.getElementById('n2-filter');
-  [...n2set].sort().forEach(n2 => {
-    const opt = document.createElement('option'); opt.value = n2; opt.textContent = n2; sel2.appendChild(opt);
+  [...n2set.keys()].sort().forEach(n2 => {
+    const opt = document.createElement('option'); opt.value = n2; opt.textContent = formatName(n2); sel2.appendChild(opt);
   });
   const sel3 = document.getElementById('n3-filter');
-  [...n3set].sort().forEach(n3 => {
-    const opt = document.createElement('option'); opt.value = n3; opt.textContent = n3; sel3.appendChild(opt);
+  [...n3set.keys()].sort().forEach(n3 => {
+    const opt = document.createElement('option'); opt.value = n3; opt.textContent = formatName(n3); sel3.appendChild(opt);
   });
 });
 
@@ -281,9 +305,9 @@ function render() {
         <td><a href="/api/offers/${o.offer_id}" target="_blank">${o.offer_id}</a></td>
         <td>${o.image_url ? `<img class="img-thumb" src="/api/image/${o.offer_id}" loading="lazy" data-full="/api/image/${o.offer_id}" onerror="this.outerHTML='<div class=\'img-placeholder\'>no img</div>'" onclick="showImage('/api/image/${o.offer_id}')" />` : '<div class="img-placeholder">—</div>'}</td>
         <td>${o.category || '—'}</td>
-        <td><span class="n1-tag">${o.n1 || '—'}</span></td>
-        <td>${o.n2 || '—'}</td>
-        <td>${o.n3 || '—'}</td>
+        <td><span class="n1-tag">${o.n1 || '—'}${window._ptLookup && o.n1 && window._ptLookup[o.n1] ? ' (' + window._ptLookup[o.n1] + ')' : ''}</span></td>
+        <td>${o.n2 ? o.n2 + (window._ptLookup && window._ptLookup[o.n2] ? ' (' + window._ptLookup[o.n2] + ')' : '') : '—'}</td>
+        <td>${o.n3 ? o.n3 + (window._ptLookup && window._ptLookup[o.n3] ? ' (' + window._ptLookup[o.n3] + ')' : '') : '—'}</td>
         <td><span class="n4-tag">${o.n4 || '—'}</span></td>
         <td class="title-cell" title="${(o.title_cn || '').replace(/"/g, '&quot;')}">${o.title_cn || '—'}</td>
         <td class="title-cell" title="${(o.title_br || '').replace(/"/g, '&quot;')}">${o.title_br || '—'}</td>
