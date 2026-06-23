@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Product Database — Migration Schema</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; margin: 0; padding: 24px; background: #f5f5f5; color: #333; max-width: 900px; }
+  h1 { font-size: 22px; margin-bottom: 4px; }
+  .subtitle { color: #666; margin-bottom: 20px; font-size: 14px; }
+  .back { display: inline-block; margin-bottom: 15px; color: #1976d2; text-decoration: none; font-size: 14px; }
+  .back:hover { text-decoration: underline; }
+  .section { background: #fff; border: 1px solid #e0e0e0; border-radius: 6px; padding: 20px; margin-bottom: 16px; }
+  .section h2 { font-size: 16px; margin: 0 0 12px 0; }
+  .section h3 { font-size: 14px; margin: 16px 0 8px 0; color: #555; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; margin-bottom: 12px; }
+  th { text-align: left; padding: 8px; background: #f5f5f5; border-bottom: 2px solid #ddd; font-weight: 600; }
+  td { padding: 6px 8px; border-bottom: 1px solid #eee; vertical-align: top; }
+  td:first-child { font-family: monospace; font-weight: 500; white-space: nowrap; color: #1565c0; }
+  td:nth-child(2) { font-family: monospace; color: #666; }
+  code { background: #f0f0f0; padding: 1px 4px; border-radius: 3px; font-size: 12px; }
+  .sql { background: #1e1e1e; color: #d4d4d4; padding: 16px; border-radius: 6px; font-family: 'Consolas', 'Monaco', monospace; font-size: 13px; line-height: 1.5; overflow-x: auto; white-space: pre; }
+  .sql .kw { color: #569cd6; }
+  .sql .type { color: #4ec9b0; }
+  .sql .str { color: #ce9178; }
+  .sql .num { color: #b5cea8; }
+  .sql .comment { color: #6a9955; }
+  .sql .fn { color: #dcdcaa; }
+  .note { background: #fffde7; border-left: 3px solid #fbc02d; padding: 10px 12px; font-size: 13px; margin: 12px 0; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: 600; background: #e8f5e9; color: #2e7d32; }
+</style>
+</head>
+<body>
+<a href="/bronze.html" class="back">← Back to Bronze Schema</a>
+<h1>Product Database — Migration Schema</h1>
+<p class="subtitle">Target schema for the agent creating the destination product database</p>
+
+<div class="section">
+  <h2>Overview</h2>
+  <p style="font-size:13px;color:#666;margin:0">
+    This is the <strong>product table</strong> that receives data from the scraper.
+    The scraper handles all operational complexity (taxonomy, scoring, crosswalking).
+    This table contains only what a Brazilian seller needs to make purchasing decisions.
+  </p>
+  <p style="font-size:13px;color:#666;margin:8px 0 0 0">
+    <strong>Source:</strong> Silver offers from <code>/mnt/ssd/1688-only/data/silver/offers/*.json</code><br>
+    <strong>Destination:</strong> PostgreSQL database (your choice of hosting)
+  </p>
+</div>
+
+<div class="section">
+  <h2>Table: <code>products</code></h2>
+  <table>
+    <tr><th>Column</th><th>Type</th><th>Nullable</th><th>Description</th></tr>
+    <tr><td>id</td><td>SERIAL</td><td>NO (PK)</td><td>Auto-increment primary key</td></tr>
+    <tr><td>offer_id</td><td>BIGINT</td><td>NO (UNIQUE)</td><td>1688.com product ID — unique identifier from source</td></tr>
+    <tr><td>title_cn</td><td>TEXT</td><td>NO</td><td>Original Chinese product title (cleaned, no HTML tags)</td></tr>
+    <tr><td>title_br</td><td>TEXT</td><td>YES</td><td>Portuguese translation from Rakumart (if matched)</td></tr>
+    <tr><td>price_cny</td><td>DECIMAL(10,2)</td><td>YES</td><td>Unit price in Chinese Yuan</td></tr>
+    <tr><td>price_brl</td><td>DECIMAL(10,2)</td><td>YES</td><td>Price in Brazilian Reais from Rakumart (if matched)</td></tr>
+    <tr><td>category</td><td>VARCHAR(50)</td><td>YES</td><td>Product category (beach_clip, socks, drill, underwear)</td></tr>
+    <tr><td>image_url</td><td>TEXT</td><td>YES</td><td>Product image URL (alicdn.com CDN)</td></tr>
+    <tr><td>source_url</td><td>TEXT</td><td>YES</td><td>Purchase link — Rakumart URL (preferred) or 1688 detail URL</td></tr>
+    <tr><td>supplier_name</td><td>VARCHAR(200)</td><td>YES</td><td>Supplier company name from 1688</td></tr>
+    <tr><td>last_updated</td><td>TIMESTAMP</td><td>NO (DEFAULT NOW)</td><td>When this record was last scraped/updated</td></tr>
+    <tr><td>created_at</td><td>TIMESTAMP</td><td>NO (DEFAULT NOW)</td><td>When this product was first seen</td></tr>
+  </table>
+</div>
+
+<div class="section">
+  <h2>SQL DDL</h2>
+  <div class="sql"><span class="kw">CREATE TABLE</span> <span class="fn">products</span> (
+    id            <span class="type">SERIAL</span>       <span class="kw">PRIMARY KEY</span>,
+    offer_id      <span class="type">BIGINT</span>       <span class="kw">UNIQUE NOT NULL</span>,
+    title_cn      <span class="type">TEXT</span>         <span class="kw">NOT NULL</span>,
+    title_br      <span class="type">TEXT</span>,
+    price_cny     <span class="type">DECIMAL</span>(<span class="num">10</span>,<span class="num">2</span>),
+    price_brl     <span class="type">DECIMAL</span>(<span class="num">10</span>,<span class="num">2</span>),
+    category      <span class="type">VARCHAR</span>(<span class="num">50</span>),
+    image_url     <span class="type">TEXT</span>,
+    source_url    <span class="type">TEXT</span>,
+    supplier_name <span class="type">VARCHAR</span>(<span class="num">200</span>),
+    last_updated  <span class="type">TIMESTAMP</span>    <span class="kw">DEFAULT</span> <span class="fn">NOW</span>(),
+    created_at    <span class="type">TIMESTAMP</span>    <span class="kw">DEFAULT</span> <span class="fn">NOW</span>()
+);
+
+<span class="comment">-- Indexes for common queries</span>
+<span class="kw">CREATE INDEX</span> idx_products_category    <span class="kw">ON</span> products(category);
+<span class="kw">CREATE INDEX</span> idx_products_price_brl   <span class="kw">ON</span> products(price_brl);
+<span class="kw">CREATE INDEX</span> idx_products_supplier    <span class="kw">ON</span> products(supplier_name);
+<span class="kw">CREATE INDEX</span> idx_products_last_updated <span class="kw">ON</span> products(last_updated);</div>
+</div>
+
+<div class="section">
+  <h2>Migration Query</h2>
+  <p style="font-size:13px;color:#666;margin:0 0 8px 0">
+    Insert from silver JSON files into the product table. Uses PostgreSQL JSON operators.
+  </p>
+  <div class="sql"><span class="comment">-- Insert products from silver offers</span>
+<span class="comment">-- Run from scraper machine or adapt for your ETL</span>
+
+<span class="kw">INSERT INTO</span> products (offer_id, title_cn, title_br, price_cny, price_brl,
+                      category, image_url, source_url, supplier_name)
+<span class="kw">SELECT</span>
+  (o->><span class="str">'offer_id'</span>)::<span class="type">bigint</span>,
+  o-><span class="str">'mtop'</span>->><span class="str">'title'</span>,
+  o-><span class="str">'rakumart'</span>->><span class="str">'title_br'</span>,
+  (o-><span class="str">'mtop'</span>->><span class="str">'price_cny'</span>)::<span class="type">decimal</span>,
+  (o-><span class="str">'rakumart'</span>->><span class="str">'price_brl'</span>)::<span class="type">decimal</span>,
+  o->><span class="str">'category'</span>,
+  o-><span class="str">'mtop'</span>->><span class="str">'image_url'</span>,
+  o-><span class="str">'rakumart'</span>->><span class="str">'url'</span>,
+  o-><span class="str">'su_detail'</span>->><span class="str">'shop_name'</span>
+<span class="kw">FROM</span> jsonb_array_elements(
+  <span class="comment">-- Load from JSON file or view</span>
+  <span class="str">'[{"offer_id":123,"mtop":{"title":"..."},...}]'</span>::<span class="type">jsonb</span>
+) <span class="kw">AS</span> o
+<span class="kw">WHERE</span> o-><span class="str">'rakumart'</span> <span class="kw">IS NOT NULL</span>  <span class="comment">-- only matched products</span>
+<span class="kw">ON CONFLICT</span> (offer_id)
+<span class="kw">DO UPDATE SET</span>
+  price_brl    = <span class="fn">EXCLUDED</span>.price_brl,
+  title_br     = <span class="fn">EXCLUDED</span>.title_br,
+  source_url   = <span class="fn">EXCLUDED</span>.source_url,
+  last_updated = <span class="fn">NOW</span>();</div>
+</div>
+
+<div class="section">
+  <h2>Useful Queries</h2>
+  <div class="sql"><span class="comment">-- Products by category with margin calc</span>
+<span class="kw">SELECT</span> category, <span class="fn">COUNT</span>(*), <span class="fn">AVG</span>(price_brl), <span class="fn">AVG</span>(price_cny)
+<span class="kw">FROM</span> products
+<span class="kw">WHERE</span> price_brl <span class="kw">IS NOT NULL</span>
+<span class="kw">GROUP BY</span> category
+<span class="kw">ORDER BY</span> <span class="fn">COUNT</span>(*) <span class="kw">DESC</span>;
+
+<span class="comment">-- Top products by price margin</span>
+<span class="kw">SELECT</span> title_br, price_cny, price_brl,
+       <span class="fn">ROUND</span>(price_brl / (price_cny * <span class="num">0.8</span>), <span class="num">1</span>) <span class="kw">AS</span> markup
+<span class="kw">FROM</span> products
+<span class="kw">WHERE</span> price_cny > <span class="num">0</span> <span class="kw">AND</span> price_brl > <span class="num">0</span>
+<span class="kw">ORDER BY</span> markup <span class="kw">DESC</span>
+<span class="kw">LIMIT</span> <span class="num">20</span>;
+
+<span class="comment">-- Recently updated products</span>
+<span class="kw">SELECT</span> offer_id, title_br, price_brl, last_updated
+<span class="kw">FROM</span> products
+<span class="kw">ORDER BY</span> last_updated <span class="kw">DESC</span>
+<span class="kw">LIMIT</span> <span class="num">50</span>;</div>
+</div>
+
+<div class="section">
+  <h2>Data Source Mapping</h2>
+  <p style="font-size:13px;color:#666;margin:0 0 8px 0">
+    Where each field comes from in the scraper pipeline.
+  </p>
+  <table>
+    <tr><th>Destination Field</th><th>Source</th><th>Notes</th></tr>
+    <tr><td>offer_id</td><td>MTOP</td><td>From 1688 search results</td></tr>
+    <tr><td>title_cn</td><td>MTOP</td><td>Cleaned (HTML tags removed)</td></tr>
+    <tr><td>title_br</td><td>Rakumart</td><td>Portuguese translation (only if matched)</td></tr>
+    <tr><td>price_cny</td><td>MTOP</td><td>Unit price from 1688</td></tr>
+    <tr><td>price_brl</td><td>Rakumart</td><td>BRL price (only if matched)</td></tr>
+    <tr><td>category</td><td>Scraper</td><td>Our flat category mapping</td></tr>
+    <tr><td>image_url</td><td>MTOP</td><td>Product image from alicdn.com</td></tr>
+    <tr><td>source_url</td><td>Rakumart</td><td>Purchase link (Rakumart preferred)</td></tr>
+    <tr><td>supplier_name</td><td>SU Detail</td><td>Company name from 1688 detail page</td></tr>
+  </table>
+</div>
+
+<div class="section">
+  <h2>Notes</h2>
+  <ul style="font-size:13px;color:#666;margin:0;padding-left:20px;">
+    <li><code>title_br</code>, <code>price_brl</code>, <code>source_url</code> are NULL for unmatched products (no Rakumart crosswalk)</li>
+    <li><code>supplier_name</code> may be NULL if SU Detail scrape failed</li>
+    <li><code>image_url</code> may break if alicdn.com changes CDN rules — consider caching locally</li>
+    <li><code>offer_id</code> is the join key if you need to re-fetch data from the scraper</li>
+    <li>Use <code>ON CONFLICT</code> for upserts — scraper may re-scrape the same product</li>
+  </ul>
+</div>
+
+</body>
+</html>
