@@ -1,0 +1,42 @@
+{
+  "offer_id": 693160611049,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_内裤_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_693160611049.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "一件代发厂家直销男士平角裤男内裤男四角裤星期裤潮流透气多色裤",
+    "price_cny": "7",
+    "shop": "火炮手内衣店",
+    "province": "广东",
+    "city": "中山市",
+    "booked": "16814",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01P9lJks24AoH1kLzYS_!!2207625647351-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "内裤"
+  },
+  "su_detail": {
+    "subject": "一件代发厂家直销男士平角裤男内裤男四角裤星期裤潮流透气多色裤",
+    "company": "中山市三人共创服饰科技有限公司",
+    "loginid": "火炮手内衣店",
+    "is_live": true,
+    "size_bytes": 280901
+  },
+  "rakumart": {
+    "match_score": 36.2,
+    "price_brl": 4.5,
+    "title_br": "Venda direta da fábrica: cueca boxer masculina em tecido de seda gel, atacado, tamanhos grandes, modelo fino e respirável com malha perfurada.",
+    "url": "https://www.rakumart.com.br/product/823782723951",
+    "crosswalked_at": "2026-06-18T01:11:37Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.766186Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "内裤",
+    "n4": "无痕内裤",
+    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+  }
+}

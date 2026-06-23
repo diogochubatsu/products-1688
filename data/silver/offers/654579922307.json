@@ -1,0 +1,42 @@
+{
+  "offer_id": 654579922307,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_内裤_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_654579922307.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "欧美无痕女士内裤夏季轻薄大码冰丝透气运动低腰裸感健身三角裤女",
+    "price_cny": "6.5",
+    "shop": "yaterousi",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "21659",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN019FD1FU1jLi1ACMe1h_!!963684532-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "内裤"
+  },
+  "su_detail": {
+    "subject": "欧美无痕女士内裤夏季轻薄大码冰丝透气运动低腰裸感健身三角裤女",
+    "company": "汕头市沛森针织有限公司",
+    "loginid": "yaterousi",
+    "is_live": true,
+    "size_bytes": 538519
+  },
+  "rakumart": {
+    "match_score": 46.6,
+    "price_brl": 6.0,
+    "title_br": "Calcinha T de algodão puro com entreperna respirável, sensação de pele nua sem costura, tecido leve estilo gelo, cintura baixa para mulheres, modelo sexy em uma única peça.",
+    "url": "https://www.rakumart.com.br/product/652299052958",
+    "crosswalked_at": "2026-06-18T01:07:00Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.739811Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "内裤",
+    "n4": "女士内裤",
+    "path": "服装鞋帽/内衣/内裤/女士内裤"
+  }
+}

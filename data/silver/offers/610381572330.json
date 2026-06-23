@@ -1,0 +1,42 @@
+{
+  "offer_id": 610381572330,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_收腹塑身衣_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_610381572330.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "欧美收腹束腰带爆汗护腰封塑腹带瘦身腰带产后产妇塑身衣产后修复",
+    "price_cny": "5",
+    "shop": "四季丽姿内衣",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "1312",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/13114726343_75353636.jpg",
+    "category": "underwear",
+    "source_query": "收腹塑身衣"
+  },
+  "su_detail": {
+    "subject": "欧美收腹束腰带爆汗护腰封塑腹带瘦身腰带产后产妇塑身衣产后修复",
+    "company": "汕头市潮阳区贵屿四季丽姿针织内衣厂",
+    "loginid": "四季丽姿内衣",
+    "is_live": true,
+    "size_bytes": 87316
+  },
+  "rakumart": {
+    "match_score": 37.6,
+    "price_brl": 5.0,
+    "title_br": "Cinto modelador abdominal para mulheres, ideal para pós-parto e recuperação corporal. Promove efeito de queima de gordura com calor intenso, ajuda a definir a silhueta e oferece suporte lombar. Perfei",
+    "url": "https://www.rakumart.com.br/product/610381572330",
+    "crosswalked_at": "2026-06-23T01:18:23Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.194065Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "提臀塑身",
+    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+  }
+}

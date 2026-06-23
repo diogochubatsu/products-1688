@@ -1,0 +1,42 @@
+{
+  "offer_id": 683685770263,
+  "bronze_refs": {
+    "mtop": "LEGACY: youyazi_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: youyazi_*_enriched.json",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "泡泡裤大码内裤女士泡泡裤氧气内裤石墨烯透气中腰三角裤女",
+    "price_cny": 1.55,
+    "shop": "尤雅姿内衣厂",
+    "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01GpYoaI2Akt9VyOTrt_!!2211950918242-0-cib.jpg",
+    "booked": 184,
+    "category": "underwear"
+  },
+  "su_detail": {
+    "subject": "泡泡裤大码内裤女士泡泡裤氧气内裤石墨烯透气中腰三角裤女",
+    "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 106119
+  },
+  "rakumart": {
+    "match_score": 69.6,
+    "price_brl": 8.0,
+    "title_br": "Nova coleção de cuecas vermelhas para o ano do horóscopo: calcinha triangular para ela e boxer para ele, casal perfeito.",
+    "url": "https://www.rakumart.com.br/product/847534612858",
+    "crosswalked_at": "2026-06-18T01:13:49Z"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "内裤",
+    "n4": "无痕内裤",
+    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+  }
+}

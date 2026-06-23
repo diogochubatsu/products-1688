@@ -1,0 +1,20 @@
+{
+  "shop_name": "奥仕工具有限公司",
+  "offer_count": 2,
+  "categories": [
+    "drill"
+  ],
+  "offers": [
+    {
+      "offer_id": 768433059658,
+      "category": "drill",
+      "title": "德国珍珠打孔器电动小型玉石文玩扩孔开手串打眼核桃钻孔机手电钻"
+    },
+    {
+      "offer_id": 719746403487,
+      "category": "drill",
+      "title": "德国电动螺丝刀充电式家用小型电起子机多功能螺丝批套装工具批发"
+    }
+  ],
+  "generated_at": "2026-06-18T00:07:55.025320Z"
+}

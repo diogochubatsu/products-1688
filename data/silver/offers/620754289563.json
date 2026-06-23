@@ -1,0 +1,42 @@
+{
+  "offer_id": 620754289563,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_620754289563.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "袜子夹懒人塑料袜夹方便快捷晾晒袜夹快速拉取袜夹收纳晒夹批发",
+    "price_cny": "1.5",
+    "shop": "锴诺工贸",
+    "province": "浙江",
+    "city": "永康市",
+    "booked": "821",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01oYTJze2J48zG9ky8O_!!2208328189367-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩夹"
+  },
+  "su_detail": {
+    "subject": "袜子夹懒人塑料袜夹方便快捷晾晒袜夹快速拉取袜夹收纳晒夹批发",
+    "company": "永康市锴诺工贸有限公司",
+    "loginid": "锴诺工贸",
+    "is_live": true,
+    "size_bytes": 83788
+  },
+  "rakumart": {
+    "match_score": 52.3,
+    "price_brl": 7.0,
+    "title_br": "Saque de meias em plástico: prático, rápido e ideal para secar e organizar. Venda no atacado.",
+    "url": "https://www.rakumart.com.br/product/926932363799",
+    "crosswalked_at": "2026-06-18T01:13:30Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.717608Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

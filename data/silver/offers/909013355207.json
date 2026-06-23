@@ -1,0 +1,42 @@
+{
+  "offer_id": 909013355207,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_童袜_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_909013355207.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "夏季儿童袜子洛丽塔蝴蝶结女童袜韩版中筒袜甜美公主学生潮袜批发",
+    "price_cny": "0.85",
+    "shop": "哲叶针织品有限公司",
+    "province": "浙江",
+    "city": "金华市",
+    "booked": "232",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01mgEWii1hepJhYCWFf_!!2208864814303-0-cib.jpg",
+    "category": "socks",
+    "source_query": "童袜"
+  },
+  "su_detail": {
+    "subject": "夏季儿童袜子洛丽塔蝴蝶结女童袜韩版中筒袜甜美公主学生潮袜批发",
+    "company": "诸暨市哲叶针织有限公司",
+    "loginid": "哲叶针织品有限公司",
+    "is_live": true,
+    "size_bytes": 101716
+  },
+  "rakumart": {
+    "match_score": 71.6,
+    "price_brl": 1.25,
+    "title_br": "Meia feminina de verão, modelo barco em malha respirável, estilo coreano e japonês com estampas divertidas, ideal para estudantes. Absorve o suor, é super ventilada. Venda no atacado.",
+    "url": "https://www.rakumart.com.br/product/842820717931",
+    "crosswalked_at": "2026-06-23T01:20:40Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.268125Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "童袜",
+    "path": "服装鞋帽/袜子/通用袜子/童袜"
+  }
+}

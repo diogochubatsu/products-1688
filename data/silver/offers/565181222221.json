@@ -1,0 +1,42 @@
+{
+  "offer_id": 565181222221,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": "LEGACY: socks_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "袜子男船袜春夏隐形防滑防掉跟纯棉无骨抗菌防臭吸汗男士浅口短袜",
+    "price_cny": 3.48,
+    "shop": "五科针织",
+    "shop_text": "诸暨市五科针纺织有限公司",
+    "province": "浙江",
+    "city": "诸暨市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01EZqvGW1QZT8DHOtld_!!972061990-0-cib.jpg",
+    "booked": 5138,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "袜子男船袜春夏隐形防滑防掉跟纯棉无骨抗菌防臭吸汗男士浅口短袜",
+    "company": "诸暨市五科针纺织有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 125268
+  },
+  "rakumart": {
+    "iid": "901437956196",
+    "title_cn": "袜子女船袜夏季浅口防滑不掉跟透气薄款白色隐形诸暨短袜厂家批发",
+    "title_pt": "Meias femininas de cano baixo para o verão, antiderrapantes, que não descem, respiráveis e finas. Brancas, discretas (tipo invisíveis), fabricadas em Zhuji. Venda direta da fábrica.",
+    "price_brl": 1.5,
+    "match_score": 60.0
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

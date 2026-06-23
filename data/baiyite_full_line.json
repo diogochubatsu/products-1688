@@ -1,0 +1,346 @@
+{
+  "supplier": "tzbaiyite (台州市佰亿特塑业有限公司)",
+  "note": "End-to-end pipeline: MTOP → Decodo SU detail → Rakumart BR (cross-walk via title_cn)",
+  "total_products": 15,
+  "enriched_count": 13,
+  "rakumart_matched": 12,
+  "rakumart_pool_size": 328,
+  "products": [
+    {
+      "mtop_offer_id": "832247158134",
+      "mtop_title": "亚马逊热销户外沙滩巾地插夹 菠萝形状帐篷夹 沙滩夹子",
+      "mtop_price_cny": 2.0,
+      "mtop_booked": 5,
+      "mtop_enriched": {
+        "title": "亚马逊热销户外沙滩巾地插夹 菠萝形状帐篷夹 沙滩夹子",
+        "price": "1.00",
+        "company": "台州市佰亿特塑业有限公司",
+        "loginid": "tzbaiyite",
+        "image_count": 25,
+        "page_kb": 57.8,
+        "sku": []
+      },
+      "rak_match": {
+        "rak_iid": "832247158134",
+        "rak_title_cn": "亚马逊热销户外沙滩巾地插夹 菠萝形状帐篷夹 沙滩夹子",
+        "rak_title_pt": "Toalha de praia para acampamento mais vendida na Amazon, com suporte de chão em formato de abacaxi e grampos para areia.",
+        "rak_price_brl": 2.0,
+        "rak_source": "1688",
+        "rak_url": "https://www.rakumart.com.br/product/832247158134",
+        "match_score": 100.0
+      }
+    },
+    {
+      "mtop_offer_id": "619233196266",
+      "mtop_title": "户外沙滩巾插夹 沙滩防风夹 防风塑料沙滩夹子",
+      "mtop_price_cny": 2.0,
+      "mtop_booked": 5,
+      "mtop_enriched": {
+        "title": "户外沙滩巾插夹 沙滩防风夹 防风塑料沙滩夹子",
+        "price": "2.00",
+        "company": "台州市佰亿特塑业有限公司",
+        "loginid": "tzbaiyite",
+        "image_count": 0,
+        "page_kb": 76.4,
+        "sku": []
+      },
+      "rak_match": {
+        "rak_iid": "619233196266",
+        "rak_title_cn": "户外沙滩巾插夹 沙滩防风夹 防风塑料沙滩夹子",
+        "rak_title_pt": "Clipe para toalha de praia ao ar livre, clipe anti-vento para praia, clipe plástico anti-vento para areia.",
+        "rak_price_brl": 2.0,
+        "rak_source": "1688",
+        "rak_url": "https://www.rakumart.com.br/product/619233196266",
+        "match_score": 100.0
+      }
+    },
+    {
+      "mtop_offer_id": "620955319573",
+      "mtop_title": "塑料沙滩 毛巾夹子 仙人掌形状防风塑料沙滩巾夹 帐篷夹",
+      "mtop_price_cny": 4.0,
+      "mtop_booked": 42,
+      "mtop_enriched": {
+        "title": "塑料沙滩 毛巾夹子 仙人掌形状防风塑料沙滩巾夹 帐篷夹",
+        "price": "3.50",
+        "company": "台州市佰亿特塑业有限公司",
+        "loginid": "tzbaiyite",
+        "image_count": 25,
+        "page_kb": 50.2,
+        "sku": []
+      },
+      "rak_match": {
+        "rak_iid": "620955319573",
+        "rak_title_cn": "塑料沙滩 毛巾夹子 仙人掌形状防风塑料沙滩巾夹 帐篷夹",
+        "rak_title_pt": "Clipes de plástico para toalha de praia, formato de cacto, à prova de vento, ideais para fixar toalhas e tendas na areia.",
+        "rak_price_brl": 4.0,
+        "rak_source": "1688",
+        "rak_url": "https://www.rakumart.com.br/product/620955319573",
+        "match_score": 100.0
+      }
+    },
+    {
+      "mtop_offer_id": "680299311164",
+      "mtop_title": "户外椰子树造型沙滩巾地插夹 菠萝形状帐篷夹",
+      "mtop_price_cny": 2.0,
+      "mtop_booked": 55,
+      "mtop_enriched": {
+        "title": "户外椰子树造型沙滩巾地插夹 菠萝形状帐篷夹",
+        "price": "1.00",
+        "company": "台州市佰亿特塑业有限公司",
+        "loginid": "tzbaiyite",
+        "image_count": 25,
+        "page_kb": 58.4,
+        "sku": []
+      },
+      "rak_match": {
+        "rak_iid": "680299311164",
+        "rak_title_cn": "户外椰子树造型沙滩巾地插夹 菠萝形状帐篷夹",
+        "rak_title_pt": "Toalha de praia com estampa de palmeira e formato de coco, com suporte para fixação no chão; prendedor de tenda em formato de abacaxi.",
+        "rak_price_brl": 2.0,
+        "rak_source": "1688",
+        "rak_url": "https://www.rakumart.com.br/product/680299311164",
+        "match_score": 100.0
+      }
+    },
+    {
+      "mtop_offer_id": "850805502374",
+      "mtop_title": "亚马逊跨境电商热销款冲浪板形状沙滩毛巾夹子 沙滩浴巾夹",
+      "mtop_price_cny": 3.8,
+      "mtop_booked": 0,
+      "mtop_enriched": {
+        "title": "亚马逊跨境电商热销款冲浪板形状沙滩毛巾夹子 沙滩浴巾夹",
+        "price": "3.50",
+        "company": "台州市佰亿特塑业有限公司",
+        "loginid": "tzbaiyite",
+        "image_count": 65,
+        "page_kb": 56.0,
+        "sku": [
+          {
+            "规格": [
+              "12.8*8.5*3"
+            ]
+          },
+          {
+            "颜色": [
+              "天蓝色"
+            ]
+          },
+          {
+            "规格": [
+              "12.8*8.5*3"
+            ]
+          }
+        ]
+      },
+      "rak_match": {
+        "rak_iid": "850805502374",
+        "rak_title_cn": "亚马逊跨境电商热销款冲浪板形状沙滩毛巾夹子 沙滩浴巾夹",
+        "rak_title_pt": "Clique aqui e garanta já o nosso best-seller da Amazon: prendedor de toalha de praia no formato de prancha de surf, perfeito para levar à areia!",
+        "rak_price_brl": 3.8,
+        "rak_source": "1688",
+        "rak_url": "https://www.rakumart.com.br/product/850805502374",
+        "match_score": 100.0
+      }
+    },
+    {
+      "mtop_offer_id": "832675684727",
+      "mtop_title": "跨境热销款可爱冰激凌造型沙滩夹子 沙滩毛巾夹",
+      "mtop_price_cny": 5.0,
+      "mtop_booked": 0,
+      "mtop_enriched": {
+        "title": "跨境热销款可爱冰激凌造型沙滩夹子 沙滩毛巾夹",
+        "price": "3.00",
+        "company": "台州市佰亿特塑业有限公司",
+        "loginid": "tzbaiyite",
+        "image_count": 0,
+        "page_kb": 54.3,
+        "sku": []
+      },
+      "rak_match": {
+        "rak_iid": "832675684727",
+        "rak_title_cn": "跨境热销款可爱冰激凌造型沙滩夹子 沙滩毛巾夹",
+        "rak_title_pt": "Clássico que vende muito online: prendedor de toalha de praia com design fofinho de sorvete.",
+        "rak_price_brl": 5.0,
+        "rak_source": "1688",
+        "rak_url": "https://www.rakumart.com.br/product/832675684727",
+        "match_score": 100.0
+      }
+    },
+    {
+      "mtop_offer_id": "562997061948",
+      "mtop_title": "佰亿特厂家防风沙滩毛巾固定夹子  塑料沙滩圆头弹簧防风插夹",
+      "mtop_price_cny": 1.5,
+      "mtop_booked": 0,
+      "mtop_enriched": {},
+      "rak_match": {
+        "rak_iid": "562997061948",
+        "rak_title_cn": "佰亿特厂家防风沙滩毛巾固定夹子  塑料沙滩圆头弹簧防风插夹",
+        "rak_title_pt": "Fixador de toalha de praia à prova de vento da marca Baiyite, feito em plástico com cabeça redonda e mola para prender firmemente na areia.",
+        "rak_price_brl": 1.5,
+        "rak_source": "1688",
+        "rak_url": "https://www.rakumart.com.br/product/562997061948",
+        "match_score": 100.0
+      }
+    },
+    {
+      "mtop_offer_id": "677364296990",
+      "mtop_title": "可以加印LOGO的塑料沙滩夹子棉被夹密封夹旅行方便携带沙滩夹子",
+      "mtop_price_cny": 5.0,
+      "mtop_booked": 9,
+      "mtop_enriched": {},
+      "rak_match": null
+    },
+    {
+      "mtop_offer_id": "614510362651",
+      "mtop_title": "沙滩系列菠萝造型沙滩毛巾夹子 柠檬杯造型沙滩巾夹子",
+      "mtop_price_cny": 5.0,
+      "mtop_booked": 156,
+      "mtop_enriched": {
+        "title": "沙滩系列菠萝造型沙滩毛巾夹子 柠檬杯造型沙滩巾夹子",
+        "price": "3.00",
+        "company": "台州市佰亿特塑业有限公司",
+        "loginid": "tzbaiyite",
+        "image_count": 25,
+        "page_kb": 51.9,
+        "sku": []
+      },
+      "rak_match": {
+        "rak_iid": "614510362651",
+        "rak_title_cn": "沙滩系列菠萝造型沙滩毛巾夹子 柠檬杯造型沙滩巾夹子",
+        "rak_title_pt": "Clipes de toalha de praia com formato de abacaxi e copo de limão da coleção praia.",
+        "rak_price_brl": 5.0,
+        "rak_source": "1688",
+        "rak_url": "https://www.rakumart.com.br/product/614510362651",
+        "match_score": 100.0
+      }
+    },
+    {
+      "mtop_offer_id": "850684207250",
+      "mtop_title": "亚马逊热销款天鹅沙滩夹子 火烈鸟沙滩毛巾防风夹",
+      "mtop_price_cny": 3.5,
+      "mtop_booked": 0,
+      "mtop_enriched": {
+        "title": "亚马逊热销款天鹅沙滩夹子 火烈鸟沙滩毛巾防风夹",
+        "price": "3.50",
+        "company": "台州市佰亿特塑业有限公司",
+        "loginid": "tzbaiyite",
+        "image_count": 0,
+        "page_kb": 54.5,
+        "sku": []
+      },
+      "rak_match": {
+        "rak_iid": "850684207250",
+        "rak_title_cn": "亚马逊热销款天鹅沙滩夹子 火烈鸟沙滩毛巾防风夹",
+        "rak_title_pt": "Clássico da Amazon: prendedor de toalha de praia em formato de cisne e flamingo, com design resistente ao vento.",
+        "rak_price_brl": 3.5,
+        "rak_source": "1688",
+        "rak_url": "https://www.rakumart.com.br/product/850684207250",
+        "match_score": 100.0
+      }
+    },
+    {
+      "mtop_offer_id": "832533501315",
+      "mtop_title": "跨境电商亚马逊热销款沙滩毛巾夹 创意防风印字沙滩椅毛巾夹",
+      "mtop_price_cny": 5.0,
+      "mtop_booked": 0,
+      "mtop_enriched": {
+        "title": "跨境电商亚马逊热销款沙滩毛巾夹 创意防风印字沙滩椅毛巾夹",
+        "price": "3.00",
+        "company": "台州市佰亿特塑业有限公司",
+        "loginid": "tzbaiyite",
+        "image_count": 0,
+        "page_kb": 50.0,
+        "sku": []
+      },
+      "rak_match": {
+        "rak_iid": "832533501315",
+        "rak_title_cn": "跨境电商亚马逊热销款沙滩毛巾夹 创意防风印字沙滩椅毛巾夹",
+        "rak_title_pt": "Toalha de praia com prendedor anti-vento, modelo mais vendido na Amazon para e-commerce. Prendedor criativo com estampa personalizada para cadeira de praia.",
+        "rak_price_brl": 5.0,
+        "rak_source": "1688",
+        "rak_url": "https://www.rakumart.com.br/product/832533501315",
+        "match_score": 100.0
+      }
+    },
+    {
+      "mtop_offer_id": "832318154537",
+      "mtop_title": "通过BSCI验厂 跨境电商热销款沙滩杯支架 沙滩手机 眼睛支架 沙滩",
+      "mtop_price_cny": 3.5,
+      "mtop_booked": 16,
+      "mtop_enriched": {
+        "title": "通过BSCI验厂 跨境电商热销款沙滩杯支架 沙滩手机 眼睛支架 沙滩",
+        "price": "2.50",
+        "company": "台州市佰亿特塑业有限公司",
+        "loginid": "tzbaiyite",
+        "image_count": 0,
+        "page_kb": 61.3,
+        "sku": []
+      },
+      "rak_match": null
+    },
+    {
+      "mtop_offer_id": "850384131482",
+      "mtop_title": "跨境电商热销款橄榄球形状沙滩夹子塑料棉被夹子球形夹子",
+      "mtop_price_cny": 2.8,
+      "mtop_booked": 0,
+      "mtop_enriched": {
+        "title": "跨境电商热销款橄榄球形状沙滩夹子塑料棉被夹子球形夹子",
+        "price": "2.50",
+        "company": "台州市佰亿特塑业有限公司",
+        "loginid": "tzbaiyite",
+        "image_count": 0,
+        "page_kb": 49.1,
+        "sku": []
+      },
+      "rak_match": {
+        "rak_iid": "850805502374",
+        "rak_title_cn": "亚马逊跨境电商热销款冲浪板形状沙滩毛巾夹子 沙滩浴巾夹",
+        "rak_title_pt": "Clique aqui e garanta já o nosso best-seller da Amazon: prendedor de toalha de praia no formato de prancha de surf, perfeito para levar à areia!",
+        "rak_price_brl": 3.8,
+        "rak_source": "1688",
+        "rak_url": "https://www.rakumart.com.br/product/850805502374",
+        "match_score": 53.8
+      }
+    },
+    {
+      "mtop_offer_id": "614614191876",
+      "mtop_title": "强力塑料防风大号棉被夹多功能晾晒衣夹 沙滩夹",
+      "mtop_price_cny": 2.0,
+      "mtop_booked": 1,
+      "mtop_enriched": {
+        "title": "强力塑料防风大号棉被夹多功能晾晒衣夹 沙滩夹",
+        "price": "2.00",
+        "company": "台州市佰亿特塑业有限公司",
+        "loginid": "tzbaiyite",
+        "image_count": 0,
+        "page_kb": 77.2,
+        "sku": []
+      },
+      "rak_match": null
+    },
+    {
+      "mtop_offer_id": "581694686008",
+      "mtop_title": "佰亿特厂家供应超强力防风塑料夹  大号棉被夹  塑料沙滩防风夹子",
+      "mtop_price_cny": 1.0,
+      "mtop_booked": 24,
+      "mtop_enriched": {
+        "title": "佰亿特厂家供应超强力防风塑料夹  大号棉被夹  塑料沙滩防风夹子",
+        "price": "0.60",
+        "company": "台州市佰亿特塑业有限公司",
+        "loginid": "tzbaiyite",
+        "image_count": 2,
+        "page_kb": 64.5,
+        "sku": []
+      },
+      "rak_match": {
+        "rak_iid": "562997061948",
+        "rak_title_cn": "佰亿特厂家防风沙滩毛巾固定夹子  塑料沙滩圆头弹簧防风插夹",
+        "rak_title_pt": "Fixador de toalha de praia à prova de vento da marca Baiyite, feito em plástico com cabeça redonda e mola para prender firmemente na areia.",
+        "rak_price_brl": 1.5,
+        "rak_source": "1688",
+        "rak_url": "https://www.rakumart.com.br/product/562997061948",
+        "match_score": 54.5
+      }
+    }
+  ]
+}

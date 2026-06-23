@@ -1,0 +1,42 @@
+{
+  "offer_id": 905035548875,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_905035548875.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "彩色包边夹斧头 夹拼布缝纫定位夹 塑料夹长尾夹 手工DIY定位夹",
+    "price_cny": "0.07",
+    "shop": "昊君日用品",
+    "province": "浙江",
+    "city": "义乌市",
+    "booked": "478",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01iEbCRt1WuR3p9CKhZ_!!3018182848-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩巾夹"
+  },
+  "su_detail": {
+    "subject": "彩色包边夹斧头 夹拼布缝纫定位夹 塑料夹长尾夹 手工DIY定位夹",
+    "company": "义乌市昊君日用品商行",
+    "loginid": "昊君日用品",
+    "is_live": true,
+    "size_bytes": 67724
+  },
+  "rakumart": {
+    "match_score": 71.2,
+    "price_brl": 0.08,
+    "title_br": "Clipes coloridos com borda para fixar retalhos, clipes plásticos de cauda longa e clipes de posicionamento para DIY artesanal.",
+    "url": "https://www.rakumart.com.br/product/905035548875",
+    "crosswalked_at": "2026-06-18T01:06:53Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.789079Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "offer_id": 692159680940,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: drill_*_enriched.json",
+    "rakumart": "LEGACY: drill_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "家用47件套 电动螺丝刀  电动工具套装 电起子数据线充46件套工具",
+    "price_cny": 15.0,
+    "shop": "德造工具",
+    "shop_text": "德造五金工具(浙江金华)有限公司",
+    "province": "浙江",
+    "city": "金华市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01RcITFa28wgMGnmVcu_!!2211290987997-0-cib.jpg",
+    "booked": 1636,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": "家用47件套 电动螺丝刀  电动工具套装 电起子数据线充46件套工具",
+    "company": "德造五金工具(浙江金华)有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 81948
+  },
+  "rakumart": {
+    "iid": "903896258624",
+    "title_cn": "47件电动螺丝刀多功能家用折叠锂电批头充电式十字一字批多头套装",
+    "title_pt": "Kit de 47 peças com chave de fenda elétrica multifuncional, recarregável por bateria de lítio, dobrável para uso doméstico. Inclui pontas cruzadas e retas, ideal para múltiplas aplicações.",
+    "price_brl": 8.8,
+    "match_score": 53.3
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

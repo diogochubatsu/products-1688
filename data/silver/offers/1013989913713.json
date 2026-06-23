@@ -1,0 +1,36 @@
+{
+  "offer_id": 1013989913713,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-21_摄像头_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-21_1013989913713.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "E27灯泡摄像头 厂家直供家用无线WiFi室内全景高清灯头监控摄像头",
+    "price_cny": "19.2",
+    "shop": "安视通电子科技",
+    "province": "广东",
+    "city": "广州市",
+    "booked": "180",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01ZNmmdU1zsG5ShtwfF_!!2220420706769-0-cib.jpg",
+    "category": "webcam",
+    "source_query": "摄像头"
+  },
+  "su_detail": {
+    "subject": "E27灯泡摄像头 厂家直供家用无线WiFi室内全景高清灯头监控摄像头",
+    "company": "广州市安视通电子有限公司",
+    "loginid": "安视通电子科技",
+    "is_live": true,
+    "size_bytes": 85416
+  },
+  "rakumart": null,
+  "enriched_at": "2026-06-21T15:17:25.973473Z",
+  "category": "webcam",
+  "taxonomy": {
+    "n1": "电子数码",
+    "n2": "安防监控",
+    "n3": "摄像头",
+    "n4": "监控摄像头",
+    "path": "电子数码/安防监控/摄像头/监控摄像头"
+  }
+}

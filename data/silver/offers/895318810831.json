@@ -1,0 +1,42 @@
+{
+  "offer_id": 895318810831,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_船袜_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_895318810831.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "船袜男防滑袜子男士纯色防臭防脚气薄款隐形袜夏季不掉跟短袜",
+    "price_cny": "0.46",
+    "shop": "诸暨市可韵针织厂",
+    "province": "浙江",
+    "city": "绍兴市",
+    "booked": "115",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01f97Zgw1QvucBWwLRi_!!2218293632039-0-cib.jpg",
+    "category": "socks",
+    "source_query": "船袜"
+  },
+  "su_detail": {
+    "subject": "船袜男防滑袜子男士纯色防臭防脚气薄款隐形袜夏季不掉跟短袜",
+    "company": "诸暨市可韵针织厂(个体工商户)",
+    "loginid": "诸暨市可韵针织厂",
+    "is_live": true,
+    "size_bytes": 71788
+  },
+  "rakumart": {
+    "match_score": 57.5,
+    "price_brl": 1.7,
+    "title_br": "Meia feminina de verão, curta, com silicone antiderrapante que não cai do calcanhar, respirável, cor sólida em algodão, meia baixa invisível e absorvente para mulheres.",
+    "url": "https://www.rakumart.com.br/product/714805258083",
+    "crosswalked_at": "2026-06-23T01:21:27Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.259526Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

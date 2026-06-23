@@ -1,0 +1,42 @@
+{
+  "offer_id": 763392401817,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-21_化妆品收纳_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-21_763392401817.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "轻奢化妆品收纳盒桌面梳妆台护肤品置物架桌上收纳整理旋转小笔筒",
+    "price_cny": "11.48",
+    "shop": "玖品塑业源头厂家",
+    "province": "浙江",
+    "city": "金华市",
+    "booked": "344",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01aSJqKl1aQtp0Kda4Q_!!3265673325-0-cib.jpg",
+    "category": "organization",
+    "source_query": "化妆品收纳"
+  },
+  "su_detail": {
+    "subject": "轻奢化妆品收纳盒桌面梳妆台护肤品置物架桌上收纳整理旋转小笔筒",
+    "company": "义乌玖品饰家日用百货有限公司",
+    "loginid": "玖品塑业源头厂家",
+    "is_live": true,
+    "size_bytes": 78354
+  },
+  "rakumart": {
+    "match_score": 30.0,
+    "price_brl": 19.8,
+    "title_br": "Pincéis de maquiagem, batom, organizador de penteadeira, suporte para produtos de skincare, porta-canetas giratório para mesa.",
+    "url": "https://www.rakumart.com.br/product/775197307535",
+    "crosswalked_at": "2026-06-23T01:12:22Z"
+  },
+  "enriched_at": "2026-06-21T15:17:26.001291Z",
+  "category": "organization",
+  "taxonomy": {
+    "n1": "家居日用",
+    "n2": "收纳整理",
+    "n3": "通用收纳",
+    "n4": "通用收纳",
+    "path": "家居日用/收纳整理/通用收纳/通用收纳"
+  }
+}

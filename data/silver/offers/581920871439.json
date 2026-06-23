@@ -1,0 +1,42 @@
+{
+  "offer_id": 581920871439,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: drill_*_enriched.json",
+    "rakumart": "LEGACY: drill_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "批发南威电动工具无刷手电钻锂电钻手枪钻电动螺丝刀冲击钻电转",
+    "price_cny": 149.0,
+    "shop": "南威工具有限公司",
+    "shop_text": "永康南威电动工具有限公司",
+    "province": "浙江",
+    "city": "永康市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01eLDerl1MmW89UFO84_!!4255081477-0-cib.jpg",
+    "booked": 26706,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": "批发南威电动工具无刷手电钻锂电钻手枪钻电动螺丝刀冲击钻电转",
+    "company": "永康南威电动工具有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 210823
+  },
+  "rakumart": {
+    "iid": "581920871439",
+    "title_cn": "批发南威电动工具无刷手电钻锂电钻手枪钻电动螺丝刀冲击钻电转",
+    "title_pt": "Venda no atacado de furadeiras elétricas sem escovas, furadeiras de bateria, furadeiras tipo pistola, chaves de fenda elétricas, martelos perfuradores e furadeiras elétricas da marca Nanwei.",
+    "price_brl": 71.2,
+    "match_score": 100.0
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

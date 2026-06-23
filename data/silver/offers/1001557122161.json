@@ -1,0 +1,42 @@
+{
+  "offer_id": 1001557122161,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_运动袜_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_1001557122161.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "四季款全棉袜子男士运动中筒袜防臭吸汗纯色袜子女诸暨袜子批发",
+    "price_cny": "2.3",
+    "shop": "永一针织厂",
+    "province": "浙江",
+    "city": "诸暨市",
+    "booked": "78",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01e6qplg1PWR2XuQw7o_!!2208288961848-0-cib.jpg",
+    "category": "socks",
+    "source_query": "运动袜"
+  },
+  "su_detail": {
+    "subject": "四季款全棉袜子男士运动中筒袜防臭吸汗纯色袜子女诸暨袜子批发",
+    "company": "诸暨永一针织厂",
+    "loginid": "永一针织厂",
+    "is_live": true,
+    "size_bytes": 96393
+  },
+  "rakumart": {
+    "match_score": 39.8,
+    "price_brl": 1.7,
+    "title_br": "Meias masculinas antiodor e absorventes de algodão puro, cano médio para primavera e outono. Meias longas esportivas femininas também disponíveis. Atacado direto da indústria têxtil de Zhuji.",
+    "url": "https://www.rakumart.com.br/product/894463916854",
+    "crosswalked_at": "2026-06-23T01:16:34Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.018312Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "棉袜",
+    "path": "服装鞋帽/袜子/通用袜子/棉袜"
+  }
+}

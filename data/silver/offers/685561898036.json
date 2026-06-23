@@ -1,0 +1,42 @@
+{
+  "offer_id": 685561898036,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": "LEGACY: socks_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "抗菌全棉袜子纯棉男士中筒商务春秋吸汗透气黑色春夏商超长袜四季",
+    "price_cny": 3.2,
+    "shop": "杰祥针织",
+    "shop_text": "金华市杰祥袜业有限公司",
+    "province": "浙江",
+    "city": "金华市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01OJ5Erf1FSBCVzPXM4_!!2207597540485-0-cib.jpg",
+    "booked": 51360,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "抗菌全棉袜子纯棉男士中筒商务春秋吸汗透气黑色春夏商超长袜四季",
+    "company": "金华市杰祥袜业有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 165310
+  },
+  "rakumart": {
+    "iid": "894449652554",
+    "title_cn": "【7A抗菌】袜子女春秋纯棉中筒袜夏季月子袜白色棉袜堆堆袜子批发",
+    "title_pt": "Meias femininas de algodão 100% com proteção antibacteriana 7A, ideais para primavera e outono, meias de puerpério para o verão, cor branca, estilo cano médio e meia dobrada. Venda no atacado.",
+    "price_brl": 1.8,
+    "match_score": 53.3
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "棉袜",
+    "path": "服装鞋帽/袜子/通用袜子/棉袜"
+  }
+}

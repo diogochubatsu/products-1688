@@ -1,0 +1,20 @@
+{
+  "shop_name": "昊程针织工厂店",
+  "offer_count": 2,
+  "categories": [
+    "socks"
+  ],
+  "offers": [
+    {
+      "offer_id": 769870620385,
+      "category": "socks",
+      "title": "袜子男士防臭吸汗袜子男春夏中筒袜透气商务男袜纯色诸暨袜子批发"
+    },
+    {
+      "offer_id": 784384693887,
+      "category": "socks",
+      "title": "袜子男中筒韩版潮流运动袜子春夏季薄款防臭吸汗男士网眼透气男袜"
+    }
+  ],
+  "generated_at": "2026-06-18T00:07:55.001106Z"
+}

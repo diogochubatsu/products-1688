@@ -1,0 +1,42 @@
+{
+  "offer_id": 672058046729,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: drill_*_enriched.json",
+    "rakumart": "LEGACY: drill_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "3.6V电动螺丝刀迷你充电式手电钻起子机多功能家用折叠锂电钻工具",
+    "price_cny": 25.0,
+    "shop": "丹阳市森拓五金工具",
+    "shop_text": "丹阳市森拓五金工具有限公司",
+    "province": "江苏",
+    "city": "镇江市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01DpDWb41pXy1ENNnve_!!2206881735371-0-cib.jpg",
+    "booked": 2192,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": "3.6V电动螺丝刀迷你充电式手电钻起子机多功能家用折叠锂电钻工具",
+    "company": "丹阳市森拓五金工具有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 95077
+  },
+  "rakumart": {
+    "iid": "678913060815",
+    "title_cn": "扭力调节直柄3.6V电动螺丝刀小型多功能拆卸起拧螺丝具锂电电起子",
+    "title_pt": "Chave de fenda elétrica de 3.6V com ajuste de torque, cabo reto, pequena e multifuncional para desmontagem e parafusos, bateria de íon de lítio.",
+    "price_brl": 49.93,
+    "match_score": 60.0
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

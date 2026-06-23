@@ -1,0 +1,20 @@
+{
+  "shop_name": "unknown",
+  "offer_count": 2,
+  "categories": [
+    "beach_clip"
+  ],
+  "offers": [
+    {
+      "offer_id": 562997061948,
+      "category": "beach_clip",
+      "title": "佰亿特厂家防风沙滩毛巾固定夹子  塑料沙滩圆头弹簧防风插夹"
+    },
+    {
+      "offer_id": 677364296990,
+      "category": "beach_clip",
+      "title": "可以加印LOGO的塑料沙滩夹子棉被夹密封夹旅行方便携带沙滩夹子"
+    }
+  ],
+  "generated_at": "2026-06-18T00:07:55.002713Z"
+}

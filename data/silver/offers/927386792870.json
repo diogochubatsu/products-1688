@@ -1,0 +1,42 @@
+{
+  "offer_id": 927386792870,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: drill_*_enriched.json",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "新款无刷手电钻小钢炮充电式锂电钻电动工具小型家用多功能手枪钻",
+    "price_cny": 49.5,
+    "shop": "永康市途阳工贸",
+    "shop_text": "义乌市途杨工贸有限公司",
+    "province": "浙江",
+    "city": "东阳市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN010N8Y9p2IIVsXFWg6N_!!3441249263-0-cib.jpg",
+    "booked": 1056,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": "新款无刷手电钻小钢炮充电式锂电钻电动工具小型家用多功能手枪钻",
+    "company": "义乌市途杨工贸有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 127427
+  },
+  "rakumart": {
+    "match_score": 41.6,
+    "price_brl": 97.5,
+    "title_br": "Mini furadeira de impacto sem escovas, motor de cobre puro, recarregável por bateria de íon-lítio, modelo pistola compacta, multifuncional para furos e parafusos.",
+    "url": "https://www.rakumart.com.br/product/787619974710",
+    "crosswalked_at": "2026-06-18T01:13:04Z"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

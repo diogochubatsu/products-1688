@@ -1,0 +1,41 @@
+{
+  "offer_id": 614510362651,
+  "bronze_refs": {
+    "mtop": "LEGACY: baiyite_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: baiyite_*_enriched.json",
+    "rakumart": "LEGACY: baiyite_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "沙滩系列菠萝造型沙滩毛巾夹子 柠檬杯造型沙滩巾夹子",
+    "price_cny": 5.0,
+    "shop": "tzbaiyite",
+    "booked": 156,
+    "category": "beach_clip"
+  },
+  "su_detail": {
+    "subject": "沙滩系列菠萝造型沙滩毛巾夹子 柠檬杯造型沙滩巾夹子",
+    "company": "台州市佰亿特塑业有限公司",
+    "loginid": "tzbaiyite",
+    "is_live": true,
+    "image_count": 25,
+    "page_kb": 51.9,
+    "has_sku": false
+  },
+  "rakumart": {
+    "iid": "614510362651",
+    "title_cn": "沙滩系列菠萝造型沙滩毛巾夹子 柠檬杯造型沙滩巾夹子",
+    "title_pt": "Clipes de toalha de praia com formato de abacaxi e copo de limão da coleção praia.",
+    "price_brl": 5.0,
+    "match_score": 100.0,
+    "url": "https://www.rakumart.com.br/product/614510362651"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

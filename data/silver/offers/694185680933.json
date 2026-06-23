@@ -1,0 +1,42 @@
+{
+  "offer_id": 694185680933,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-21_手电筒_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-21_694185680933.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "手电筒便捷充电长续航强光小手电led酒店宾馆出租房消防应急照明",
+    "price_cny": "2.55",
+    "shop": "北极洋有限公司",
+    "province": "广东",
+    "city": "深圳市",
+    "booked": "4633",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01dvX3w91owrzM13UiZ_!!2215074705290-0-cib.jpg",
+    "category": "flashlight",
+    "source_query": "手电筒"
+  },
+  "su_detail": {
+    "subject": "手电筒便捷充电长续航强光小手电led酒店宾馆出租房消防应急照明",
+    "company": "深圳市北极洋科技有限公司",
+    "loginid": "北极洋有限公司",
+    "is_live": true,
+    "size_bytes": 91132
+  },
+  "rakumart": {
+    "match_score": 73.3,
+    "price_brl": 9.5,
+    "title_br": "Venda direta da fábrica: lanterna LED recarregável T6 superbrilhante, potente e com alcance longo, ideal para ciclismo, atividades ao ar livre e uso doméstico. À prova d'água.",
+    "url": "https://www.rakumart.com.br/product/625632661719",
+    "crosswalked_at": "2026-06-22T15:38:16Z"
+  },
+  "enriched_at": "2026-06-21T15:17:25.992830Z",
+  "category": "flashlight",
+  "taxonomy": {
+    "n1": "电子数码",
+    "n2": "照明",
+    "n3": "手电筒",
+    "n4": "LED手电筒",
+    "path": "电子数码/照明/手电筒/LED手电筒"
+  }
+}

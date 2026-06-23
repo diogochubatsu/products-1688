@@ -1,0 +1,42 @@
+{
+  "offer_id": 645450835208,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: drill_*_enriched.json",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "大艺充电手钻1028锂电钻3302g家用3305手枪钻转电动螺丝刀工具T22",
+    "price_cny": 208.0,
+    "shop": "佛山大艺大有科技",
+    "shop_text": "佛山市大艺科技有限公司",
+    "province": "广东",
+    "city": "佛山市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Zu2XnK1ag11J6j2kZ_!!2211513093358-0-cib.jpg",
+    "booked": 1593,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": "大艺充电手钻1028锂电钻3302g家用3305手枪钻转电动螺丝刀工具T22",
+    "company": "佛山市大艺科技有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 414037
+  },
+  "rakumart": {
+    "match_score": 65.4,
+    "price_brl": 25.49,
+    "title_br": "Furadeira de mão recarregável para uso doméstico, multifuncional, com bateria de íon-lítio, impacto e função de parafusadeira.",
+    "url": "https://www.rakumart.com.br/product/908322740262",
+    "crosswalked_at": "2026-06-18T01:08:59Z"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

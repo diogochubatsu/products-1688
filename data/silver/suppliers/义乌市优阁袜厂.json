@@ -1,0 +1,25 @@
+{
+  "shop_name": "义乌市优阁袜厂",
+  "offer_count": 3,
+  "categories": [
+    "socks"
+  ],
+  "offers": [
+    {
+      "offer_id": 674085854721,
+      "category": "socks",
+      "title": "冰丝船袜女夏季薄款硅胶防滑浅口隐形袜大小码透气高跟鞋短袜子女"
+    },
+    {
+      "offer_id": 676690794284,
+      "category": "socks",
+      "title": "船袜女夏季薄款浅口网纱隐形袜大小码棉底不掉跟短袜子女厂家批发"
+    },
+    {
+      "offer_id": 674425695604,
+      "category": "socks",
+      "title": "浅口隐形冰丝船袜女款夏季薄款透气硅胶防滑防臭棉底超薄短袜子女"
+    }
+  ],
+  "generated_at": "2026-06-18T00:07:55.037760Z"
+}

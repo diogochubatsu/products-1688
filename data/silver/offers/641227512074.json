@@ -1,0 +1,42 @@
+{
+  "offer_id": 641227512074,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_641227512074.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "现货塑料鳄鱼夹2.0/2.5CM挂绳翻盖哺乳巾奶嘴夹 防掉安抚奶嘴夹子",
+    "price_cny": "0.22",
+    "shop": "益美箱包配件",
+    "province": "福建",
+    "city": "泉州市",
+    "booked": "1098",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01olp0xj1CJWVOyocFJ_!!2211011070060-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩巾夹"
+  },
+  "su_detail": {
+    "subject": "现货塑料鳄鱼夹2.0/2.5CM挂绳翻盖哺乳巾奶嘴夹 防掉安抚奶嘴夹子",
+    "company": "泉州市益美箱包配件有限公司",
+    "loginid": "益美箱包配件",
+    "is_live": true,
+    "size_bytes": 122940
+  },
+  "rakumart": {
+    "match_score": 39.8,
+    "price_brl": 0.22,
+    "title_br": "Nova pinça de silicone para chupeta, com abas de 1,5 cm e 2,0 cm, feita em plástico de grau alimentar, ideal para prender à bolsa ou ao macacão do bebê.",
+    "url": "https://www.rakumart.com.br/product/652108969773",
+    "crosswalked_at": "2026-06-21T15:13:12Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.729275Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

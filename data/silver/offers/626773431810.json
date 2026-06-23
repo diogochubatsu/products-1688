@@ -1,0 +1,42 @@
+{
+  "offer_id": 626773431810,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_收纳_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_626773431810.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "腾亿迷你折叠塑料收纳盒学生桌面整理手帐胶带文具折叠篮筐置物篮",
+    "price_cny": "2.97",
+    "shop": "莞尔一饰",
+    "province": "浙江",
+    "city": "义乌市",
+    "booked": "51787",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01UHK97Q1OtV8LXYwAq_!!2121511763-0-cib.jpg",
+    "category": "organization",
+    "source_query": "收纳"
+  },
+  "su_detail": {
+    "subject": "腾亿迷你折叠塑料收纳盒学生桌面整理手帐胶带文具折叠篮筐置物篮",
+    "company": "义乌市腾亿电子商务有限公司",
+    "loginid": "莞尔一饰",
+    "is_live": true,
+    "size_bytes": 144602
+  },
+  "rakumart": {
+    "match_score": 59.5,
+    "price_brl": 3.6,
+    "title_br": "Mini caixinha de plástico dobrável para organizar a mesa do estudante, fitas adesivas para diário e materiais de papelaria – cesta organizadora portátil",
+    "url": "https://www.rakumart.com.br/product/923889476177",
+    "crosswalked_at": "2026-06-18T01:06:33Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.723510Z",
+  "category": "organization",
+  "taxonomy": {
+    "n1": "家居日用",
+    "n2": "收纳整理",
+    "n3": "通用收纳",
+    "n4": "通用收纳",
+    "path": "家居日用/收纳整理/通用收纳/通用收纳"
+  }
+}

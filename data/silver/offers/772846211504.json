@@ -1,0 +1,42 @@
+{
+  "offer_id": 772846211504,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "可独立包装春夏天运动袜子男款短袜诸暨棉袜夏季薄款透气短筒男袜",
+    "price_cny": 1.99,
+    "shop": "俪兰针织厂",
+    "shop_text": "诸暨市鲸奇针织厂",
+    "province": "浙江",
+    "city": "绍兴市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN010uHTuB1V4OVKHEYvi_!!2210356602599-0-cib.jpg",
+    "booked": 8817,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "可独立包装春夏天运动袜子男款短袜诸暨棉袜夏季薄款透气短筒男袜",
+    "company": "诸暨市鲸奇针织厂",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 121191
+  },
+  "rakumart": {
+    "match_score": 56.8,
+    "price_brl": 2.3,
+    "title_br": "Meia masculina curta de verão, fina, 100% algodão, antiodor, estilo slip, absorve suor, malha respirável.",
+    "url": "https://www.rakumart.com.br/product/900793977864",
+    "crosswalked_at": "2026-06-18T01:03:43Z"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "运动袜",
+    "path": "服装鞋帽/袜子/通用袜子/运动袜"
+  }
+}

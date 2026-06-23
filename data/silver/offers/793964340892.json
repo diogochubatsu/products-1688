@@ -1,0 +1,42 @@
+{
+  "offer_id": 793964340892,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_793964340892.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "圆形磁吸帽夹便携式帽夹六边形强磁帽夹户外帽子收纳夹丝巾遮阳帽",
+    "price_cny": "6.08",
+    "shop": "联顺皮具厂",
+    "province": "广东",
+    "city": "深圳市",
+    "booked": "1005",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01w6mYRL1GWac7PVXfg_!!2217896560630-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩巾夹"
+  },
+  "su_detail": {
+    "subject": "圆形磁吸帽夹便携式帽夹六边形强磁帽夹户外帽子收纳夹丝巾遮阳帽",
+    "company": "深圳市宝安区松岗街道联顺皮具厂",
+    "loginid": "联顺皮具厂",
+    "is_live": true,
+    "size_bytes": 95298
+  },
+  "rakumart": {
+    "match_score": 38.7,
+    "price_brl": 6.08,
+    "title_br": "Clipe de chapéu magnético redondo, portátil e hexagonal com ímã forte. Ideal para guardar chapéus, lenços e bonés ao ar livre.",
+    "url": "https://www.rakumart.com.br/product/793964340892",
+    "crosswalked_at": "2026-06-18T01:07:28Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.780169Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "offer_id": 785392463359,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_收腹裤_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_785392463359.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "高腰产后收腹裤强力收腹收小肚子提臀束腰女款大码200斤胖mm薄款",
+    "price_cny": "35",
+    "shop": "黛莱姿服饰",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "18695",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01gSQ1HI1txOhBn7fkk_!!2215100645968-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "收腹裤"
+  },
+  "su_detail": {
+    "subject": "高腰产后收腹裤强力收腹收小肚子提臀束腰女款大码200斤胖mm薄款",
+    "company": "汕头市黛莱姿服饰有限公司",
+    "loginid": "黛莱姿服饰",
+    "is_live": true,
+    "size_bytes": 115752
+  },
+  "rakumart": {
+    "match_score": 64.1,
+    "price_brl": 39.0,
+    "title_br": "Calça modeladora pós-parto de cintura alta, com efeito redutor de barriga e elevação do bumbum. Ideal para mulheres que buscam definir a silhueta após o parto. Disponível em tamanhos grandes, até 100 ",
+    "url": "https://www.rakumart.com.br/product/900837101510",
+    "crosswalked_at": "2026-06-18T01:07:47Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.778257Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "提臀塑身",
+    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+  }
+}

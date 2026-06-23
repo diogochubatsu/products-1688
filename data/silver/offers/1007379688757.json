@@ -1,0 +1,42 @@
+{
+  "offer_id": 1007379688757,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-21_摄像头_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-21_1007379688757.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "远程监控蓝牙配网WiFi智能高清摄像头全彩夜视断网录像室内外通用",
+    "price_cny": "30.5",
+    "shop": "深圳超惟视讯科技",
+    "province": "广东",
+    "city": "深圳市",
+    "booked": "18",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rBjjAf2J495FvYrUF_!!2221314489367-0-cib.jpg",
+    "category": "webcam",
+    "source_query": "摄像头"
+  },
+  "su_detail": {
+    "subject": "远程监控蓝牙配网WiFi智能高清摄像头全彩夜视断网录像室内外通用",
+    "company": "深圳市超惟视讯科技有限公司",
+    "loginid": "深圳超惟视讯科技",
+    "is_live": true,
+    "size_bytes": 80153
+  },
+  "rakumart": {
+    "match_score": 37.0,
+    "price_brl": 120.0,
+    "title_br": "Gravador 4G com câmera de vigilância remota via WiFi, bodycam para uso profissional, clip-on para ação e gravação com detecção de movimento sem fio.",
+    "url": "https://www.rakumart.com.br/product/899900819029",
+    "crosswalked_at": "2026-06-22T15:25:19Z"
+  },
+  "enriched_at": "2026-06-21T15:17:25.971559Z",
+  "category": "webcam",
+  "taxonomy": {
+    "n1": "电子数码",
+    "n2": "安防监控",
+    "n3": "摄像头",
+    "n4": "监控摄像头",
+    "path": "电子数码/安防监控/摄像头/监控摄像头"
+  }
+}

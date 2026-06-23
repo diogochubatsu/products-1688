@@ -1,0 +1,42 @@
+{
+  "offer_id": 771831973894,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_内裤_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_771831973894.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "爱心桃丽丝~日系纯棉内裤女士舒适纯棉裆部少女底裤三角裤春夏新",
+    "price_cny": "6",
+    "shop": "夏野的晚风",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "9984",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01DLeyxJ2APMguNWFPu_!!2213817458195-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "内裤"
+  },
+  "su_detail": {
+    "subject": "爱心桃丽丝~日系纯棉内裤女士舒适纯棉裆部少女底裤三角裤春夏新",
+    "company": "汕头市潮阳区谷饶夏野内衣厂",
+    "loginid": "夏野的晚风",
+    "is_live": true,
+    "size_bytes": 125406
+  },
+  "rakumart": {
+    "match_score": 54.3,
+    "price_brl": 6.0,
+    "title_br": "Calcinha de algodão 100% estilo japonês, super confortável para mulheres e jovens. Modelo triângulo com entrepernas em algodão puro, ideal para primavera e verão.",
+    "url": "https://www.rakumart.com.br/product/771831973894",
+    "crosswalked_at": "2026-06-18T01:10:30Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.774611Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "内裤",
+    "n4": "无痕内裤",
+    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+  }
+}

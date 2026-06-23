@@ -1,0 +1,42 @@
+{
+  "offer_id": 543477982498,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "浅口船袜一片式无痕隐形船袜 防滑棉底浅口袜 冰丝船袜 一件代发",
+    "price_cny": 1.4,
+    "shop": "尊创king",
+    "shop_text": "义乌市尊创电子商务商行",
+    "province": "浙江",
+    "city": "义乌市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01RsbDy726dmVQuJZf4_!!3040387685-0-cib.jpg",
+    "booked": 5419,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "浅口船袜一片式无痕隐形船袜 防滑棉底浅口袜 冰丝船袜 一件代发",
+    "company": "义乌市尊创电子商务商行",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 140850
+  },
+  "rakumart": {
+    "match_score": 61.9,
+    "price_brl": 0.95,
+    "title_br": "Meia baixa invisível, sem costura, de tecido leve e respirável. Solado em algodão antiderrapante para maior conforto. Entrega direta do estoque.",
+    "url": "https://www.rakumart.com.br/product/543477982498",
+    "crosswalked_at": "2026-06-18T01:04:18Z"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

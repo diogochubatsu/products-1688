@@ -1,0 +1,42 @@
+{
+  "offer_id": 970871313603,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_970871313603.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "多功能晾衣夹衣服夹家用晒衣服小夹子强力防风浸塑晾晒袜子固定夹",
+    "price_cny": "1.23",
+    "shop": "张威百货贸易",
+    "province": "浙江",
+    "city": "义乌市",
+    "booked": "1048",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01mY8R4n2HzjbaHCVAg_!!2986519222-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩巾夹"
+  },
+  "su_detail": {
+    "subject": "多功能晾衣夹衣服夹家用晒衣服小夹子强力防风浸塑晾晒袜子固定夹",
+    "company": "义乌市新捷供应链服务有限公司",
+    "loginid": "张威百货贸易",
+    "is_live": true,
+    "size_bytes": 74596
+  },
+  "rakumart": {
+    "match_score": 59.9,
+    "price_brl": 0.91,
+    "title_br": "Clipe de arame em aço inoxidável, multifuncional: segura roupas e meias no varal, fecha sacos e prende calças. Com mola resistente para uso ao ar livre.",
+    "url": "https://www.rakumart.com.br/product/838231176538",
+    "crosswalked_at": "2026-06-18T01:14:23Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.795414Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

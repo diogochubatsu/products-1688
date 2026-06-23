@@ -1,0 +1,42 @@
+{
+  "offer_id": 627965577050,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_内衣_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_627965577050.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "内衣二合一隐形无痕矫正驼背聚拢无钢圈前搭扣聚拢内衣女",
+    "price_cny": "11.8",
+    "shop": "燕奈儿针织厂",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "10876",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01m7mVbC21Dbks7TWNg_!!2207908076951-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "内衣"
+  },
+  "su_detail": {
+    "subject": "内衣二合一隐形无痕矫正驼背聚拢无钢圈前搭扣聚拢内衣女",
+    "company": "汕头市潮阳区谷饶燕奈儿针织厂",
+    "loginid": "燕奈儿针织厂",
+    "is_live": true,
+    "size_bytes": 96506
+  },
+  "rakumart": {
+    "match_score": 39.4,
+    "price_brl": 27.0,
+    "title_br": "Lançamento imperdível: sutiã sem costura com efeito nude, invisível sob a roupa, tecido confortável e sem aro, com modelagem que eleva e oferece suporte perfeito.",
+    "url": "https://www.rakumart.com.br/product/843422185435",
+    "crosswalked_at": "2026-06-18T01:05:28Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.724739Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "提臀塑身",
+    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+  }
+}

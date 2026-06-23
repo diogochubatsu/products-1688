@@ -1,0 +1,210 @@
+{
+  "category": "underwear",
+  "case_type": "CATEGORY",
+  "generated_at": "2026-06-23T01:24:44.359362Z",
+  "methodology": "Ranked by opportunity (HIGH>MEDIUM>LOW>NONE), then by booked count",
+  "total_in_silver": 48,
+  "top_count": 20,
+  "rankings": [
+    {
+      "offer_id": 630996139341,
+      "title": "柔软莫代尔男士内裤男四角裤透气铜纤维抗菌裆透气男生平角短裤头",
+      "shop": "东晟制衣厂",
+      "price_cny": "12.5",
+      "booked": "28258",
+      "price_brl_rakumart": 26.0,
+      "naive_margin_pct": 63.9,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 595810183034,
+      "title": "薄款腰封收腹带女士束腰带塑腰带塑腹带透气孕妇产后塑身美体大码",
+      "shop": "雅派贸易",
+      "price_cny": "5.2",
+      "booked": "23588",
+      "price_brl_rakumart": 8.7,
+      "naive_margin_pct": 55.2,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 614149879892,
+      "title": "加大码收腹裤产后塑身内裤收胃提臀高腰平角裤美体打底安全裤女士",
+      "shop": "恒兴泰内衣",
+      "price_cny": "8.8",
+      "booked": "18676",
+      "price_brl_rakumart": 86.0,
+      "naive_margin_pct": 92.3,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 733266253296,
+      "title": "亚马逊跨境连体塑身衣女收腹裤开档提臀塑形吊带内衣束腹美体束身",
+      "shop": "欧曼轩针织内衣",
+      "price_cny": "8.83",
+      "booked": "17554",
+      "price_brl_rakumart": 52.0,
+      "naive_margin_pct": 87.3,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 818829807215,
+      "title": "女童内衣发育期吊带纯棉小背心7-15岁中小学生初期少女一阶段抹胸",
+      "shop": "汐漫少女内衣",
+      "price_cny": "2.7",
+      "booked": "17012",
+      "price_brl_rakumart": 7.7,
+      "naive_margin_pct": 73.7,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 627965577050,
+      "title": "内衣二合一隐形无痕矫正驼背聚拢无钢圈前搭扣聚拢内衣女",
+      "shop": "燕奈儿针织厂",
+      "price_cny": "11.8",
+      "booked": "10876",
+      "price_brl_rakumart": 27.0,
+      "naive_margin_pct": 67.2,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 812549674608,
+      "title": "独立包装7A冰丝无痕夏季超薄内裤少女纯棉裆不夹臀润肤透气三角裤",
+      "shop": "蓝梦琳针织厂",
+      "price_cny": "3.7",
+      "booked": "9676",
+      "price_brl_rakumart": 7.57,
+      "naive_margin_pct": 63.3,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 660439631826,
+      "title": "镂空网孔运动内衣女防震背心跑步瑜伽健身文胸美背聚拢大码亚马逊",
+      "shop": "维梦丝针织内衣厂",
+      "price_cny": "7",
+      "booked": "9232",
+      "price_brl_rakumart": 20.0,
+      "naive_margin_pct": 73.8,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 912304680419,
+      "title": "【原版质量】爆款女士交叉收腹带产后塑形束腰能量石无痕塑身腰封",
+      "shop": "贵屿万姿雅针织内衣厂",
+      "price_cny": "6.9",
+      "booked": "9166",
+      "price_brl_rakumart": 25.0,
+      "naive_margin_pct": 79.3,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 648704690329,
+      "title": "蜂巢高腰纯棉内裤女无缝大码提臀收腹女士三角裤外贸批发",
+      "shop": "尤雅姿内衣厂",
+      "price_cny": 2.8,
+      "booked": 1427,
+      "price_brl_rakumart": 6.8,
+      "naive_margin_pct": 69.1,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 665687528733,
+      "title": "少女宫廷三代中腰内裤女士无缝宫廷3.0代蝴蝶结收腹提臀三角裤",
+      "shop": "尤雅姿内衣厂",
+      "price_cny": 1.5,
+      "booked": 1086,
+      "price_brl_rakumart": 8.0,
+      "naive_margin_pct": 85.9,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 683867736365,
+      "title": "新款网红高腰女士内裤高弹力无束缚收腹提臀不卡档内裤女",
+      "shop": "尤雅姿内衣厂",
+      "price_cny": 2.4,
+      "booked": 656,
+      "price_brl_rakumart": 7.0,
+      "naive_margin_pct": 74.3,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 684505918229,
+      "title": "新款大码无缝高腰收腹内裤石墨烯纯棉档塑身美体裤女塑形提臀",
+      "shop": "尤雅姿内衣厂",
+      "price_cny": 3.2,
+      "booked": 196,
+      "price_brl_rakumart": 8.8,
+      "naive_margin_pct": 72.7,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 683685770263,
+      "title": "泡泡裤大码内裤女士泡泡裤氧气内裤石墨烯透气中腰三角裤女",
+      "shop": "尤雅姿内衣厂",
+      "price_cny": 1.55,
+      "booked": 184,
+      "price_brl_rakumart": 8.0,
+      "naive_margin_pct": 85.5,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 648698002726,
+      "title": "日系3D蜂巢内裤1.0高弹提臀透气纯棉裆无缝内裤三角裤高质量",
+      "shop": "尤雅姿内衣厂",
+      "price_cny": 1.25,
+      "booked": 123,
+      "price_brl_rakumart": 3.1,
+      "naive_margin_pct": 69.8,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 1003634067957,
+      "title": "男士内裤男纯棉抗菌平角裤青少年全棉透气四角裤男生短裤头裤衩夏",
+      "shop": "尤雅姿内衣厂",
+      "price_cny": 4.0,
+      "booked": 32,
+      "price_brl_rakumart": 47.84,
+      "naive_margin_pct": 93.7,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 683040216569,
+      "title": "新款蕾丝花边安全裤中腰收腹打底裤棉裆三分防走光内裤女厂家直供",
+      "shop": "尤雅姿内衣厂",
+      "price_cny": 2.75,
+      "booked": 8,
+      "price_brl_rakumart": 10.8,
+      "naive_margin_pct": 80.9,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 854563066608,
+      "title": "超薄裸感纯欲风面膜无痕女士简约风三角内裤可爱草莓学生",
+      "shop": "尤雅姿内衣厂",
+      "price_cny": 1.55,
+      "booked": 5,
+      "price_brl_rakumart": 5.0,
+      "naive_margin_pct": 76.8,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 1005012345377,
+      "title": "女士内裤全包臀不夹屁股平角短裤10a级抗菌裆部防走光四角安全裤",
+      "shop": "尤雅姿内衣厂",
+      "price_cny": 4.1,
+      "booked": 1,
+      "price_brl_rakumart": 6.9,
+      "naive_margin_pct": 55.4,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 630809410609,
+      "title": "高腰收腹裤束腹提臀美体塑身裤女士安全裤防走光产后平角收腹内裤",
+      "shop": "舒奈美针织内衣",
+      "price_cny": "8",
+      "booked": "156435",
+      "price_brl_rakumart": 9.0,
+      "naive_margin_pct": 33.3,
+      "opportunity": "MEDIUM"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "shop_name": "卖袜子的小赵",
+  "offer_count": 2,
+  "categories": [
+    "socks"
+  ],
+  "offers": [
+    {
+      "offer_id": 720861076366,
+      "category": "socks",
+      "title": "袜子女船袜浅口隐形袜防滑不掉跟ins潮夏天棉潮无骨女式夏袜吸汗"
+    },
+    {
+      "offer_id": 1025356327869,
+      "category": "socks",
+      "title": "miu系白色波点袜子女中筒袜春秋款纯棉花边夏季薄款芭蕾风堆堆袜"
+    }
+  ],
+  "generated_at": "2026-06-18T00:07:55.036764Z"
+}

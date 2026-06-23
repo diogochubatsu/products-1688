@@ -1,0 +1,42 @@
+{
+  "offer_id": 657914986310,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_657914986310.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "儿童夏季玩具可爱动物模型海边沙滩玩具橡胶沙丘沙模工具套装玩具",
+    "price_cny": "30.88",
+    "shop": "泰禾鑫硅胶制品",
+    "province": "广东",
+    "city": "深圳市",
+    "booked": "1532",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01wuEO0w1aO9Ff3liUB_!!2206769253319-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩夹"
+  },
+  "su_detail": {
+    "subject": "儿童夏季玩具可爱动物模型海边沙滩玩具橡胶沙丘沙模工具套装玩具",
+    "company": "深圳市泰禾鑫电子科技有限公司",
+    "loginid": "泰禾鑫硅胶制品",
+    "is_live": true,
+    "size_bytes": 132869
+  },
+  "rakumart": {
+    "match_score": 66.7,
+    "price_brl": 8.98,
+    "title_br": "Kit de brinquedos para crianças no verão: modelos fofos de animais, ideal para usar na areia da praia. Ferramentas de silicone para fazer castelos e formas na areia.",
+    "url": "https://www.rakumart.com.br/product/657914986310",
+    "crosswalked_at": "2026-06-18T01:07:20Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.742623Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

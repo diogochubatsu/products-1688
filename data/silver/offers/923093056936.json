@@ -1,0 +1,42 @@
+{
+  "offer_id": 923093056936,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_923093056936.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "多功能塑料夹子 帽子袜子夹塑料夹窗帘夹360°旋转塑料挂钩夹批发",
+    "price_cny": "0.04",
+    "shop": "方靖家居用品",
+    "province": "浙江",
+    "city": "义乌市",
+    "booked": "633",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01YhQJu01XL01Od8ZuH_!!2219493952906-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩巾夹"
+  },
+  "su_detail": {
+    "subject": "多功能塑料夹子 帽子袜子夹塑料夹窗帘夹360°旋转塑料挂钩夹批发",
+    "company": "义乌市方靖供应链有限公司",
+    "loginid": "方靖家居用品",
+    "is_live": true,
+    "size_bytes": 91059
+  },
+  "rakumart": {
+    "match_score": 34.2,
+    "price_brl": 0.45,
+    "title_br": "Ganchos plásticos multifuncionais para supermercado, chapéus e cortinas. Giro de 360°. Venda no atacado.",
+    "url": "https://www.rakumart.com.br/product/660029197952",
+    "crosswalked_at": "2026-06-18T01:05:15Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.793008Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

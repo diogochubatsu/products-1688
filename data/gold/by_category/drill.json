@@ -1,0 +1,210 @@
+{
+  "category": "drill",
+  "case_type": "CATEGORY",
+  "generated_at": "2026-06-23T01:24:44.365966Z",
+  "methodology": "Ranked by opportunity (HIGH>MEDIUM>LOW>NONE), then by booked count",
+  "total_in_silver": 50,
+  "top_count": 20,
+  "rankings": [
+    {
+      "offer_id": 672237105063,
+      "title": "多功能手持充电式电动螺丝刀手冲击钻电钻家用小型手枪钻锂电工具",
+      "shop": "义乌张陈贸易",
+      "price_cny": 9.5,
+      "booked": 23714,
+      "price_brl_rakumart": 19.0,
+      "naive_margin_pct": 62.5,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 642647854380,
+      "title": "跨境代发飞机钻裸机家用手持搅拌钻多功能打灰机腻子搅拌电钻",
+      "shop": "永康紫茜贸易有限公司",
+      "price_cny": 75.0,
+      "booked": 7758,
+      "price_brl_rakumart": 385.0,
+      "naive_margin_pct": 85.4,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 694490754581,
+      "title": "跨境多功能电动螺丝刀充电起子电动螺丝刀小型家用套装锂电起子机",
+      "shop": "雷钧工贸有限公司",
+      "price_cny": 19.9,
+      "booked": 6103,
+      "price_brl_rakumart": 40.0,
+      "naive_margin_pct": 62.7,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 574570473738,
+      "title": "手电钻支架多功能电钻支架电钻变台钻万用支架微型台钻家用小型",
+      "shop": "吕宏永1688",
+      "price_cny": 38.0,
+      "booked": 4719,
+      "price_brl_rakumart": 76.13,
+      "naive_margin_pct": 62.6,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 766524381647,
+      "title": "手电钻多功能电转电动工具省力小电手钻打孔交流手枪钻带有线220V",
+      "shop": "台州市艾锐盾商贸有限公司",
+      "price_cny": 43.0,
+      "booked": 3144,
+      "price_brl_rakumart": 358.0,
+      "naive_margin_pct": 91.0,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 628630197926,
+      "title": "伯尔特家用手电钻无刷手钻充电电转锂电工具冲击手枪钻电动螺丝刀",
+      "shop": "济南通力五金机电",
+      "price_cny": 62.0,
+      "booked": 2637,
+      "price_brl_rakumart": 137.0,
+      "naive_margin_pct": 66.1,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 672058046729,
+      "title": "3.6V电动螺丝刀迷你充电式手电钻起子机多功能家用折叠锂电钻工具",
+      "shop": "丹阳市森拓五金工具",
+      "price_cny": 25.0,
+      "booked": 2192,
+      "price_brl_rakumart": 49.93,
+      "naive_margin_pct": 62.4,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 861838330447,
+      "title": "新款促销豪军手电钻 家用 正反转螺丝刀 多功能 电转枪 大功率",
+      "shop": "豪军工具有限公司",
+      "price_cny": 36.3,
+      "booked": 1241,
+      "price_brl_rakumart": 385.0,
+      "naive_margin_pct": 92.9,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 696651287713,
+      "title": "杭泰微型家用多功能迷你小电钻手工玉石珍珠滴胶打孔雕刻神器电磨",
+      "shop": "骏狮工贸",
+      "price_cny": 26.0,
+      "booked": 1226,
+      "price_brl_rakumart": 39.9,
+      "naive_margin_pct": 51.1,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 814573314395,
+      "title": "创一手电钻大功率插电式多功能家用工业级跨境手枪钻电动螺丝打孔",
+      "shop": "浙江中马机电有限公司",
+      "price_cny": 64.0,
+      "booked": 1083,
+      "price_brl_rakumart": 129.0,
+      "naive_margin_pct": 62.8,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 927386792870,
+      "title": "新款无刷手电钻小钢炮充电式锂电钻电动工具小型家用多功能手枪钻",
+      "shop": "永康市途阳工贸",
+      "price_cny": 49.5,
+      "booked": 1056,
+      "price_brl_rakumart": 97.5,
+      "naive_margin_pct": 61.9,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 919444461229,
+      "title": "德国多功能电动螺丝刀套装充电式小型家用十字一字电批起子机W18",
+      "shop": "琳璐商务商行",
+      "price_cny": 14.5,
+      "booked": 4831,
+      "price_brl_rakumart": 13.8,
+      "naive_margin_pct": 21.2,
+      "opportunity": "MEDIUM"
+    },
+    {
+      "offer_id": 854877885408,
+      "title": "跨境电动螺丝刀套装家用工具小型电钻充电式螺丝迷你多功能锂电",
+      "shop": "永康市炀铭工贸有限公司",
+      "price_cny": 21.54,
+      "booked": 1740,
+      "price_brl_rakumart": 21.54,
+      "naive_margin_pct": 25.0,
+      "opportunity": "MEDIUM"
+    },
+    {
+      "offer_id": 646750292825,
+      "title": "电动螺丝刀跨境爆款源头厂家3.6V套装充电式手自一体电动螺丝刀",
+      "shop": "启东石力机电有限公司",
+      "price_cny": 56.0,
+      "booked": 1427,
+      "price_brl_rakumart": 55.0,
+      "naive_margin_pct": 23.6,
+      "opportunity": "MEDIUM"
+    },
+    {
+      "offer_id": 532604915561,
+      "title": "东成手电钻转充电式无刷锂电池冲击钻家用工具东城电动手钻螺丝刀",
+      "shop": "南通苏胜五金机电",
+      "price_cny": 74.8,
+      "booked": 988,
+      "price_brl_rakumart": 74.8,
+      "naive_margin_pct": 25.0,
+      "opportunity": "MEDIUM"
+    },
+    {
+      "offer_id": 727685685635,
+      "title": "浩成锂电手电钻冲击钻多功能充电式手枪钻家用电动螺丝刀电钻工具",
+      "shop": "浩川工具",
+      "price_cny": 48.0,
+      "booked": 905,
+      "price_brl_rakumart": 48.0,
+      "naive_margin_pct": 25.0,
+      "opportunity": "MEDIUM"
+    },
+    {
+      "offer_id": 641931920298,
+      "title": "电动螺丝刀充电式小型家用家具安装电起子迷你螺丝批电批工具套装",
+      "shop": "军远贸易",
+      "price_cny": 10.8,
+      "booked": 55286,
+      "price_brl_rakumart": 8.8,
+      "naive_margin_pct": 8.0,
+      "opportunity": "LOW"
+    },
+    {
+      "offer_id": 704903687529,
+      "title": "电动螺丝刀充电式小型家用螺丝批工具迷你手枪钻电起子电批手电钻",
+      "shop": "军远贸易",
+      "price_cny": 10.8,
+      "booked": 45737,
+      "price_brl_rakumart": 8.8,
+      "naive_margin_pct": 8.0,
+      "opportunity": "LOW"
+    },
+    {
+      "offer_id": 719746403487,
+      "title": "德国电动螺丝刀充电式家用小型电起子机多功能螺丝批套装工具批发",
+      "shop": "奥仕工具有限公司",
+      "price_cny": 23.0,
+      "booked": 46004,
+      "price_brl_rakumart": 8.8,
+      "naive_margin_pct": -96.0,
+      "opportunity": "NONE"
+    },
+    {
+      "offer_id": 636669684546,
+      "title": "电动螺丝刀套装家用工具小型电钻充电式螺丝迷你多功能锂电起子机",
+      "shop": "赫霖电子商务",
+      "price_cny": 17.0,
+      "booked": 27144,
+      "price_brl_rakumart": 0.5,
+      "naive_margin_pct": -2450.0,
+      "opportunity": "NONE"
+    }
+  ]
+}

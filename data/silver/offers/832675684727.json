@@ -1,0 +1,41 @@
+{
+  "offer_id": 832675684727,
+  "bronze_refs": {
+    "mtop": "LEGACY: baiyite_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: baiyite_*_enriched.json",
+    "rakumart": "LEGACY: baiyite_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "跨境热销款可爱冰激凌造型沙滩夹子 沙滩毛巾夹",
+    "price_cny": 5.0,
+    "shop": "tzbaiyite",
+    "booked": 0,
+    "category": "beach_clip"
+  },
+  "su_detail": {
+    "subject": "跨境热销款可爱冰激凌造型沙滩夹子 沙滩毛巾夹",
+    "company": "台州市佰亿特塑业有限公司",
+    "loginid": "tzbaiyite",
+    "is_live": true,
+    "image_count": 0,
+    "page_kb": 54.3,
+    "has_sku": false
+  },
+  "rakumart": {
+    "iid": "832675684727",
+    "title_cn": "跨境热销款可爱冰激凌造型沙滩夹子 沙滩毛巾夹",
+    "title_pt": "Clássico que vende muito online: prendedor de toalha de praia com design fofinho de sorvete.",
+    "price_brl": 5.0,
+    "match_score": 100.0,
+    "url": "https://www.rakumart.com.br/product/832675684727"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "shop_name": "永坤塑料制品",
+  "offer_count": 3,
+  "categories": [
+    "beach_clip"
+  ],
+  "offers": [
+    {
+      "offer_id": 559791130931,
+      "category": "beach_clip",
+      "title": "火烈鸟夹夏天塑料沙滩夹子Flamingo沙滩巾夹毛巾夹浴巾夹晾衣夹"
+    },
+    {
+      "offer_id": 567099039405,
+      "category": "beach_clip",
+      "title": "沙滩夹 鲸鱼眼镜西瓜 拖鞋造型  毛巾夹浴巾夹塑料夹子"
+    },
+    {
+      "offer_id": 567013326214,
+      "category": "beach_clip",
+      "title": "动物夹子毛巾夹沙滩夹海豚夹子家用卧室旅行夹子太阳眼镜鲸鱼夹"
+    }
+  ],
+  "generated_at": "2026-06-18T00:07:55.003970Z"
+}

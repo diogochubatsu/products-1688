@@ -1,0 +1,42 @@
+{
+  "offer_id": 1047148171983,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_童袜_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_1047148171983.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "男童袜子夏季薄款网眼吸汗防臭中大童青少年运动袜A类纯棉儿童袜",
+    "price_cny": "1.98",
+    "shop": "浙江杰娜针织",
+    "province": "浙江",
+    "city": "绍兴市",
+    "booked": "1312",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01DIYjVn2Cq3CdnGz9i_!!2213188108524-0-cib.jpg",
+    "category": "socks",
+    "source_query": "童袜"
+  },
+  "su_detail": {
+    "subject": "男童袜子夏季薄款网眼吸汗防臭中大童青少年运动袜A类纯棉儿童袜",
+    "company": "诸暨市杰娜袜加工厂",
+    "loginid": "浙江杰娜针织",
+    "is_live": true,
+    "size_bytes": 84641
+  },
+  "rakumart": {
+    "match_score": 39.4,
+    "price_brl": 2.7,
+    "title_br": "Meia esportiva infantil, absorve suor e evita mau cheiro. Modelo fino para o verão, 100% algodão com malha respirável, cano médio. Estilo moderno para meninos, ideal para primavera e verão.",
+    "url": "https://www.rakumart.com.br/product/902078613757",
+    "crosswalked_at": "2026-06-23T01:16:57Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.177398Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "运动袜",
+    "path": "服装鞋帽/袜子/通用袜子/运动袜"
+  }
+}

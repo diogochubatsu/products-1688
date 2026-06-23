@@ -1,0 +1,42 @@
+{
+  "offer_id": 683040216569,
+  "bronze_refs": {
+    "mtop": "LEGACY: youyazi_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: youyazi_*_enriched.json",
+    "rakumart": "LEGACY: youyazi_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "新款蕾丝花边安全裤中腰收腹打底裤棉裆三分防走光内裤女厂家直供",
+    "price_cny": 2.75,
+    "shop": "尤雅姿内衣厂",
+    "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rbs8hV2Akt9XkSlaS_!!2211950918242-0-cib.jpg",
+    "booked": 8,
+    "category": "underwear"
+  },
+  "su_detail": {
+    "subject": "新款蕾丝花边安全裤中腰收腹打底裤棉裆三分防走光内裤女厂家直供",
+    "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 97929
+  },
+  "rakumart": {
+    "iid": "723882508003",
+    "title_cn": "夏季薄款冰丝无痕安全裤高腰打底裤安全裤内裤女大码安全裤防走光",
+    "title_pt": "Calça de segurança feminina de verão, fina em tecido ice silk sem costura aparente, cintura alta, modelo base para usar por baixo da roupa, disponível em tamanhos grandes, com proteção contra transparência.",
+    "price_brl": 10.8,
+    "match_score": 53.3
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身裤",
+    "n4": "收腹塑裤",
+    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+  }
+}

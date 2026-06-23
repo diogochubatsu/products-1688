@@ -1,0 +1,20 @@
+{
+  "shop_name": "jiataitools2",
+  "offer_count": 2,
+  "categories": [
+    "drill"
+  ],
+  "offers": [
+    {
+      "offer_id": 547867396770,
+      "category": "drill",
+      "title": "厂家直销多功能充电手电钻精密电动螺丝刀电动工具套装家用工具箱"
+    },
+    {
+      "offer_id": 565606704202,
+      "category": "drill",
+      "title": "福瑞德厂家直销锂电池充电手电钻多功能电动螺丝刀家用电动工具"
+    }
+  ],
+  "generated_at": "2026-06-18T00:07:55.018969Z"
+}

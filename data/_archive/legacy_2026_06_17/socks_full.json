@@ -1,0 +1,383 @@
+{
+  "category": "meias (socks)",
+  "total_products": 15,
+  "enriched_count": 15,
+  "rakumart_matched": 10,
+  "products": [
+    {
+      "offer_id": "568295045934",
+      "title": "百搭素色隐形袜子 男士春夏季硅胶防滑棉船袜5双腰封装厂家批发",
+      "price_cny": 1.55,
+      "shop": "加勒比1688",
+      "shop_text": "诸暨市北夏针织有限公司",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/8809577877_651991878.jpg",
+      "booked": 88648,
+      "province": "浙江",
+      "city": "诸暨市",
+      "query": "船袜",
+      "enriched_detail": {
+        "size_bytes": 123881,
+        "subject": "百搭素色隐形袜子 男士春夏季硅胶防滑棉船袜5双腰封装厂家批发",
+        "company": "诸暨市北夏针织有限公司",
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "568295045934",
+        "title_cn": "百搭素色隐形袜子 男士春夏季硅胶防滑棉船袜5双腰封装厂家批发",
+        "title_pt": "Meia invisível básica, cor sólida, com silicone antideslizante e algodão, ideal para homens na primavera e verão. Pacote com 5 pares, embalagem de cintura, venda direta da fábrica.",
+        "price_brl": 1.9,
+        "match_score": 100.0
+      }
+    },
+    {
+      "offer_id": "685561898036",
+      "title": "抗菌全棉袜子纯棉男士中筒商务春秋吸汗透气黑色春夏商超长袜四季",
+      "price_cny": 3.2,
+      "shop": "杰祥针织",
+      "shop_text": "金华市杰祥袜业有限公司",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01OJ5Erf1FSBCVzPXM4_!!2207597540485-0-cib.jpg",
+      "booked": 51360,
+      "province": "浙江",
+      "city": "金华市",
+      "query": "棉袜",
+      "enriched_detail": {
+        "size_bytes": 165310,
+        "subject": "抗菌全棉袜子纯棉男士中筒商务春秋吸汗透气黑色春夏商超长袜四季",
+        "company": "金华市杰祥袜业有限公司",
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "894449652554",
+        "title_cn": "【7A抗菌】袜子女春秋纯棉中筒袜夏季月子袜白色棉袜堆堆袜子批发",
+        "title_pt": "Meias femininas de algodão 100% com proteção antibacteriana 7A, ideais para primavera e outono, meias de puerpério para o verão, cor branca, estilo cano médio e meia dobrada. Venda no atacado.",
+        "price_brl": 1.8,
+        "match_score": 53.3
+      }
+    },
+    {
+      "offer_id": "676690794284",
+      "title": "船袜女夏季薄款浅口网纱隐形袜大小码棉底不掉跟短袜子女厂家批发",
+      "price_cny": 1.0,
+      "shop": "义乌市优阁袜厂",
+      "shop_text": "义乌市优阁袜业有限公司",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01LPtYqD20gAtvU10Vq_!!2214041896878-0-cib.jpg",
+      "booked": 46253,
+      "province": "浙江",
+      "city": "义乌市",
+      "query": "女士袜子",
+      "enriched_detail": {
+        "size_bytes": 166363,
+        "subject": "船袜女夏季薄款浅口网纱隐形袜大小码棉底不掉跟短袜子女厂家批发",
+        "company": "义乌市优阁袜业有限公司",
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "776316602399",
+        "title_cn": "冰丝船袜女夏季薄款浅口隐形袜防滑不掉跟短袜套高跟鞋船袜子女生",
+        "title_pt": "Meia de barco feminina de tecido fresco para o verão, modelo fino e discreto, com solado antiderrapante que não desce do calcanhar. Ideal para usar com saltos altos ou no dia a dia.",
+        "price_brl": 2.1,
+        "match_score": 80.0
+      }
+    },
+    {
+      "offer_id": "900793977864",
+      "title": "袜子男短袜夏季薄款纯棉防臭男士船袜夏天吸汗网眼透气短筒全棉袜",
+      "price_cny": 2.3,
+      "shop": "布谷鸟针织",
+      "shop_text": "诸暨市布谷鸟针织厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01YijTF01D1UvfRjEZJ_!!2219542100156-0-cib.jpg",
+      "booked": 28337,
+      "province": "浙江",
+      "city": "诸暨市",
+      "query": "袜子",
+      "enriched_detail": {
+        "size_bytes": 98704,
+        "subject": "袜子男短袜夏季薄款纯棉防臭男士船袜夏天吸汗网眼透气短筒全棉袜",
+        "company": "诸暨市布谷鸟针织厂",
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "719116654613",
+        "title_cn": "袜子男士短袜夏季薄款吸汗防臭抗菌网眼按摩底船袜低帮浅口袜",
+        "title_pt": "Meia masculina curta de verão, fina, absorve suor, evita mau cheiro e tem ação antibacteriana. Malha respirável com sola massageante, modelo barco, baixo e rasgado.",
+        "price_brl": 3.8,
+        "match_score": 73.3
+      }
+    },
+    {
+      "offer_id": "693839423486",
+      "title": "冰丝船袜女秋薄款防滑脱防掉跟浅口隐形袜纯棉底高跟鞋单鞋短袜子",
+      "price_cny": 2.0,
+      "shop": "诸暨果嫣针织有限公司",
+      "shop_text": "义乌果嫣针织有限公司",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rmI6Zw1l28KRSy06L_!!2215082944760-0-cib.jpg",
+      "booked": 28306,
+      "province": "浙江",
+      "city": "诸暨市",
+      "query": "袜子",
+      "enriched_detail": {
+        "size_bytes": 109112,
+        "subject": "冰丝船袜女秋薄款防滑脱防掉跟浅口隐形袜纯棉底高跟鞋单鞋短袜子",
+        "company": "义乌果嫣针织有限公司",
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "693839423486",
+        "title_cn": "冰丝船袜女秋薄款防滑脱防掉跟浅口隐形袜纯棉底高跟鞋单鞋短袜子",
+        "title_pt": "Meia de barco feminina de tecido fresco, ideal para o outono. Modelo fino com solado antideslizante que evita que a meia desça do calcanhar. Design discreto e invisível dentro do sapato, perfeito para usar com saltos altos ou sapatilhas. Com base em algodão puro para maior conforto.",
+        "price_brl": 2.0,
+        "match_score": 100.0
+      }
+    },
+    {
+      "offer_id": "675818021712",
+      "title": "袜子男加大码浅口隐形袜短船袜夏季薄款棉袜硅胶防臭吸汗袜套黑色",
+      "price_cny": 1.78,
+      "shop": "诸暨市艾幕针织厂",
+      "shop_text": "诸暨市艾慕针织厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01XxoLVu21w2XvONu6O_!!2845677048-0-cib.jpg",
+      "booked": 25612,
+      "province": "浙江",
+      "city": "诸暨市",
+      "query": "船袜",
+      "enriched_detail": {
+        "size_bytes": 103610,
+        "subject": "袜子男加大码浅口隐形袜短船袜夏季薄款棉袜硅胶防臭吸汗袜套黑色",
+        "company": "诸暨市艾慕针织厂",
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "675818021712",
+        "title_cn": "袜子男加大码浅口隐形袜短船袜夏季薄款棉袜硅胶防臭吸汗袜套黑色",
+        "title_pt": "Meia masculina tamanho grande, modelo baixo e invisível, ideal para o verão. Tecido leve em algodão com silicone antiodor e absorção de suor. Cor preta.",
+        "price_brl": 1.78,
+        "match_score": 100.0
+      }
+    },
+    {
+      "offer_id": "901472959011",
+      "title": "五指袜瑜伽袜子女防滑专业室内地板袜女士舞蹈防滑袜普拉提袜子",
+      "price_cny": 7.4,
+      "shop": "诸暨市新誉针织厂",
+      "shop_text": "诸暨市新誉针织厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01A4U2DC1D3moHADV3e_!!2217664280161-0-cib.jpg",
+      "booked": 21858,
+      "province": "浙江",
+      "city": "绍兴市",
+      "query": "袜子",
+      "enriched_detail": {
+        "size_bytes": 91651,
+        "subject": "五指袜瑜伽袜子女防滑专业室内地板袜女士舞蹈防滑袜普拉提袜子",
+        "company": "诸暨市新誉针织厂",
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "901437956196",
+        "title_cn": "袜子女船袜夏季浅口防滑不掉跟透气薄款白色隐形诸暨短袜厂家批发",
+        "title_pt": "Meias femininas de cano baixo para o verão, antiderrapantes, que não descem, respiráveis e finas. Brancas, discretas (tipo invisíveis), fabricadas em Zhuji. Venda direta da fábrica.",
+        "price_brl": 1.5,
+        "match_score": 33.3
+      }
+    },
+    {
+      "offer_id": "817603225363",
+      "title": "诸暨袜子男女隐形船袜运动中筒棉袜纯色短袜春夏长筒袜一次性袜子",
+      "price_cny": 0.71,
+      "shop": "诸暨市心仪针织厂",
+      "shop_text": "诸暨市心仪针织厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01PNPD1a2BDHyHy2p2q_!!2214698498304-0-cib.jpg",
+      "booked": 21061,
+      "province": "浙江",
+      "city": "绍兴市",
+      "query": "袜子",
+      "enriched_detail": {
+        "size_bytes": 108966,
+        "subject": "诸暨袜子男女隐形船袜运动中筒棉袜纯色短袜春夏长筒袜一次性袜子",
+        "company": "诸暨市心仪针织厂",
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "717538529700",
+        "title_cn": "袜子女春夏季薄款浅口隐形船袜防滑不掉跟网眼透气空调袜女士短袜",
+        "title_pt": "Meia feminina de verão e primavera, modelo fino, raso e invisível, com antiderrapante, que não cai do calcanhar, malha respirável ideal para ar-condicionado. Meia curta para mulher.",
+        "price_brl": 0.79,
+        "match_score": 46.7
+      }
+    },
+    {
+      "offer_id": "687549425992",
+      "title": "一次性袜子女男士压缩旅行中筒短棉袜黑白色夏季透气日抛薄款军训",
+      "price_cny": 1.7,
+      "shop": "巴迪高户外用品",
+      "shop_text": "湖南巴迪高日用品有限公司",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01QEKGBs2BYMEZ4qeI0_!!2212343318350-0-cib.jpg",
+      "booked": 19175,
+      "province": "湖南",
+      "city": "长沙市",
+      "query": "棉袜",
+      "enriched_detail": {
+        "size_bytes": 114588,
+        "subject": "一次性袜子女男士压缩旅行中筒短棉袜黑白色夏季透气日抛薄款军训",
+        "company": "湖南巴迪高日用品有限公司",
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "890125444887",
+        "title_cn": "新疆棉袜子男士纯色休闲短袜10A抗菌防臭吸汗透气春夏隐形男棉袜",
+        "title_pt": "Meia de algodão masculina, cor sólida, estilo casual e curta. Modelo 10A com propriedades antibacterianas, antiodor, absorve o suor e é respirável, ideal para primavera e verão. Meia de algodão discreta para homem.",
+        "price_brl": 2.4,
+        "match_score": 33.3
+      }
+    },
+    {
+      "offer_id": "785536643043",
+      "title": "coolmax运动袜子抗菌防臭加厚毛巾底马拉松骑行袜速干专业跑步袜",
+      "price_cny": 10.69,
+      "shop": "名郡袜厂88",
+      "shop_text": "佛山名郡织造有限公司",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01n7YegE2BECgiCN2yX_!!2594558306-0-cib.jpg",
+      "booked": 18810,
+      "province": "广东",
+      "city": "佛山市",
+      "query": "运动袜",
+      "enriched_detail": {
+        "size_bytes": 183140,
+        "subject": "coolmax运动袜子抗菌防臭加厚毛巾底马拉松骑行袜速干专业跑步袜",
+        "company": "佛山名郡织造有限公司",
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "725146242684",
+        "title_cn": "袜子女夏季韩版船袜防臭薄款隐形硅胶防滑不掉跟短袜浅口低帮袜子",
+        "title_pt": "Meias baixas femininas para o verão, estilo coreano, com silicone antideslizante que não escorrega, finas e discretas, antidotores.",
+        "price_brl": 1.21,
+        "match_score": 26.7
+      }
+    },
+    {
+      "offer_id": "38732173379",
+      "title": "亚马逊新款男士船袜夏季透气棉袜休闲成人袜低帮浅口不掉跟厂家",
+      "price_cny": 3.5,
+      "shop": "皮卡丘小囡",
+      "shop_text": "海宁斯巴特针织股份有限公司",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01qWvnW01O7rjkomJUh_!!2066911659-0-cib.jpg",
+      "booked": 16626,
+      "province": "浙江",
+      "city": "海宁市",
+      "query": "棉袜",
+      "enriched_detail": {
+        "size_bytes": 102438,
+        "subject": "亚马逊新款男士船袜夏季透气棉袜休闲成人袜低帮浅口不掉跟厂家",
+        "company": "海宁斯巴特针织股份有限公司",
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "690477752778",
+        "title_cn": "新款女士棉袜防臭透气中筒袜松口月子袜吸汗抗菌女堆堆袜不勒脚",
+        "title_pt": "Novas meias de algodão femininas, média altura, com elástico solto para não apertar. Ideais para o pós-parto: absorvem suor, combatem mau cheiro e têm ação antibacteriana. Confortáveis e práticas!",
+        "price_brl": 2.6,
+        "match_score": 46.7
+      }
+    },
+    {
+      "offer_id": "674085854721",
+      "title": "冰丝船袜女夏季薄款硅胶防滑浅口隐形袜大小码透气高跟鞋短袜子女",
+      "price_cny": 1.04,
+      "shop": "义乌市优阁袜厂",
+      "shop_text": "义乌市优阁袜业有限公司",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01DgwFZC20gAtRkRdlW_!!2214041896878-0-cib.jpg",
+      "booked": 15783,
+      "province": "浙江",
+      "city": "义乌市",
+      "query": "船袜",
+      "enriched_detail": {
+        "size_bytes": 145414,
+        "subject": "冰丝船袜女夏季薄款硅胶防滑浅口隐形袜大小码透气高跟鞋短袜子女",
+        "company": "义乌市优阁袜业有限公司",
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "920037120045",
+        "title_cn": "冰丝船袜女夏季薄款防滑不掉跟浅口女生低帮隐形短筒女袜夏天棉袜",
+        "title_pt": "Meia de barco feminina de verão, tecido leve e fresco, antiderrapante, não cai do calcanhar, bico baixo, estilo invisível, ideal para o calor.",
+        "price_brl": 2.8,
+        "match_score": 80.0
+      }
+    },
+    {
+      "offer_id": "775989209346",
+      "title": "袜子女夏季韩版船袜防臭薄款隐形硅胶防滑不掉跟短袜浅口低帮袜子",
+      "price_cny": 1.25,
+      "shop": "诸暨市婉亦针织",
+      "shop_text": "诸暨市婉亦针织厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN016PLfu22K1gNLJXCMH_!!2216098619497-0-cib.jpg",
+      "booked": 14820,
+      "province": "浙江",
+      "city": "诸暨市",
+      "query": "船袜",
+      "enriched_detail": {
+        "size_bytes": 107526,
+        "subject": "袜子女夏季韩版船袜防臭薄款隐形硅胶防滑不掉跟短袜浅口低帮袜子",
+        "company": "诸暨市婉亦针织厂",
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "725146242684",
+        "title_cn": "袜子女夏季韩版船袜防臭薄款隐形硅胶防滑不掉跟短袜浅口低帮袜子",
+        "title_pt": "Meias baixas femininas para o verão, estilo coreano, com silicone antideslizante que não escorrega, finas e discretas, antidotores.",
+        "price_brl": 1.21,
+        "match_score": 100.0
+      }
+    },
+    {
+      "offer_id": "651216274430",
+      "title": "短袜子男夏薄款纯色棉袜男士网眼透气吸汗浅口船袜夏季男袜批发",
+      "price_cny": 1.89,
+      "shop": "子兆服饰080",
+      "shop_text": "诸暨市子兆服饰有限公司",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01EzNdTt1u7T80FzqUM_!!3484475990-0-cib.jpg",
+      "booked": 14559,
+      "province": "浙江",
+      "city": "诸暨市",
+      "query": "袜子",
+      "enriched_detail": {
+        "size_bytes": 113696,
+        "subject": "短袜子男夏薄款纯色棉袜男士网眼透气吸汗浅口船袜夏季男袜批发",
+        "company": "诸暨市子兆服饰有限公司",
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "807776391042",
+        "title_cn": "袜子女夏季薄款纯色短棉袜女士简约纯棉运动吸汗多巴胺短筒无骨袜",
+        "title_pt": "Meia feminina de algodão puro, modelo curto e fino para o verão, cor sólida, estilo simples, ideal para esportes, com absorção de suor e costura sem costura aparente.",
+        "price_brl": 2.4,
+        "match_score": 66.7
+      }
+    },
+    {
+      "offer_id": "910101699273",
+      "title": "白色袜子男士春秋中筒袜女款纯棉吸汗运动袜篮球袜加厚毛巾底长袜",
+      "price_cny": 2.7,
+      "shop": "德豪针织",
+      "shop_text": "诸暨市德豪针织厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN018zsnXM2AXbu1uhIwG_!!1682148213.jpg",
+      "booked": 11526,
+      "province": "浙江",
+      "city": "诸暨市",
+      "query": "棉袜",
+      "enriched_detail": {
+        "size_bytes": 152585,
+        "subject": "白色袜子男士春秋中筒袜女款纯棉吸汗运动袜篮球袜加厚毛巾底长袜",
+        "company": "诸暨市德豪针织厂",
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "752660425497",
+        "title_cn": "百搭纯色极简黑白色袜子男士春秋季浅口低帮短筒运动袜船袜子批发",
+        "title_pt": "Meia social básica, minimalista, nas cores preto e branco. Ideal para homens, perfeita para primavera e outono. Modelo baixo, estilo barco, ideal para esportes. Venda no atacado.",
+        "price_brl": 0.4,
+        "match_score": 53.3
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "offer_id": 750974832184,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_提臀塑身衣_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_750974832184.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "欧美跨境连体塑身衣收腹提臀平角裤开裆产后瘦身衣托胸吊带束身衣",
+    "price_cny": "13.5",
+    "shop": "唯雅姿针织内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "655",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01nw2lAT2JTKdKOQ2yo_!!2213765579422-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "提臀塑身衣"
+  },
+  "su_detail": {
+    "subject": "欧美跨境连体塑身衣收腹提臀平角裤开裆产后瘦身衣托胸吊带束身衣",
+    "company": "汕头市潮阳区贵屿唯雅姿针织内衣厂",
+    "loginid": "唯雅姿针织内衣厂",
+    "is_live": true,
+    "size_bytes": 103498
+  },
+  "rakumart": {
+    "match_score": 57.3,
+    "price_brl": 43.0,
+    "title_br": "Macacão modelador de alcinha com fivela ajustável, estilo europeu e americano, para tamanhos grandes. Modelo justo que molda o corpo, com abertura na parte frontal e efeito elevador no bumbum.",
+    "url": "https://www.rakumart.com.br/product/947523493353",
+    "crosswalked_at": "2026-06-23T01:18:38Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.224315Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "连体塑身",
+    "path": "服装鞋帽/内衣/塑身衣/连体塑身"
+  }
+}

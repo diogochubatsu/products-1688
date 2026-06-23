@@ -1,0 +1,42 @@
+{
+  "offer_id": 639403293616,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: drill_*_enriched.json",
+    "rakumart": "LEGACY: drill_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "笔式小微型精密电动螺丝刀套装 多功能迷你手机钟表螺丝批起子机",
+    "price_cny": 28.0,
+    "shop": "添益工具",
+    "shop_text": "宁波添益工具有限公司",
+    "province": "浙江",
+    "city": "宁波市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01bEoidm1HJaf9AWdGx_!!2209724350737-0-cib.jpg",
+    "booked": 1782,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": "笔式小微型精密电动螺丝刀套装 多功能迷你手机钟表螺丝批起子机",
+    "company": "宁波添益工具有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 84063
+  },
+  "rakumart": {
+    "iid": "875345832631",
+    "title_cn": "笔式电动螺丝刀小微型精密套装电批迷你充电式起子机器锂电续航",
+    "title_pt": "Kit de chave de fenda elétrica tipo caneta, miniatura e de precisão. Bateria de lítio com longa duração.",
+    "price_brl": 19.9,
+    "match_score": 60.0
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

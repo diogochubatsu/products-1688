@@ -1,0 +1,42 @@
+{
+  "offer_id": 662120746445,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_662120746445.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "多功能塑料夹商店衣帽夹旋转挂钩窗帘收纳夹家用手套夹旋转袜子夹",
+    "price_cny": "0.42",
+    "shop": "cmjj668",
+    "province": "浙江",
+    "city": "义乌市",
+    "booked": "5617",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rodQqN1KcJjc07gsE_!!1620721184-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩巾夹"
+  },
+  "su_detail": {
+    "subject": "多功能塑料夹商店衣帽夹旋转挂钩窗帘收纳夹家用手套夹旋转袜子夹",
+    "company": "义乌市爱都供应链管理有限公司",
+    "loginid": "cmjj668",
+    "is_live": true,
+    "size_bytes": 101069
+  },
+  "rakumart": {
+    "match_score": 40.4,
+    "price_brl": 0.45,
+    "title_br": "Ganchos plásticos multifuncionais para loja, cabideiro, cortina e organização de luvas e meias – venda por atacado.",
+    "url": "https://www.rakumart.com.br/product/629767079448",
+    "crosswalked_at": "2026-06-18T01:14:30Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.746971Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

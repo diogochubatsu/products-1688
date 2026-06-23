@@ -1,0 +1,42 @@
+{
+  "offer_id": 901472959011,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "五指袜瑜伽袜子女防滑专业室内地板袜女士舞蹈防滑袜普拉提袜子",
+    "price_cny": 7.4,
+    "shop": "诸暨市新誉针织厂",
+    "shop_text": "诸暨市新誉针织厂",
+    "province": "浙江",
+    "city": "绍兴市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01A4U2DC1D3moHADV3e_!!2217664280161-0-cib.jpg",
+    "booked": 21858,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "五指袜瑜伽袜子女防滑专业室内地板袜女士舞蹈防滑袜普拉提袜子",
+    "company": "诸暨市新誉针织厂",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 91651
+  },
+  "rakumart": {
+    "match_score": 72.0,
+    "price_brl": 7.4,
+    "title_br": "Meias de cinco dedos para yoga, dança e pilates, com sola antiderrapante, ideais para uso profissional em pisos internos.",
+    "url": "https://www.rakumart.com.br/product/901472959011",
+    "crosswalked_at": "2026-06-18T01:09:05Z"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

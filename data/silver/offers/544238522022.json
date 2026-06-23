@@ -1,0 +1,42 @@
+{
+  "offer_id": 544238522022,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "糖果色女船袜 女士短袜彩棉女袜 纯色女短袜隐形礼品袜子批发",
+    "price_cny": 0.9,
+    "shop": "盛溢针织厂",
+    "shop_text": "诸暨市大唐盛溢针织品商行",
+    "province": "浙江",
+    "city": "诸暨市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/10586447213_1629485765.jpg",
+    "booked": 10916,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "糖果色女船袜 女士短袜彩棉女袜 纯色女短袜隐形礼品袜子批发",
+    "company": "诸暨市大唐盛溢针织品商行",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 94696
+  },
+  "rakumart": {
+    "match_score": 51.5,
+    "price_brl": 1.98,
+    "title_br": "Meia curta nova para primavera e verão, em cores doces, feminina, de algodão com estilo despojado, cor sólida e invisível. Venda direta da fábrica.",
+    "url": "https://www.rakumart.com.br/product/640109086362",
+    "crosswalked_at": "2026-06-18T01:04:12Z"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

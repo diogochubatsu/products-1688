@@ -1,0 +1,42 @@
+{
+  "offer_id": 900005087447,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩毛巾夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_900005087447.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "无痕夹子晾衣夹晒被子大夹子夹袜子大号防风晾衣服床单被夹塑料夹",
+    "price_cny": "0.22",
+    "shop": "义乌市期雨贸易商行",
+    "province": "浙江",
+    "city": "义乌市",
+    "booked": "1702",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01wSNzik27YZv2btSd1_!!2218899117809-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩毛巾夹"
+  },
+  "su_detail": {
+    "subject": "无痕夹子晾衣夹晒被子大夹子夹袜子大号防风晾衣服床单被夹塑料夹",
+    "company": "义乌市期雨贸易商行",
+    "loginid": "义乌市期雨贸易商行",
+    "is_live": true,
+    "size_bytes": 66932
+  },
+  "rakumart": {
+    "match_score": 36.3,
+    "price_brl": 5.4,
+    "title_br": "Clipes de roupa grandes e resistentes para prender edredons, lençóis e meias na varanda. Feitos em plástico, fixam sem deixar marcas. Ideal para uso doméstico.",
+    "url": "https://www.rakumart.com.br/product/919409588715",
+    "crosswalked_at": "2026-06-18T01:08:47Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.788073Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

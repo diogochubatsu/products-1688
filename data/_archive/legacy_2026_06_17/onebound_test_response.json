@@ -1,0 +1,15 @@
+{
+  "request": "https://api-gw.onebound.cn/1688/item_search_best/?key=test&secret=test&rankid=1031918&rank_type=hot&language=en",
+  "response": {
+    "error": "[test]API接口已停用,联系QQ:3142401606，微信号：onebound1997。",
+    "error_code": "4016",
+    "success": 0,
+    "execution_time": 0.593,
+    "server_time": "Beijing/2026-06-16 13:38:23",
+    "client_ip": "136.111.212.52",
+    "api_type": "1688",
+    "status_code": 200,
+    "http_time": 1.93
+  },
+  "interpretation": "API works! Returns 4016 (API stopped) for fake key. Need real key/secret to get actual data."
+}

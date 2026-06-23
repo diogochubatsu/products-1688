@@ -1,0 +1,42 @@
+{
+  "offer_id": 651216274430,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": "LEGACY: socks_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "短袜子男夏薄款纯色棉袜男士网眼透气吸汗浅口船袜夏季男袜批发",
+    "price_cny": 1.89,
+    "shop": "子兆服饰080",
+    "shop_text": "诸暨市子兆服饰有限公司",
+    "province": "浙江",
+    "city": "诸暨市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01EzNdTt1u7T80FzqUM_!!3484475990-0-cib.jpg",
+    "booked": 14559,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "短袜子男夏薄款纯色棉袜男士网眼透气吸汗浅口船袜夏季男袜批发",
+    "company": "诸暨市子兆服饰有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 113696
+  },
+  "rakumart": {
+    "iid": "807776391042",
+    "title_cn": "袜子女夏季薄款纯色短棉袜女士简约纯棉运动吸汗多巴胺短筒无骨袜",
+    "title_pt": "Meia feminina de algodão puro, modelo curto e fino para o verão, cor sólida, estilo simples, ideal para esportes, com absorção de suor e costura sem costura aparente.",
+    "price_brl": 2.4,
+    "match_score": 66.7
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

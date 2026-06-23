@@ -1,0 +1,42 @@
+{
+  "offer_id": 630190492285,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-21_摄像头_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-21_630190492285.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "爆款车载摄像头ccd ahd星光夜视后视  car camera 倒车影像摄像头",
+    "price_cny": "15",
+    "shop": "三目艾samaeye",
+    "province": "广东",
+    "city": "珠海市",
+    "booked": "4408",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN013MGbtU22wms7flBsP_!!4003197185-0-cib.jpg",
+    "category": "webcam",
+    "source_query": "摄像头"
+  },
+  "su_detail": {
+    "subject": "爆款车载摄像头ccd ahd星光夜视后视  car camera 倒车影像摄像头",
+    "company": "珠海市翼行科技有限责任公司",
+    "loginid": "三目艾samaeye",
+    "is_live": true,
+    "size_bytes": 240961
+  },
+  "rakumart": {
+    "match_score": 35.5,
+    "price_brl": 6.8,
+    "title_br": "Câmera de ré CCD AHD com visão noturna tipo estrela, modelo mais vendido para carro.",
+    "url": "https://www.rakumart.com.br/product/630190492285",
+    "crosswalked_at": "2026-06-22T15:31:50Z"
+  },
+  "enriched_at": "2026-06-21T15:17:25.985593Z",
+  "category": "webcam",
+  "taxonomy": {
+    "n1": "电子数码",
+    "n2": "安防监控",
+    "n3": "摄像头",
+    "n4": "车载摄像头",
+    "path": "电子数码/安防监控/摄像头/车载摄像头"
+  }
+}

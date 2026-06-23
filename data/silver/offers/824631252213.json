@@ -1,0 +1,35 @@
+{
+  "offer_id": 824631252213,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_收纳_p1.json",
+    "su_detail": null,
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "桌面置物架多层收纳架书架厨房用品办公家用杯架家居好物储物架子",
+    "price_cny": "21.8",
+    "shop": "浙江龙泉海川竹木制品厂",
+    "province": "浙江",
+    "city": "丽水市",
+    "booked": "24462",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Cl9O9W2KAO32yc5NZ_!!2809399516-0-cib.jpg",
+    "category": "organization"
+  },
+  "su_detail": null,
+  "rakumart": {
+    "match_score": 42.2,
+    "price_brl": 40.0,
+    "title_br": "Organizador de mesa em madeira de nogueira, múltiplas camadas para armazenamento, sem necessidade de montagem, ideal para cosméticos, canecas e perfumes.",
+    "url": "https://www.rakumart.com.br/product/871907225824",
+    "crosswalked_at": "2026-06-18T01:05:41Z"
+  },
+  "enriched_at": "2026-06-17T19:25:13.638070Z",
+  "category": "organization",
+  "taxonomy": {
+    "n1": "家居日用",
+    "n2": "收纳整理",
+    "n3": "通用收纳",
+    "n4": "通用收纳",
+    "path": "家居日用/收纳整理/通用收纳/通用收纳"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "offer_id": 648704690329,
+  "bronze_refs": {
+    "mtop": "LEGACY: youyazi_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: youyazi_*_enriched.json",
+    "rakumart": "LEGACY: youyazi_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "蜂巢高腰纯棉内裤女无缝大码提臀收腹女士三角裤外贸批发",
+    "price_cny": 2.8,
+    "shop": "尤雅姿内衣厂",
+    "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01EK62gb2Akt3pEHRlV_!!2211950918242-0-cib.jpg",
+    "booked": 1427,
+    "category": "underwear"
+  },
+  "su_detail": {
+    "subject": "蜂巢高腰纯棉内裤女无缝大码提臀收腹女士三角裤外贸批发",
+    "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 73924
+  },
+  "rakumart": {
+    "iid": "743378718290",
+    "title_cn": "60S纯棉内裤女无痕中高腰大码少女内裤全棉裆字母腰头女士三角裤",
+    "title_pt": "Calcinha de algodão 100% para mulher, sem costura visível, cintura média-alta, tamanhos grandes, estilo jovem, com detalhe em letras na cintura e forro totalmente de algodão.",
+    "price_brl": 6.8,
+    "match_score": 53.3
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身裤",
+    "n4": "提臀塑裤",
+    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+  }
+}

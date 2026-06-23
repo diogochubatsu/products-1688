@@ -1,0 +1,42 @@
+{
+  "offer_id": 769870620385,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": "LEGACY: socks_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "袜子男士防臭吸汗袜子男春夏中筒袜透气商务男袜纯色诸暨袜子批发",
+    "price_cny": 0.59,
+    "shop": "昊程针织工厂店",
+    "shop_text": "义乌市企胜服饰有限公司",
+    "province": "浙江",
+    "city": "绍兴市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01pZI8aV28h6naJjyTw_!!2217115927963-0-cib.jpg",
+    "booked": 6609,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "袜子男士防臭吸汗袜子男春夏中筒袜透气商务男袜纯色诸暨袜子批发",
+    "company": "义乌市企胜服饰有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 110825
+  },
+  "rakumart": {
+    "iid": "779870900014",
+    "title_cn": "袜子短袜男士防臭吸汗短筒袜春夏季薄款低帮浅口袜运动防汗",
+    "title_pt": "Meia curta masculina, antiodor e absorvente de suor, ideal para primavera e verão. Modelo leve, baixo e aberto, perfeito para esportes e transpiração controlada.",
+    "price_brl": 0.58,
+    "match_score": 73.3
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

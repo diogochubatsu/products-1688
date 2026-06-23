@@ -1,0 +1,42 @@
+{
+  "offer_id": 559791130931,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_559791130931.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "火烈鸟夹夏天塑料沙滩夹子Flamingo沙滩巾夹毛巾夹浴巾夹晾衣夹",
+    "price_cny": "3.68",
+    "shop": "永坤塑料制品",
+    "province": "浙江",
+    "city": "宁波市",
+    "booked": "2230",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01CkLDRa1d2ZeI3MP0R_!!2863353678-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩巾夹"
+  },
+  "su_detail": {
+    "subject": "火烈鸟夹夏天塑料沙滩夹子Flamingo沙滩巾夹毛巾夹浴巾夹晾衣夹",
+    "company": "宁波市海曙古林永坤塑料制品厂",
+    "loginid": "永坤塑料制品",
+    "is_live": true,
+    "size_bytes": 102688
+  },
+  "rakumart": {
+    "match_score": 49.4,
+    "price_brl": 2.63,
+    "title_br": "Clipes de praia em formato de flamingo, ideais para prender toalhas e roupas no verão.",
+    "url": "https://www.rakumart.com.br/product/559791130931",
+    "crosswalked_at": "2026-06-18T01:03:29Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.703478Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

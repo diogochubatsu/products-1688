@@ -1,0 +1,42 @@
+{
+  "offer_id": 1026769017964,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_提臀塑身衣_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_1026769017964.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "亚马逊塑身连体衣排扣收腹束身吊带束腰紧身塑形内衣产后美体",
+    "price_cny": "8.45",
+    "shop": "宝盛内衣有限公司",
+    "province": "广东",
+    "city": "广州市",
+    "booked": "261",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01PEJEiD21WOKudQNiN_!!2219564986992-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "提臀塑身衣"
+  },
+  "su_detail": {
+    "subject": "亚马逊塑身连体衣排扣收腹束身吊带束腰紧身塑形内衣产后美体",
+    "company": "广州宝盛内衣有限公司",
+    "loginid": "宝盛内衣有限公司",
+    "is_live": true,
+    "size_bytes": 147370
+  },
+  "rakumart": {
+    "match_score": 51.8,
+    "price_brl": 16.5,
+    "title_br": "Body shaper feminino, modelador sensual com costas nuas, ideal como base. Modelagem ajustada para grandes tamanhos, cinto de cintura e roupa íntima que define o corpo.",
+    "url": "https://www.rakumart.com.br/product/844906165095",
+    "crosswalked_at": "2026-06-23T01:21:05Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.165440Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "提臀塑身",
+    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+  }
+}

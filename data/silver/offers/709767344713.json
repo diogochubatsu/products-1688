@@ -1,0 +1,42 @@
+{
+  "offer_id": 709767344713,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_709767344713.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "厂家直销强力防风夹晾晒夹塑料晾衣夹防滑小夹子多用处实用夹片",
+    "price_cny": "2",
+    "shop": "辉翔塑业有限公司",
+    "province": "浙江",
+    "city": "台州市",
+    "booked": "1539",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01qhehix1pCRTn0s1MN_!!2215531405324-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩巾夹"
+  },
+  "su_detail": {
+    "subject": "厂家直销强力防风夹晾晒夹塑料晾衣夹防滑小夹子多用处实用夹片",
+    "company": "台州市馨翔日用品有限公司",
+    "loginid": "辉翔塑业有限公司",
+    "is_live": true,
+    "size_bytes": 87232
+  },
+  "rakumart": {
+    "match_score": 40.7,
+    "price_brl": 0.2,
+    "title_br": "Venda direta da fábrica: prendedores de roupa resistentes ao vento, feitos em PC, com superfície antiderrapante. Pequenos clipes transparentes, multifuncionais e super práticos para secar roupas.",
+    "url": "https://www.rakumart.com.br/product/938071160798",
+    "crosswalked_at": "2026-06-18T01:13:43Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.767019Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

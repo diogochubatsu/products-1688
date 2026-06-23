@@ -1,0 +1,42 @@
+{
+  "offer_id": 963190246675,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: drill_*_enriched.json",
+    "rakumart": "LEGACY: drill_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "德国多角度锂电螺丝刀充电式小空间螺丝刀扭力可调小型迷你电起子",
+    "price_cny": 149.0,
+    "shop": "德国麦思德",
+    "shop_text": "上海麦睿斯五金工具有限公司",
+    "province": "上海",
+    "city": "上海市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01YB625R27KNgI5xqm9_!!2385927778-0-cib.jpg",
+    "booked": 3498,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": "德国多角度锂电螺丝刀充电式小空间螺丝刀扭力可调小型迷你电起子",
+    "company": "上海麦睿斯五金工具有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 126760
+  },
+  "rakumart": {
+    "iid": "704903687529",
+    "title_cn": "电动螺丝刀充电式小型家用螺丝批工具迷你手枪钻电起子电批手电钻",
+    "title_pt": "Chave de fenda elétrica recarregável, pequena para uso doméstico, mini furadeira no formato de pistola, parafusadeira e furadeira manual.",
+    "price_brl": 8.8,
+    "match_score": 53.3
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

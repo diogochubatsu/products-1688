@@ -1,0 +1,42 @@
+{
+  "offer_id": 919000684372,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-21_手电筒_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-21_919000684372.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "紫光灯小型手持验钞机专业检测紫外线荧光剂检测笔紫光手电筒",
+    "price_cny": "3.77",
+    "shop": "璟也日用品",
+    "province": "浙江",
+    "city": "金华市",
+    "booked": "1134",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01wisTKT1Sg06NCAM2r_!!2219376252275-0-cib.jpg",
+    "category": "flashlight",
+    "source_query": "手电筒"
+  },
+  "su_detail": {
+    "subject": "紫光灯小型手持验钞机专业检测紫外线荧光剂检测笔紫光手电筒",
+    "company": "义乌市铭雍贸易有限公司",
+    "loginid": "璟也日用品",
+    "is_live": true,
+    "size_bytes": 134968
+  },
+  "rakumart": {
+    "match_score": 41.3,
+    "price_brl": 0.26,
+    "title_br": "Mini lanterna LED de plástico, colorida, ideal para crianças, venda em bancas e atacado.",
+    "url": "https://www.rakumart.com.br/product/931264787150",
+    "crosswalked_at": "2026-06-22T15:38:29Z"
+  },
+  "enriched_at": "2026-06-21T15:17:26.017404Z",
+  "category": "flashlight",
+  "taxonomy": {
+    "n1": "电子数码",
+    "n2": "照明",
+    "n3": "手电筒",
+    "n4": "LED手电筒",
+    "path": "电子数码/照明/手电筒/LED手电筒"
+  }
+}

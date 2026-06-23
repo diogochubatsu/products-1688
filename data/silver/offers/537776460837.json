@@ -1,0 +1,36 @@
+{
+  "offer_id": 537776460837,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_内裤_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_537776460837.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "新款柔软017牛奶丝女士内裤蕾丝少女学生三角裤双档厂家直销批发",
+    "price_cny": "1.61",
+    "shop": "姿丽雅内衣",
+    "province": "广东",
+    "city": "深圳市",
+    "booked": "17276",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/19372891248_1311258120.jpg",
+    "category": "underwear",
+    "source_query": "内裤"
+  },
+  "su_detail": {
+    "subject": "新款柔软017牛奶丝女士内裤蕾丝少女学生三角裤双档厂家直销批发",
+    "company": "江门市维奈思服饰有限公司",
+    "loginid": "姿丽雅内衣",
+    "is_live": true,
+    "size_bytes": 124376
+  },
+  "rakumart": null,
+  "enriched_at": "2026-06-18T00:06:26.702301Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "内裤",
+    "n4": "女士内裤",
+    "path": "服装鞋帽/内衣/内裤/女士内裤"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "offer_id": 901847434807,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": "LEGACY: socks_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "冰丝船袜女防滑不掉跟纯棉拼接棉底袜夏季薄款浅口隐形袜配高跟鞋",
+    "price_cny": 2.7,
+    "shop": "布谷鸟针织",
+    "shop_text": "诸暨市布谷鸟针织厂",
+    "province": "浙江",
+    "city": "诸暨市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01ejIQsb1D1UpxexLPs_!!2219542100156-0-cib.jpg",
+    "booked": 5269,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "冰丝船袜女防滑不掉跟纯棉拼接棉底袜夏季薄款浅口隐形袜配高跟鞋",
+    "company": "诸暨市布谷鸟针织厂",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 101585
+  },
+  "rakumart": {
+    "iid": "817183018745",
+    "title_cn": "冰丝船袜女夏季薄款防滑不掉跟纯棉底高跟鞋单鞋夏天浅口隐形袜子",
+    "title_pt": "Meia de barco feminina de verão, tecido leve tipo seda gelada, antiderrapante e que não cai do calcanhar. Base 100% algodão, ideal para usar com sapatos de salto alto ou sapatilhas rasas no verão. Discreta e invisível dentro do sapato.",
+    "price_brl": 2.8,
+    "match_score": 73.3
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

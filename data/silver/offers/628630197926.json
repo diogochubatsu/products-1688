@@ -1,0 +1,42 @@
+{
+  "offer_id": 628630197926,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: drill_*_enriched.json",
+    "rakumart": "LEGACY: drill_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "伯尔特家用手电钻无刷手钻充电电转锂电工具冲击手枪钻电动螺丝刀",
+    "price_cny": 62.0,
+    "shop": "济南通力五金机电",
+    "shop_text": "山东利华五金机电有限公司",
+    "province": "山东",
+    "city": "济南市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01tWEk8b1oCbtRNysWZ_!!2200814035189-0-cib.jpg",
+    "booked": 2637,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": "伯尔特家用手电钻无刷手钻充电电转锂电工具冲击手枪钻电动螺丝刀",
+    "company": "山东利华五金机电有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 146446
+  },
+  "rakumart": {
+    "iid": "821721644652",
+    "title_cn": "伯尔特无刷充电式电锤电镐三用大功率工业冲击电钻混凝土锂电电锤",
+    "title_pt": "Martelo perfurador, demolidor e furadeira de impacto trifuncional a bateria sem escovas, motor potente para uso industrial em concreto.",
+    "price_brl": 137.0,
+    "match_score": 53.3
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

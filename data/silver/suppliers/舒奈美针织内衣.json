@@ -1,0 +1,20 @@
+{
+  "shop_name": "舒奈美针织内衣",
+  "offer_count": 2,
+  "categories": [
+    "underwear"
+  ],
+  "offers": [
+    {
+      "offer_id": 641338273255,
+      "category": "underwear",
+      "title": "新款可调节前置拉链运动文胸 防震无钢圈背心瑜伽交叉美背内衣女"
+    },
+    {
+      "offer_id": 630809410609,
+      "category": "underwear",
+      "title": "高腰收腹裤束腹提臀美体塑身裤女士安全裤防走光产后平角收腹内裤"
+    }
+  ],
+  "generated_at": "2026-06-18T00:07:55.051544Z"
+}

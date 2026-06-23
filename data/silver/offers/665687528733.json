@@ -1,0 +1,42 @@
+{
+  "offer_id": 665687528733,
+  "bronze_refs": {
+    "mtop": "LEGACY: youyazi_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: youyazi_*_enriched.json",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "少女宫廷三代中腰内裤女士无缝宫廷3.0代蝴蝶结收腹提臀三角裤",
+    "price_cny": 1.5,
+    "shop": "尤雅姿内衣厂",
+    "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01xyunfy2Akt6cyyyze_!!2211950918242-0-cib.jpg",
+    "booked": 1086,
+    "category": "underwear"
+  },
+  "su_detail": {
+    "subject": "少女宫廷三代中腰内裤女士无缝宫廷3.0代蝴蝶结收腹提臀三角裤",
+    "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 84446
+  },
+  "rakumart": {
+    "match_score": 38.3,
+    "price_brl": 8.0,
+    "title_br": "Cueca de algodão na altura da cintura, modelo 10A com ação antibacteriana, entreperneira estendida em 100% algodão, respirável e confortável, que modela o bumbum. Tecido absorvente e de secagem rápida",
+    "url": "https://www.rakumart.com.br/product/944393112453",
+    "crosswalked_at": "2026-06-18T01:07:34Z"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身裤",
+    "n4": "提臀塑裤",
+    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+  }
+}

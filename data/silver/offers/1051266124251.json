@@ -1,0 +1,42 @@
+{
+  "offer_id": 1051266124251,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-21_手电筒_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-21_1051266124251.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "跨境强光手电筒USB充电长续航远射手电户外迷你超轻便携小手电筒",
+    "price_cny": "2.9",
+    "shop": "艾希户外用品厂",
+    "province": "浙江",
+    "city": "宁波市",
+    "booked": "56",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01GDBkb01O6xQ7dss9H_!!2215785611657-0-cib.jpg",
+    "category": "flashlight",
+    "source_query": "手电筒"
+  },
+  "su_detail": {
+    "subject": "跨境强光手电筒USB充电长续航远射手电户外迷你超轻便携小手电筒",
+    "company": "宁海县艾希户外用品厂",
+    "loginid": "艾希户外用品厂",
+    "is_live": true,
+    "size_bytes": 68723
+  },
+  "rakumart": {
+    "match_score": 60.9,
+    "price_brl": 3.2,
+    "title_br": "Mini lanterna recarregável portátil, super brilhante e potente para uso ao ar livre, ideal para revenda em feiras e comércio exterior.",
+    "url": "https://www.rakumart.com.br/product/669514420955",
+    "crosswalked_at": "2026-06-22T15:28:56Z"
+  },
+  "enriched_at": "2026-06-21T15:17:25.978951Z",
+  "category": "flashlight",
+  "taxonomy": {
+    "n1": "电子数码",
+    "n2": "照明",
+    "n3": "手电筒",
+    "n4": "LED手电筒",
+    "path": "电子数码/照明/手电筒/LED手电筒"
+  }
+}

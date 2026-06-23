@@ -1,0 +1,36 @@
+{
+  "offer_id": 880664793556,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_内衣_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_880664793556.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "内衣女大学学生青少年高中生少女文胸18岁固定杯青春期发育背心式",
+    "price_cny": "7.2",
+    "shop": "瑞贝雅针织内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "10314",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01IhLSSM2GRYKC5vp4w_!!0-item_pic.jpg",
+    "category": "underwear",
+    "source_query": "内衣"
+  },
+  "su_detail": {
+    "subject": "内衣女大学学生青少年高中生少女文胸18岁固定杯青春期发育背心式",
+    "company": "汕头市潮阳区贵屿瑞贝雅针织内衣厂（个体工商户）",
+    "loginid": "瑞贝雅针织内衣厂",
+    "is_live": true,
+    "size_bytes": 107676
+  },
+  "rakumart": null,
+  "enriched_at": "2026-06-18T00:06:26.785888Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "提臀塑身",
+    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+  }
+}

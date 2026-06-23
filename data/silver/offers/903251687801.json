@@ -1,0 +1,42 @@
+{
+  "offer_id": 903251687801,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_提臀塑身衣_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_903251687801.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "翘在线  连体塑身衣女收腹提臀塑形吊带美背内衣带胸垫美体束身衣",
+    "price_cny": "10.87",
+    "shop": "翘在线针织内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "222",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN015aKl721pFeTH9fZLo_!!2218512665331-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "提臀塑身衣"
+  },
+  "su_detail": {
+    "subject": "翘在线  连体塑身衣女收腹提臀塑形吊带美背内衣带胸垫美体束身衣",
+    "company": "汕头市潮阳区贵屿翘在线针织内衣厂(个体工商户)",
+    "loginid": "翘在线针织内衣厂",
+    "is_live": true,
+    "size_bytes": 126433
+  },
+  "rakumart": {
+    "match_score": 53.5,
+    "price_brl": 13.3,
+    "title_br": "Body shaper feminino, modelador sensual com costas nuas, ideal como base. Modelagem ajustada para grandes tamanhos, cinto de cintura e roupa íntima que define o corpo.",
+    "url": "https://www.rakumart.com.br/product/820809190153",
+    "crosswalked_at": "2026-06-23T01:19:00Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.264435Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "连体塑身",
+    "path": "服装鞋帽/内衣/塑身衣/连体塑身"
+  }
+}

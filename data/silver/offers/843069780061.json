@@ -1,0 +1,36 @@
+{
+  "offer_id": 843069780061,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: drill_*_enriched.json",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "电磨3.6v家用雕刻机小型手持打磨头抛光神器玉石雕刻电动迷你电钻",
+    "price_cny": 54.5,
+    "shop": "宁波市东木和工具有限公司",
+    "shop_text": "宁波市东木和工具有限公司",
+    "province": "浙江",
+    "city": "宁波市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01R3W6hH1bSZ5bqiZfF_!!2217879493464-0-cib.jpg",
+    "booked": 1010,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": "电磨3.6v家用雕刻机小型手持打磨头抛光神器玉石雕刻电动迷你电钻",
+    "company": "宁波市东木和工具有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 89901
+  },
+  "rakumart": null,
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

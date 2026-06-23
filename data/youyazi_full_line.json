@@ -1,0 +1,388 @@
+{
+  "supplier": "尤雅姿内衣厂 (汕头市潮阳区谷饶尤雅姿内衣厂)",
+  "location": "广东/汕头 (Guangdong/Shantou)",
+  "note": "Youyazi shapewear/underwear factory. Found 14 via specific title search (高腰收腹提臀裤) + brand name (尤雅姿). Source offer 863290574424 was specific product from this catalog.",
+  "total_products": 14,
+  "enriched_count": 14,
+  "rakumart_matched": 5,
+  "products": [
+    {
+      "offer_id": "1027290432416",
+      "title": "夏季主推女生极简黑白灰系高级感无缝防走光三合一女士安全裤平角",
+      "price_cny": 6.5,
+      "shop": "尤雅姿内衣厂",
+      "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01nFpel72AktV0D7k7W_!!2211950918242-0-cib.jpg",
+      "booked": 205,
+      "province": "广东",
+      "city": "汕头市",
+      "query": "尤雅姿",
+      "enriched_detail": {
+        "size_bytes": 84382,
+        "subject": "夏季主推女生极简黑白灰系高级感无缝防走光三合一女士安全裤平角",
+        "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+        "login_id": "尤雅姿内衣厂",
+        "book_count": null,
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "724342214927",
+        "title_cn": "高开叉夏季女薄款性感无痕冰丝一片式低腰女士内裤三角裤不夹臀",
+        "title_pt": "Calcinha de verão para mulher, fio dental, tecido fino em seda gelada, sem costura, modelagem única, cintura baixa, formato triangular que não marca o bumbum.",
+        "price_brl": 7.0,
+        "match_score": 26.7
+      }
+    },
+    {
+      "offer_id": "1003634067957",
+      "title": "男士内裤男纯棉抗菌平角裤青少年全棉透气四角裤男生短裤头裤衩夏",
+      "price_cny": 4.0,
+      "shop": "尤雅姿内衣厂",
+      "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01dF9Jky2AktUCvQXp6_!!2211950918242-0-cib.jpg",
+      "booked": 32,
+      "province": "广东",
+      "city": "汕头市",
+      "query": "尤雅姿",
+      "enriched_detail": {
+        "size_bytes": 113612,
+        "subject": "男士内裤男纯棉抗菌平角裤青少年全棉透气四角裤男生短裤头裤衩夏",
+        "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+        "login_id": "尤雅姿内衣厂",
+        "book_count": null,
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "639470393430",
+        "title_cn": "七匹狼男士内裤男全棉抗菌平角裤纯棉内裤透气男式四角裤头男底裤",
+        "title_pt": "Cueca boxer masculina da marca Sete Lobos, 100% algodão, com proteção antibacteriana e respirável.",
+        "price_brl": 47.84,
+        "match_score": 73.3
+      }
+    },
+    {
+      "offer_id": "648704690329",
+      "title": "蜂巢高腰纯棉内裤女无缝大码提臀收腹女士三角裤外贸批发",
+      "price_cny": 2.8,
+      "shop": "尤雅姿内衣厂",
+      "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01EK62gb2Akt3pEHRlV_!!2211950918242-0-cib.jpg",
+      "booked": 1427,
+      "province": "广东",
+      "city": "汕头市",
+      "query": "尤雅姿",
+      "enriched_detail": {
+        "size_bytes": 73924,
+        "subject": "蜂巢高腰纯棉内裤女无缝大码提臀收腹女士三角裤外贸批发",
+        "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+        "login_id": "尤雅姿内衣厂",
+        "book_count": null,
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "743378718290",
+        "title_cn": "60S纯棉内裤女无痕中高腰大码少女内裤全棉裆字母腰头女士三角裤",
+        "title_pt": "Calcinha de algodão 100% para mulher, sem costura visível, cintura média-alta, tamanhos grandes, estilo jovem, com detalhe em letras na cintura e forro totalmente de algodão.",
+        "price_brl": 6.8,
+        "match_score": 53.3
+      }
+    },
+    {
+      "offer_id": "683867736365",
+      "title": "新款网红高腰女士内裤高弹力无束缚收腹提臀不卡档内裤女",
+      "price_cny": 2.4,
+      "shop": "尤雅姿内衣厂",
+      "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01vqeogG2Akt9mTFJj1_!!2211950918242-0-cib.jpg",
+      "booked": 656,
+      "province": "广东",
+      "city": "汕头市",
+      "query": "尤雅姿",
+      "enriched_detail": {
+        "size_bytes": 108484,
+        "subject": "新款网红高腰女士内裤高弹力无束缚收腹提臀不卡档内裤女",
+        "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+        "login_id": "尤雅姿内衣厂",
+        "book_count": null,
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "910887012104",
+        "title_cn": "纯棉高腰女士内裤  产后高腰收腹提臀大码内裤 纯棉高腰压花内裤",
+        "title_pt": "Cueca de algodão 100% para mulher, cintura alta pós-parto com efeito modelador no abdômen e elevação do bumbum, disponível em tamanhos grandes. Modelo de cintura alta em algodão puro com estampa em relevo.",
+        "price_brl": 3.3,
+        "match_score": 46.7
+      }
+    },
+    {
+      "offer_id": "968206984287",
+      "title": "70克跨境3D蜂巢蜂窝无缝高腰棉裆收腹提臀打底塑身平角内裤女平角",
+      "price_cny": 3.8,
+      "shop": "尤雅姿内衣厂",
+      "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01IJRYGF2AktSVj63b1_!!2211950918242-0-cib.jpg",
+      "booked": 126,
+      "province": "广东",
+      "city": "汕头市",
+      "query": "尤雅姿",
+      "enriched_detail": {
+        "size_bytes": 71971,
+        "subject": "70克跨境3D蜂巢蜂窝无缝高腰棉裆收腹提臀打底塑身平角内裤女平角",
+        "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+        "login_id": "尤雅姿内衣厂",
+        "book_count": null,
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "844851732358",
+        "title_cn": "跨境专供无缝高腰收腹裤产后美体塑身裤加大修身提臀防卷边三角裤",
+        "title_pt": "Calcinha de cintura alta sem costura, modeladora e redutora da barriga, ideal para pós-parto. Modelo plus size com ajuste no corpo e efeito elevador de glúteos, que não enrola na coxa.",
+        "price_brl": 6.0,
+        "match_score": 40.0
+      }
+    },
+    {
+      "offer_id": "683040216569",
+      "title": "新款蕾丝花边安全裤中腰收腹打底裤棉裆三分防走光内裤女厂家直供",
+      "price_cny": 2.75,
+      "shop": "尤雅姿内衣厂",
+      "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rbs8hV2Akt9XkSlaS_!!2211950918242-0-cib.jpg",
+      "booked": 8,
+      "province": "广东",
+      "city": "汕头市",
+      "query": "尤雅姿",
+      "enriched_detail": {
+        "size_bytes": 97929,
+        "subject": "新款蕾丝花边安全裤中腰收腹打底裤棉裆三分防走光内裤女厂家直供",
+        "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+        "login_id": "尤雅姿内衣厂",
+        "book_count": null,
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "723882508003",
+        "title_cn": "夏季薄款冰丝无痕安全裤高腰打底裤安全裤内裤女大码安全裤防走光",
+        "title_pt": "Calça de segurança feminina de verão, fina em tecido ice silk sem costura aparente, cintura alta, modelo base para usar por baixo da roupa, disponível em tamanhos grandes, com proteção contra transparência.",
+        "price_brl": 10.8,
+        "match_score": 53.3
+      }
+    },
+    {
+      "offer_id": "684505918229",
+      "title": "新款大码无缝高腰收腹内裤石墨烯纯棉档塑身美体裤女塑形提臀",
+      "price_cny": 3.2,
+      "shop": "尤雅姿内衣厂",
+      "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01VzlLdQ2Akt9azw1wA_!!2211950918242-0-cib.jpg",
+      "booked": 196,
+      "province": "广东",
+      "city": "汕头市",
+      "query": "尤雅姿",
+      "enriched_detail": {
+        "size_bytes": 83747,
+        "subject": "新款大码无缝高腰收腹内裤石墨烯纯棉档塑身美体裤女塑形提臀",
+        "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+        "login_id": "尤雅姿内衣厂",
+        "book_count": null,
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "700989784436",
+        "title_cn": "外贸加大码无痕高腰交叉收腹裤女士网纱透气美体束腰塑身提臀内裤",
+        "title_pt": "Calça modeladora de cintura alta, sem costura visível, com efeito cruzado para modelar a barriga e empinar o bumbum. Feita em malha respirável, ideal para mulheres que buscam conforto e silhueta definida. Disponível em tamanhos grandes.",
+        "price_brl": 8.8,
+        "match_score": 53.3
+      }
+    },
+    {
+      "offer_id": "854563066608",
+      "title": "超薄裸感纯欲风面膜无痕女士简约风三角内裤可爱草莓学生",
+      "price_cny": 1.55,
+      "shop": "尤雅姿内衣厂",
+      "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01soJl4C2AktNpfISPr_!!2211950918242-0-cib.jpg",
+      "booked": 5,
+      "province": "广东",
+      "city": "汕头市",
+      "query": "尤雅姿",
+      "enriched_detail": {
+        "size_bytes": 101532,
+        "subject": "超薄裸感纯欲风面膜无痕女士简约风三角内裤可爱草莓学生",
+        "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+        "login_id": "尤雅姿内衣厂",
+        "book_count": null,
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "788232829378",
+        "title_cn": "7A超薄冰丝面膜女士内裤安全裤二合一无痕舒适透气冰凉少女平角裤",
+        "title_pt": "Calcinha de segurança 2 em 1 com tecido ultrafino e refrescante, estilo ice silk, sem costura aparente, super confortável e respirável. Ideal para mulheres que buscam frescor e discrição no dia a dia.",
+        "price_brl": 7.04,
+        "match_score": 40.0
+      }
+    },
+    {
+      "offer_id": "683685770263",
+      "title": "泡泡裤大码内裤女士泡泡裤氧气内裤石墨烯透气中腰三角裤女",
+      "price_cny": 1.55,
+      "shop": "尤雅姿内衣厂",
+      "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01GpYoaI2Akt9VyOTrt_!!2211950918242-0-cib.jpg",
+      "booked": 184,
+      "province": "广东",
+      "city": "汕头市",
+      "query": "尤雅姿",
+      "enriched_detail": {
+        "size_bytes": 106119,
+        "subject": "泡泡裤大码内裤女士泡泡裤氧气内裤石墨烯透气中腰三角裤女",
+        "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+        "login_id": "尤雅姿内衣厂",
+        "book_count": null,
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "631309485185",
+        "title_cn": "外贸大码男士内裤纯棉裤头透气舒适抗菌四角裤时尚宽松肥佬平角男",
+        "title_pt": "Boxer de algodão 100% para homem, tamanho grande, super confortável e respirável com proteção antibacteriana. Modelo largo e moderno, ideal para quem busca mais conforto.",
+        "price_brl": 4.3,
+        "match_score": 40.0
+      }
+    },
+    {
+      "offer_id": "1005012345377",
+      "title": "女士内裤全包臀不夹屁股平角短裤10a级抗菌裆部防走光四角安全裤",
+      "price_cny": 4.1,
+      "shop": "尤雅姿内衣厂",
+      "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Fhq9nF2AktUDY6OzJ_!!2211950918242-0-cib.jpg",
+      "booked": 1,
+      "province": "广东",
+      "city": "汕头市",
+      "query": "尤雅姿",
+      "enriched_detail": {
+        "size_bytes": 107890,
+        "subject": "女士内裤全包臀不夹屁股平角短裤10a级抗菌裆部防走光四角安全裤",
+        "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+        "login_id": "尤雅姿内衣厂",
+        "book_count": null,
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "772652378356",
+        "title_cn": "中老年女士内裤平角五分短裤女纯棉高腰大码宽松纯棉薄款老人短裤",
+        "title_pt": "Calcinha de algodão 100% para senhoras, modelo shortinho de cinco polegadas com cintura alta, corte largo e tamanho grande, ideal para mulheres mais velhas.",
+        "price_brl": 6.9,
+        "match_score": 53.3
+      }
+    },
+    {
+      "offer_id": "1012813915568",
+      "title": "无痕冰丝性感超薄裸感无钢圈文胸新款梯形杯u型无扣女士运动内衣",
+      "price_cny": 4.75,
+      "shop": "尤雅姿内衣厂",
+      "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01bBLsub2AktUasg2W0_!!2211950918242-0-cib.jpg",
+      "booked": 1,
+      "province": "广东",
+      "city": "汕头市",
+      "query": "尤雅姿",
+      "enriched_detail": {
+        "size_bytes": 115602,
+        "subject": "无痕冰丝性感超薄裸感无钢圈文胸新款梯形杯u型无扣女士运动内衣",
+        "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+        "login_id": "尤雅姿内衣厂",
+        "book_count": null,
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "788366817882",
+        "title_cn": "冰丝男士内裤超薄凉感速干舒适简约四角男士内裤抑菌裆部平角裤男",
+        "title_pt": "Boxer masculino de tecido ice silk, super fino com sensação refrescante, secagem rápida, confortável e design simples. Cueca boxer masculina com proteção antibacteriana na região íntima.",
+        "price_brl": 6.0,
+        "match_score": 33.3
+      }
+    },
+    {
+      "offer_id": "683039336852",
+      "title": "太空舱男士内裤平角宽松男款中腰短裤四角裤男生底裤衩",
+      "price_cny": 1.6,
+      "shop": "尤雅姿内衣厂",
+      "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01lJ0sfd2Akt9VyRMvx_!!2211950918242-0-cib.jpg",
+      "booked": 24,
+      "province": "广东",
+      "city": "汕头市",
+      "query": "尤雅姿",
+      "enriched_detail": {
+        "size_bytes": 94020,
+        "subject": "太空舱男士内裤平角宽松男款中腰短裤四角裤男生底裤衩",
+        "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+        "login_id": "尤雅姿内衣厂",
+        "book_count": null,
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "828252175519",
+        "title_cn": "男士内裤男莫代尔中腰大码抗菌透气男生无痕男式平角裤裤头男批发",
+        "title_pt": "Cueca masculina de modal, cintura média, tamanhos grandes, com proteção antibacteriana e respirável, sem costura aparente. Ideal para venda no atacado.",
+        "price_brl": 9.8,
+        "match_score": 46.7
+      }
+    },
+    {
+      "offer_id": "665687528733",
+      "title": "少女宫廷三代中腰内裤女士无缝宫廷3.0代蝴蝶结收腹提臀三角裤",
+      "price_cny": 1.5,
+      "shop": "尤雅姿内衣厂",
+      "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01xyunfy2Akt6cyyyze_!!2211950918242-0-cib.jpg",
+      "booked": 1086,
+      "province": "广东",
+      "city": "汕头市",
+      "query": "尤雅姿",
+      "enriched_detail": {
+        "size_bytes": 84446,
+        "subject": "少女宫廷三代中腰内裤女士无缝宫廷3.0代蝴蝶结收腹提臀三角裤",
+        "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+        "login_id": "尤雅姿内衣厂",
+        "book_count": null,
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "919660573644",
+        "title_cn": "7A抑菌女士中腰无痕内裤女高弹奶皮冰皮少女桑蚕丝裆大码女生批发",
+        "title_pt": "Calcinha feminina de cintura média, sem costura, com tecido elástico tipo pele de leite e pele de gelo, ideal para jovens. Forro em seda natural. Disponível em tamanhos grandes. Venda por atacado.",
+        "price_brl": 5.35,
+        "match_score": 40.0
+      }
+    },
+    {
+      "offer_id": "648698002726",
+      "title": "日系3D蜂巢内裤1.0高弹提臀透气纯棉裆无缝内裤三角裤高质量",
+      "price_cny": 1.25,
+      "shop": "尤雅姿内衣厂",
+      "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+      "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01UOLxEs2Akt3oj0T1W_!!2211950918242-0-cib.jpg",
+      "booked": 123,
+      "province": "广东",
+      "city": "汕头市",
+      "query": "尤雅姿",
+      "enriched_detail": {
+        "size_bytes": 97441,
+        "subject": "日系3D蜂巢内裤1.0高弹提臀透气纯棉裆无缝内裤三角裤高质量",
+        "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+        "login_id": "尤雅姿内衣厂",
+        "book_count": null,
+        "is_live": true
+      },
+      "rak_match": {
+        "iid": "781231828245",
+        "title_cn": "中老年人女士内裤100%纯棉高腰加肥加大奶奶全棉裤头妈妈平角短裤",
+        "title_pt": "Calcinha de algodão 100% para mulheres maduras, cintura alta, tamanhos grandes e plus size, modelo boxer confortável para mães e avós.",
+        "price_brl": 5.5,
+        "match_score": 33.3
+      }
+    }
+  ]
+}

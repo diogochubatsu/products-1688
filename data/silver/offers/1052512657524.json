@@ -1,0 +1,42 @@
+{
+  "offer_id": 1052512657524,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_船袜_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_1052512657524.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "浅口隐形蕾丝女船袜浅口隐形袜女夏季薄款防滑不掉跟透气女士袜子",
+    "price_cny": "0.55",
+    "shop": "义乌市昝贝电子商务",
+    "province": "",
+    "city": "",
+    "booked": "14",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rVM8CL1EDEh6HkUPp_!!2222409480317-0-cib.jpg",
+    "category": "socks",
+    "source_query": "船袜"
+  },
+  "su_detail": {
+    "subject": "浅口隐形蕾丝女船袜浅口隐形袜女夏季薄款防滑不掉跟透气女士袜子",
+    "company": "义乌市昝贝电子商务商行(个体工商户)",
+    "loginid": "义乌市昝贝电子商务",
+    "is_live": true,
+    "size_bytes": 92152
+  },
+  "rakumart": {
+    "match_score": 75.4,
+    "price_brl": 3.5,
+    "title_br": "Meia de barco invisível com renda cruzada para mulher, antiderrapante em silicone, bico baixo, sola de toalha, modelo fino e respirável ideal para o verão.",
+    "url": "https://www.rakumart.com.br/product/788974551395",
+    "crosswalked_at": "2026-06-23T01:13:13Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.179858Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

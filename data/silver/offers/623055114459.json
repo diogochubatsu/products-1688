@@ -1,0 +1,42 @@
+{
+  "offer_id": 623055114459,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_收纳_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_623055114459.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "厂家批发储物盒 化妆品首饰整理盒学生宿舍衣物塑料 桌面收纳盒",
+    "price_cny": "3.2",
+    "shop": "台州市黄岩跃豪塑料厂",
+    "province": "浙江",
+    "city": "台州市",
+    "booked": "17630",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/2020/662/245/20398542266_1980567807.jpg",
+    "category": "organization",
+    "source_query": "收纳"
+  },
+  "su_detail": {
+    "subject": "厂家批发储物盒 化妆品首饰整理盒学生宿舍衣物塑料 桌面收纳盒",
+    "company": "台州市黄岩跃豪工贸有限公司",
+    "loginid": "台州市黄岩跃豪塑料厂",
+    "is_live": true,
+    "size_bytes": 85959
+  },
+  "rakumart": {
+    "match_score": 48.6,
+    "price_brl": 4.9,
+    "title_br": "Caixa organizadora dobrável para mesa, ideal para guardar maquiagem de estudante, material escolar e pequenos itens no dormitório.",
+    "url": "https://www.rakumart.com.br/product/892391838171",
+    "crosswalked_at": "2026-06-18T01:03:22Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.721965Z",
+  "category": "organization",
+  "taxonomy": {
+    "n1": "家居日用",
+    "n2": "收纳整理",
+    "n3": "通用收纳",
+    "n4": "通用收纳",
+    "path": "家居日用/收纳整理/通用收纳/通用收纳"
+  }
+}

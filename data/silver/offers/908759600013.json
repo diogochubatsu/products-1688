@@ -1,0 +1,42 @@
+{
+  "offer_id": 908759600013,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": "LEGACY: socks_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "袜子男款夏季薄款网眼夏天超薄款袜子防臭中筒春夏季男袜透气吸汗",
+    "price_cny": 1.55,
+    "shop": "诸暨甄佳针织有限公司",
+    "shop_text": "绍兴市甄佳针织有限责任公司",
+    "province": "浙江",
+    "city": "绍兴市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rQA8mA1Thf9IhplL7_!!2219441632414-0-cib.jpg",
+    "booked": 4885,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "袜子男款夏季薄款网眼夏天超薄款袜子防臭中筒春夏季男袜透气吸汗",
+    "company": "绍兴市甄佳针织有限责任公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 87574
+  },
+  "rakumart": {
+    "iid": "788602048723",
+    "title_cn": "袜子男款夏季薄款网眼夏天爆款袜子防臭中筒春秋男非棉袜透气吸汗",
+    "title_pt": "Meia masculina de verão, fina e com malha respirável. Modelo mais vendido da estação, antidorante, meia cana para primavera e outono. Tecido não 100% algodão, super transpirável e absorve o suor.",
+    "price_brl": 0.99,
+    "match_score": 86.7
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

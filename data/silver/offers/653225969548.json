@@ -1,0 +1,42 @@
+{
+  "offer_id": 653225969548,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩毛巾夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_653225969548.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "顺艺多功能防风夹内衣内裤固定夹子塑料家用棉被被夹弹簧夹晾衣夹",
+    "price_cny": "4.5",
+    "shop": "台州顺艺家居",
+    "province": "浙江",
+    "city": "台州市",
+    "booked": "542",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01RZuHnP1h9g2TNWhH1_!!2212461114235-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩毛巾夹"
+  },
+  "su_detail": {
+    "subject": "顺艺多功能防风夹内衣内裤固定夹子塑料家用棉被被夹弹簧夹晾衣夹",
+    "company": "台州市顺艺日用品有限公司",
+    "loginid": "台州顺艺家居",
+    "is_live": true,
+    "size_bytes": 75689
+  },
+  "rakumart": {
+    "match_score": 41.7,
+    "price_brl": 2.44,
+    "title_br": "Clipe para pedidos de delivery, porta-recibo plástico, suporte para cardápio e papel, prendedor de cauda longa, fixador sem furos, solução prática para organizar seus pedidos.",
+    "url": "https://www.rakumart.com.br/product/793060925032",
+    "crosswalked_at": "2026-06-20T14:37:12Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.733023Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

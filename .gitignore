@@ -1,0 +1,31 @@
+# Data lake - keep structure but not bulk data
+data/cache/
+data/bronze/su_detail/
+data/_manifest.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.local
+*.key
+
+# Logs
+*.log
+
+
+# Large/binary artifacts (not source)
+data/1688_official_extension.zip
+data/mobile_*.html
+data/residential_*.html
+data/*_full_50.json
+data/_archive/legacy_2026_06_17/*.html

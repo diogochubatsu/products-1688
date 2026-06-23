@@ -1,0 +1,41 @@
+{
+  "offer_id": 620955319573,
+  "bronze_refs": {
+    "mtop": "LEGACY: baiyite_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: baiyite_*_enriched.json",
+    "rakumart": "LEGACY: baiyite_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "塑料沙滩 毛巾夹子 仙人掌形状防风塑料沙滩巾夹 帐篷夹",
+    "price_cny": 4.0,
+    "shop": "tzbaiyite",
+    "booked": 42,
+    "category": "beach_clip"
+  },
+  "su_detail": {
+    "subject": "塑料沙滩 毛巾夹子 仙人掌形状防风塑料沙滩巾夹 帐篷夹",
+    "company": "台州市佰亿特塑业有限公司",
+    "loginid": "tzbaiyite",
+    "is_live": true,
+    "image_count": 25,
+    "page_kb": 50.2,
+    "has_sku": false
+  },
+  "rakumart": {
+    "iid": "620955319573",
+    "title_cn": "塑料沙滩 毛巾夹子 仙人掌形状防风塑料沙滩巾夹 帐篷夹",
+    "title_pt": "Clipes de plástico para toalha de praia, formato de cacto, à prova de vento, ideais para fixar toalhas e tendas na areia.",
+    "price_brl": 4.0,
+    "match_score": 100.0,
+    "url": "https://www.rakumart.com.br/product/620955319573"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

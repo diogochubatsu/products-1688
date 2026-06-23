@@ -1,0 +1,42 @@
+{
+  "offer_id": 747920519701,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_收腹塑身衣_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_747920519701.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "跨境新款整条缠绕带束身衣 收腹束型束腹带 女士束腰带弹力收腹带",
+    "price_cny": "6",
+    "shop": "温州杰龙文具",
+    "province": "浙江",
+    "city": "平阳县",
+    "booked": "2705",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN016RKSTI1hxbPHOomxp_!!2216429534344-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "收腹塑身衣"
+  },
+  "su_detail": {
+    "subject": "跨境新款整条缠绕带束身衣 收腹束型束腹带 女士束腰带弹力收腹带",
+    "company": "温州杰龙文具有限公司",
+    "loginid": "温州杰龙文具",
+    "is_live": true,
+    "size_bytes": 78047
+  },
+  "rakumart": {
+    "match_score": 53.9,
+    "price_brl": 8.7,
+    "title_br": "Cinto pós-parto grande, modelador de cintura e abdômen sem costura para mulheres.",
+    "url": "https://www.rakumart.com.br/product/561474750371",
+    "crosswalked_at": "2026-06-23T01:19:06Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.221731Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "提臀塑身",
+    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+  }
+}

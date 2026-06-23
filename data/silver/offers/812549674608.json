@@ -1,0 +1,42 @@
+{
+  "offer_id": 812549674608,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_无痕内裤_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_812549674608.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "独立包装7A冰丝无痕夏季超薄内裤少女纯棉裆不夹臀润肤透气三角裤",
+    "price_cny": "3.7",
+    "shop": "蓝梦琳针织厂",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "9676",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01ZdNCHF1WGaVVmMZjF_!!2200719022761-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "无痕内裤"
+  },
+  "su_detail": {
+    "subject": "独立包装7A冰丝无痕夏季超薄内裤少女纯棉裆不夹臀润肤透气三角裤",
+    "company": "汕头市潮阳区贵屿蓝梦琳针织厂",
+    "loginid": "蓝梦琳针织厂",
+    "is_live": true,
+    "size_bytes": 102797
+  },
+  "rakumart": {
+    "match_score": 33.7,
+    "price_brl": 7.57,
+    "title_br": "Calcinha de algodão egípcio do Xinjiang para mulher, nível 7A, 100% algodão, cintura alta, sem marcações, ideal para jovens, com proteção antibacteriana e tecido respirável na região íntima.",
+    "url": "https://www.rakumart.com.br/product/860502714441",
+    "crosswalked_at": "2026-06-23T01:14:20Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.236172Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "内裤",
+    "n4": "无痕内裤",
+    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "offer_id": 527219350923,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: drill_*_enriched.json",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "邦业电批嘴4mm*40/60mm电动螺丝刀头800电批头十字梅花起子批头",
+    "price_cny": 1.5,
+    "shop": "邦远电子有限公司",
+    "shop_text": "深圳市邦远五金有限公司",
+    "province": "广东",
+    "city": "东莞市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/2019/497/326/10629623794_2114334614.jpg",
+    "booked": 858,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": "邦业电批嘴4mm*40/60mm电动螺丝刀头800电批头十字梅花起子批头",
+    "company": "深圳市邦远五金有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 195856
+  },
+  "rakumart": null,
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

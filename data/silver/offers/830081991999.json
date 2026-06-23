@@ -1,0 +1,42 @@
+{
+  "offer_id": 830081991999,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: drill_*_enriched.json",
+    "rakumart": "LEGACY: drill_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "得力电动螺丝刀多功能螺丝刀充电式迷你螺丝批电动起子 DCT162",
+    "price_cny": 45.0,
+    "shop": "展维电商",
+    "shop_text": "南京展维电子商务科技有限公司",
+    "province": "江苏",
+    "city": "溧水县",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01fwemcO1OtVGDbkPVh_!!2216250411763-0-cib.jpg",
+    "booked": 1432,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": "得力电动螺丝刀多功能螺丝刀充电式迷你螺丝批电动起子 DCT162",
+    "company": "南京展维电子商务科技有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 67645
+  },
+  "rakumart": {
+    "iid": "903896258624",
+    "title_cn": "47件电动螺丝刀多功能家用折叠锂电批头充电式十字一字批多头套装",
+    "title_pt": "Kit de 47 peças com chave de fenda elétrica multifuncional, recarregável por bateria de lítio, dobrável para uso doméstico. Inclui pontas cruzadas e retas, ideal para múltiplas aplicações.",
+    "price_brl": 8.8,
+    "match_score": 53.3
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

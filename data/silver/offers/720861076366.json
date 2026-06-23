@@ -1,0 +1,42 @@
+{
+  "offer_id": 720861076366,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": "LEGACY: socks_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "袜子女船袜浅口隐形袜防滑不掉跟ins潮夏天棉潮无骨女式夏袜吸汗",
+    "price_cny": 2.0,
+    "shop": "卖袜子的小赵",
+    "shop_text": "诸暨市悦依针织厂",
+    "province": "浙江",
+    "city": "诸暨市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Nfj3Ur22ln4U5u1EW_!!2209045327161-0-cib.jpg",
+    "booked": 6652,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "袜子女船袜浅口隐形袜防滑不掉跟ins潮夏天棉潮无骨女式夏袜吸汗",
+    "company": "诸暨市悦依针织厂",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 91833
+  },
+  "rakumart": {
+    "iid": "775904596838",
+    "title_cn": "袜子女拼色船袜浅口隐形袜防滑不掉跟ins夏天薄款纯棉无骨隐形袜",
+    "title_pt": "Meia social feminina, estilo bico de pato, com cores contrastantes, super discreta e que não escorrega. Ideal para o verão, bem fininha, 100% algodão, costura plana pra ficar invisível dentro do sapato.",
+    "price_brl": 2.8,
+    "match_score": 86.7
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

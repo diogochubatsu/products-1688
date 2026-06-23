@@ -1,0 +1,42 @@
+{
+  "offer_id": 929228969026,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-21_化妆品收纳_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-21_929228969026.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "玩具书籍办公用品化妆品餐厅厨房杂物整理防尘带盖加厚塑料收纳箱",
+    "price_cny": "4.9",
+    "shop": "贤君塑料厂",
+    "province": "浙江",
+    "city": "台州市",
+    "booked": "0",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN018vA2lq1PcqX7XzB8v_!!2216971791862-0-cib.jpg",
+    "category": "organization",
+    "source_query": "化妆品收纳"
+  },
+  "su_detail": {
+    "subject": "玩具书籍办公用品化妆品餐厅厨房杂物整理防尘带盖加厚塑料收纳箱",
+    "company": "台州市路桥贤君塑料厂(个体工商户)",
+    "loginid": "贤君塑料厂",
+    "is_live": true,
+    "size_bytes": 135337
+  },
+  "rakumart": {
+    "match_score": 62.5,
+    "price_brl": 19.53,
+    "title_br": "Organizador de mesa para cosméticos, itens variados e lanches; caixa organizadora para cozinha, armazenamento plástico doméstico para usar na mesa.",
+    "url": "https://www.rakumart.com.br/product/991272397259",
+    "crosswalked_at": "2026-06-23T01:22:25Z"
+  },
+  "enriched_at": "2026-06-21T15:17:26.022417Z",
+  "category": "organization",
+  "taxonomy": {
+    "n1": "家居日用",
+    "n2": "收纳整理",
+    "n3": "通用收纳",
+    "n4": "通用收纳",
+    "path": "家居日用/收纳整理/通用收纳/通用收纳"
+  }
+}

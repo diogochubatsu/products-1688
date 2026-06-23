@@ -1,0 +1,42 @@
+{
+  "offer_id": 769766985131,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_收腹塑身衣_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_769766985131.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "新款提花束腰收腹带女产后强力收肚子塑形束缚带薄款透气女士腰封",
+    "price_cny": "12",
+    "shop": "凌雅星针织内衣",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "3869",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01EbbTM61x2No8xSMZW_!!2208500836385-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "收腹塑身衣"
+  },
+  "su_detail": {
+    "subject": "新款提花束腰收腹带女产后强力收肚子塑形束缚带薄款透气女士腰封",
+    "company": "汕头市潮阳区贵屿凌雅星针织内衣厂",
+    "loginid": "凌雅星针织内衣",
+    "is_live": true,
+    "size_bytes": 77314
+  },
+  "rakumart": {
+    "match_score": 35.8,
+    "price_brl": 5.5,
+    "title_br": "Cinto modelador de cintura e abdômen elástico para treino, fitness e yoga.",
+    "url": "https://www.rakumart.com.br/product/779681383077",
+    "crosswalked_at": "2026-06-23T01:12:35Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.228785Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "提臀塑身",
+    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+  }
+}

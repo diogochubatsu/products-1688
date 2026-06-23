@@ -1,0 +1,42 @@
+{
+  "offer_id": 666287913080,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_内衣_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_666287913080.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "亚马逊大胸无肩带防滑大码隐形内衣女无钢圈交叉聚拢露肩美背文胸",
+    "price_cny": "49.8",
+    "shop": "万林服饰商行",
+    "province": "广东",
+    "city": "普宁市",
+    "booked": "44818",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01LXwHfy1xiyRuQtBf7_!!2399506478-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "内衣"
+  },
+  "su_detail": {
+    "subject": "亚马逊大胸无肩带防滑大码隐形内衣女无钢圈交叉聚拢露肩美背文胸",
+    "company": "普宁市流沙万林服装经营部",
+    "loginid": "万林服饰商行",
+    "is_live": true,
+    "size_bytes": 132609
+  },
+  "rakumart": {
+    "match_score": 42.1,
+    "price_brl": 39.9,
+    "title_br": "Não cai nem ao correr ou pular: sutiã sem alças para mulheres, antiderrapante, ideal para suor intenso, invisível, tipo top e sem marcas.",
+    "url": "https://www.rakumart.com.br/product/815642434408",
+    "crosswalked_at": "2026-06-18T01:16:35Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.750337Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "提臀塑身",
+    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+  }
+}

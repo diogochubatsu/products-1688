@@ -1,0 +1,36 @@
+{
+  "offer_id": 687064968021,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_687064968021.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "凯旺宽嘴浸塑扁夹防风晾晒夹子被夹无痕晾衣夹家用晒衣服金属铁夹",
+    "price_cny": "0.24",
+    "shop": "凯旺不锈钢厂",
+    "province": "广东",
+    "city": "潮州市",
+    "booked": "4479",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Z8LDxu1dTasdNjF15_!!1852513737-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩巾夹"
+  },
+  "su_detail": {
+    "subject": "凯旺宽嘴浸塑扁夹防风晾晒夹子被夹无痕晾衣夹家用晒衣服金属铁夹",
+    "company": "潮州市凯旺家居用品有限公司",
+    "loginid": "凯旺不锈钢厂",
+    "is_live": true,
+    "size_bytes": 94917
+  },
+  "rakumart": null,
+  "enriched_at": "2026-06-18T00:06:26.763365Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

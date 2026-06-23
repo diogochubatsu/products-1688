@@ -1,0 +1,42 @@
+{
+  "offer_id": 643723557730,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-21_摄像头_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-21_643723557730.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "4LED带灯倒车影像通用后视高清夜视ccd汽车车载摄像头car camera",
+    "price_cny": "5.9",
+    "shop": "广州平福电子",
+    "province": "广东",
+    "city": "广州市",
+    "booked": "5317",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN019xmi4N1LyaZUpCPZO_!!2843211368-0-cib.jpg",
+    "category": "webcam",
+    "source_query": "摄像头"
+  },
+  "su_detail": {
+    "subject": "4LED带灯倒车影像通用后视高清夜视ccd汽车车载摄像头car camera",
+    "company": "广州平福汽车用品有限公司",
+    "loginid": "广州平福电子",
+    "is_live": true,
+    "size_bytes": 111134
+  },
+  "rakumart": {
+    "match_score": 40.6,
+    "price_brl": 5.9,
+    "title_br": "Câmera de ré para carro com 4 LEDs, visão noturna HD em CCD e formato quadrado.",
+    "url": "https://www.rakumart.com.br/product/744463579763",
+    "crosswalked_at": "2026-06-22T15:26:34Z"
+  },
+  "enriched_at": "2026-06-21T15:17:25.987822Z",
+  "category": "webcam",
+  "taxonomy": {
+    "n1": "电子数码",
+    "n2": "安防监控",
+    "n3": "摄像头",
+    "n4": "车载摄像头",
+    "path": "电子数码/安防监控/摄像头/车载摄像头"
+  }
+}

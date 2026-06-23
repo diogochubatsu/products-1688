@@ -1,0 +1,36 @@
+{
+  "offer_id": 1006814507787,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-21_手电筒_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-21_1006814507787.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "新款迷你户外强光口袋DIY帽夹灯磁吸露营氛围长续航救灾应急手电",
+    "price_cny": "5.8",
+    "shop": "宁波承常",
+    "province": "浙江",
+    "city": "宁波市",
+    "booked": "357",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01q06qpQ1sDlm9jic3J_!!2219783715733-0-cib.jpg",
+    "category": "flashlight",
+    "source_query": "手电筒"
+  },
+  "su_detail": {
+    "subject": "新款迷你户外强光口袋DIY帽夹灯磁吸露营氛围长续航救灾应急手电",
+    "company": "宁波承常电器有限公司",
+    "loginid": "宁波承常",
+    "is_live": true,
+    "size_bytes": 76845
+  },
+  "rakumart": null,
+  "enriched_at": "2026-06-21T15:17:25.969802Z",
+  "category": "flashlight",
+  "taxonomy": {
+    "n1": "电子数码",
+    "n2": "照明",
+    "n3": "手电筒",
+    "n4": "LED手电筒",
+    "path": "电子数码/照明/手电筒/LED手电筒"
+  }
+}

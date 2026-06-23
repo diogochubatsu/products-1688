@@ -1,0 +1,42 @@
+{
+  "offer_id": 669538181670,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_内衣_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_669538181670.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "蕾丝花边性感一字围抹胸防走光无肩带打底内衣美背内衣女厂家直销",
+    "price_cny": "3.2",
+    "shop": "茉馨瑜纯服饰",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "19240",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01y9EgWe2ApvTHHX3fT_!!2213226438253-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "内衣"
+  },
+  "su_detail": {
+    "subject": "蕾丝花边性感一字围抹胸防走光无肩带打底内衣美背内衣女厂家直销",
+    "company": "汕头市茉馨瑜纯内衣有限公司",
+    "loginid": "茉馨瑜纯服饰",
+    "is_live": true,
+    "size_bytes": 73646
+  },
+  "rakumart": {
+    "match_score": 30.4,
+    "price_brl": 3.2,
+    "title_br": "Venda direta da fábrica: top sem costura em tecido de seda gelada, com alça única, proteção contra vazamento e almofadas removíveis. Ideal para usar como regata ou top de costas abertas para mulheres.",
+    "url": "https://www.rakumart.com.br/product/617677310210",
+    "crosswalked_at": "2026-06-18T01:06:00Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.756734Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "提臀塑身",
+    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+  }
+}

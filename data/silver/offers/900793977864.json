@@ -1,0 +1,42 @@
+{
+  "offer_id": 900793977864,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": "LEGACY: socks_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "袜子男短袜夏季薄款纯棉防臭男士船袜夏天吸汗网眼透气短筒全棉袜",
+    "price_cny": 2.3,
+    "shop": "布谷鸟针织",
+    "shop_text": "诸暨市布谷鸟针织厂",
+    "province": "浙江",
+    "city": "诸暨市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01YijTF01D1UvfRjEZJ_!!2219542100156-0-cib.jpg",
+    "booked": 28337,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "袜子男短袜夏季薄款纯棉防臭男士船袜夏天吸汗网眼透气短筒全棉袜",
+    "company": "诸暨市布谷鸟针织厂",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 98704
+  },
+  "rakumart": {
+    "iid": "719116654613",
+    "title_cn": "袜子男士短袜夏季薄款吸汗防臭抗菌网眼按摩底船袜低帮浅口袜",
+    "title_pt": "Meia masculina curta de verão, fina, absorve suor, evita mau cheiro e tem ação antibacteriana. Malha respirável com sola massageante, modelo barco, baixo e rasgado.",
+    "price_brl": 3.8,
+    "match_score": 73.3
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

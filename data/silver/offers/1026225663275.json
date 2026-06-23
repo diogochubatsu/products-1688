@@ -1,0 +1,42 @@
+{
+  "offer_id": 1026225663275,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_收腹塑身衣_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_1026225663275.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "舞青【明星同款】收腹提臀裤大码塑形婚纱无痕收腰产后塑身衣",
+    "price_cny": "14",
+    "shop": "悦己部盟针织内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "2252",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01y54jBj1ejSYRxxG1T_!!2219225973907-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "收腹塑身衣"
+  },
+  "su_detail": {
+    "subject": "舞青【明星同款】收腹提臀裤大码塑形婚纱无痕收腰产后塑身衣",
+    "company": "汕头市潮阳区谷饶悦己部盟针织内衣厂(个体工商户)",
+    "loginid": "悦己部盟针织内衣厂",
+    "is_live": true,
+    "size_bytes": 198704
+  },
+  "rakumart": {
+    "match_score": 33.5,
+    "price_brl": 16.9,
+    "title_br": "Body shaper feminino: modelador de cintura, abdômen e glúteos. Macacão modelador plus size com abertura frontal para praticidade.",
+    "url": "https://www.rakumart.com.br/product/860397805874",
+    "crosswalked_at": "2026-06-23T01:20:53Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.036775Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "提臀塑身",
+    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "offer_id": 946864704813,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_946864704813.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "跨境热销彩色包边夹缝纫斧头夹长尾强力拼布扣透明固定塑料定位夹",
+    "price_cny": "0.06",
+    "shop": "东阳市乐涵日用品厂",
+    "province": "浙江",
+    "city": "金华市",
+    "booked": "907",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN010CnBjz23SqWfmhnFA_!!2220072497255-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩巾夹"
+  },
+  "su_detail": {
+    "subject": "跨境热销彩色包边夹缝纫斧头夹长尾强力拼布扣透明固定塑料定位夹",
+    "company": "东阳市乐涵日用品厂（个体工商户）",
+    "loginid": "东阳市乐涵日用品厂",
+    "is_live": true,
+    "size_bytes": 67010
+  },
+  "rakumart": {
+    "match_score": 68.9,
+    "price_brl": 0.22,
+    "title_br": "Venda internacional: clipes de toalha de mesa transparente, fixadores anti-derrapante e anti-rugas para mesas ao ar livre.",
+    "url": "https://www.rakumart.com.br/product/747783325890",
+    "crosswalked_at": "2026-06-18T01:12:37Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.793662Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

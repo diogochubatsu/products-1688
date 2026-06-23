@@ -1,0 +1,20 @@
+{
+  "shop_name": "台州市艾锐盾商贸有限公司",
+  "offer_count": 2,
+  "categories": [
+    "drill"
+  ],
+  "offers": [
+    {
+      "offer_id": 766524381647,
+      "category": "drill",
+      "title": "手电钻多功能电转电动工具省力小电手钻打孔交流手枪钻带有线220V"
+    },
+    {
+      "offer_id": 765196279947,
+      "category": "drill",
+      "title": "艾锐盾手持电动螺丝刀家用手枪钻锂电工具多功能电动螺丝刀充电式"
+    }
+  ],
+  "generated_at": "2026-06-18T00:07:55.018326Z"
+}

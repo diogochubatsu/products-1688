@@ -1,0 +1,42 @@
+{
+  "offer_id": 912303609682,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": "LEGACY: socks_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "中筒袜子男女黑白色春夏秋款粗线防臭吸汗透气不起球高弹运动袜",
+    "price_cny": 0.75,
+    "shop": "浙江初一针织",
+    "shop_text": "诸暨市汤麒针织品商行",
+    "province": "浙江",
+    "city": "绍兴市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01i2uYXp1hmc3MGBBk6_!!2219615364320-0-cib.jpg",
+    "booked": 6152,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "中筒袜子男女黑白色春夏秋款粗线防臭吸汗透气不起球高弹运动袜",
+    "company": "诸暨市汤麒针织品商行（个体工商户）",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 83860
+  },
+  "rakumart": {
+    "iid": "794140482709",
+    "title_cn": "中筒袜子男春夏竹纤维网眼款透气防臭吸汗商务袜冰丝无骨纯色男袜",
+    "title_pt": "Meia de cano médio masculina para primavera e verão, feita em fibra de bambu com malha respirável. Antiodor, absorve o suor, ideal para uso social. Tecido tipo gelo, costura sem osso, cor sólida.",
+    "price_brl": 3.58,
+    "match_score": 53.3
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "运动袜",
+    "path": "服装鞋帽/袜子/通用袜子/运动袜"
+  }
+}

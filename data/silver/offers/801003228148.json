@@ -1,0 +1,42 @@
+{
+  "offer_id": 801003228148,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": "LEGACY: socks_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "船袜男夏季薄款袜子纯棉男款不掉跟网眼透气无骨隐形袜夏诸暨袜业",
+    "price_cny": 2.63,
+    "shop": "子兆服饰080",
+    "shop_text": "诸暨市子兆服饰有限公司",
+    "province": "浙江",
+    "city": "诸暨市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01IS7Fkm1u7TOWVPg5z_!!3484475990-0-cib.jpg",
+    "booked": 5640,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "船袜男夏季薄款袜子纯棉男款不掉跟网眼透气无骨隐形袜夏诸暨袜业",
+    "company": "诸暨市子兆服饰有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 109530
+  },
+  "rakumart": {
+    "iid": "811814037442",
+    "title_cn": "船袜女夏季薄款纯棉底防滑不掉跟浅口隐形夏天女士高跟鞋袜子女",
+    "title_pt": "Meia de cano curto feminina, ideal para o verão: tecido leve em algodão puro na sola com antiderrapante, não desce do calcanhar e fica invisível dentro de sapatos de salto alto.",
+    "price_brl": 1.7,
+    "match_score": 66.7
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

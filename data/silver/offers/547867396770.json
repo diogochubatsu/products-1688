@@ -1,0 +1,42 @@
+{
+  "offer_id": 547867396770,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: drill_*_enriched.json",
+    "rakumart": "LEGACY: drill_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "厂家直销多功能充电手电钻精密电动螺丝刀电动工具套装家用工具箱",
+    "price_cny": 68.0,
+    "shop": "jiataitools2",
+    "shop_text": "永康市佳泰工具有限公司",
+    "province": "浙江",
+    "city": "永康市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01IVBf8C1jydPvr37Mk_!!3229914617-0-cib.jpg",
+    "booked": 2299,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": "厂家直销多功能充电手电钻精密电动螺丝刀电动工具套装家用工具箱",
+    "company": "永康市佳泰工具有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 580160
+  },
+  "rakumart": {
+    "iid": "860898151372",
+    "title_cn": "厂家直销多功能手电钻变角磨机打磨切割机改手磨机手砂轮抛光机磨",
+    "title_pt": "Venda direta da fábrica: furadeira multifuncional que vira esmerilhadora angular, máquina de corte e lixadeira manual com disco abrasivo para polimento.",
+    "price_brl": 16.0,
+    "match_score": 66.7
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

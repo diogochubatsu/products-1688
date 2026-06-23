@@ -1,0 +1,42 @@
+{
+  "offer_id": 656110491767,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_提臀塑身衣_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_656110491767.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "美人传计塑身连体后脱式内女束腰提臀合跨养护收腰收腹塑身连体衣",
+    "price_cny": "24",
+    "shop": "魅蓝之都内衣",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "3989",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01vhN4Hs1P5PGSlqScO_!!2212439421789-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "提臀塑身衣"
+  },
+  "su_detail": {
+    "subject": "美人传计塑身连体后脱式内女束腰提臀合跨养护收腰收腹塑身连体衣",
+    "company": "汕头市潮阳区谷饶美人传计内衣厂",
+    "loginid": "魅蓝之都内衣",
+    "is_live": true,
+    "size_bytes": 124400
+  },
+  "rakumart": {
+    "match_score": 46.3,
+    "price_brl": 33.84,
+    "title_br": "Body de alcinha com renda, modelador e sexy, igual ao da marca SKIM.",
+    "url": "https://www.rakumart.com.br/product/863178855479",
+    "crosswalked_at": "2026-06-23T01:20:24Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.205840Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "收腹塑身",
+    "path": "服装鞋帽/内衣/塑身衣/收腹塑身"
+  }
+}

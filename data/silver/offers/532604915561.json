@@ -1,0 +1,42 @@
+{
+  "offer_id": 532604915561,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: drill_*_enriched.json",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "东成手电钻转充电式无刷锂电池冲击钻家用工具东城电动手钻螺丝刀",
+    "price_cny": 74.8,
+    "shop": "南通苏胜五金机电",
+    "shop_text": "开发区新开街道苏胜五金机电经营部",
+    "province": "江苏",
+    "city": "南通市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01psN9O62HK3c7dF0i0_!!2891769131-0-cib.jpg",
+    "booked": 988,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": "东成手电钻转充电式无刷锂电池冲击钻家用工具东城电动手钻螺丝刀",
+    "company": "开发区新开街道苏胜五金机电经营部",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 126888
+  },
+  "rakumart": {
+    "match_score": 43.1,
+    "price_brl": 74.8,
+    "title_br": "Dongcheng furadeira de mão recarregável com bateria de íon de lítio sem escova e função de impacto, ferramenta elétrica ideal para uso doméstico. Furadeira elétrica Dongcheng com função de parafusadei",
+    "url": "https://www.rakumart.com.br/product/532604915561",
+    "crosswalked_at": "2026-06-18T01:09:54Z"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

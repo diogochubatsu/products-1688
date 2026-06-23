@@ -1,0 +1,41 @@
+{
+  "offer_id": 832247158134,
+  "bronze_refs": {
+    "mtop": "LEGACY: baiyite_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: baiyite_*_enriched.json",
+    "rakumart": "LEGACY: baiyite_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "亚马逊热销户外沙滩巾地插夹 菠萝形状帐篷夹 沙滩夹子",
+    "price_cny": 2.0,
+    "shop": "tzbaiyite",
+    "booked": 5,
+    "category": "beach_clip"
+  },
+  "su_detail": {
+    "subject": "亚马逊热销户外沙滩巾地插夹 菠萝形状帐篷夹 沙滩夹子",
+    "company": "台州市佰亿特塑业有限公司",
+    "loginid": "tzbaiyite",
+    "is_live": true,
+    "image_count": 25,
+    "page_kb": 57.8,
+    "has_sku": false
+  },
+  "rakumart": {
+    "iid": "832247158134",
+    "title_cn": "亚马逊热销户外沙滩巾地插夹 菠萝形状帐篷夹 沙滩夹子",
+    "title_pt": "Toalha de praia para acampamento mais vendida na Amazon, com suporte de chão em formato de abacaxi e grampos para areia.",
+    "price_brl": 2.0,
+    "match_score": 100.0,
+    "url": "https://www.rakumart.com.br/product/832247158134"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

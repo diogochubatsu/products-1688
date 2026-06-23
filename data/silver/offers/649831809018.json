@@ -1,0 +1,42 @@
+{
+  "offer_id": 649831809018,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_649831809018.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "晾晒收纳夹子彩色金属包塑晾衣夹防风防滑多用途小夹子封口固定夹",
+    "price_cny": "0.16",
+    "shop": "富果商贸",
+    "province": "浙江",
+    "city": "浦江县",
+    "booked": "533",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01pjz5K21xUKBesnz9y_!!1893716446-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩巾夹"
+  },
+  "su_detail": {
+    "subject": "晾晒收纳夹子彩色金属包塑晾衣夹防风防滑多用途小夹子封口固定夹",
+    "company": "义乌市富果贸易有限公司",
+    "loginid": "富果商贸",
+    "is_live": true,
+    "size_bytes": 76288
+  },
+  "rakumart": {
+    "match_score": 39.7,
+    "price_brl": 2.2,
+    "title_br": "Clipes de roupa com forte fixação, à prova de vento, ideais para secar edredons e lençóis. Feitos em plástico antiderrapante, não deixam marcas e garantem que a roupa fique bem presa ao varal.",
+    "url": "https://www.rakumart.com.br/product/915709790230",
+    "crosswalked_at": "2026-06-18T01:15:59Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.731588Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

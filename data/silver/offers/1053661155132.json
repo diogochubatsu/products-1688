@@ -1,0 +1,42 @@
+{
+  "offer_id": 1053661155132,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_运动袜_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_1053661155132.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "袜子男士夏薄款100%纯棉中筒袜抗菌防臭吸汗长筒黑白灰运动袜批发",
+    "price_cny": "1.09",
+    "shop": "浙江卓凡电子商务",
+    "province": "浙江",
+    "city": "绍兴市",
+    "booked": "76",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01u2hEJY1D0a8dmuR29_!!2214268040154-0-cib.jpg",
+    "category": "socks",
+    "source_query": "运动袜"
+  },
+  "su_detail": {
+    "subject": "袜子男士夏薄款100%纯棉中筒袜抗菌防臭吸汗长筒黑白灰运动袜批发",
+    "company": "诸暨市霸上狼针织有限公司",
+    "loginid": "浙江卓凡电子商务",
+    "is_live": true,
+    "size_bytes": 98396
+  },
+  "rakumart": {
+    "match_score": 42.2,
+    "price_brl": 2.4,
+    "title_br": "Meia masculina de algodão 100% para esportes, antiodor e absorve suor. Venda no atacado da indústria têxtil de Zhuji.",
+    "url": "https://www.rakumart.com.br/product/770037838358",
+    "crosswalked_at": "2026-06-23T01:13:01Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.188075Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "运动袜",
+    "path": "服装鞋帽/袜子/通用袜子/运动袜"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "offer_id": 939238025395,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_运动袜_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_939238025395.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "白色袜子男士中筒袜夏季薄款网眼透气短袜纯棉防臭运动吸汗春秋款",
+    "price_cny": "2.44",
+    "shop": "诸暨申流针织厂",
+    "province": "浙江",
+    "city": "绍兴市",
+    "booked": "254",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01pp3XIe1zUtpl6xvQ2_!!2206619616718-0-cib.jpg",
+    "category": "socks",
+    "source_query": "运动袜"
+  },
+  "su_detail": {
+    "subject": "白色袜子男士中筒袜夏季薄款网眼透气短袜纯棉防臭运动吸汗春秋款",
+    "company": "诸暨市申流针织有限公司",
+    "loginid": "诸暨申流针织厂",
+    "is_live": true,
+    "size_bytes": 90057
+  },
+  "rakumart": {
+    "match_score": 67.8,
+    "price_brl": 2.3,
+    "title_br": "Meia masculina curta de verão, fina, 100% algodão, antiodor, estilo slip, absorve suor, malha respirável.",
+    "url": "https://www.rakumart.com.br/product/900793977864",
+    "crosswalked_at": "2026-06-23T01:17:10Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.281190Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

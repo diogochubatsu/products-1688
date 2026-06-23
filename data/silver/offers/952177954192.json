@@ -1,0 +1,42 @@
+{
+  "offer_id": 952177954192,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_提臀塑身衣_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_952177954192.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "跨境连体塑身衣女提臀收腹开档塑形吊带内衣弹力束腹平腿束身衣",
+    "price_cny": "10.5",
+    "shop": "蒂之芬针织内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "3189",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN011WiuMS1pA9kO11Lki_!!2204181695319-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "提臀塑身衣"
+  },
+  "su_detail": {
+    "subject": "跨境连体塑身衣女提臀收腹开档塑形吊带内衣弹力束腹平腿束身衣",
+    "company": "汕头市潮阳区贵屿蒂之芬针织内衣厂",
+    "loginid": "蒂之芬针织内衣厂",
+    "is_live": true,
+    "size_bytes": 94973
+  },
+  "rakumart": {
+    "match_score": 53.0,
+    "price_brl": 190.0,
+    "title_br": "Macacão modelador para salão de beleza, com efeito redutor na barriga e cintura, molda o corpo, ideal para pós-parto para afinar a barriga e elevar os glúteos. Roupa íntima de modelagem corporal para ",
+    "url": "https://www.rakumart.com.br/product/909929697001",
+    "crosswalked_at": "2026-06-23T01:12:28Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.421377Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "连体塑身",
+    "path": "服装鞋帽/内衣/塑身衣/连体塑身"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "offer_id": 621536689191,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_收腹塑身衣_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_621536689191.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "收腹带美体镂空透气紧身束腹运动束腰带女产后减肚护腰塑身衣腰封",
+    "price_cny": "8",
+    "shop": "束调针织内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "12667",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01LlCwVh1nKZY1LzgAC_!!2208132685071-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "收腹塑身衣"
+  },
+  "su_detail": {
+    "subject": "收腹带美体镂空透气紧身束腹运动束腰带女产后减肚护腰塑身衣腰封",
+    "company": "汕头市聚盛泰内衣有限公司",
+    "loginid": "束调针织内衣厂",
+    "is_live": true,
+    "size_bytes": 140846
+  },
+  "rakumart": {
+    "match_score": 74.2,
+    "price_brl": 5.5,
+    "title_br": "Cinto modelador de cintura e abdômen elástico para treino, fitness e yoga.",
+    "url": "https://www.rakumart.com.br/product/779681383077",
+    "crosswalked_at": "2026-06-23T01:21:13Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.200435Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "提臀塑身",
+    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+  }
+}

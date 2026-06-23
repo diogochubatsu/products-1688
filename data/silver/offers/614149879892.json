@@ -1,0 +1,42 @@
+{
+  "offer_id": 614149879892,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_收腹裤_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_614149879892.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "加大码收腹裤产后塑身内裤收胃提臀高腰平角裤美体打底安全裤女士",
+    "price_cny": "8.8",
+    "shop": "恒兴泰内衣",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "18676",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN016MGAPS2GW8BFeo3CH_!!3322229022-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "收腹裤"
+  },
+  "su_detail": {
+    "subject": "加大码收腹裤产后塑身内裤收胃提臀高腰平角裤美体打底安全裤女士",
+    "company": "汕头市潮阳区贵屿恒宏泰针织内衣厂",
+    "loginid": "恒兴泰内衣",
+    "is_live": true,
+    "size_bytes": 140446
+  },
+  "rakumart": {
+    "match_score": 37.0,
+    "price_brl": 86.0,
+    "title_br": "Calça de segurança longa com bumbum falso, modeladora com almofadas de espuma para aumentar e levantar o bumbum, que também serve para definir a cintura.",
+    "url": "https://www.rakumart.com.br/product/692281656815",
+    "crosswalked_at": "2026-06-18T01:08:21Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.716730Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身裤",
+    "n4": "提臀塑裤",
+    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "offer_id": 566199553289,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: drill_*_enriched.json",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "跨境新款充电钻电动工具手电钻套餐 锂电钻 电动螺丝刀起子机套装",
+    "price_cny": 60.0,
+    "shop": "jhyongjia",
+    "shop_text": "金华市澳拓五金工具有限公司",
+    "province": "浙江",
+    "city": "永康市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rCJLO91izGhPLqvMY_!!966824483-0-cib.jpg",
+    "booked": 2614,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": "跨境新款充电钻电动工具手电钻套餐 锂电钻 电动螺丝刀起子机套装",
+    "company": "金华市澳拓五金工具有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 83286
+  },
+  "rakumart": {
+    "match_score": 61.1,
+    "price_brl": 25.0,
+    "title_br": "Novo modelo importado: furadeira e parafusadeira elétrica a bateria de 12V, compacta e potente. Kit completo com múltiplas funções para uso geral. Produto em estoque imediato.",
+    "url": "https://www.rakumart.com.br/product/915431568198",
+    "crosswalked_at": "2026-06-18T01:12:17Z"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "offer_id": 980953326676,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_无痕内裤_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_980953326676.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "少女内裤批发中学生精梳棉短裤大童裤衩青少年中腰少女三角裤头",
+    "price_cny": "5.1",
+    "shop": "猫七小八1688",
+    "province": "广东",
+    "city": "揭阳市",
+    "booked": "517",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01AbaHoB1SmPgjjKhvX_!!2209302102289-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "无痕内裤"
+  },
+  "su_detail": {
+    "subject": "少女内裤批发中学生精梳棉短裤大童裤衩青少年中腰少女三角裤头",
+    "company": "普宁市流沙猫七小八服装店",
+    "loginid": "猫七小八1688",
+    "is_live": true,
+    "size_bytes": 93060
+  },
+  "rakumart": {
+    "match_score": 42.9,
+    "price_brl": 4.99,
+    "title_br": "Calcinha esportiva sem costura para mulher, cintura média, super elástica, tecido respirável e design simples com letras em inglês.",
+    "url": "https://www.rakumart.com.br/product/772474818890",
+    "crosswalked_at": "2026-06-23T01:14:08Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.430693Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "内裤",
+    "n4": "无痕内裤",
+    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+  }
+}

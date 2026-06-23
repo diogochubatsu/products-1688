@@ -1,0 +1,42 @@
+{
+  "offer_id": 753395592845,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_收纳_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_753395592845.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "壁挂式旋转吸盘置物架卫生间浴室收纳架子洗脸巾收纳盒壁挂免打孔",
+    "price_cny": "5.51",
+    "shop": "东阳昌耀工贸",
+    "province": "浙江",
+    "city": "东阳市",
+    "booked": "19119",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01aIJICL1yb1UuDtwU2_!!2211024996596-0-cib.jpg",
+    "category": "organization",
+    "source_query": "收纳"
+  },
+  "su_detail": {
+    "subject": "壁挂式旋转吸盘置物架卫生间浴室收纳架子洗脸巾收纳盒壁挂免打孔",
+    "company": "东阳市昌耀工贸有限公司",
+    "loginid": "东阳昌耀工贸",
+    "is_live": true,
+    "size_bytes": 105257
+  },
+  "rakumart": {
+    "match_score": 44.5,
+    "price_brl": 16.9,
+    "title_br": "Organizador de banheiro sem furos para parede, ideal para pia e chuveiro.",
+    "url": "https://www.rakumart.com.br/product/915929636754",
+    "crosswalked_at": "2026-06-18T01:08:08Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.773136Z",
+  "category": "organization",
+  "taxonomy": {
+    "n1": "家居日用",
+    "n2": "收纳整理",
+    "n3": "通用收纳",
+    "n4": "通用收纳",
+    "path": "家居日用/收纳整理/通用收纳/通用收纳"
+  }
+}

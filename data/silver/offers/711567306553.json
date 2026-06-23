@@ -1,0 +1,42 @@
+{
+  "offer_id": 711567306553,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_711567306553.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "创意跨境热销白红塑料包边缝纫夹子斧头夹长尾强力拼布扣定位夹",
+    "price_cny": "5.3",
+    "shop": "义乌楠博婉",
+    "province": "浙江",
+    "city": "义乌市",
+    "booked": "3742",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Cd11XB2MdM4heTWx5_!!2215667149850-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩巾夹"
+  },
+  "su_detail": {
+    "subject": "创意跨境热销白红塑料包边缝纫夹子斧头夹长尾强力拼布扣定位夹",
+    "company": "义乌市楠博婉文具有限公司",
+    "loginid": "义乌楠博婉",
+    "is_live": true,
+    "size_bytes": 96507
+  },
+  "rakumart": {
+    "match_score": 66.4,
+    "price_brl": 0.04,
+    "title_br": "Clipe para sacos de lixo, fixador de lixeira com trava lateral, antideslizante e criativo.",
+    "url": "https://www.rakumart.com.br/product/647144683364",
+    "crosswalked_at": "2026-06-18T01:11:10Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.767840Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "offer_id": 710885656253,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_童袜_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_710885656253.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "2023新款儿童袜子春夏季网眼袜薄款男女童卡通棉袜中大童短袜批发",
+    "price_cny": "0.85",
+    "shop": "班淳针织厂",
+    "province": "浙江",
+    "city": "诸暨市",
+    "booked": "74",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01LFoi4F1qXLAda8Aaw_!!2209677745505-0-cib.jpg",
+    "category": "socks",
+    "source_query": "童袜"
+  },
+  "su_detail": {
+    "subject": "2023新款儿童袜子春夏季网眼袜薄款男女童卡通棉袜中大童短袜批发",
+    "company": "诸暨市班淳针织厂",
+    "loginid": "班淳针织厂",
+    "is_live": true,
+    "size_bytes": 111990
+  },
+  "rakumart": {
+    "match_score": 56.0,
+    "price_brl": 2.3,
+    "title_br": "Meias infantis de algodão, modelo novo para primavera e verão, com malha leve e respirável que absorve o suor. Estampa fofa da Kuromi, cano curto e super estilosas para os bebês.",
+    "url": "https://www.rakumart.com.br/product/889599899462",
+    "crosswalked_at": "2026-06-23T01:20:04Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.213716Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "童袜",
+    "path": "服装鞋帽/袜子/通用袜子/童袜"
+  }
+}

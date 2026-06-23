@@ -1,0 +1,42 @@
+{
+  "offer_id": 630996139341,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_内裤_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_630996139341.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "柔软莫代尔男士内裤男四角裤透气铜纤维抗菌裆透气男生平角短裤头",
+    "price_cny": "12.5",
+    "shop": "东晟制衣厂",
+    "province": "浙江",
+    "city": "绍兴市",
+    "booked": "28258",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Rmpuyq1WEIa0MVPiR_!!4611686018427382468-0-cbu_common_content.jpg",
+    "category": "underwear",
+    "source_query": "内裤"
+  },
+  "su_detail": {
+    "subject": "柔软莫代尔男士内裤男四角裤透气铜纤维抗菌裆透气男生平角短裤头",
+    "company": "绍兴洛书服饰有限公司",
+    "loginid": "东晟制衣厂",
+    "is_live": true,
+    "size_bytes": 144699
+  },
+  "rakumart": {
+    "match_score": 68.6,
+    "price_brl": 26.0,
+    "title_br": "Cueca boxer masculina de algodão, respirável e moderna para jovens.",
+    "url": "https://www.rakumart.com.br/product/634843950836",
+    "crosswalked_at": "2026-06-18T01:02:19Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.727927Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "内裤",
+    "n4": "男士内裤",
+    "path": "服装鞋帽/内衣/内裤/男士内裤"
+  }
+}

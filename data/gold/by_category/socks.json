@@ -1,0 +1,210 @@
+{
+  "category": "socks",
+  "case_type": "CATEGORY",
+  "generated_at": "2026-06-23T01:24:44.353151Z",
+  "methodology": "Ranked by opportunity (HIGH>MEDIUM>LOW>NONE), then by booked count",
+  "total_in_silver": 50,
+  "top_count": 20,
+  "rankings": [
+    {
+      "offer_id": 676690794284,
+      "title": "船袜女夏季薄款浅口网纱隐形袜大小码棉底不掉跟短袜子女厂家批发",
+      "shop": "义乌市优阁袜厂",
+      "price_cny": 1.0,
+      "booked": 46253,
+      "price_brl_rakumart": 2.1,
+      "naive_margin_pct": 64.3,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 900793977864,
+      "title": "袜子男短袜夏季薄款纯棉防臭男士船袜夏天吸汗网眼透气短筒全棉袜",
+      "shop": "布谷鸟针织",
+      "price_cny": 2.3,
+      "booked": 28337,
+      "price_brl_rakumart": 3.8,
+      "naive_margin_pct": 54.6,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 817603225363,
+      "title": "诸暨袜子男女隐形船袜运动中筒棉袜纯色短袜春夏长筒袜一次性袜子",
+      "shop": "诸暨市心仪针织厂",
+      "price_cny": 0.71,
+      "booked": 21061,
+      "price_brl_rakumart": 2.9,
+      "naive_margin_pct": 81.6,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 544238522022,
+      "title": "糖果色女船袜 女士短袜彩棉女袜 纯色女短袜隐形礼品袜子批发",
+      "shop": "盛溢针织厂",
+      "price_cny": 0.9,
+      "booked": 10916,
+      "price_brl_rakumart": 1.98,
+      "naive_margin_pct": 65.9,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 650009335644,
+      "title": "无痕冰丝船袜百搭纯色隐形女袜硅胶防滑女船袜浅口短袜休闲袜子",
+      "shop": "橙七商行",
+      "price_cny": "1.1",
+      "booked": "8131",
+      "price_brl_rakumart": 1.7,
+      "naive_margin_pct": 51.5,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 674425695604,
+      "title": "浅口隐形冰丝船袜女款夏季薄款透气硅胶防滑防臭棉底超薄短袜子女",
+      "shop": "义乌市优阁袜厂",
+      "price_cny": 1.3,
+      "booked": 7860,
+      "price_brl_rakumart": 2.2,
+      "naive_margin_pct": 55.7,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 714661640028,
+      "title": "船袜男夏季薄款防滑不掉跟袜子男短袜浅口隐形无痕低帮纯棉底冰丝",
+      "shop": "诸暨果嫣针织有限公司",
+      "price_cny": 1.8,
+      "booked": 7155,
+      "price_brl_rakumart": 2.98,
+      "naive_margin_pct": 54.7,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 743674664444,
+      "title": "船袜女夏季薄款冰丝隐形女士短袜透气吸汗防滑防掉跟袜子夏女款",
+      "shop": "义乌市卿莱贸易有限公司",
+      "price_cny": 1.0,
+      "booked": 7105,
+      "price_brl_rakumart": 2.1,
+      "naive_margin_pct": 64.3,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 977597801604,
+      "title": "【新疆棉】四季款袜男女款短中长筒纯色棉袜吸汗透气防臭白色棉袜",
+      "shop": "晗语袜业",
+      "price_cny": 1.05,
+      "booked": 6839,
+      "price_brl_rakumart": 3.2,
+      "naive_margin_pct": 75.4,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 717206079009,
+      "title": "双针袜子7A抗菌防臭船袜女春夏季全棉短袜硅胶防滑浅口隐形女棉袜",
+      "shop": "诸暨市忆南针织厂",
+      "price_cny": 2.5,
+      "booked": 6305,
+      "price_brl_rakumart": 3.99,
+      "naive_margin_pct": 53.0,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 776181799884,
+      "title": "纯色船袜袜子男浅口短袜男女地摊礼品运动袜  独立包装地摊袜批发",
+      "shop": "孙萍针织",
+      "price_cny": 0.5,
+      "booked": 6204,
+      "price_brl_rakumart": 1.68,
+      "naive_margin_pct": 77.7,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 912303609682,
+      "title": "中筒袜子男女黑白色春夏秋款粗线防臭吸汗透气不起球高弹运动袜",
+      "shop": "浙江初一针织",
+      "price_cny": 0.75,
+      "booked": 6152,
+      "price_brl_rakumart": 3.58,
+      "naive_margin_pct": 84.3,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 703853085315,
+      "title": "新款多色棉质堆堆袜子女ins潮纯色无骨袜中长筒春秋月子袜批发",
+      "shop": "诸暨申流针织厂",
+      "price_cny": 1.61,
+      "booked": 5508,
+      "price_brl_rakumart": 2.59,
+      "naive_margin_pct": 53.4,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 910316523135,
+      "title": "冰丝船袜女夏季薄款纯棉底吸汗透气防滑不掉跟浅口隐形高跟鞋袜子",
+      "shop": "义乌芳润袜业",
+      "price_cny": "0.95",
+      "booked": "4990",
+      "price_brl_rakumart": 2.0,
+      "naive_margin_pct": 64.4,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 642303483411,
+      "title": "黑白灰袜子女中筒袜春夏ins潮三色纯色透气情侣短筒运动袜学生袜",
+      "shop": "悦行电商",
+      "price_cny": 1.6,
+      "booked": 4139,
+      "price_brl_rakumart": 3.2,
+      "naive_margin_pct": 62.5,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 714798514662,
+      "title": "袜子男条纹船袜休闲百搭短袜吸汗短筒袜夏季薄款低帮浅口隐形船袜",
+      "shop": "常新电子商务有限公司",
+      "price_cny": 0.5,
+      "booked": 3132,
+      "price_brl_rakumart": 0.82,
+      "naive_margin_pct": 54.3,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 568295045934,
+      "title": "百搭素色隐形袜子 男士春夏季硅胶防滑棉船袜5双腰封装厂家批发",
+      "shop": "加勒比1688",
+      "price_cny": 1.55,
+      "booked": 88648,
+      "price_brl_rakumart": 1.9,
+      "naive_margin_pct": 38.8,
+      "opportunity": "MEDIUM"
+    },
+    {
+      "offer_id": 693839423486,
+      "title": "冰丝船袜女秋薄款防滑脱防掉跟浅口隐形袜纯棉底高跟鞋单鞋短袜子",
+      "shop": "诸暨果嫣针织有限公司",
+      "price_cny": 2.0,
+      "booked": 28306,
+      "price_brl_rakumart": 2.0,
+      "naive_margin_pct": 25.0,
+      "opportunity": "MEDIUM"
+    },
+    {
+      "offer_id": 675818021712,
+      "title": "袜子男加大码浅口隐形袜短船袜夏季薄款棉袜硅胶防臭吸汗袜套黑色",
+      "shop": "诸暨市艾幕针织厂",
+      "price_cny": 1.78,
+      "booked": 25612,
+      "price_brl_rakumart": 1.78,
+      "naive_margin_pct": 25.0,
+      "opportunity": "MEDIUM"
+    },
+    {
+      "offer_id": 901472959011,
+      "title": "五指袜瑜伽袜子女防滑专业室内地板袜女士舞蹈防滑袜普拉提袜子",
+      "shop": "诸暨市新誉针织厂",
+      "price_cny": 7.4,
+      "booked": 21858,
+      "price_brl_rakumart": 7.4,
+      "naive_margin_pct": 25.0,
+      "opportunity": "MEDIUM"
+    }
+  ]
+}

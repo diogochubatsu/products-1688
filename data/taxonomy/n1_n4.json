@@ -1,0 +1,350 @@
+{
+  "服装鞋帽": {
+    "name_pt": "Vestuário e Calçados",
+    "n2": {
+      "内衣": {
+        "name_pt": "Roupa íntima",
+        "n3": {
+          "塑身衣": {
+            "name_pt": "Modeladores",
+            "n4": {
+              "提臀塑身": {
+                "name_pt": "Modelador levanta bumbum",
+                "current_cat": "underwear"
+              },
+              "收腹塑身": {
+                "name_pt": "Modelador abdominal",
+                "current_cat": "underwear"
+              },
+              "连体塑身": {
+                "name_pt": "Modelador corpo inteiro",
+                "current_cat": "underwear"
+              }
+            }
+          },
+          "内裤": {
+            "name_pt": "Calcínhas e cuecas",
+            "n4": {
+              "无痕内裤": {
+                "name_pt": "Calcinha sem costura",
+                "current_cat": "underwear"
+              },
+              "女士内裤": {
+                "name_pt": "Calcinha feminina",
+                "current_cat": "underwear"
+              },
+              "男士内裤": {
+                "name_pt": "Cueca masculina",
+                "current_cat": "underwear"
+              }
+            }
+          },
+          "塑身裤": {
+            "name_pt": "Calças modeladoras",
+            "n4": {
+              "提臀塑裤": {
+                "name_pt": "Calça modeladora levanta-bumbum",
+                "current_cat": "underwear"
+              },
+              "收腹塑裤": {
+                "name_pt": "Calça modeladora controle abdominal",
+                "current_cat": "underwear"
+              }
+            }
+          }
+        }
+      },
+      "袜子": {
+        "name_pt": "Meias",
+        "n3": {
+          "通用袜子": {
+            "name_pt": "Meias gerais",
+            "n4": {
+              "船袜": {
+                "name_pt": "Meia invisível",
+                "current_cat": "socks"
+              },
+              "运动袜": {
+                "name_pt": "Meia esportiva",
+                "current_cat": "socks"
+              },
+              "童袜": {
+                "name_pt": "Meia infantil",
+                "current_cat": "socks"
+              },
+              "棉袜": {
+                "name_pt": "Meia de algodão",
+                "current_cat": "socks"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "家居日用": {
+    "name_pt": "Casa e Dia a Dia",
+    "n2": {
+      "收纳整理": {
+        "name_pt": "Organização",
+        "n3": {
+          "通用收纳": {
+            "name_pt": "Organização geral",
+            "n4": {
+              "通用收纳": {
+                "name_pt": "Organizador universal",
+                "current_cat": "organization"
+              }
+            }
+          }
+        }
+      },
+      "厨房用品": {
+        "name_pt": "Cozinha",
+        "n3": {
+          "通用厨房": {
+            "name_pt": "Cozinha geral",
+            "n4": {
+              "厨房收纳": {
+                "name_pt": "Organizador de cozinha",
+                "current_cat": null
+              },
+              "厨具": {
+                "name_pt": "Utensílios",
+                "current_cat": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "户外运动": {
+    "name_pt": "Outdoor e Esportes",
+    "n2": {
+      "沙滩装备": {
+        "name_pt": "Praia",
+        "n3": {
+          "沙滩用品": {
+            "name_pt": "Acessórios de praia",
+            "n4": {
+              "沙滩夹": {
+                "name_pt": "Presilha de praia",
+                "current_cat": "beach_clip"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "五金工具": {
+    "name_pt": "Ferramentas",
+    "n2": {
+      "电动工具": {
+        "name_pt": "Ferramentas elétricas",
+        "n3": {
+          "钻孔工具": {
+            "name_pt": "Furadeiras",
+            "n4": {
+              "电钻": {
+                "name_pt": "Furadeira elétrica",
+                "current_cat": "drill"
+              },
+              "冲击钻": {
+                "name_pt": "Furadeira de impacto",
+                "current_cat": "drill"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "电子数码": {
+    "name_pt": "Eletrônicos",
+    "n2": {
+      "照明": {
+        "name_pt": "Iluminação",
+        "n3": {
+          "手电筒": {
+            "name_pt": "Lanternas",
+            "n4": {
+              "LED手电筒": {
+                "name_pt": "Lanterna LED",
+                "current_cat": "flashlight"
+              },
+              "充电手电筒": {
+                "name_pt": "Lanterna recarregável",
+                "current_cat": "flashlight"
+              }
+            }
+          }
+        }
+      },
+      "安防监控": {
+        "name_pt": "Segurança e vigilância",
+        "n3": {
+          "摄像头": {
+            "name_pt": "Câmeras",
+            "n4": {
+              "监控摄像头": {
+                "name_pt": "Câmera de vigilância",
+                "current_cat": "webcam"
+              },
+              "电脑摄像头": {
+                "name_pt": "Webcam",
+                "current_cat": "webcam"
+              },
+              "车载摄像头": {
+                "name_pt": "Câmera veicular",
+                "current_cat": "webcam"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "美妆护肤": {
+    "name_pt": "Beleza e cuidados",
+    "n2": {
+      "美妆工具": {
+        "name_pt": "Ferramentas de beleza",
+        "n3": {
+          "化妆工具": {
+            "name_pt": "Maquiagem",
+            "n4": {
+              "化妆刷": {
+                "name_pt": "Pincéis de maquiagem",
+                "current_cat": null
+              },
+              "美甲工具": {
+                "name_pt": "Manicure",
+                "current_cat": null
+              }
+            }
+          }
+        }
+      },
+      "护肤": {
+        "name_pt": "Cuidados com a pele",
+        "n3": {
+          "护肤工具": {
+            "name_pt": "Acessórios skincare",
+            "n4": {
+              "面膜工具": {
+                "name_pt": "Acessórios para máscara",
+                "current_cat": null
+              },
+              "化妆棉": {
+                "name_pt": "Algodão",
+                "current_cat": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "母婴用品": {
+    "name_pt": "Bebê e crianças",
+    "n2": {
+      "童装童鞋": {
+        "name_pt": "Roupas infantis",
+        "n3": {
+          "儿童袜子": {
+            "name_pt": "Meias infantis",
+            "n4": {
+              "童袜": {
+                "name_pt": "Meia infantil",
+                "current_cat": "socks"
+              }
+            }
+          },
+          "儿童配饰": {
+            "name_pt": "Acessórios infantis",
+            "n4": {
+              "童帽": {
+                "name_pt": "Boné infantil",
+                "current_cat": null
+              },
+              "童巾": {
+                "name_pt": "Toalha infantil",
+                "current_cat": null
+              }
+            }
+          }
+        }
+      },
+      "玩具": {
+        "name_pt": "Brinquedos",
+        "n3": {
+          "通用玩具": {
+            "name_pt": "Brinquedos gerais",
+            "n4": {
+              "毛绒玩具": {
+                "name_pt": "Pelúcia",
+                "current_cat": null
+              },
+              "益智玩具": {
+                "name_pt": "Brinquedo educativo",
+                "current_cat": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "宠物用品": {
+    "name_pt": "Pet shop",
+    "n2": {
+      "宠物配饰": {
+        "name_pt": "Acessórios pet",
+        "n3": {
+          "宠物日常": {
+            "name_pt": "Dia a dia",
+            "n4": {
+              "宠物玩具": {
+                "name_pt": "Brinquedo pet",
+                "current_cat": null
+              },
+              "宠物服装": {
+                "name_pt": "Roupa pet",
+                "current_cat": null
+              },
+              "宠物牵引": {
+                "name_pt": "Guia e coleira",
+                "current_cat": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "文具办公": {
+    "name_pt": "Papelaria e escritório",
+    "n2": {
+      "书写工具": {
+        "name_pt": "Escrita",
+        "n3": {
+          "通用文具": {
+            "name_pt": "Papelaria geral",
+            "n4": {
+              "笔类": {
+                "name_pt": "Canetas",
+                "current_cat": null
+              },
+              "本册": {
+                "name_pt": "Cadernos",
+                "current_cat": null
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

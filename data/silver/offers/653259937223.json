@@ -1,0 +1,36 @@
+{
+  "offer_id": 653259937223,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_沙滩夹_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_653259937223.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "儿童玩雪玩具 夹雪器神器雪球夹 勺打雪仗工具沙球夹子沙滩玩具",
+    "price_cny": "1.8",
+    "shop": "母婴玩具厂",
+    "province": "广东",
+    "city": "深圳市",
+    "booked": "601",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01yiN85J2LwIvELDAOX_!!3613819756-0-cib.jpg",
+    "category": "beach_clip",
+    "source_query": "沙滩夹"
+  },
+  "su_detail": {
+    "subject": "儿童玩雪玩具 夹雪器神器雪球夹 勺打雪仗工具沙球夹子沙滩玩具",
+    "company": "深圳市福田区星漫玩具商行(个体工商户)",
+    "loginid": "母婴玩具厂",
+    "is_live": true,
+    "size_bytes": 177934
+  },
+  "rakumart": null,
+  "enriched_at": "2026-06-18T00:06:26.734269Z",
+  "category": "beach_clip",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹",
+    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+  }
+}

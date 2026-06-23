@@ -1,0 +1,42 @@
+{
+  "offer_id": 630809410609,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_收腹裤_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_630809410609.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "高腰收腹裤束腹提臀美体塑身裤女士安全裤防走光产后平角收腹内裤",
+    "price_cny": "8",
+    "shop": "舒奈美针织内衣",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "156435",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/22332721806_706110251.jpg",
+    "category": "underwear",
+    "source_query": "收腹裤"
+  },
+  "su_detail": {
+    "subject": "高腰收腹裤束腹提臀美体塑身裤女士安全裤防走光产后平角收腹内裤",
+    "company": "汕头市舒奈美针织有限公司",
+    "loginid": "舒奈美针织内衣",
+    "is_live": true,
+    "size_bytes": 139969
+  },
+  "rakumart": {
+    "match_score": 39.2,
+    "price_brl": 9.0,
+    "title_br": "Calça modeladora de cintura alta para barriga e glúteos, com função de segurança contra transparência, ideal para pós-parto.",
+    "url": "https://www.rakumart.com.br/product/758949857256",
+    "crosswalked_at": "2026-06-18T01:14:36Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.726324Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身裤",
+    "n4": "提臀塑裤",
+    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+  }
+}

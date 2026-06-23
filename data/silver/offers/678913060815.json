@@ -1,0 +1,42 @@
+{
+  "offer_id": 678913060815,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: drill_*_enriched.json",
+    "rakumart": "LEGACY: drill_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "扭力调节直柄3.6V电动螺丝刀小型多功能拆卸起拧螺丝具锂电电起子",
+    "price_cny": 68.08,
+    "shop": "添益工具",
+    "shop_text": "宁波添益工具有限公司",
+    "province": "浙江",
+    "city": "宁波市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01IC4Ert1HJauPNEb3r_!!2209724350737-0-cib.jpg",
+    "booked": 3049,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": "扭力调节直柄3.6V电动螺丝刀小型多功能拆卸起拧螺丝具锂电电起子",
+    "company": "宁波添益工具有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 82540
+  },
+  "rakumart": {
+    "iid": "678913060815",
+    "title_cn": "扭力调节直柄3.6V电动螺丝刀小型多功能拆卸起拧螺丝具锂电电起子",
+    "title_pt": "Chave de fenda elétrica de 3.6V com ajuste de torque, cabo reto, pequena e multifuncional para desmontagem e parafusos, bateria de íon de lítio.",
+    "price_brl": 49.93,
+    "match_score": 100.0
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

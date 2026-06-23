@@ -1,0 +1,42 @@
+{
+  "offer_id": 817603225363,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "诸暨袜子男女隐形船袜运动中筒棉袜纯色短袜春夏长筒袜一次性袜子",
+    "price_cny": 0.71,
+    "shop": "诸暨市心仪针织厂",
+    "shop_text": "诸暨市心仪针织厂",
+    "province": "浙江",
+    "city": "绍兴市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01PNPD1a2BDHyHy2p2q_!!2214698498304-0-cib.jpg",
+    "booked": 21061,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "诸暨袜子男女隐形船袜运动中筒棉袜纯色短袜春夏长筒袜一次性袜子",
+    "company": "诸暨市心仪针织厂",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 108966
+  },
+  "rakumart": {
+    "match_score": 70.3,
+    "price_brl": 2.9,
+    "title_br": "Meia feminina de cano baixo, estilo invisível, cor sólida, em algodão. Antiderrapante, não desce do calcanhar, ideal para o verão: fina, curta, respirável e durável.",
+    "url": "https://www.rakumart.com.br/product/948003973258",
+    "crosswalked_at": "2026-06-18T01:06:46Z"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "offer_id": 749099820808,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": null,
+    "rakumart": "LEGACY: drill_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "亚马逊新款笔式电动螺丝刀手机维修专用电动螺丝刀套装电动工具",
+    "price_cny": 88.0,
+    "shop": "东莞固拓电子",
+    "shop_text": "东莞市固拓精密工具有限公司",
+    "province": "广东",
+    "city": "东莞市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01hcebmC1LGcvpbpGtd_!!2216846351272-0-cib.jpg",
+    "booked": 1998,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": null,
+    "company": null,
+    "loginid": null,
+    "is_live": false,
+    "size_bytes": 251
+  },
+  "rakumart": {
+    "iid": "898565020750",
+    "title_cn": "亚马逊新品铝合金壳精密电动螺丝刀充电式手机笔记本相机维修工具",
+    "title_pt": "Novo produto da Amazon: chave de fenda elétrica de precisão em liga de alumínio, recarregável, ideal para reparos em celular, notebook e câmera.",
+    "price_brl": 41.0,
+    "match_score": 53.3
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

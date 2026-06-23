@@ -1,0 +1,42 @@
+{
+  "offer_id": 683867736365,
+  "bronze_refs": {
+    "mtop": "LEGACY: youyazi_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: youyazi_*_enriched.json",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "新款网红高腰女士内裤高弹力无束缚收腹提臀不卡档内裤女",
+    "price_cny": 2.4,
+    "shop": "尤雅姿内衣厂",
+    "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01vqeogG2Akt9mTFJj1_!!2211950918242-0-cib.jpg",
+    "booked": 656,
+    "category": "underwear"
+  },
+  "su_detail": {
+    "subject": "新款网红高腰女士内裤高弹力无束缚收腹提臀不卡档内裤女",
+    "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 108484
+  },
+  "rakumart": {
+    "match_score": 49.2,
+    "price_brl": 7.0,
+    "title_br": "Calcinha de cintura alta com efeito bumbum levantado, renda, modeladora para barriga, sexy e sensual. Modelo novo 2021, mais vendido, super fashion.",
+    "url": "https://www.rakumart.com.br/product/654010382763",
+    "crosswalked_at": "2026-06-18T01:10:38Z"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身裤",
+    "n4": "提臀塑裤",
+    "path": "服装鞋帽/内衣/内裤/女士内裤"
+  }
+}

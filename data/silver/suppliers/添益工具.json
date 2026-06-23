@@ -1,0 +1,20 @@
+{
+  "shop_name": "添益工具",
+  "offer_count": 2,
+  "categories": [
+    "drill"
+  ],
+  "offers": [
+    {
+      "offer_id": 639403293616,
+      "category": "drill",
+      "title": "笔式小微型精密电动螺丝刀套装 多功能迷你手机钟表螺丝批起子机"
+    },
+    {
+      "offer_id": 678913060815,
+      "category": "drill",
+      "title": "扭力调节直柄3.6V电动螺丝刀小型多功能拆卸起拧螺丝具锂电电起子"
+    }
+  ],
+  "generated_at": "2026-06-18T00:07:55.031652Z"
+}

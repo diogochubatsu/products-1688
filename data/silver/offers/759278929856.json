@@ -1,0 +1,36 @@
+{
+  "offer_id": 759278929856,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-21_化妆品收纳_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-21_759278929856.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "亚克力收纳盒指甲油眼影盘化妆品口红数据线多功能分格置物架",
+    "price_cny": "3.5",
+    "shop": "义乌市泽椋贸易有限公司",
+    "province": "浙江",
+    "city": "金华市",
+    "booked": "10",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN016htxaV2Az5Z1cFc44_!!2215584038273-0-cib.jpg",
+    "category": "organization",
+    "source_query": "化妆品收纳"
+  },
+  "su_detail": {
+    "subject": "亚克力收纳盒指甲油眼影盘化妆品口红数据线多功能分格置物架",
+    "company": "义乌市泽椋贸易有限公司",
+    "loginid": "义乌市泽椋贸易有限公司",
+    "is_live": true,
+    "size_bytes": 71565
+  },
+  "rakumart": null,
+  "enriched_at": "2026-06-21T15:17:25.996493Z",
+  "category": "organization",
+  "taxonomy": {
+    "n1": "家居日用",
+    "n2": "收纳整理",
+    "n3": "通用收纳",
+    "n4": "通用收纳",
+    "path": "家居日用/收纳整理/通用收纳/通用收纳"
+  }
+}

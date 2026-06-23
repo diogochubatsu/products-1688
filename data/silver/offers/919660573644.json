@@ -1,0 +1,42 @@
+{
+  "offer_id": 919660573644,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_无痕内裤_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_919660573644.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "7A抑菌女士中腰无痕内裤女高弹奶皮冰皮少女桑蚕丝裆大码女生批发",
+    "price_cny": "4.5",
+    "shop": "莉春纱针织内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "31602",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01m57iCe1SuemDGZDGJ_!!2208404032307-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "无痕内裤"
+  },
+  "su_detail": {
+    "subject": "7A抑菌女士中腰无痕内裤女高弹奶皮冰皮少女桑蚕丝裆大码女生批发",
+    "company": "汕头市潮阳区贵屿莉春纱针织内衣厂",
+    "loginid": "莉春纱针织内衣厂",
+    "is_live": true,
+    "size_bytes": 128415
+  },
+  "rakumart": {
+    "match_score": 37.0,
+    "price_brl": 5.35,
+    "title_br": "Calcinha feminina de cintura média, sem costura, com tecido elástico tipo pele de leite e pele de gelo, ideal para jovens. Forro em seda natural. Disponível em tamanhos grandes. Venda por atacado.",
+    "url": "https://www.rakumart.com.br/product/919660573644",
+    "crosswalked_at": "2026-06-23T01:16:43Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.276307Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "内裤",
+    "n4": "无痕内裤",
+    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+  }
+}

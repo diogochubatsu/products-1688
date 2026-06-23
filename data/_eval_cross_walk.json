@@ -1,0 +1,268 @@
+{
+  "sample_size": 29,
+  "seed": 42,
+  "note": "NEW crosswalk matches only (have title_br). Legacy CN-vs-CN excluded.",
+  "matches": [
+    {
+      "offer_id": "693160611049",
+      "category": "underwear",
+      "cn_title": "一件代发厂家直销男士平角裤男内裤男四角裤星期裤潮流透气多色裤",
+      "pt_title": "Venda direta da fábrica: cueca boxer masculina em tecido de seda gel, atacado, t",
+      "url": "https://www.rakumart.com.br/product/823782723951",
+      "match_score": 36.2,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "753395592845",
+      "category": "organization",
+      "cn_title": "壁挂式旋转吸盘置物架卫生间浴室收纳架子洗脸巾收纳盒壁挂免打孔",
+      "pt_title": "Organizador de banheiro sem furos para parede, ideal para pia e chuveiro.",
+      "url": "https://www.rakumart.com.br/product/915929636754",
+      "match_score": 44.5,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "643702158327",
+      "category": "drill",
+      "cn_title": "SNJUE现货供应电动螺丝刀套装多功能电钻套装充电式手电钻电动起",
+      "pt_title": "Kit de parafusadeira elétrica recarregável, furadeira compacta portátil, multifu",
+      "url": "https://www.rakumart.com.br/product/892644257648",
+      "match_score": 43.3,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "627965577050",
+      "category": "underwear",
+      "cn_title": "内衣二合一隐形无痕矫正驼背聚拢无钢圈前搭扣聚拢内衣女",
+      "pt_title": "Lançamento imperdível: sutiã sem costura com efeito nude, invisível sob a roupa,",
+      "url": "https://www.rakumart.com.br/product/843422185435",
+      "match_score": 39.4,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "676007844230",
+      "category": "beach_clip",
+      "cn_title": "不锈钢挂钩夹子3字夹浸塑无痕家用收纳晾晒帽夹样品夹丝巾围巾夹",
+      "pt_title": "Mini grampos de cortina em plástico, com gancho e clipe para documentos. Transpa",
+      "url": "https://www.rakumart.com.br/product/570463260749",
+      "match_score": 31.9,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "793964340892",
+      "category": "beach_clip",
+      "cn_title": "圆形磁吸帽夹便携式帽夹六边形强磁帽夹户外帽子收纳夹丝巾遮阳帽",
+      "pt_title": "Clipe de chapéu magnético redondo, portátil e hexagonal com ímã forte. Ideal par",
+      "url": "https://www.rakumart.com.br/product/793964340892",
+      "match_score": 38.7,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "568329244803",
+      "category": "drill",
+      "cn_title": "东成手电钻转充电式无刷锂电池冲击钻家用工具东城电动手钻螺丝刀",
+      "pt_title": "Furadeira de impacto com bateria de lítio, martelo perfurante multifuncional, pa",
+      "url": "https://www.rakumart.com.br/product/828220698733",
+      "match_score": 46.3,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "666287913080",
+      "category": "underwear",
+      "cn_title": "亚马逊大胸无肩带防滑大码隐形内衣女无钢圈交叉聚拢露肩美背文胸",
+      "pt_title": "Não cai nem ao correr ou pular: sutiã sem alças para mulheres, antiderrapante, i",
+      "url": "https://www.rakumart.com.br/product/815642434408",
+      "match_score": 42.1,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "532604915561",
+      "category": "drill",
+      "cn_title": "东成手电钻转充电式无刷锂电池冲击钻家用工具东城电动手钻螺丝刀",
+      "pt_title": "Dongcheng furadeira de mão recarregável com bateria de íon de lítio sem escova e",
+      "url": "https://www.rakumart.com.br/product/532604915561",
+      "match_score": 43.1,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "535785206986",
+      "category": "underwear",
+      "cn_title": "厂家直销孕妇产后骨盆带 透气弹力产后收腹带 收胯提臀托腹盆骨带",
+      "pt_title": "Cinto pós-parto grande, modelador de cintura e abdômen sem costura para mulheres",
+      "url": "https://www.rakumart.com.br/product/561474750371",
+      "match_score": 33.5,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "681688255074",
+      "category": "beach_clip",
+      "cn_title": "无痕防滑晾晒夹跨境沙滩防风夹家用多功能棉被固定防风塑料夹现货",
+      "pt_title": "Clipe de roupa com trava anti-vento, ideal para prender edredons e roupas no var",
+      "url": "https://www.rakumart.com.br/product/912765495328",
+      "match_score": 50.5,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "606838459953",
+      "category": "beach_clip",
+      "cn_title": "跨境可印刷logo沙滩毛巾夹 沙滩浴巾夹  塑料毛巾夹 野营帐篷夹子",
+      "pt_title": "Kit de prendedores de toalha para praia com tema de bichinhos fofos, ideais para",
+      "url": "https://www.rakumart.com.br/product/664082322767",
+      "match_score": 51.4,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "621178439612",
+      "category": "beach_clip",
+      "cn_title": "跨境火烈鸟沙滩夹子创意塑料夹动物防风夹毛巾夹固定夹晾衣夹",
+      "pt_title": "Kit de prendedores de toalha para praia com tema de bichinhos fofos, ideais para",
+      "url": "https://www.rakumart.com.br/product/664082322767",
+      "match_score": 52.6,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "664082322767",
+      "category": "beach_clip",
+      "cn_title": "可爱动物系列沙滩毛巾防风夹子太阳椅毛巾夹晾晒挡风夹塑料晾衣夹",
+      "pt_title": "Kit de prendedores de toalha para praia com tema de bichinhos fofos, ideais para",
+      "url": "https://www.rakumart.com.br/product/664082322767",
+      "match_score": 55.4,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "645450835208",
+      "category": "drill",
+      "cn_title": "大艺充电手钻1028锂电钻3302g家用3305手枪钻转电动螺丝刀工具T22",
+      "pt_title": "Furadeira de mão recarregável para uso doméstico, multifuncional, com bateria de",
+      "url": "https://www.rakumart.com.br/product/908322740262",
+      "match_score": 65.4,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "591890784720",
+      "category": "underwear",
+      "cn_title": "日韩性感简约少女内衣3D隐形内衣 无钢圈无肩带抹胸聚拢文胸",
+      "pt_title": "Venda de sutiãs esportivos e de ioga, super elásticos, modelo U grande, estilo c",
+      "url": "https://www.rakumart.com.br/product/681860685436",
+      "match_score": 64.4,
+      "label": "BAD"
+    },
+    {
+      "offer_id": "785536643043",
+      "category": "socks",
+      "cn_title": "coolmax运动袜子抗菌防臭加厚毛巾底马拉松骑行袜速干专业跑步袜",
+      "pt_title": "Meia esportiva masculina 100% algodão, antiodor, ideal para outono e inverno, mo",
+      "url": "https://www.rakumart.com.br/product/847712326197",
+      "match_score": 50.5,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "630996139341",
+      "category": "underwear",
+      "cn_title": "柔软莫代尔男士内裤男四角裤透气铜纤维抗菌裆透气男生平角短裤头",
+      "pt_title": "Cueca boxer masculina de algodão, respirável e moderna para jovens.",
+      "url": "https://www.rakumart.com.br/product/634843950836",
+      "match_score": 68.6,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "607766898205",
+      "category": "underwear",
+      "cn_title": "莫代尔内裤女高腰收腹提臀艾草抗菌女士内裤棉舒适高端三角短裤头",
+      "pt_title": "Lançamento de 2026: cueca feminina de alta qualidade em malha modal, cintura alt",
+      "url": "https://www.rakumart.com.br/product/918212428733",
+      "match_score": 51.4,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "676608252202",
+      "category": "socks",
+      "cn_title": "袜子男夏COOLMAX跑步袜抗菌吸汗防滑透气短筒压力袜毛巾底运动袜",
+      "pt_title": "Meia masculina de verão COOLMAX para corrida, com tecnologia antibacteriana, abs",
+      "url": "https://www.rakumart.com.br/product/676608252202",
+      "match_score": 53.5,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "561025468499",
+      "category": "underwear",
+      "cn_title": "全棉男士内裤宽松透气四角裤肥佬加大码中高腰纯棉红色青年平角裤",
+      "pt_title": "Cueca boxer masculina para pais e idosos, cintura média/alta, estilo harém, tama",
+      "url": "https://www.rakumart.com.br/product/669295629325",
+      "match_score": 71.7,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "595810183034",
+      "category": "underwear",
+      "cn_title": "薄款腰封收腹带女士束腰带塑腰带塑腹带透气孕妇产后塑身美体大码",
+      "pt_title": "Cinto pós-parto grande, modelador de cintura e abdômen sem costura para mulheres",
+      "url": "https://www.rakumart.com.br/product/561474750371",
+      "match_score": 73.1,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "817603225363",
+      "category": "socks",
+      "cn_title": "诸暨袜子男女隐形船袜运动中筒棉袜纯色短袜春夏长筒袜一次性袜子",
+      "pt_title": "Meia feminina de cano baixo, estilo invisível, cor sólida, em algodão. Antiderra",
+      "url": "https://www.rakumart.com.br/product/948003973258",
+      "match_score": 70.3,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "642647854380",
+      "category": "drill",
+      "cn_title": "跨境代发飞机钻裸机家用手持搅拌钻多功能打灰机腻子搅拌电钻",
+      "pt_title": "Bosch GSB120-LI, furadeira multifuncional de impacto com função de parafusadeira",
+      "url": "https://www.rakumart.com.br/product/811890497575",
+      "match_score": 74.2,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "621536689191",
+      "category": "underwear",
+      "cn_title": "收腹带美体镂空透气紧身束腹运动束腰带女产后减肚护腰塑身衣腰封",
+      "pt_title": "Cinto pós-parto grande, modelador de cintura e abdômen sem costura para mulheres",
+      "url": "https://www.rakumart.com.br/product/561474750371",
+      "match_score": 73.1,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "785908565691",
+      "category": "socks",
+      "cn_title": "CoolMax专业跑步袜女士加厚毛巾底篮球袜男中筒透气抗菌运动袜子",
+      "pt_title": "Meia esportiva CoolMax profissional para corrida feminina, com palmilha de toalh",
+      "url": "https://www.rakumart.com.br/product/785908565691",
+      "match_score": 73.0,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "772004137650",
+      "category": "drill",
+      "cn_title": "充电款家用打孔机打磨机电磨机珍珠钻孔diy手工水晶滴胶小电钻",
+      "pt_title": "Mini furadeira elétrica recarregável DIY, ferramenta multifuncional para furação",
+      "url": "https://www.rakumart.com.br/product/851926495211",
+      "match_score": 72.6,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "901472959011",
+      "category": "socks",
+      "cn_title": "五指袜瑜伽袜子女防滑专业室内地板袜女士舞蹈防滑袜普拉提袜子",
+      "pt_title": "Meias de cinco dedos para yoga, dança e pilates, com sola antiderrapante, ideais",
+      "url": "https://www.rakumart.com.br/product/901472959011",
+      "match_score": 72.0,
+      "label": "GOOD"
+    },
+    {
+      "offer_id": "905035548875",
+      "category": "beach_clip",
+      "cn_title": "彩色包边夹斧头 夹拼布缝纫定位夹 塑料夹长尾夹 手工DIY定位夹",
+      "pt_title": "Clipes coloridos com borda para fixar retalhos, clipes plásticos de cauda longa ",
+      "url": "https://www.rakumart.com.br/product/905035548875",
+      "match_score": 71.2,
+      "label": "GOOD"
+    }
+  ]
+}

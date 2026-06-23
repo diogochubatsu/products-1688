@@ -1,0 +1,42 @@
+{
+  "offer_id": 892516397275,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_童袜_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_892516397275.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "儿童袜子夏季薄款船袜可爱粉色公主女童中小童网眼透气短筒袜批发",
+    "price_cny": "2.2",
+    "shop": "诸暨市舒竹袜加工厂",
+    "province": "浙江",
+    "city": "绍兴市",
+    "booked": "149",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01QiH4hB1pixoLeiFYY_!!2211138465395-0-cib.jpg",
+    "category": "socks",
+    "source_query": "童袜"
+  },
+  "su_detail": {
+    "subject": "儿童袜子夏季薄款船袜可爱粉色公主女童中小童网眼透气短筒袜批发",
+    "company": "诸暨市舒竹袜加工厂",
+    "loginid": "诸暨市舒竹袜加工厂",
+    "is_live": true,
+    "size_bytes": 74572
+  },
+  "rakumart": {
+    "match_score": 51.4,
+    "price_brl": 2.0,
+    "title_br": "Meia de malha para crianças, modelo leve para primavera e verão, disponível para meninos e meninas. Meias brancas de algodão com ventilação. Venda no atacado.",
+    "url": "https://www.rakumart.com.br/product/1264068120",
+    "crosswalked_at": "2026-06-23T01:14:58Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.254710Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

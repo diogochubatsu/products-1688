@@ -1,0 +1,20 @@
+{
+  "shop_name": "诸暨果嫣针织有限公司",
+  "offer_count": 2,
+  "categories": [
+    "socks"
+  ],
+  "offers": [
+    {
+      "offer_id": 693839423486,
+      "category": "socks",
+      "title": "冰丝船袜女秋薄款防滑脱防掉跟浅口隐形袜纯棉底高跟鞋单鞋短袜子"
+    },
+    {
+      "offer_id": 714661640028,
+      "category": "socks",
+      "title": "船袜男夏季薄款防滑不掉跟袜子男短袜浅口隐形无痕低帮纯棉底冰丝"
+    }
+  ],
+  "generated_at": "2026-06-18T00:07:54.999649Z"
+}

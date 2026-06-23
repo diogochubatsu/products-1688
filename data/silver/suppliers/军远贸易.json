@@ -1,0 +1,20 @@
+{
+  "shop_name": "军远贸易",
+  "offer_count": 2,
+  "categories": [
+    "drill"
+  ],
+  "offers": [
+    {
+      "offer_id": 704903687529,
+      "category": "drill",
+      "title": "电动螺丝刀充电式小型家用螺丝批工具迷你手枪钻电起子电批手电钻"
+    },
+    {
+      "offer_id": 641931920298,
+      "category": "drill",
+      "title": "电动螺丝刀充电式小型家用家具安装电起子迷你螺丝批电批工具套装"
+    }
+  ],
+  "generated_at": "2026-06-18T00:07:54.997640Z"
+}

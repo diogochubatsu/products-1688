@@ -1,0 +1,42 @@
+{
+  "offer_id": 650009335644,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_船袜_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_650009335644.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "无痕冰丝船袜百搭纯色隐形女袜硅胶防滑女船袜浅口短袜休闲袜子",
+    "price_cny": "1.1",
+    "shop": "橙七商行",
+    "province": "浙江",
+    "city": "义乌市",
+    "booked": "8131",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01B6AVeD1bIwPO2ynyb_!!4136643443-0-cib.jpg",
+    "category": "socks",
+    "source_query": "船袜"
+  },
+  "su_detail": {
+    "subject": "无痕冰丝船袜百搭纯色隐形女袜硅胶防滑女船袜浅口短袜休闲袜子",
+    "company": "义乌市橙家针织有限公司",
+    "loginid": "橙七商行",
+    "is_live": true,
+    "size_bytes": 99880
+  },
+  "rakumart": {
+    "match_score": 49.7,
+    "price_brl": 1.7,
+    "title_br": "Meia feminina de verão, curta, com silicone antiderrapante que não cai do calcanhar, respirável, cor sólida em algodão, meia baixa invisível e absorvente para mulheres.",
+    "url": "https://www.rakumart.com.br/product/714805258083",
+    "crosswalked_at": "2026-06-23T01:17:31Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.202971Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

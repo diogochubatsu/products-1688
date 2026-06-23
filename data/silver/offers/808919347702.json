@@ -1,0 +1,42 @@
+{
+  "offer_id": 808919347702,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_无痕内裤_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_808919347702.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "冰绷带X超薄高腰提臂收腹冰凉透气面膜内裤无痕隐形大码三角裤女",
+    "price_cny": "5.4",
+    "shop": "尚依娜美服饰",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "2916",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN012y3gQW1I0BhcJwCL0_!!2211252490830-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "无痕内裤"
+  },
+  "su_detail": {
+    "subject": "冰绷带X超薄高腰提臂收腹冰凉透气面膜内裤无痕隐形大码三角裤女",
+    "company": "汕头市潮阳区谷饶尚依娜美服饰商行",
+    "loginid": "尚依娜美服饰",
+    "is_live": true,
+    "size_bytes": 112065
+  },
+  "rakumart": {
+    "match_score": 61.3,
+    "price_brl": 8.8,
+    "title_br": "Nova calcinha de renda de cintura alta vermelha para o ano novo, com efeito elevador no bumbum e modeladora na barriga. Ideal para o Ano Novo Chinês e para casamentos.",
+    "url": "https://www.rakumart.com.br/product/853348375095",
+    "crosswalked_at": "2026-06-23T01:20:31Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.233681Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身裤",
+    "n4": "收腹塑裤",
+    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+  }
+}

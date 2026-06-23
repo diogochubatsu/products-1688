@@ -1,0 +1,42 @@
+{
+  "offer_id": 991939048609,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_无痕内裤_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_991939048609.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "莫代尔内裤中腰女士大码10A抑菌纯棉加长裆内裤三角裤无痕10A抗菌",
+    "price_cny": "5.15",
+    "shop": "舒雅奈儿针织内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "2990",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01XFgQhT1gUSnINjhpR_!!2214518324145-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "无痕内裤"
+  },
+  "su_detail": {
+    "subject": "莫代尔内裤中腰女士大码10A抑菌纯棉加长裆内裤三角裤无痕10A抗菌",
+    "company": "汕头市潮阳区谷饶舒雅奈儿内衣厂",
+    "loginid": "舒雅奈儿针织内衣厂",
+    "is_live": true,
+    "size_bytes": 107960
+  },
+  "rakumart": {
+    "match_score": 40.1,
+    "price_brl": 8.0,
+    "title_br": "Cueca de algodão com cintura média, modelo 10A com ação antibacteriana, entreperna estendida em 100% algodão, respirável e confortável, modelagem que eleva o bumbum, absorve umidade e libera suor.",
+    "url": "https://www.rakumart.com.br/product/944393112453",
+    "crosswalked_at": "2026-06-23T01:20:46Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.436269Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "内裤",
+    "n4": "无痕内裤",
+    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+  }
+}

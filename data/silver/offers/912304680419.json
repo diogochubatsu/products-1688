@@ -1,0 +1,42 @@
+{
+  "offer_id": 912304680419,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_塑身衣_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_912304680419.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "【原版质量】爆款女士交叉收腹带产后塑形束腰能量石无痕塑身腰封",
+    "price_cny": "6.9",
+    "shop": "贵屿万姿雅针织内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "9166",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Ne9vcQ1jENgIyo7UE_!!2219389094516-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "塑身衣"
+  },
+  "su_detail": {
+    "subject": "【原版质量】爆款女士交叉收腹带产后塑形束腰能量石无痕塑身腰封",
+    "company": "汕头市潮阳区贵屿万姿雅针织内衣厂（个体工商户）",
+    "loginid": "贵屿万姿雅针织内衣厂",
+    "is_live": true,
+    "size_bytes": 82278
+  },
+  "rakumart": {
+    "match_score": 30.1,
+    "price_brl": 25.0,
+    "title_br": "Cinto modelador invisível para mulheres, efeito de barriga chapada e silhueta definida, ideal para pós-parto, tamanhos grandes, fino para primavera e verão.",
+    "url": "https://www.rakumart.com.br/product/868469445098",
+    "crosswalked_at": "2026-06-20T14:36:52Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.790137Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "提臀塑身",
+    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+  }
+}

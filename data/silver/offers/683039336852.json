@@ -1,0 +1,42 @@
+{
+  "offer_id": 683039336852,
+  "bronze_refs": {
+    "mtop": "LEGACY: youyazi_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: youyazi_*_enriched.json",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "太空舱男士内裤平角宽松男款中腰短裤四角裤男生底裤衩",
+    "price_cny": 1.6,
+    "shop": "尤雅姿内衣厂",
+    "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01lJ0sfd2Akt9VyRMvx_!!2211950918242-0-cib.jpg",
+    "booked": 24,
+    "category": "underwear"
+  },
+  "su_detail": {
+    "subject": "太空舱男士内裤平角宽松男款中腰短裤四角裤男生底裤衩",
+    "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 94020
+  },
+  "rakumart": {
+    "match_score": 65.3,
+    "price_brl": 1.6,
+    "title_br": "Boxer masculino de estilo cápsula, modelo largo e confortável, cintura média, cueca boxer para homem.",
+    "url": "https://www.rakumart.com.br/product/683039336852",
+    "crosswalked_at": "2026-06-18T01:15:15Z"
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "内裤",
+    "n4": "男士内裤",
+    "path": "服装鞋帽/内衣/内裤/男士内裤"
+  }
+}

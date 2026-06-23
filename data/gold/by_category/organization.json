@@ -1,0 +1,60 @@
+{
+  "category": "organization",
+  "case_type": "SUPPLIER",
+  "generated_at": "2026-06-23T01:24:44.344675Z",
+  "methodology": "Ranked by opportunity (HIGH>MEDIUM>LOW>NONE), then by booked count",
+  "total_in_silver": 5,
+  "top_count": 5,
+  "rankings": [
+    {
+      "offer_id": 824631252213,
+      "title": "桌面置物架多层收纳架书架厨房用品办公家用杯架家居好物储物架子",
+      "shop": "浙江龙泉海川竹木制品厂",
+      "price_cny": "21.8",
+      "booked": "24462",
+      "price_brl_rakumart": 40.0,
+      "naive_margin_pct": 59.1,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 753395592845,
+      "title": "壁挂式旋转吸盘置物架卫生间浴室收纳架子洗脸巾收纳盒壁挂免打孔",
+      "shop": "东阳昌耀工贸",
+      "price_cny": "5.51",
+      "booked": "19119",
+      "price_brl_rakumart": 16.9,
+      "naive_margin_pct": 75.5,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 623055114459,
+      "title": "厂家批发储物盒 化妆品首饰整理盒学生宿舍衣物塑料 桌面收纳盒",
+      "shop": "台州市黄岩跃豪塑料厂",
+      "price_cny": "3.2",
+      "booked": "17630",
+      "price_brl_rakumart": 4.9,
+      "naive_margin_pct": 51.0,
+      "opportunity": "HIGH"
+    },
+    {
+      "offer_id": 626773431810,
+      "title": "腾亿迷你折叠塑料收纳盒学生桌面整理手帐胶带文具折叠篮筐置物篮",
+      "shop": "莞尔一饰",
+      "price_cny": "2.97",
+      "booked": "51787",
+      "price_brl_rakumart": 3.6,
+      "naive_margin_pct": 38.1,
+      "opportunity": "MEDIUM"
+    },
+    {
+      "offer_id": 621647013077,
+      "title": "化妆品桌面收纳盒多层抽屉式家用防尘收纳盒简约透明整理置物架",
+      "shop": "日悦星辰",
+      "price_cny": "9.5",
+      "booked": "17778",
+      "price_brl_rakumart": 4.5,
+      "naive_margin_pct": -58.3,
+      "opportunity": "NONE"
+    }
+  ]
+}

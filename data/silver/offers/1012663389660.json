@@ -1,0 +1,42 @@
+{
+  "offer_id": 1012663389660,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_运动袜_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_1012663389660.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "男女春夏季刺绣袜子短筒四季舒适袜吸汗透气长袜潮运动袜中筒袜",
+    "price_cny": "0.89",
+    "shop": "棉韵针织源头工厂",
+    "province": "浙江",
+    "city": "诸暨市",
+    "booked": "4",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01VPmkmp26vBvvDGZY1_!!2220979777723-0-cib.jpg",
+    "category": "socks",
+    "source_query": "运动袜"
+  },
+  "su_detail": {
+    "subject": "男女春夏季刺绣袜子短筒四季舒适袜吸汗透气长袜潮运动袜中筒袜",
+    "company": "义乌市卓信针织有限公司",
+    "loginid": "棉韵针织源头工厂",
+    "is_live": true,
+    "size_bytes": 88070
+  },
+  "rakumart": {
+    "match_score": 45.6,
+    "price_brl": 0.42,
+    "title_br": "Meias longas unissex, cor sólida, antiodor, absorvem suor e são respiráveis, ideais para esportes como basquete. Meias de algodão masculinas para primavera e outono. Venda no atacado.",
+    "url": "https://www.rakumart.com.br/product/922774835240",
+    "crosswalked_at": "2026-06-23T01:14:27Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.025714Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "运动袜",
+    "path": "服装鞋帽/袜子/通用袜子/运动袜"
+  }
+}

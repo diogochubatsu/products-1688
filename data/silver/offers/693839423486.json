@@ -1,0 +1,42 @@
+{
+  "offer_id": 693839423486,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": "LEGACY: socks_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "冰丝船袜女秋薄款防滑脱防掉跟浅口隐形袜纯棉底高跟鞋单鞋短袜子",
+    "price_cny": 2.0,
+    "shop": "诸暨果嫣针织有限公司",
+    "shop_text": "义乌果嫣针织有限公司",
+    "province": "浙江",
+    "city": "诸暨市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rmI6Zw1l28KRSy06L_!!2215082944760-0-cib.jpg",
+    "booked": 28306,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "冰丝船袜女秋薄款防滑脱防掉跟浅口隐形袜纯棉底高跟鞋单鞋短袜子",
+    "company": "义乌果嫣针织有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 109112
+  },
+  "rakumart": {
+    "iid": "693839423486",
+    "title_cn": "冰丝船袜女秋薄款防滑脱防掉跟浅口隐形袜纯棉底高跟鞋单鞋短袜子",
+    "title_pt": "Meia de barco feminina de tecido fresco, ideal para o outono. Modelo fino com solado antideslizante que evita que a meia desça do calcanhar. Design discreto e invisível dentro do sapato, perfeito para usar com saltos altos ou sapatilhas. Com base em algodão puro para maior conforto.",
+    "price_brl": 2.0,
+    "match_score": 100.0
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

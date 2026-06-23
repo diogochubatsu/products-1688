@@ -1,0 +1,42 @@
+{
+  "offer_id": 675818021712,
+  "bronze_refs": {
+    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: socks_*_enriched.json",
+    "rakumart": "LEGACY: socks_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "袜子男加大码浅口隐形袜短船袜夏季薄款棉袜硅胶防臭吸汗袜套黑色",
+    "price_cny": 1.78,
+    "shop": "诸暨市艾幕针织厂",
+    "shop_text": "诸暨市艾慕针织厂",
+    "province": "浙江",
+    "city": "诸暨市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01XxoLVu21w2XvONu6O_!!2845677048-0-cib.jpg",
+    "booked": 25612,
+    "category": "socks"
+  },
+  "su_detail": {
+    "subject": "袜子男加大码浅口隐形袜短船袜夏季薄款棉袜硅胶防臭吸汗袜套黑色",
+    "company": "诸暨市艾慕针织厂",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 103610
+  },
+  "rakumart": {
+    "iid": "675818021712",
+    "title_cn": "袜子男加大码浅口隐形袜短船袜夏季薄款棉袜硅胶防臭吸汗袜套黑色",
+    "title_pt": "Meia masculina tamanho grande, modelo baixo e invisível, ideal para o verão. Tecido leve em algodão com silicone antiodor e absorção de suor. Cor preta.",
+    "price_brl": 1.78,
+    "match_score": 100.0
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

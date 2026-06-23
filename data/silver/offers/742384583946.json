@@ -1,0 +1,42 @@
+{
+  "offer_id": 742384583946,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-17_塑身衣_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-17_742384583946.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "4贴产后收腹带产妇顺剖两用塑腰月子束腰束腹束缚带透气套女",
+    "price_cny": "22.58",
+    "shop": "梦璐诗针织内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "13567",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rLog8Z2BCN1PCauFW_!!2216675028302-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "塑身衣"
+  },
+  "su_detail": {
+    "subject": "4贴产后收腹带产妇顺剖两用塑腰月子束腰束腹束缚带透气套女",
+    "company": "汕头市潮阳区贵屿梦璐诗针织内衣厂",
+    "loginid": "梦璐诗针织内衣厂",
+    "is_live": true,
+    "size_bytes": 221659
+  },
+  "rakumart": {
+    "match_score": 44.2,
+    "price_brl": 18.9,
+    "title_br": "Cinto de treino para cintura, modelador abdominal com triple proteção, unissex.",
+    "url": "https://www.rakumart.com.br/product/938713323218",
+    "crosswalked_at": "2026-06-18T01:08:53Z"
+  },
+  "enriched_at": "2026-06-18T00:06:26.770620Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "塑身衣",
+    "n4": "提臀塑身",
+    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+  }
+}

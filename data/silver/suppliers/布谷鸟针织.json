@@ -1,0 +1,20 @@
+{
+  "shop_name": "布谷鸟针织",
+  "offer_count": 2,
+  "categories": [
+    "socks"
+  ],
+  "offers": [
+    {
+      "offer_id": 901847434807,
+      "category": "socks",
+      "title": "冰丝船袜女防滑不掉跟纯棉拼接棉底袜夏季薄款浅口隐形袜配高跟鞋"
+    },
+    {
+      "offer_id": 900793977864,
+      "category": "socks",
+      "title": "袜子男短袜夏季薄款纯棉防臭男士船袜夏天吸汗网眼透气短筒全棉袜"
+    }
+  ],
+  "generated_at": "2026-06-18T00:07:55.031257Z"
+}

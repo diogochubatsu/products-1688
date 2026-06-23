@@ -1,0 +1,42 @@
+{
+  "offer_id": 910316523135,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_船袜_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_910316523135.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "冰丝船袜女夏季薄款纯棉底吸汗透气防滑不掉跟浅口隐形高跟鞋袜子",
+    "price_cny": "0.95",
+    "shop": "义乌芳润袜业",
+    "province": "浙江",
+    "city": "义乌市",
+    "booked": "4990",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01aYRvOc1TELnnBCKdl_!!2218906762350-0-cib.jpg",
+    "category": "socks",
+    "source_query": "船袜"
+  },
+  "su_detail": {
+    "subject": "冰丝船袜女夏季薄款纯棉底吸汗透气防滑不掉跟浅口隐形高跟鞋袜子",
+    "company": "义乌市芳润贸易有限公司",
+    "loginid": "义乌芳润袜业",
+    "is_live": true,
+    "size_bytes": 127245
+  },
+  "rakumart": {
+    "match_score": 60.2,
+    "price_brl": 2.0,
+    "title_br": "Meia de barco feminina de tecido fresco para o verão, fina, antiderrapante, que não desce do calcanhar, invisível e ideal para usar com sapatos de salto alto ou sapatilhas.",
+    "url": "https://www.rakumart.com.br/product/668866144434",
+    "crosswalked_at": "2026-06-23T01:19:36Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.273314Z",
+  "category": "socks",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "袜子",
+    "n3": "通用袜子",
+    "n4": "船袜",
+    "path": "服装鞋帽/袜子/通用袜子/船袜"
+  }
+}

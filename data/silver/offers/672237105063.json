@@ -1,0 +1,42 @@
+{
+  "offer_id": 672237105063,
+  "bronze_refs": {
+    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: drill_*_enriched.json",
+    "rakumart": "LEGACY: drill_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "多功能手持充电式电动螺丝刀手冲击钻电钻家用小型手枪钻锂电工具",
+    "price_cny": 9.5,
+    "shop": "义乌张陈贸易",
+    "shop_text": "义乌市张陈五金工具有限公司",
+    "province": "浙江",
+    "city": "义乌市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01mtr2Yd1MdLvPR8VN5_!!2206924811457-0-cib.jpg",
+    "booked": 23714,
+    "category": "drill"
+  },
+  "su_detail": {
+    "subject": "多功能手持充电式电动螺丝刀手冲击钻电钻家用小型手枪钻锂电工具",
+    "company": "义乌市张陈五金工具有限公司",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 139846
+  },
+  "rakumart": {
+    "iid": "765196279947",
+    "title_cn": "艾锐盾手持电动螺丝刀家用手枪钻锂电工具多功能电动螺丝刀充电式",
+    "title_pt": "Chave de parafusos elétrica portátil da marca Airuidun, ideal para uso doméstico. Funciona como uma furadeira de mão com bateria recarregável e possui múltiplas funções.",
+    "price_brl": 19.0,
+    "match_score": 53.3
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "drill",
+  "taxonomy": {
+    "n1": "五金工具",
+    "n2": "电动工具",
+    "n3": "钻孔工具",
+    "n4": "电钻",
+    "path": "五金工具/电动工具/钻孔工具/电钻"
+  }
+}

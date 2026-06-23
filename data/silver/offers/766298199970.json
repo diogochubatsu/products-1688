@@ -1,0 +1,42 @@
+{
+  "offer_id": 766298199970,
+  "bronze_refs": {
+    "mtop": "bronze/mtop/2026-06-22_无痕内裤_p1.json",
+    "su_detail": "bronze/su_detail/2026-06-22_766298199970.html",
+    "rakumart": null
+  },
+  "mtop": {
+    "title": "内裤女A类婴童棉7A抑菌纯棉内裤女全裤抗菌全棉底档无痕女士内裤",
+    "price_cny": "5.4",
+    "shop": "朵熙嫣针织内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "booked": "1970",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01pvXCOr2H6JWCeem6V_!!2212197799101-0-cib.jpg",
+    "category": "underwear",
+    "source_query": "无痕内裤"
+  },
+  "su_detail": {
+    "subject": "内裤女A类婴童棉7A抑菌纯棉内裤女全裤抗菌全棉底档无痕女士内裤",
+    "company": "汕头市朵熙嫣针织有限公司",
+    "loginid": "朵熙嫣针织内衣厂",
+    "is_live": true,
+    "size_bytes": 89831
+  },
+  "rakumart": {
+    "match_score": 36.1,
+    "price_brl": 6.8,
+    "title_br": "Calcinha de algodão 100% para moças, categoria A para bebês e crianças, com proteção antibacteriana nível 7A, costura invisível e acabamento completo em algodão.",
+    "url": "https://www.rakumart.com.br/product/844359826472",
+    "crosswalked_at": "2026-06-23T01:20:10Z"
+  },
+  "enriched_at": "2026-06-22T15:39:38.226811Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "内裤",
+    "n4": "女士内裤",
+    "path": "服装鞋帽/内衣/内裤/女士内裤"
+  }
+}

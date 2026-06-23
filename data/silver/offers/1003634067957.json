@@ -1,0 +1,42 @@
+{
+  "offer_id": 1003634067957,
+  "bronze_refs": {
+    "mtop": "LEGACY: youyazi_*.json (2026-06-17, pre-architecture)",
+    "su_detail": "LEGACY: youyazi_*_enriched.json",
+    "rakumart": "LEGACY: youyazi_full_*.json rak_match"
+  },
+  "mtop": {
+    "title": "男士内裤男纯棉抗菌平角裤青少年全棉透气四角裤男生短裤头裤衩夏",
+    "price_cny": 4.0,
+    "shop": "尤雅姿内衣厂",
+    "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
+    "province": "广东",
+    "city": "汕头市",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01dF9Jky2AktUCvQXp6_!!2211950918242-0-cib.jpg",
+    "booked": 32,
+    "category": "underwear"
+  },
+  "su_detail": {
+    "subject": "男士内裤男纯棉抗菌平角裤青少年全棉透气四角裤男生短裤头裤衩夏",
+    "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
+    "loginid": null,
+    "is_live": true,
+    "size_bytes": 113612
+  },
+  "rakumart": {
+    "iid": "639470393430",
+    "title_cn": "七匹狼男士内裤男全棉抗菌平角裤纯棉内裤透气男式四角裤头男底裤",
+    "title_pt": "Cueca boxer masculina da marca Sete Lobos, 100% algodão, com proteção antibacteriana e respirável.",
+    "price_brl": 47.84,
+    "match_score": 73.3
+  },
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "category": "underwear",
+  "taxonomy": {
+    "n1": "服装鞋帽",
+    "n2": "内衣",
+    "n3": "内裤",
+    "n4": "男士内裤",
+    "path": "服装鞋帽/内衣/内裤/男士内裤"
+  }
+}
