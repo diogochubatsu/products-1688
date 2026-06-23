@@ -1,34 +1,17 @@
 {
   "offer_id": 744137983045,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_化妆品收纳_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_744137983045.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "跨境小碎花绗缝化妆包旅行护肤品拉链包大容量便携收纳袋柔软包收",
     "price_cny": "9",
     "shop": "yiwu鑫耀箱包",
-    "province": "浙江",
-    "city": "金华市",
-    "booked": "2332",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN017WlHQU1aUYyXmVXhJ_!!2214971823333-0-cib.jpg",
-    "category": "organization",
-    "source_query": "化妆品收纳"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN017WlHQU1aUYyXmVXhJ_!!2214971823333-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "跨境小碎花绗缝化妆包旅行护肤品拉链包大容量便携收纳袋柔软包收",
-    "company": "义乌市鑫耀箱包有限公司",
-    "loginid": "yiwu鑫耀箱包",
-    "is_live": true,
-    "size_bytes": 130659
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 45.7,
     "price_brl": 0.9,
     "title_br": "Necessaire grande capacidade, estojo para pincéis portátil, formato envelope, organizador de sombras e unhas, kit de maquiagem estilo Instagram, venda por atacado.",
-    "url": "https://www.rakumart.com.br/product/795998987740",
-    "crosswalked_at": "2026-06-22T15:28:49Z"
+    "url": "https://www.rakumart.com.br/product/795998987740"
   },
   "enriched_at": "2026-06-21T15:17:25.994763Z",
   "category": "organization",
@@ -36,7 +19,6 @@
     "n1": "家居日用",
     "n2": "收纳整理",
     "n3": "通用收纳",
-    "n4": "通用收纳",
-    "path": "家居日用/收纳整理/通用收纳/通用收纳"
+    "n4": "通用收纳"
   }
 }

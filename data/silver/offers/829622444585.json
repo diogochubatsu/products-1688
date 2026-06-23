@@ -1,34 +1,17 @@
 {
   "offer_id": 829622444585,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_829622444585.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "厂家直供户外手套夹防丢夹塑胶防丢手套夹子夹工地野营防丢多色",
     "price_cny": "0.8",
     "shop": "沐春喜",
-    "province": "广东",
-    "city": "佛山市",
-    "booked": "654",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01MZPDHT2K1E7UxrT4Y_!!2218372719496-0-cib.jpg",
-    "category": "beach_clip",
-    "source_query": "沙滩巾夹"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01MZPDHT2K1E7UxrT4Y_!!2218372719496-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "厂家直供户外手套夹防丢夹塑胶防丢手套夹子夹工地野营防丢多色",
-    "company": "佛山市南海区沐春喜五金塑胶制品厂（个体工商户）",
-    "loginid": "沐春喜",
-    "is_live": true,
-    "size_bytes": 98634
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 50.9,
     "price_brl": 0.8,
     "title_br": "Venda direta da fábrica: clipes de segurança para luvas de trabalho ao ar livre, em plástico. Ideais para canteiro de obras e acampamentos, evitam perda das luvas. Disponível em várias cores.",
-    "url": "https://www.rakumart.com.br/product/829622444585",
-    "crosswalked_at": "2026-06-18T01:09:11Z"
+    "url": "https://www.rakumart.com.br/product/829622444585"
   },
   "enriched_at": "2026-06-18T00:06:26.783427Z",
   "category": "beach_clip",
@@ -36,7 +19,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

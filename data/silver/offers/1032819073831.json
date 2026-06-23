@@ -1,34 +1,17 @@
 {
   "offer_id": 1032819073831,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_提臀塑身衣_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_1032819073831.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "【全身塑形连体衣】升级版立体剪裁一衣搞定收腹提臀美背塑形美体",
     "price_cny": "20",
     "shop": "温州芬岚电子",
-    "province": "浙江",
-    "city": "温州市",
-    "booked": "0",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01CuHd2J1V8ySjwDeIF_!!2222144552609-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "提臀塑身衣"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01CuHd2J1V8ySjwDeIF_!!2222144552609-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "【全身塑形连体衣】升级版立体剪裁一衣搞定收腹提臀美背塑形美体",
-    "company": "温州芬岚电子商务有限公司",
-    "loginid": "温州芬岚电子",
-    "is_live": true,
-    "size_bytes": 77038
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 46.3,
     "price_brl": 33.84,
     "title_br": "Body de alcinha com renda, modelador e sexy, igual ao da marca SKIM.",
-    "url": "https://www.rakumart.com.br/product/863178855479",
-    "crosswalked_at": "2026-06-23T01:21:19Z"
+    "url": "https://www.rakumart.com.br/product/863178855479"
   },
   "enriched_at": "2026-06-22T15:39:38.168411Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身衣",
-    "n4": "提臀塑身",
-    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+    "n4": "提臀塑身"
   }
 }

@@ -1,34 +1,17 @@
 {
   "offer_id": 836096757643,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_化妆品收纳_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_836096757643.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "竹木膏霜瓶便携分装瓶收纳小物件内盒全包竹面霜瓶化妆品包材内嵌",
     "price_cny": "1",
     "shop": "鹏达竹木制品",
-    "province": "广东",
-    "city": "龙门县",
-    "booked": "37",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN018nk6KV259j9DREbMH_!!2215836207484-0-cib.jpg",
-    "category": "organization",
-    "source_query": "化妆品收纳"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN018nk6KV259j9DREbMH_!!2215836207484-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "竹木膏霜瓶便携分装瓶收纳小物件内盒全包竹面霜瓶化妆品包材内嵌",
-    "company": "龙门县龙潭镇鹏达竹木加工厂",
-    "loginid": "鹏达竹木制品",
-    "is_live": true,
-    "size_bytes": 75951
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 50.7,
     "price_brl": 2.35,
     "title_br": "Spray de alta pressão com névoa fina, ideal para desinfetante, cabelo, plantas e maquiagem. Garrafa portátil para fracionamento.",
-    "url": "https://www.rakumart.com.br/product/892594417090",
-    "crosswalked_at": "2026-06-22T15:27:25Z"
+    "url": "https://www.rakumart.com.br/product/892594417090"
   },
   "enriched_at": "2026-06-21T15:17:26.013534Z",
   "category": "organization",
@@ -36,7 +19,6 @@
     "n1": "家居日用",
     "n2": "收纳整理",
     "n3": "通用收纳",
-    "n4": "通用收纳",
-    "path": "家居日用/收纳整理/通用收纳/通用收纳"
+    "n4": "通用收纳"
   }
 }

@@ -1,34 +1,17 @@
 {
   "offer_id": 1046278259035,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_沙滩毛巾夹_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_1046278259035.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "卡通儿童挂毛巾架挂钩卫生间浴室洗脸巾置物架毛巾夹毛巾塞收纳架",
     "price_cny": "3.9",
     "shop": "义乌市品言日用品有限公司",
-    "province": "浙江",
-    "city": "义乌市",
-    "booked": "455",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01aNOpRu1GwEq2SLe4x_!!2211944850686-0-cib.jpg",
-    "category": "beach_clip",
-    "source_query": "沙滩毛巾夹"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01aNOpRu1GwEq2SLe4x_!!2211944850686-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "卡通儿童挂毛巾架挂钩卫生间浴室洗脸巾置物架毛巾夹毛巾塞收纳架",
-    "company": "义乌市品言塑业有限公司",
-    "loginid": "义乌市品言日用品有限公司",
-    "is_live": true,
-    "size_bytes": 78567
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 39.5,
     "price_brl": 0.2,
     "title_br": "Ganchos de plástico para calças em casa, ganchos para lenços e toalhas em lojas, suporte para exibição de lenços de seda, ganchos PP para meias e organizador multiuso.",
-    "url": "https://www.rakumart.com.br/product/613767099204",
-    "crosswalked_at": "2026-06-18T01:11:57Z"
+    "url": "https://www.rakumart.com.br/product/613767099204"
   },
   "enriched_at": "2026-06-18T00:06:26.697852Z",
   "category": "beach_clip",
@@ -36,7 +19,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

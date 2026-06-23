@@ -1,34 +1,17 @@
 {
   "offer_id": 965620344126,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_收腹塑身衣_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_965620344126.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "收小肚子产后束腹带束腰美体塑身腰封魔术贴镂空透气收腹带代批发",
     "price_cny": "6.3",
     "shop": "利宝娜针织内衣厂",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "487",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01L66yyT2IkuObRZkmp_!!2210421629325-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "收腹塑身衣"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01L66yyT2IkuObRZkmp_!!2210421629325-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "收小肚子产后束腹带束腰美体塑身腰封魔术贴镂空透气收腹带代批发",
-    "company": "汕头市潮阳区贵屿利宝娜针织内衣厂",
-    "loginid": "利宝娜针织内衣厂",
-    "is_live": true,
-    "size_bytes": 86555
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 69.8,
     "price_brl": 5.6,
     "title_br": "Cinto pós-parto para afinar a barriga, modelador de cintura com velcro e furos para ventilação. Venda por atacado.",
-    "url": "https://www.rakumart.com.br/product/807198890614",
-    "crosswalked_at": "2026-06-23T01:15:26Z"
+    "url": "https://www.rakumart.com.br/product/807198890614"
   },
   "enriched_at": "2026-06-22T15:39:38.428271Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身衣",
-    "n4": "提臀塑身",
-    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+    "n4": "提臀塑身"
   }
 }

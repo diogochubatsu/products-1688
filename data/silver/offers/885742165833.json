@@ -1,34 +1,17 @@
 {
   "offer_id": 885742165833,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_童袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_885742165833.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "儿童袜子春夏季薄款中筒棉袜夏季网眼透气男童韩系条纹小狗棉短袜",
     "price_cny": "2.3",
     "shop": "诸暨市玉绒针织",
-    "province": "浙江",
-    "city": "诸暨市",
-    "booked": "553",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01gMXhty1OsaVoJbLuJ_!!2213309991761-0-cib.jpg",
-    "category": "socks",
-    "source_query": "童袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01gMXhty1OsaVoJbLuJ_!!2213309991761-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "儿童袜子春夏季薄款中筒棉袜夏季网眼透气男童韩系条纹小狗棉短袜",
-    "company": "诸暨市玉绒针织厂",
-    "loginid": "诸暨市玉绒针织",
-    "is_live": true,
-    "size_bytes": 145076
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 70.7,
     "price_brl": 14.0,
     "title_br": "Novidade de 2025: meias infantis de algodão, meia-calça e curtas, ideais para primavera e verão, com malha respirável para atividades esportivas.",
-    "url": "https://www.rakumart.com.br/product/896796278719",
-    "crosswalked_at": "2026-06-23T01:15:06Z"
+    "url": "https://www.rakumart.com.br/product/896796278719"
   },
   "enriched_at": "2026-06-22T15:39:38.252006Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "童袜",
-    "path": "服装鞋帽/袜子/通用袜子/童袜"
+    "n4": "童袜"
   }
 }

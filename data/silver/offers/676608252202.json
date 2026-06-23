@@ -1,34 +1,17 @@
 {
   "offer_id": 676608252202,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "袜子男夏COOLMAX跑步袜抗菌吸汗防滑透气短筒压力袜毛巾底运动袜",
     "price_cny": 6.8,
     "shop": "星达织造有限公司",
-    "shop_text": "佛山市星达织造有限公司",
-    "province": "广东",
-    "city": "佛山市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01oktuPv1mVH35AOwNU_!!2200817904959-0-cib.jpg",
-    "booked": 3309,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01oktuPv1mVH35AOwNU_!!2200817904959-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "袜子男夏COOLMAX跑步袜抗菌吸汗防滑透气短筒压力袜毛巾底运动袜",
-    "company": "佛山市星达织造有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 133675
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 53.5,
     "price_brl": 6.8,
     "title_br": "Meia masculina de verão COOLMAX para corrida, com tecnologia antibacteriana, absorve suor, antiderrapante e respirável. Modelo curto com compressão e palmilha em toalha, ideal para esportes.",
-    "url": "https://www.rakumart.com.br/product/676608252202",
-    "crosswalked_at": "2026-06-18T01:03:35Z"
+    "url": "https://www.rakumart.com.br/product/676608252202"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "运动袜",
-    "path": "服装鞋帽/袜子/通用袜子/运动袜"
+    "n4": "运动袜"
   }
 }

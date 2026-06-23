@@ -1,34 +1,17 @@
 {
   "offer_id": 818829807215,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_内衣_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_818829807215.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "女童内衣发育期吊带纯棉小背心7-15岁中小学生初期少女一阶段抹胸",
     "price_cny": "2.7",
     "shop": "汐漫少女内衣",
-    "province": "广东",
-    "city": "揭阳市",
-    "booked": "17012",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01cOvwOz1KBkwaSgzxo_!!2218303341126-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "内衣"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01cOvwOz1KBkwaSgzxo_!!2218303341126-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "女童内衣发育期吊带纯棉小背心7-15岁中小学生初期少女一阶段抹胸",
-    "company": "普宁市麒麟汐漫少女内衣商行(个体工商户)",
-    "loginid": "汐漫少女内衣",
-    "is_live": true,
-    "size_bytes": 83759
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 65.2,
     "price_brl": 7.7,
     "title_br": "Sutiã para meninas do ensino fundamental, regata esportiva para adolescentes e roupa íntima sem costura para meninas em fase de desenvolvimento, modelo fino ideal para o verão.",
-    "url": "https://www.rakumart.com.br/product/947125407352",
-    "crosswalked_at": "2026-06-22T15:28:18Z"
+    "url": "https://www.rakumart.com.br/product/947125407352"
   },
   "enriched_at": "2026-06-18T00:06:26.782506Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身衣",
-    "n4": "提臀塑身",
-    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+    "n4": "提臀塑身"
   }
 }

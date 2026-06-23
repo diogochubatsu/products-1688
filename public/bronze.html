@@ -188,6 +188,81 @@
 }</div>
 </div>
 
+
+<!-- SILVER SCHEMA -->
+<div class="source">
+  <div class="source-header">
+    <span class="badge" style="background:#e3f2fd;color:#1565c0;">Silver</span>
+    <h2>Enriched Product Records (Simplified)</h2>
+  </div>
+  <div class="stats">
+    <span>📂 294 files</span>
+    <span>💾 183 KB total</span>
+    <span>📄 636 bytes/offer avg</span>
+    <span>🔧 Schema v2 (2026-06-23)</span>
+  </div>
+  <p style="font-size:13px;color:#666;margin:0 0 10px 0">
+    Normalized product records joining data from MTOP + SU Detail + Rakumart.
+    <strong>Simplified schema</strong> — only fields actually used by API + frontend.
+    Removed 18 unused fields (47% size reduction from 1205 to 636 bytes/offer).
+  </p>
+  <table>
+    <tr><th>Field</th><th>Type</th><th>Description</th></tr>
+    <tr><td>offer_id</td><td>int</td><td>Unique 1688 product ID</td></tr>
+    <tr><td>category</td><td>str</td><td>Flat category (beach_clip, socks, etc.)</td></tr>
+    <tr><td>enriched_at</td><td>str</td><td>ISO timestamp of last enrichment</td></tr>
+    <tr><td colspan="3" style="background:#f5f5f5;font-weight:600">mtop — from MTOP Search</td></tr>
+    <tr><td>  mtop.title</td><td>str</td><td>Product title (cleaned, no HTML tags)</td></tr>
+    <tr><td>  mtop.price_cny</td><td>float</td><td>Unit price in CNY</td></tr>
+    <tr><td>  mtop.shop</td><td>str</td><td>Shop/supplier name on 1688</td></tr>
+    <tr><td>  mtop.image_url</td><td>str</td><td>Product image URL (alicdn.com)</td></tr>
+    <tr><td colspan="3" style="background:#f5f5f5;font-weight:600">su_detail — from Decodo SU</td></tr>
+    <tr><td>  su_detail.shop_name</td><td>str</td><td>Supplier company name</td></tr>
+    <tr><td colspan="3" style="background:#f5f5f5;font-weight:600">rakumart — from Rakumart BR (if matched)</td></tr>
+    <tr><td>  rakumart.title_br</td><td>str</td><td>Portuguese product title</td></tr>
+    <tr><td>  rakumart.price_brl</td><td>float</td><td>Price in BRL</td></tr>
+    <tr><td>  rakumart.match_score</td><td>float</td><td>Crosswalk match score (0-100)</td></tr>
+    <tr><td>  rakumart.url</td><td>str</td><td>Product URL on Rakumart</td></tr>
+    <tr><td colspan="3" style="background:#f5f5f5;font-weight:600">taxonomy — 1688.com classification</td></tr>
+    <tr><td>  taxonomy.n1</td><td>str</td><td>Level 1 category (服装鞋帽, etc.)</td></tr>
+    <tr><td>  taxonomy.n2</td><td>str</td><td>Level 2 subcategory</td></tr>
+    <tr><td>  taxonomy.n3</td><td>str</td><td>Level 3 subcategory</td></tr>
+    <tr><td>  taxonomy.n4</td><td>str</td><td>Level 4 leaf category</td></tr>
+  </table>
+  <div class="toggle" onclick="this.nextElementSibling.classList.toggle("hidden")">▶ Show sample JSON</div>
+  <div class="sample hidden">{
+  "offer_id": 850684207250,
+  "category": "beach_clip",
+  "enriched_at": "2026-06-17T00:00:00Z",
+  "mtop": {
+    "title": "亚马逊热销款天鹅沙滩夹子 火烈鸟沙滩毛巾防风夹",
+    "price_cny": 3.5,
+    "shop": "tzbaiyite",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/..."
+  },
+  "su_detail": {
+    "shop_name": "义乌市百易特贸易有限公司"
+  },
+  "rakumart": {
+    "title_br": "Presilha de praia para toalha",
+    "price_brl": 4.48,
+    "match_score": 100.0,
+    "url": "https://www.rakumart.com.br/product/850684207250"
+  },
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "沙滩装备",
+    "n3": "沙滩用品",
+    "n4": "沙滩夹"
+  }
+}</div>
+  <p style="font-size:12px;color:#999;margin:10px 0 0 0">
+    <strong>Removed in v2:</strong> bronze_refs, mtop.booked/province/city/source_query/shop_text/category,
+    su_detail.subject/company/loginid/is_live/image_count/page_kb/has_sku/size_bytes,
+    rakumart.iid/title_cn/title_pt/crosswalked_at, taxonomy.path
+  </p>
+</div>
+
 <!-- FILE LISTING -->
 <div class="source">
   <div class="source-header">

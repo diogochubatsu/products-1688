@@ -1,34 +1,17 @@
 {
   "offer_id": 928646887312,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_运动袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_928646887312.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "袜子男款短袜纯色夏季透气吸汗薄款短筒透气吸汗运动后跟提耳船袜",
     "price_cny": "0.8",
     "shop": "诸暨市纤悦针织",
-    "province": "浙江",
-    "city": "绍兴市",
-    "booked": "414",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN018mVgip1kAXzZ68ZZn_!!2216645734643-0-cib.jpg",
-    "category": "socks",
-    "source_query": "运动袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN018mVgip1kAXzZ68ZZn_!!2216645734643-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "袜子男款短袜纯色夏季透气吸汗薄款短筒透气吸汗运动后跟提耳船袜",
-    "company": "诸暨市纤诺针织有限公司",
-    "loginid": "诸暨市纤悦针织",
-    "is_live": true,
-    "size_bytes": 92424
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 70.3,
     "price_brl": 2.5,
     "title_br": "Meia feminina fina para primavera e verão, absorve suor e é respirável. Meia curta de cor sólida, não escorrega, com malha invisível e sola massageadora. Venda no atacado.",
-    "url": "https://www.rakumart.com.br/product/900062940958",
-    "crosswalked_at": "2026-06-23T01:17:25Z"
+    "url": "https://www.rakumart.com.br/product/900062940958"
   },
   "enriched_at": "2026-06-22T15:39:38.278636Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

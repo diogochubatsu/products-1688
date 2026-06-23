@@ -1,34 +1,17 @@
 {
   "offer_id": 671970826224,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_内裤_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_671970826224.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "60支兰精莫代尔女士内裤纯棉裆抗菌透气少女三角裤冰丝感无痕裤头",
     "price_cny": "12.9",
     "shop": "中山市习艺服饰有限公司",
-    "province": "广东",
-    "city": "中山市",
-    "booked": "14949",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN011rS2l61Kv5vY17EmN_!!3695421225-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "内裤"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN011rS2l61Kv5vY17EmN_!!3695421225-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "60支兰精莫代尔女士内裤纯棉裆抗菌透气少女三角裤冰丝感无痕裤头",
-    "company": "中山市习艺科技有限公司",
-    "loginid": "中山市习艺服饰有限公司",
-    "is_live": true,
-    "size_bytes": 94046
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 31.5,
     "price_brl": 14.0,
     "title_br": "Calcinha feminina de algodão modal de cintura média, com acabamento invisível e toque de seda. Tecido 80S super macio e confortável, modelo triângulo leve ideal para primavera e verão.",
-    "url": "https://www.rakumart.com.br/product/904731745202",
-    "crosswalked_at": "2026-06-18T01:12:04Z"
+    "url": "https://www.rakumart.com.br/product/904731745202"
   },
   "enriched_at": "2026-06-18T00:06:26.757522Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "内裤",
-    "n4": "女士内裤",
-    "path": "服装鞋帽/内衣/内裤/女士内裤"
+    "n4": "女士内裤"
   }
 }

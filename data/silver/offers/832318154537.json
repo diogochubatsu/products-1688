@@ -1,32 +1,16 @@
 {
   "offer_id": 832318154537,
-  "bronze_refs": {
-    "mtop": "LEGACY: baiyite_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: baiyite_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "通过BSCI验厂 跨境电商热销款沙滩杯支架 沙滩手机 眼睛支架 沙滩",
     "price_cny": 3.5,
-    "shop": "tzbaiyite",
-    "booked": 16,
-    "category": "beach_clip"
+    "shop": "tzbaiyite"
   },
-  "su_detail": {
-    "subject": "通过BSCI验厂 跨境电商热销款沙滩杯支架 沙滩手机 眼睛支架 沙滩",
-    "company": "台州市佰亿特塑业有限公司",
-    "loginid": "tzbaiyite",
-    "is_live": true,
-    "image_count": 0,
-    "page_kb": 61.3,
-    "has_sku": false
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 67.8,
     "price_brl": 3.5,
     "title_br": "Aprovado pela certificação BSCI. Suporte para copo de praia e celular, super vendido no comércio eletrônico internacional. Ideal para usar na areia.",
-    "url": "https://www.rakumart.com.br/product/832318154537",
-    "crosswalked_at": "2026-06-18T01:11:19Z"
+    "url": "https://www.rakumart.com.br/product/832318154537"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "beach_clip",
@@ -34,7 +18,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

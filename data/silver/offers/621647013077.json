@@ -1,34 +1,17 @@
 {
   "offer_id": 621647013077,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_收纳_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_621647013077.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "化妆品桌面收纳盒多层抽屉式家用防尘收纳盒简约透明整理置物架",
     "price_cny": "9.5",
     "shop": "日悦星辰",
-    "province": "浙江",
-    "city": "义乌市",
-    "booked": "17778",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Q73YoN1SnKBbLTUuZ_!!2206711232291-0-cib.jpg",
-    "category": "organization",
-    "source_query": "收纳"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Q73YoN1SnKBbLTUuZ_!!2206711232291-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "化妆品桌面收纳盒多层抽屉式家用防尘收纳盒简约透明整理置物架",
-    "company": "义乌市欧新塑料制品有限公司",
-    "loginid": "日悦星辰",
-    "is_live": true,
-    "size_bytes": 127713
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 38.8,
     "price_brl": 4.5,
     "title_br": "Organizador de maquiagem para mesa, com múltiplas gavetas, estilo simples e transparente, ideal para uso doméstico, protege contra poeira e organiza seus produtos.",
-    "url": "https://www.rakumart.com.br/product/765562222970",
-    "crosswalked_at": "2026-06-18T01:02:29Z"
+    "url": "https://www.rakumart.com.br/product/765562222970"
   },
   "enriched_at": "2026-06-18T00:06:26.721222Z",
   "category": "organization",
@@ -36,7 +19,6 @@
     "n1": "家居日用",
     "n2": "收纳整理",
     "n3": "通用收纳",
-    "n4": "通用收纳",
-    "path": "家居日用/收纳整理/通用收纳/通用收纳"
+    "n4": "通用收纳"
   }
 }

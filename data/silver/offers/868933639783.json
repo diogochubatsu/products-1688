@@ -1,34 +1,17 @@
 {
   "offer_id": 868933639783,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_沙滩毛巾夹_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_868933639783.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "海边沙滩垫固定夹浴巾夹 塑料毛巾夹户外野餐垫固定器防风帐篷夹",
     "price_cny": "0.89",
     "shop": "义乌市雅凡户外用品厂",
-    "province": "浙江",
-    "city": "金华市",
-    "booked": "469",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01UOjEiV1JR2arzb6Qf_!!2218183721024-0-cib.jpg",
-    "category": "beach_clip",
-    "source_query": "沙滩毛巾夹"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01UOjEiV1JR2arzb6Qf_!!2218183721024-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "海边沙滩垫固定夹浴巾夹 塑料毛巾夹户外野餐垫固定器防风帐篷夹",
-    "company": "义乌市雅凡户外用品厂（个体工商户）",
-    "loginid": "义乌市雅凡户外用品厂",
-    "is_live": true,
-    "size_bytes": 94525
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 39.2,
     "price_brl": 0.89,
     "title_br": "Clipes fixadores para toalha de praia e tapete de piquenique, em plástico. Ideal para prender toalhas e tendas contra o vento na beira da praia ou em áreas externas.",
-    "url": "https://www.rakumart.com.br/product/868933639783",
-    "crosswalked_at": "2026-06-18T01:15:03Z"
+    "url": "https://www.rakumart.com.br/product/868933639783"
   },
   "enriched_at": "2026-06-18T00:06:26.784973Z",
   "category": "beach_clip",
@@ -36,7 +19,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

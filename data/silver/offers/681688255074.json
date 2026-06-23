@@ -1,34 +1,17 @@
 {
   "offer_id": 681688255074,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_沙滩夹_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_681688255074.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "无痕防滑晾晒夹跨境沙滩防风夹家用多功能棉被固定防风塑料夹现货",
     "price_cny": "1.03",
     "shop": "义乌乐韵日用百货有限公司",
-    "province": "浙江",
-    "city": "金华市",
-    "booked": "1112",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01yp9Ekz1D9HIfXLqfE_!!2214425240173-0-cib.jpg",
-    "category": "beach_clip",
-    "source_query": "沙滩夹"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01yp9Ekz1D9HIfXLqfE_!!2214425240173-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "无痕防滑晾晒夹跨境沙滩防风夹家用多功能棉被固定防风塑料夹现货",
-    "company": "义乌市乐韵日用百货有限公司",
-    "loginid": "义乌乐韵日用百货有限公司",
-    "is_live": true,
-    "size_bytes": 74563
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 50.5,
     "price_brl": 1.02,
     "title_br": "Clipe de roupa com trava anti-vento, ideal para prender edredons e roupas no varal. Uso doméstico e estudantil, clipe plástico multifuncional para secar roupas.",
-    "url": "https://www.rakumart.com.br/product/912765495328",
-    "crosswalked_at": "2026-06-18T01:16:13Z"
+    "url": "https://www.rakumart.com.br/product/912765495328"
   },
   "enriched_at": "2026-06-18T00:06:26.761856Z",
   "category": "beach_clip",
@@ -36,7 +19,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

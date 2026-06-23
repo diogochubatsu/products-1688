@@ -1,34 +1,17 @@
 {
   "offer_id": 886943765767,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_沙滩毛巾夹_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_886943765767.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "安琴12个装小夹子塑料户外阳台衣物晒袜子防风衣夹防掉落夹子无痕",
     "price_cny": "5.61",
     "shop": "安琴日用品",
-    "province": "浙江",
-    "city": "义乌市",
-    "booked": "659",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01ayrQTG2BV9PSubnkV_!!2210854828343-0-cib.jpg",
-    "category": "beach_clip",
-    "source_query": "沙滩毛巾夹"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01ayrQTG2BV9PSubnkV_!!2210854828343-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "安琴12个装小夹子塑料户外阳台衣物晒袜子防风衣夹防掉落夹子无痕",
-    "company": "御集家居有限公司",
-    "loginid": "安琴日用品",
-    "is_live": true,
-    "size_bytes": 83293
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 41.4,
     "price_brl": 1.25,
     "title_br": "Kit com 20 prendedores de roupa de plástico reforçados para uso doméstico, ideais para secar roupas íntimas, meias e demais peças, com design anti-vento.",
-    "url": "https://www.rakumart.com.br/product/592635347059",
-    "crosswalked_at": "2026-06-18T01:12:11Z"
+    "url": "https://www.rakumart.com.br/product/592635347059"
   },
   "enriched_at": "2026-06-18T00:06:26.787052Z",
   "category": "beach_clip",
@@ -36,7 +19,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

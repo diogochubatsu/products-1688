@@ -1,34 +1,17 @@
 {
   "offer_id": 792805274647,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_塑身衣_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_792805274647.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "高腰提花拉链提臀双层收腹裤塑身塑形加肥加大无痕美体平角内裤女",
     "price_cny": "21.5",
     "shop": "慕雅真内衣厂",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "11541",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN010ZaUXD1K1gNsHteUb_!!2214952721104-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "塑身衣"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN010ZaUXD1K1gNsHteUb_!!2214952721104-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "高腰提花拉链提臀双层收腹裤塑身塑形加肥加大无痕美体平角内裤女",
-    "company": "汕头市潮阳区贵屿慕雅真内衣厂",
-    "loginid": "慕雅真内衣厂",
-    "is_live": true,
-    "size_bytes": 92065
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 49.8,
     "price_brl": 7.0,
     "title_br": "Calça modeladora de cintura alta sem costura, que define a silhueta, levanta o bumbum e reduz a barriga pós-parto. Cueca triangular com efeito espartilho para firmar a cintura.",
-    "url": "https://www.rakumart.com.br/product/735530770276",
-    "crosswalked_at": "2026-06-18T01:16:41Z"
+    "url": "https://www.rakumart.com.br/product/735530770276"
   },
   "enriched_at": "2026-06-18T00:06:26.779367Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身裤",
-    "n4": "提臀塑裤",
-    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+    "n4": "提臀塑裤"
   }
 }

@@ -1,34 +1,17 @@
 {
   "offer_id": 814573314395,
-  "bronze_refs": {
-    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: drill_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "创一手电钻大功率插电式多功能家用工业级跨境手枪钻电动螺丝打孔",
     "price_cny": 64.0,
     "shop": "浙江中马机电有限公司",
-    "shop_text": "永康市中马机电设备有限公司",
-    "province": "浙江",
-    "city": "永康市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01O7emKe281tECipDWe_!!1821057873-0-cib.jpg",
-    "booked": 1083,
-    "category": "drill"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01O7emKe281tECipDWe_!!1821057873-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "创一手电钻大功率插电式多功能家用工业级跨境手枪钻电动螺丝打孔",
-    "company": "永康市中马机电设备有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 219714
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 35.4,
     "price_brl": 129.0,
     "title_br": "Furadeira de mão elétrica multifuncional para uso doméstico, 220V, com função de parafusadeira e mini furadeira.",
-    "url": "https://www.rakumart.com.br/product/844659268833",
-    "crosswalked_at": "2026-06-18T01:03:16Z"
+    "url": "https://www.rakumart.com.br/product/844659268833"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "drill",
@@ -36,7 +19,6 @@
     "n1": "五金工具",
     "n2": "电动工具",
     "n3": "钻孔工具",
-    "n4": "电钻",
-    "path": "五金工具/电动工具/钻孔工具/电钻"
+    "n4": "电钻"
   }
 }

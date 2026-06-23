@@ -1,34 +1,17 @@
 {
   "offer_id": 824623524049,
-  "bronze_refs": {
-    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: drill_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "46合一小型精密电动螺丝刀静音耐久续航充电式大扭矩家用维修工具",
     "price_cny": 48.0,
     "shop": "甲乙电子科技",
-    "shop_text": "金华市甲乙电子科技有限公司",
-    "province": "浙江",
-    "city": "金华市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01uFvSjK1aBKQrIgiVZ_!!2216809943291-0-cib.jpg",
-    "booked": 2524,
-    "category": "drill"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01uFvSjK1aBKQrIgiVZ_!!2216809943291-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "46合一小型精密电动螺丝刀静音耐久续航充电式大扭矩家用维修工具",
-    "company": "金华市甲乙电子科技有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 89640
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 41.6,
     "price_brl": 0.2,
     "title_br": "Kit de pontas magnéticas PH2 antiderrapantes para parafusadeira, com comprimentos de 25 a 150 mm, alta dureza e ideal para uso em ferramentas elétricas.",
-    "url": "https://www.rakumart.com.br/product/888819766171",
-    "crosswalked_at": "2026-06-18T01:09:30Z"
+    "url": "https://www.rakumart.com.br/product/888819766171"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "drill",
@@ -36,7 +19,6 @@
     "n1": "五金工具",
     "n2": "电动工具",
     "n3": "钻孔工具",
-    "n4": "电钻",
-    "path": "五金工具/电动工具/钻孔工具/电钻"
+    "n4": "电钻"
   }
 }

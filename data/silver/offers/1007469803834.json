@@ -1,34 +1,17 @@
 {
   "offer_id": 1007469803834,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_船袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_1007469803834.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "纯色百搭一次性50春夏季袜子男短袜韩版低帮船袜浅口隐形袜运动袜",
     "price_cny": "0.46",
     "shop": "窝窝熊纺织厂",
-    "province": "浙江",
-    "city": "绍兴市",
-    "booked": "1828",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01FmJtvp1SMlWuPtuho_!!2218314332233-0-cib.jpg",
-    "category": "socks",
-    "source_query": "船袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01FmJtvp1SMlWuPtuho_!!2218314332233-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "纯色百搭一次性50春夏季袜子男短袜韩版低帮船袜浅口隐形袜运动袜",
-    "company": "诸暨市窝窝熊纺织厂(个体工商户)",
-    "loginid": "窝窝熊纺织厂",
-    "is_live": true,
-    "size_bytes": 111404
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 37.9,
     "price_brl": 1.9,
     "title_br": "Meia invisível básica e versátil para homem, algodão com silicone antideslizante para primavera e verão. Pacote com 5 pares, embalagem de cintura, venda direta da fábrica.",
-    "url": "https://www.rakumart.com.br/product/568295045934",
-    "crosswalked_at": "2026-06-23T01:13:22Z"
+    "url": "https://www.rakumart.com.br/product/568295045934"
   },
   "enriched_at": "2026-06-22T15:39:38.021628Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

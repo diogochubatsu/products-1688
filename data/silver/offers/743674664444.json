@@ -1,32 +1,13 @@
 {
   "offer_id": 743674664444,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": "LEGACY: socks_full_*.json rak_match"
-  },
   "mtop": {
     "title": "船袜女夏季薄款冰丝隐形女士短袜透气吸汗防滑防掉跟袜子夏女款",
     "price_cny": 1.0,
     "shop": "义乌市卿莱贸易有限公司",
-    "shop_text": "义乌市卿莱袜业有限公司",
-    "province": "浙江",
-    "city": "金华市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01AxDv2W2NJ2KZixQZ9_!!2216609269941-0-cib.jpg",
-    "booked": 7105,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01AxDv2W2NJ2KZixQZ9_!!2216609269941-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "船袜女夏季薄款冰丝隐形女士短袜透气吸汗防滑防掉跟袜子夏女款",
-    "company": "义乌市卿莱袜业有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 99326
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "776316602399",
-    "title_cn": "冰丝船袜女夏季薄款浅口隐形袜防滑不掉跟短袜套高跟鞋船袜子女生",
-    "title_pt": "Meia de barco feminina de tecido fresco para o verão, modelo fino e discreto, com solado antiderrapante que não desce do calcanhar. Ideal para usar com saltos altos ou no dia a dia.",
     "price_brl": 2.1,
     "match_score": 66.7
   },
@@ -36,7 +17,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

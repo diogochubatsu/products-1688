@@ -1,34 +1,17 @@
 {
   "offer_id": 844906165095,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_提臀塑身衣_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_844906165095.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "连体塑身衣女美体性感露背打底束身内衣大码塑形紧身束腰塑身衣",
     "price_cny": "11.8",
     "shop": "仟嘉服饰",
-    "province": "广东",
-    "city": "深圳市",
-    "booked": "754",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Re41Sm1GiUoquiG9a_!!2548400656-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "提臀塑身衣"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Re41Sm1GiUoquiG9a_!!2548400656-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "连体塑身衣女美体性感露背打底束身内衣大码塑形紧身束腰塑身衣",
-    "company": "深圳市仟嘉服饰有限公司",
-    "loginid": "仟嘉服饰",
-    "is_live": true,
-    "size_bytes": 118450
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 53.0,
     "price_brl": 190.0,
     "title_br": "Macacão modelador para salão de beleza, com efeito redutor na barriga e cintura, molda o corpo, ideal para pós-parto para afinar a barriga e elevar os glúteos. Roupa íntima de modelagem corporal para ",
-    "url": "https://www.rakumart.com.br/product/909929697001",
-    "crosswalked_at": "2026-06-23T01:14:51Z"
+    "url": "https://www.rakumart.com.br/product/909929697001"
   },
   "enriched_at": "2026-06-22T15:39:38.245860Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身衣",
-    "n4": "连体塑身",
-    "path": "服装鞋帽/内衣/塑身衣/连体塑身"
+    "n4": "连体塑身"
   }
 }

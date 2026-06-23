@@ -1,34 +1,17 @@
 {
   "offer_id": 521846613236,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_童袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_521846613236.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "特价清仓男女款儿童袜子 网眼薄款透气开学季学生袜中大童棉袜子",
     "price_cny": "0.75",
     "shop": "弘锦针织",
-    "province": "浙江",
-    "city": "诸暨市",
-    "booked": "1395",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01S22UbY233CEwiMRa2_!!1704427199-0-cib.jpg",
-    "category": "socks",
-    "source_query": "童袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01S22UbY233CEwiMRa2_!!1704427199-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "特价清仓男女款儿童袜子 网眼薄款透气开学季学生袜中大童棉袜子",
-    "company": "诸暨市悦顺针织有限公司",
-    "loginid": "弘锦针织",
-    "is_live": true,
-    "size_bytes": 143080
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 65.0,
     "price_brl": 3.0,
     "title_br": "Meias de malha leve para o verão, estilo coreano com laço, perfeitas para um look fofinho e JK. Venda no atacado.",
-    "url": "https://www.rakumart.com.br/product/911594473729",
-    "crosswalked_at": "2026-06-23T01:18:16Z"
+    "url": "https://www.rakumart.com.br/product/911594473729"
   },
   "enriched_at": "2026-06-22T15:39:38.191568Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "童袜",
-    "path": "服装鞋帽/袜子/通用袜子/童袜"
+    "n4": "童袜"
   }
 }

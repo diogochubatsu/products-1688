@@ -1,34 +1,17 @@
 {
   "offer_id": 674085854721,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_船袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_674085854721.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "冰丝船袜女夏季薄款硅胶防滑浅口隐形袜大小码透气高跟鞋短袜子女",
     "price_cny": "1.04",
     "shop": "义乌市优阁袜厂",
-    "province": "浙江",
-    "city": "义乌市",
-    "booked": "15861",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01DgwFZC20gAtRkRdlW_!!2214041896878-0-cib.jpg",
-    "category": "socks",
-    "source_query": "船袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01DgwFZC20gAtRkRdlW_!!2214041896878-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "冰丝船袜女夏季薄款硅胶防滑浅口隐形袜大小码透气高跟鞋短袜子女",
-    "company": "义乌市优阁袜业有限公司",
-    "loginid": "义乌市优阁袜厂",
-    "is_live": true,
-    "size_bytes": 145700
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 45.4,
     "price_brl": 1.25,
     "title_br": "Meia feminina de verão, modelo barco fino, antiderrapante, com calcanhar fixo e invisível sob o sapato. Baixa, respirável, nas cores preto e branco, toque de algodão.",
-    "url": "https://www.rakumart.com.br/product/728687867990",
-    "crosswalked_at": "2026-06-23T01:17:04Z"
+    "url": "https://www.rakumart.com.br/product/728687867990"
   },
   "enriched_at": "2026-06-22T15:39:38.211213Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

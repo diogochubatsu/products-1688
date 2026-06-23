@@ -1,32 +1,13 @@
 {
   "offer_id": 641185351907,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": "LEGACY: socks_full_*.json rak_match"
-  },
   "mtop": {
     "title": "船袜女春夏季薄款冰丝袜浅口隐形袜硅胶防滑棉底袜子女短袜不掉跟",
     "price_cny": 1.98,
     "shop": "辰汐针织",
-    "shop_text": "义乌市辰一袜业有限公司",
-    "province": "浙江",
-    "city": "义乌市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01KLcX1b1P6K6Dw24V6_!!4256951791-0-cib.jpg",
-    "booked": 3223,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01KLcX1b1P6K6Dw24V6_!!4256951791-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "船袜女春夏季薄款冰丝袜浅口隐形袜硅胶防滑棉底袜子女短袜不掉跟",
-    "company": "义乌市辰一袜业有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 87251
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "703368712827",
-    "title_cn": "船袜女春夏薄款冰丝袜子浅口隐形袜任意剪短袜防滑不掉跟夏季款",
-    "title_pt": "Meia de cano curto feminina para primavera e verão, em tecido leve tipo seda gelada, modelo discreto que fica escondido no sapato. Pode cortar no tamanho que quiser, com antiderrapante para não escorregar do calcanhar. Ideal para o calor do verão.",
     "price_brl": 2.15,
     "match_score": 93.3
   },
@@ -36,7 +17,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

@@ -1,34 +1,17 @@
 {
   "offer_id": 652159660067,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_内裤_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_652159660067.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "内裤 女士蕾丝性感中腰日系少女轻薄透气花边内裤女性感蕾丝内裤",
     "price_cny": "2.81",
     "shop": "weiduo1688",
-    "province": "上海",
-    "city": "上海市",
-    "booked": "27693",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN018G5yIL1nFWmx9DMoE_!!997185060-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "内裤"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN018G5yIL1nFWmx9DMoE_!!997185060-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "内裤 女士蕾丝性感中腰日系少女轻薄透气花边内裤女性感蕾丝内裤",
-    "company": "上海薛维红电子商务有限公司",
-    "loginid": "weiduo1688",
-    "is_live": true,
-    "size_bytes": 92921
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 51.9,
     "price_brl": 4.1,
     "title_br": "Lançamento em estoque: calcinha de renda estilo japonês para moças, sexy, cintura média, leve, respirável e super confortável.",
-    "url": "https://www.rakumart.com.br/product/715549526660",
-    "crosswalked_at": "2026-06-18T01:10:26Z"
+    "url": "https://www.rakumart.com.br/product/715549526660"
   },
   "enriched_at": "2026-06-18T00:06:26.732346Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "内裤",
-    "n4": "无痕内裤",
-    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+    "n4": "无痕内裤"
   }
 }

@@ -1,34 +1,17 @@
 {
   "offer_id": 898312387442,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_船袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_898312387442.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "袜子男士短袜夏季薄低帮浅口隐形船袜棉袜硅胶防滑豆豆鞋脚底袜子",
     "price_cny": "1.2",
     "shop": "辽源袜子厂家批发",
-    "province": "吉林",
-    "city": "辽源市",
-    "booked": "37",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01JkUXAH1zT3zmZoSLo_!!3220586714-0-cib.jpg",
-    "category": "socks",
-    "source_query": "船袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01JkUXAH1zT3zmZoSLo_!!3220586714-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "袜子男士短袜夏季薄低帮浅口隐形船袜棉袜硅胶防滑豆豆鞋脚底袜子",
-    "company": "辽源蒂泽袜业有限公司",
-    "loginid": "辽源袜子厂家批发",
-    "is_live": true,
-    "size_bytes": 85102
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 46.6,
     "price_brl": 1.7,
     "title_br": "Meia feminina de verão, curta, com silicone antiderrapante que não cai do calcanhar, respirável, cor sólida em algodão, meia baixa invisível e absorvente para mulheres.",
-    "url": "https://www.rakumart.com.br/product/714805258083",
-    "crosswalked_at": "2026-06-23T01:15:14Z"
+    "url": "https://www.rakumart.com.br/product/714805258083"
   },
   "enriched_at": "2026-06-22T15:39:38.261760Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

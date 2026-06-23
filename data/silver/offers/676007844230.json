@@ -1,34 +1,17 @@
 {
   "offer_id": 676007844230,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_676007844230.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "不锈钢挂钩夹子3字夹浸塑无痕家用收纳晾晒帽夹样品夹丝巾围巾夹",
     "price_cny": "0.24",
     "shop": "胜蓝日用品有限公司",
-    "province": "浙江",
-    "city": "义乌市",
-    "booked": "16610",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01aZQory1miYKyyDuYa_!!3994824988-0-cib.jpg",
-    "category": "beach_clip",
-    "source_query": "沙滩巾夹"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01aZQory1miYKyyDuYa_!!3994824988-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "不锈钢挂钩夹子3字夹浸塑无痕家用收纳晾晒帽夹样品夹丝巾围巾夹",
-    "company": "义乌市胜然日用品有限公司",
-    "loginid": "胜蓝日用品有限公司",
-    "is_live": true,
-    "size_bytes": 85814
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 31.9,
     "price_brl": 0.35,
     "title_br": "Mini grampos de cortina em plástico, com gancho e clipe para documentos. Transparente, preto e branco. Pacote com 100 unidades.",
-    "url": "https://www.rakumart.com.br/product/570463260749",
-    "crosswalked_at": "2026-06-18T01:06:13Z"
+    "url": "https://www.rakumart.com.br/product/570463260749"
   },
   "enriched_at": "2026-06-18T00:06:26.759323Z",
   "category": "beach_clip",
@@ -36,7 +19,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

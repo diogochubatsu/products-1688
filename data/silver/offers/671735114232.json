@@ -1,32 +1,13 @@
 {
   "offer_id": 671735114232,
-  "bronze_refs": {
-    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: drill_*_enriched.json",
-    "rakumart": "LEGACY: drill_full_*.json rak_match"
-  },
   "mtop": {
     "title": "德国充电锂电钻手电钻手枪钻家用电动螺丝刀冲击钻手钻工具锂电转",
     "price_cny": 54.5,
     "shop": "ykaldjl",
-    "shop_text": "永康市东城奥力登锯链经营部",
-    "province": "浙江",
-    "city": "永康市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01DzFN461T71OkWhjpv_!!2469222334-0-cib.jpg",
-    "booked": 2057,
-    "category": "drill"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01DzFN461T71OkWhjpv_!!2469222334-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "德国充电锂电钻手电钻手枪钻家用电动螺丝刀冲击钻手钻工具锂电转",
-    "company": "永康市东城奥力登锯链经营部",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 386981
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "569807584106",
-    "title_cn": "冲击电钻 手电钻手枪钻 冲击钻 台钻夹头扳手钥匙6mm10mm13mm16mm",
-    "title_pt": "Furadeira de impacto, furadeira manual e furadeira de pistola. Furadeira de impacto com chave de mandril para bancada, disponível nas medidas 6mm, 10mm, 13mm e 16mm.",
     "price_brl": 8.0,
     "match_score": 53.3
   },
@@ -36,7 +17,6 @@
     "n1": "五金工具",
     "n2": "电动工具",
     "n3": "钻孔工具",
-    "n4": "电钻",
-    "path": "五金工具/电动工具/钻孔工具/电钻"
+    "n4": "电钻"
   }
 }

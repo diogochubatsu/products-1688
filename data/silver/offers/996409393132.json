@@ -1,34 +1,17 @@
 {
   "offer_id": 996409393132,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_运动袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_996409393132.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "新疆棉纯棉男女同款商务吸汗透气全棉防臭袜运动短筒袜纯色男棉袜",
     "price_cny": "1.39",
     "shop": "权鼎针织源头工厂",
-    "province": "浙江",
-    "city": "义乌市",
-    "booked": "11109",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01WHlDBT1XhRTr4VW0j_!!2220987212955-0-cib.jpg",
-    "category": "socks",
-    "source_query": "运动袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01WHlDBT1XhRTr4VW0j_!!2220987212955-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "新疆棉纯棉男女同款商务吸汗透气全棉防臭袜运动短筒袜纯色男棉袜",
-    "company": "义乌市鹤舞服饰有限公司",
-    "loginid": "权鼎针织源头工厂",
-    "is_live": true,
-    "size_bytes": 156285
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 68.8,
     "price_brl": 1.09,
     "title_br": "Meia masculina curta de algodão 100%, antiodor, absorve suor, cor sólida, branca, ideal para esportes.",
-    "url": "https://www.rakumart.com.br/product/927597879888",
-    "crosswalked_at": "2026-06-23T01:18:08Z"
+    "url": "https://www.rakumart.com.br/product/927597879888"
   },
   "enriched_at": "2026-06-22T15:39:38.442518Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "棉袜",
-    "path": "服装鞋帽/袜子/通用袜子/棉袜"
+    "n4": "棉袜"
   }
 }

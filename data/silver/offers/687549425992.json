@@ -1,34 +1,17 @@
 {
   "offer_id": 687549425992,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "一次性袜子女男士压缩旅行中筒短棉袜黑白色夏季透气日抛薄款军训",
     "price_cny": 1.7,
     "shop": "巴迪高户外用品",
-    "shop_text": "湖南巴迪高日用品有限公司",
-    "province": "湖南",
-    "city": "长沙市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01QEKGBs2BYMEZ4qeI0_!!2212343318350-0-cib.jpg",
-    "booked": 19175,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01QEKGBs2BYMEZ4qeI0_!!2212343318350-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "一次性袜子女男士压缩旅行中筒短棉袜黑白色夏季透气日抛薄款军训",
-    "company": "湖南巴迪高日用品有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 114588
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 69.2,
     "price_brl": 2.0,
     "title_br": "Meias baixas de algodão 100% para homem, modelo verão fino com malha respirável, antiodor e absorção de suor.",
-    "url": "https://www.rakumart.com.br/product/800667792587",
-    "crosswalked_at": "2026-06-18T01:13:56Z"
+    "url": "https://www.rakumart.com.br/product/800667792587"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "棉袜",
-    "path": "服装鞋帽/袜子/通用袜子/棉袜"
+    "n4": "棉袜"
   }
 }

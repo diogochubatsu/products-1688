@@ -1,34 +1,17 @@
 {
   "offer_id": 824296098423,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_手电筒_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_824296098423.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "超强光充电手电筒户外巡逻聚光变焦极光炮大泛光镭射炮可充电",
     "price_cny": "6.5",
     "shop": "义乌市凯伟电子商务商行",
-    "province": "浙江",
-    "city": "义乌市",
-    "booked": "18971",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01JW4RkL2F4MeoJAu37_!!2531178826-0-cib.jpg",
-    "category": "flashlight",
-    "source_query": "手电筒"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01JW4RkL2F4MeoJAu37_!!2531178826-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "超强光充电手电筒户外巡逻聚光变焦极光炮大泛光镭射炮可充电",
-    "company": "义乌市凯伟五金工具商行",
-    "loginid": "义乌市凯伟电子商务商行",
-    "is_live": true,
-    "size_bytes": 79920
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 42.4,
     "price_brl": 31.0,
     "title_br": "Lanterna tática LED de alumínio, super potente e recarregável com zoom, ideal para uso ao ar livre.",
-    "url": "https://www.rakumart.com.br/product/750640988227",
-    "crosswalked_at": "2026-06-22T15:27:31Z"
+    "url": "https://www.rakumart.com.br/product/750640988227"
   },
   "enriched_at": "2026-06-21T15:17:26.010031Z",
   "category": "flashlight",
@@ -36,7 +19,6 @@
     "n1": "电子数码",
     "n2": "照明",
     "n3": "手电筒",
-    "n4": "充电手电筒",
-    "path": "电子数码/照明/手电筒/充电手电筒"
+    "n4": "充电手电筒"
   }
 }

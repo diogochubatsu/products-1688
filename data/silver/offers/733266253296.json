@@ -1,34 +1,17 @@
 {
   "offer_id": 733266253296,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_提臀塑身衣_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_733266253296.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "亚马逊跨境连体塑身衣女收腹裤开档提臀塑形吊带内衣束腹美体束身",
     "price_cny": "8.83",
     "shop": "欧曼轩针织内衣",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "17554",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01HKi4LQ24DYtOHjWGI_!!2212412807357-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "提臀塑身衣"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01HKi4LQ24DYtOHjWGI_!!2212412807357-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "亚马逊跨境连体塑身衣女收腹裤开档提臀塑形吊带内衣束腹美体束身",
-    "company": "汕头市潮阳区贵屿欧曼轩针织内衣厂",
-    "loginid": "欧曼轩针织内衣",
-    "is_live": true,
-    "size_bytes": 156486
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 49.0,
     "price_brl": 52.0,
     "title_br": "Calça modeladora de cintura alta para mulheres, com efeito abdominal e elevação do bumbum, estilo欧美 plus size, com abertura frontal em zíper e suporte tipo espartilho.",
-    "url": "https://www.rakumart.com.br/product/680456750474",
-    "crosswalked_at": "2026-06-23T01:15:55Z"
+    "url": "https://www.rakumart.com.br/product/680456750474"
   },
   "enriched_at": "2026-06-22T15:39:38.219171Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身衣",
-    "n4": "连体塑身",
-    "path": "服装鞋帽/内衣/塑身衣/连体塑身"
+    "n4": "连体塑身"
   }
 }

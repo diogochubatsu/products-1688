@@ -1,34 +1,17 @@
 {
   "offer_id": 616515558438,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_童袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_616515558438.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "严选新品地板袜防滑儿童袜子早教学步蹦床袜夏季薄款点胶瑜伽袜男",
     "price_cny": "2",
     "shop": "诸暨浚源针织",
-    "province": "浙江",
-    "city": "绍兴市",
-    "booked": "6214",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/14600377090_2005613062.jpg",
-    "category": "socks",
-    "source_query": "童袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/14600377090_2005613062.jpg"
   },
-  "su_detail": {
-    "subject": "严选新品地板袜防滑儿童袜子早教学步蹦床袜夏季薄款点胶瑜伽袜男",
-    "company": "诸暨市浚源针织有限公司",
-    "loginid": "诸暨浚源针织",
-    "is_live": true,
-    "size_bytes": 122858
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 72.3,
     "price_brl": 1.5,
     "title_br": "Meias antiderrapantes com pontos de cola para homens e mulheres, ideais para ioga, trampoline fitness e dança.",
-    "url": "https://www.rakumart.com.br/product/712109907004",
-    "crosswalked_at": "2026-06-23T01:17:47Z"
+    "url": "https://www.rakumart.com.br/product/712109907004"
   },
   "enriched_at": "2026-06-22T15:39:38.197490Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "童袜",
-    "path": "服装鞋帽/袜子/通用袜子/童袜"
+    "n4": "童袜"
   }
 }

@@ -1,34 +1,17 @@
 {
   "offer_id": 679734488950,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_679734488950.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "床单固定器防跑防滑被套被单被子夹子无针收纳升级款",
     "price_cny": "0.25",
     "shop": "嘉栩工厂店",
-    "province": "浙江",
-    "city": "义乌市",
-    "booked": "107208",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01YaodX721va7Ml0Ryd_!!2214413877047-0-cib.jpg",
-    "category": "beach_clip",
-    "source_query": "沙滩巾夹"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01YaodX721va7Ml0Ryd_!!2214413877047-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "床单固定器防跑防滑被套被单被子夹子无针收纳升级款",
-    "company": "义乌市嘉栩商贸有限公司",
-    "loginid": "嘉栩工厂店",
-    "is_live": true,
-    "size_bytes": 143026
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 49.4,
     "price_brl": 2.2,
     "title_br": "Clipes de roupa com forte fixação, à prova de vento, ideais para secar edredons e lençóis. Feitos em plástico antiderrapante, não deixam marcas e garantem que a roupa fique bem presa ao varal.",
-    "url": "https://www.rakumart.com.br/product/915709790230",
-    "crosswalked_at": "2026-06-18T01:09:24Z"
+    "url": "https://www.rakumart.com.br/product/915709790230"
   },
   "enriched_at": "2026-06-18T00:06:26.761057Z",
   "category": "beach_clip",
@@ -36,7 +19,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

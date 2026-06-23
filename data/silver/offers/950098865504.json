@@ -1,34 +1,17 @@
 {
   "offer_id": 950098865504,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_收腹裤_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_950098865504.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "10A类婴儿棉内裤女纯棉全棉抗菌裆无痕大码中高腰包臀收腹三角裤",
     "price_cny": "5.5",
     "shop": "莉春纱针织内衣厂",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "11442",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN015q7Nr91SuenNw5IyU_!!2208404032307-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "收腹裤"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN015q7Nr91SuenNw5IyU_!!2208404032307-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "10A类婴儿棉内裤女纯棉全棉抗菌裆无痕大码中高腰包臀收腹三角裤",
-    "company": "汕头市潮阳区贵屿莉春纱针织内衣厂",
-    "loginid": "莉春纱针织内衣厂",
-    "is_live": true,
-    "size_bytes": 135486
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 36.4,
     "price_brl": 8.0,
     "title_br": "Calcinha feminina de algodão egípcio 100% com tecnologia antibacteriana, cintura alta, modeladora para barriga, comprimento estendido na frente e ideal para recuperação pós-parto.",
-    "url": "https://www.rakumart.com.br/product/894844847099",
-    "crosswalked_at": "2026-06-18T01:06:40Z"
+    "url": "https://www.rakumart.com.br/product/894844847099"
   },
   "enriched_at": "2026-06-18T00:06:26.794661Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身裤",
-    "n4": "收腹塑裤",
-    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+    "n4": "收腹塑裤"
   }
 }

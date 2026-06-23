@@ -1,34 +1,17 @@
 {
   "offer_id": 861838330447,
-  "bronze_refs": {
-    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
-    "su_detail": null,
-    "rakumart": null
-  },
   "mtop": {
     "title": "新款促销豪军手电钻 家用 正反转螺丝刀 多功能 电转枪 大功率",
     "price_cny": 36.3,
     "shop": "豪军工具有限公司",
-    "shop_text": "永康市豪军工具制造有限公司",
-    "province": "浙江",
-    "city": "永康市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01GaR4gG1vcRmzl7KA2_!!2600036193-0-cib.jpg",
-    "booked": 1241,
-    "category": "drill"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01GaR4gG1vcRmzl7KA2_!!2600036193-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": null,
-    "company": null,
-    "loginid": null,
-    "is_live": false,
-    "size_bytes": 251
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 55.5,
     "price_brl": 385.0,
     "title_br": "Bosch GSB120-LI, furadeira multifuncional de impacto com função de parafusadeira, ideal para uso doméstico.",
-    "url": "https://www.rakumart.com.br/product/811890497575",
-    "crosswalked_at": "2026-06-18T01:15:09Z"
+    "url": "https://www.rakumart.com.br/product/811890497575"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "drill",
@@ -36,7 +19,6 @@
     "n1": "五金工具",
     "n2": "电动工具",
     "n3": "钻孔工具",
-    "n4": "电钻",
-    "path": "五金工具/电动工具/钻孔工具/电钻"
+    "n4": "电钻"
   }
 }

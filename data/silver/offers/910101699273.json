@@ -1,32 +1,13 @@
 {
   "offer_id": 910101699273,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": "LEGACY: socks_full_*.json rak_match"
-  },
   "mtop": {
     "title": "白色袜子男士春秋中筒袜女款纯棉吸汗运动袜篮球袜加厚毛巾底长袜",
     "price_cny": 2.7,
     "shop": "德豪针织",
-    "shop_text": "诸暨市德豪针织厂",
-    "province": "浙江",
-    "city": "诸暨市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN018zsnXM2AXbu1uhIwG_!!1682148213.jpg",
-    "booked": 11526,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN018zsnXM2AXbu1uhIwG_!!1682148213.jpg"
   },
-  "su_detail": {
-    "subject": "白色袜子男士春秋中筒袜女款纯棉吸汗运动袜篮球袜加厚毛巾底长袜",
-    "company": "诸暨市德豪针织厂",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 152585
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "907323011325",
-    "title_cn": "白色袜子女中筒袜春秋季薄款纯棉堆堆袜2025新款爆款配德训鞋长袜",
-    "title_pt": "Meia média branca para mulher, algodão 100%, ideal para primavera e outono. Modelo novo de 2025, super popular, combina perfeitamente com tênis estilo alemão (deutscher).",
     "price_brl": 3.45,
     "match_score": 66.7
   },
@@ -36,7 +17,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "运动袜",
-    "path": "服装鞋帽/袜子/通用袜子/运动袜"
+    "n4": "运动袜"
   }
 }

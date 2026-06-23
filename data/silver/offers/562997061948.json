@@ -1,22 +1,12 @@
 {
   "offer_id": 562997061948,
-  "bronze_refs": {
-    "mtop": "LEGACY: baiyite_*.json (2026-06-17, pre-architecture)",
-    "su_detail": null,
-    "rakumart": "LEGACY: baiyite_full_*.json rak_match"
-  },
   "mtop": {
     "title": "佰亿特厂家防风沙滩毛巾固定夹子  塑料沙滩圆头弹簧防风插夹",
     "price_cny": 1.5,
-    "shop": "unknown",
-    "booked": 0,
-    "category": "beach_clip"
+    "shop": "unknown"
   },
   "su_detail": null,
   "rakumart": {
-    "iid": "562997061948",
-    "title_cn": "佰亿特厂家防风沙滩毛巾固定夹子  塑料沙滩圆头弹簧防风插夹",
-    "title_pt": "Fixador de toalha de praia à prova de vento da marca Baiyite, feito em plástico com cabeça redonda e mola para prender firmemente na areia.",
     "price_brl": 1.5,
     "match_score": 100.0,
     "url": "https://www.rakumart.com.br/product/562997061948"
@@ -27,7 +17,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

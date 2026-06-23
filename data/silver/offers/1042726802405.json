@@ -1,34 +1,17 @@
 {
   "offer_id": 1042726802405,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_提臀塑身衣_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_1042726802405.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "跨境热销升级版束腰带吊带束腰全身塑形连体衣收腹提臀美背塑形美",
     "price_cny": "19",
     "shop": "木库销售部",
-    "province": "浙江",
-    "city": "温州市",
-    "booked": "16",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01DfBRRH2IexIZoFGcj_!!2217541529312-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "提臀塑身衣"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01DfBRRH2IexIZoFGcj_!!2217541529312-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "跨境热销升级版束腰带吊带束腰全身塑形连体衣收腹提臀美背塑形美",
-    "company": "温州锦橙服饰有限公司",
-    "loginid": "木库销售部",
-    "is_live": true,
-    "size_bytes": 129953
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 53.0,
     "price_brl": 10.0,
     "title_br": "Body shaper sem costura em tamanhos grandes, com cinto modelador para cintura, que eleva e molda os glúteos. Cueca boxer de entrepernas aberta para maior conforto.",
-    "url": "https://www.rakumart.com.br/product/674946110361",
-    "crosswalked_at": "2026-06-23T01:13:55Z"
+    "url": "https://www.rakumart.com.br/product/674946110361"
   },
   "enriched_at": "2026-06-22T15:39:38.174749Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身衣",
-    "n4": "提臀塑身",
-    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+    "n4": "提臀塑身"
   }
 }

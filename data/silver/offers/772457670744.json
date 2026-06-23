@@ -1,34 +1,17 @@
 {
   "offer_id": 772457670744,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_沙滩夹_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_772457670744.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "考拉日记赶海套装沙滩玩沙工具海边挖沙儿童玩具海蛎子螃蟹夹装备",
     "price_cny": "48.76",
     "shop": "youbeitoys",
-    "province": "浙江",
-    "city": "义乌市",
-    "booked": "714",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01hLhqeE248WQpq8Bmh_!!953477346-0-cib.jpg",
-    "category": "beach_clip",
-    "source_query": "沙滩夹"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01hLhqeE248WQpq8Bmh_!!953477346-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "考拉日记赶海套装沙滩玩沙工具海边挖沙儿童玩具海蛎子螃蟹夹装备",
-    "company": "义乌市童润玩具有限公司",
-    "loginid": "youbeitoys",
-    "is_live": true,
-    "size_bytes": 72807
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 65.1,
     "price_brl": 7.2,
     "title_br": "Chaveiro de pelúcia divertido de vôlei de praia, da coleção esportiva: bonecos de tênis e vôlei, ideais para máquinas de pegar prêmios.",
-    "url": "https://www.rakumart.com.br/product/938549040746",
-    "crosswalked_at": "2026-06-18T01:06:19Z"
+    "url": "https://www.rakumart.com.br/product/938549040746"
   },
   "enriched_at": "2026-06-18T00:06:26.775706Z",
   "category": "beach_clip",
@@ -36,7 +19,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

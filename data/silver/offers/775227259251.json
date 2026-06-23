@@ -1,34 +1,17 @@
 {
   "offer_id": 775227259251,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_内裤_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_775227259251.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "60支新疆棉7A抗菌女士纯棉内裤a类婴儿纯棉底裆中腰简约女士内裤",
     "price_cny": "4.13",
     "shop": "舒雅奈儿针织内衣厂",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "249272",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01mqEHGD1gUSd89RdXK_!!2214518324145-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "内裤"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01mqEHGD1gUSd89RdXK_!!2214518324145-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "60支新疆棉7A抗菌女士纯棉内裤a类婴儿纯棉底裆中腰简约女士内裤",
-    "company": "汕头市潮阳区谷饶舒雅奈儿内衣厂",
-    "loginid": "舒雅奈儿针织内衣厂",
-    "is_live": true,
-    "size_bytes": 103947
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 36.6,
     "price_brl": 3.2,
     "title_br": "60 fios de algodão 100% puro, série macaron com tecnologia antibacteriana 7A, modelo mais vendido para meninas e mulheres plus size. Cueca feminina de cintura média em algodão puro.",
-    "url": "https://www.rakumart.com.br/product/920671554371",
-    "crosswalked_at": "2026-06-22T15:38:01Z"
+    "url": "https://www.rakumart.com.br/product/920671554371"
   },
   "enriched_at": "2026-06-18T00:06:26.776901Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "内裤",
-    "n4": "女士内裤",
-    "path": "服装鞋帽/内衣/内裤/女士内裤"
+    "n4": "女士内裤"
   }
 }

@@ -1,32 +1,13 @@
 {
   "offer_id": 717206079009,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": "LEGACY: socks_full_*.json rak_match"
-  },
   "mtop": {
     "title": "双针袜子7A抗菌防臭船袜女春夏季全棉短袜硅胶防滑浅口隐形女棉袜",
     "price_cny": 2.5,
     "shop": "诸暨市忆南针织厂",
-    "shop_text": "诸暨市忆南针织厂",
-    "province": "浙江",
-    "city": "绍兴市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01SsdCIC1jpvwmQaHtW_!!2212704474598-0-cib.jpg",
-    "booked": 6305,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01SsdCIC1jpvwmQaHtW_!!2212704474598-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "双针袜子7A抗菌防臭船袜女春夏季全棉短袜硅胶防滑浅口隐形女棉袜",
-    "company": "诸暨市忆南针织厂",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 118231
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "734558191192",
-    "title_cn": "7A抗菌袜子女纯棉春夏季薄款防臭吸汗女士船袜女袜短袜女款短款",
-    "title_pt": "Meias baixas femininas de algodão 100% com proteção antibacteriana 7A, ideais para primavera e verão. Modelo fino, que absorve o suor e evita mau cheiro.",
     "price_brl": 3.99,
     "match_score": 53.3
   },
@@ -36,7 +17,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

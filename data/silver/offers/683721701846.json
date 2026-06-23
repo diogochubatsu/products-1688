@@ -1,34 +1,17 @@
 {
   "offer_id": 683721701846,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_683721701846.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "收纳夹子衣帽塑料袜子夹多功能帽子夹子挂钩手套夹可旋转毛巾夹子",
     "price_cny": "0.11",
     "shop": "义乌市少平日用品厂",
-    "province": "浙江",
-    "city": "义乌市",
-    "booked": "1045",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01q1cGHm2MQzMlUevqP_!!2212433969823-0-cib.jpg",
-    "category": "beach_clip",
-    "source_query": "沙滩巾夹"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01q1cGHm2MQzMlUevqP_!!2212433969823-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "收纳夹子衣帽塑料袜子夹多功能帽子夹子挂钩手套夹可旋转毛巾夹子",
-    "company": "义乌市少苹日用品有限公司",
-    "loginid": "义乌市少平日用品厂",
-    "is_live": true,
-    "size_bytes": 75827
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 43.1,
     "price_brl": 0.31,
     "title_br": "Gancho de aço inoxidável multifuncional, prendedor de roupas sem deixar marcas, ideal para toalha, chapéu, meia e calça com proteção contra vento. Inclui gancho para organização.",
-    "url": "https://www.rakumart.com.br/product/743269007404",
-    "crosswalked_at": "2026-06-18T01:08:28Z"
+    "url": "https://www.rakumart.com.br/product/743269007404"
   },
   "enriched_at": "2026-06-18T00:06:26.762555Z",
   "category": "beach_clip",
@@ -36,7 +19,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

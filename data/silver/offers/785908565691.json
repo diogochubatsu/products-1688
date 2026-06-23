@@ -1,34 +1,17 @@
 {
   "offer_id": 785908565691,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "CoolMax专业跑步袜女士加厚毛巾底篮球袜男中筒透气抗菌运动袜子",
     "price_cny": 10.93,
     "shop": "点球贸易有限公司",
-    "shop_text": "佛山市晟泽辉-佛山名郡",
-    "province": "广东",
-    "city": "佛山市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01gApbHb26fcJLQu2Cn_!!3447167689-0-cib.jpg",
-    "booked": 3311,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01gApbHb26fcJLQu2Cn_!!3447167689-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "CoolMax专业跑步袜女士加厚毛巾底篮球袜男中筒透气抗菌运动袜子",
-    "company": "佛山市晟泽辉煌科技有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 145628
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 73.0,
     "price_brl": 10.26,
     "title_br": "Meia esportiva CoolMax profissional para corrida feminina, com palmilha de toalha reforçada, ideal também para basquete masculina. Meia média, respirável e com ação antibacteriana.",
-    "url": "https://www.rakumart.com.br/product/785908565691",
-    "crosswalked_at": "2026-06-18T01:14:43Z"
+    "url": "https://www.rakumart.com.br/product/785908565691"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "运动袜",
-    "path": "服装鞋帽/袜子/通用袜子/运动袜"
+    "n4": "运动袜"
   }
 }

@@ -1,28 +1,12 @@
 {
   "offer_id": 1038044462179,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_摄像头_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_1038044462179.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "T68摄像头无线wifi摄像机夜视监控户外运动迷你相机高清摄像头",
     "price_cny": "26",
     "shop": "威诺瓦科技工厂店",
-    "province": "广东",
-    "city": "深圳市",
-    "booked": "0",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01w8WRS21oDzVNf7ESg_!!2220299885192-0-cib.jpg",
-    "category": "webcam",
-    "source_query": "摄像头"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01w8WRS21oDzVNf7ESg_!!2220299885192-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "T68摄像头无线wifi摄像机夜视监控户外运动迷你相机高清摄像头",
-    "company": "威诺瓦科技有限公司",
-    "loginid": "威诺瓦科技工厂店",
-    "is_live": true,
-    "size_bytes": 67891
-  },
+  "su_detail": {},
   "rakumart": null,
   "enriched_at": "2026-06-21T15:17:25.976344Z",
   "category": "webcam",
@@ -30,7 +14,6 @@
     "n1": "电子数码",
     "n2": "安防监控",
     "n3": "摄像头",
-    "n4": "监控摄像头",
-    "path": "电子数码/安防监控/摄像头/监控摄像头"
+    "n4": "监控摄像头"
   }
 }

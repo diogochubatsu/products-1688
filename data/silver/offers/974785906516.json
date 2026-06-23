@@ -1,34 +1,17 @@
 {
   "offer_id": 974785906516,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_化妆品收纳_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_974785906516.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "粉扑收纳盒旋转防尘美妆蛋气垫架梳妆台多层化妆刷置物架可旋转",
     "price_cny": "4.5",
     "shop": "无悠良品",
-    "province": "浙江",
-    "city": "金华市",
-    "booked": "2",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01l1pSPL1iOcy1cCOVh_!!2219337934403-0-cib.jpg",
-    "category": "organization",
-    "source_query": "化妆品收纳"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01l1pSPL1iOcy1cCOVh_!!2219337934403-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "粉扑收纳盒旋转防尘美妆蛋气垫架梳妆台多层化妆刷置物架可旋转",
-    "company": "义乌市忻履电子商务有限公司",
-    "loginid": "无悠良品",
-    "is_live": true,
-    "size_bytes": 68768
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 36.8,
     "price_brl": 3.8,
     "title_br": "Organizador giratório para pincéis, esponjas de maquiagem, batons e air cushions, com tampa anti-poeira, ideal para deixar a sua penteadeira organizada.",
-    "url": "https://www.rakumart.com.br/product/937495095399",
-    "crosswalked_at": "2026-06-22T15:26:20Z"
+    "url": "https://www.rakumart.com.br/product/937495095399"
   },
   "enriched_at": "2026-06-21T15:17:26.028618Z",
   "category": "organization",
@@ -36,7 +19,6 @@
     "n1": "家居日用",
     "n2": "收纳整理",
     "n3": "通用收纳",
-    "n4": "通用收纳",
-    "path": "家居日用/收纳整理/通用收纳/通用收纳"
+    "n4": "通用收纳"
   }
 }

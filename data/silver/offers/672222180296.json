@@ -1,32 +1,13 @@
 {
   "offer_id": 672222180296,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": "LEGACY: socks_full_*.json rak_match"
-  },
   "mtop": {
     "title": "蕾丝袜子夏女薄款冰丝棉诸暨袜子女款隐形船袜夏天防滑冰丝短袜",
     "price_cny": 3.3,
     "shop": "企鹅电子1688",
-    "shop_text": "诸暨市通凯针织厂",
-    "province": "浙江",
-    "city": "绍兴市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01qoyaEn2JFanW3FjYV_!!3199459392-0-cib.jpg",
-    "booked": 6684,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01qoyaEn2JFanW3FjYV_!!3199459392-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "蕾丝袜子夏女薄款冰丝棉诸暨袜子女款隐形船袜夏天防滑冰丝短袜",
-    "company": "诸暨市通凯针织厂",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 122015
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "706370307761",
-    "title_cn": "袜子女纯棉薄款船袜诸暨袜子100%棉春夏短袜批发浅口隐形白色袜子",
-    "title_pt": "Meia feminina de algodão 100%, modelo fino e curto estilo barco, ideal para primavera e verão. Origem: Zhuji. Venda no atacado. Meia branca discreta e invisível dentro do sapato.",
     "price_brl": 3.9,
     "match_score": 60.0
   },
@@ -36,7 +17,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

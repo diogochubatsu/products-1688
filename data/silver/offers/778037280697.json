@@ -1,34 +1,17 @@
 {
   "offer_id": 778037280697,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_运动袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_778037280697.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "7A抗菌新疆全棉防臭棉袜男士中筒袜四季商务吸汗透气纯棉袜男袜子",
     "price_cny": "1.59",
     "shop": "上德袜业工厂店",
-    "province": "浙江",
-    "city": "绍兴市",
-    "booked": "20950",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01RIPu2r1LmE489LxZV_!!2217166541341-0-cib.jpg",
-    "category": "socks",
-    "source_query": "运动袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01RIPu2r1LmE489LxZV_!!2217166541341-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "7A抗菌新疆全棉防臭棉袜男士中筒袜四季商务吸汗透气纯棉袜男袜子",
-    "company": "义乌市明鸣服饰有限公司",
-    "loginid": "上德袜业工厂店",
-    "is_live": true,
-    "size_bytes": 88439
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 68.5,
     "price_brl": 6.0,
     "title_br": "Meia de algodão do Xinjiang para homem, modelo verão, meia média respirável com malha, 7A antibacteriana, ideal para esportes, cor branca, antiodor.",
-    "url": "https://www.rakumart.com.br/product/918584314257",
-    "crosswalked_at": "2026-06-23T01:18:31Z"
+    "url": "https://www.rakumart.com.br/product/918584314257"
   },
   "enriched_at": "2026-06-22T15:39:38.231087Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "棉袜",
-    "path": "服装鞋帽/袜子/通用袜子/棉袜"
+    "n4": "棉袜"
   }
 }

@@ -1,34 +1,17 @@
 {
   "offer_id": 1053404780808,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_船袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_1053404780808.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "袜子女夏季薄款隐形防滑不掉跟纯色浅口百搭高跟鞋袜冰丝船袜",
     "price_cny": "0.78",
     "shop": "义乌市昝贝电子商务",
-    "province": "",
-    "city": "",
-    "booked": "26",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN013ovaTU1EDEh5nhauu_!!2222409480317-0-cib.jpg",
-    "category": "socks",
-    "source_query": "船袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN013ovaTU1EDEh5nhauu_!!2222409480317-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "袜子女夏季薄款隐形防滑不掉跟纯色浅口百搭高跟鞋袜冰丝船袜",
-    "company": "义乌市昝贝电子商务商行(个体工商户)",
-    "loginid": "义乌市昝贝电子商务",
-    "is_live": true,
-    "size_bytes": 123893
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 61.2,
     "price_brl": 2.37,
     "title_br": "Meia social invisível feminina, modelo raso que não desce, antiderrapante, em tecido de seda gelada e super fina, com proteção contra mau cheiro. Ideal para o verão, disponível nas cores branca e nude",
-    "url": "https://www.rakumart.com.br/product/778687241650",
-    "crosswalked_at": "2026-06-23T01:20:18Z"
+    "url": "https://www.rakumart.com.br/product/778687241650"
   },
   "enriched_at": "2026-06-22T15:39:38.182835Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

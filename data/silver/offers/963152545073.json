@@ -1,34 +1,17 @@
 {
   "offer_id": 963152545073,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_化妆品收纳_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_963152545073.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "亚马逊热销pu化妆包收纳分区大容量防水便携旅行洗漱化妆品收纳包",
     "price_cny": "7",
     "shop": "力达箱包皮具",
-    "province": "广东",
-    "city": "深圳市",
-    "booked": "52",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01NbqkBF24q2E68yu03_!!2218971377441-0-cib.jpg",
-    "category": "organization",
-    "source_query": "化妆品收纳"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01NbqkBF24q2E68yu03_!!2218971377441-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "亚马逊热销pu化妆包收纳分区大容量防水便携旅行洗漱化妆品收纳包",
-    "company": "深圳市力达箱包皮具制品有限公司",
-    "loginid": "力达箱包皮具",
-    "is_live": true,
-    "size_bytes": 149453
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 30.2,
     "price_brl": 26.0,
     "title_br": "Nova 2024: necessaire portátil para maquiagem, ideal para viagens. Bolsa de higiene à prova d'água, tamanho grande, alta capacidade, perfeita para mulheres.",
-    "url": "https://www.rakumart.com.br/product/846161880696",
-    "crosswalked_at": "2026-06-22T15:33:52Z"
+    "url": "https://www.rakumart.com.br/product/846161880696"
   },
   "enriched_at": "2026-06-21T15:17:26.027289Z",
   "category": "organization",
@@ -36,7 +19,6 @@
     "n1": "家居日用",
     "n2": "收纳整理",
     "n3": "通用收纳",
-    "n4": "通用收纳",
-    "path": "家居日用/收纳整理/通用收纳/通用收纳"
+    "n4": "通用收纳"
   }
 }

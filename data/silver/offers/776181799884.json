@@ -1,34 +1,17 @@
 {
   "offer_id": 776181799884,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "纯色船袜袜子男浅口短袜男女地摊礼品运动袜  独立包装地摊袜批发",
     "price_cny": 0.5,
     "shop": "孙萍针织",
-    "shop_text": "诸暨市江通针织品商店",
-    "province": "浙江",
-    "city": "绍兴市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01xKEF7N1raNiw9zOYS_!!2211275835647-0-cib.jpg",
-    "booked": 6204,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01xKEF7N1raNiw9zOYS_!!2211275835647-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "纯色船袜袜子男浅口短袜男女地摊礼品运动袜  独立包装地摊袜批发",
-    "company": "诸暨市江通针织品商店",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 94090
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 50.4,
     "price_brl": 1.68,
     "title_br": "Meias brancas para homem no verão, meias médias para mulher, meias baixas lisas, meias esportivas com cinta para basquete, meias de algodão 100% para homens, venda por atacado.",
-    "url": "https://www.rakumart.com.br/product/824904373528",
-    "crosswalked_at": "2026-06-18T01:10:57Z"
+    "url": "https://www.rakumart.com.br/product/824904373528"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

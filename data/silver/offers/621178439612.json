@@ -1,34 +1,17 @@
 {
   "offer_id": 621178439612,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_沙滩夹_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_621178439612.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "跨境火烈鸟沙滩夹子创意塑料夹动物防风夹毛巾夹固定夹晾衣夹",
     "price_cny": "4.6",
     "shop": "东莞儿童玩具",
-    "province": "广东",
-    "city": "东莞市",
-    "booked": "2588",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/16891248419_2134768598.jpg",
-    "category": "beach_clip",
-    "source_query": "沙滩夹"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/16891248419_2134768598.jpg"
   },
-  "su_detail": {
-    "subject": "跨境火烈鸟沙滩夹子创意塑料夹动物防风夹毛巾夹固定夹晾衣夹",
-    "company": "东莞市美佳塑胶玩具有限公司",
-    "loginid": "东莞儿童玩具",
-    "is_live": true,
-    "size_bytes": 227878
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 52.6,
     "price_brl": 3.5,
     "title_br": "Kit de prendedores de toalha para praia com tema de bichinhos fofos, ideais para prender toalhas em cadeiras de sol e evitar que o vento as levem. Feitos em plástico resistente, são perfeitos para sec",
-    "url": "https://www.rakumart.com.br/product/664082322767",
-    "crosswalked_at": "2026-06-18T01:06:25Z"
+    "url": "https://www.rakumart.com.br/product/664082322767"
   },
   "enriched_at": "2026-06-18T00:06:26.719120Z",
   "category": "beach_clip",
@@ -36,7 +19,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

@@ -1,34 +1,17 @@
 {
   "offer_id": 759629950082,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_化妆品收纳_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_759629950082.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "桌面收纳盒化妆品亚克力可叠加多功能收纳筐透明杂物整理盒子",
     "price_cny": "2.88",
     "shop": "超屹家居用品",
-    "province": "浙江",
-    "city": "金华市",
-    "booked": "82",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01sgD65w1kh3xtY6dwt_!!2214672134714-0-cib.jpg",
-    "category": "organization",
-    "source_query": "化妆品收纳"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01sgD65w1kh3xtY6dwt_!!2214672134714-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "桌面收纳盒化妆品亚克力可叠加多功能收纳筐透明杂物整理盒子",
-    "company": "义乌市超屹家居用品有限公司",
-    "loginid": "超屹家居用品",
-    "is_live": true,
-    "size_bytes": 81332
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 51.7,
     "price_brl": 15.0,
     "title_br": "Caixa organizadora transparente de plástico, multiuso para casa, ideal para maquiagem, produtos de skincare e pequenos itens. Pode ser empilhada na mesa ou em qualquer superfície.",
-    "url": "https://www.rakumart.com.br/product/715384685028",
-    "crosswalked_at": "2026-06-22T15:31:00Z"
+    "url": "https://www.rakumart.com.br/product/715384685028"
   },
   "enriched_at": "2026-06-21T15:17:25.998031Z",
   "category": "organization",
@@ -36,7 +19,6 @@
     "n1": "家居日用",
     "n2": "收纳整理",
     "n3": "通用收纳",
-    "n4": "通用收纳",
-    "path": "家居日用/收纳整理/通用收纳/通用收纳"
+    "n4": "通用收纳"
   }
 }

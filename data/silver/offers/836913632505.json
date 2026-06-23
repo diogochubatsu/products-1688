@@ -1,28 +1,12 @@
 {
   "offer_id": 836913632505,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_无痕内裤_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_836913632505.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "跨境爆款欧美冰丝无痕内裤女薄款透气纯棉档外贸大码女士内裤批发",
     "price_cny": "2.9",
     "shop": "云舒针织内衣厂",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "1077",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01ttYhvz1P8cN4jnqIB_!!2218433661796-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "无痕内裤"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01ttYhvz1P8cN4jnqIB_!!2218433661796-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "跨境爆款欧美冰丝无痕内裤女薄款透气纯棉档外贸大码女士内裤批发",
-    "company": "汕头市潮阳区谷饶云舒针织内衣厂(个体工商户)",
-    "loginid": "云舒针织内衣厂",
-    "is_live": true,
-    "size_bytes": 199162
-  },
+  "su_detail": {},
   "rakumart": null,
   "enriched_at": "2026-06-22T15:39:38.243064Z",
   "category": "underwear",
@@ -30,7 +14,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "内裤",
-    "n4": "无痕内裤",
-    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+    "n4": "无痕内裤"
   }
 }

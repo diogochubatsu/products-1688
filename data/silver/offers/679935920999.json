@@ -1,34 +1,17 @@
 {
   "offer_id": 679935920999,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_摄像头_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_679935920999.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "电脑摄像头USB网络免驱动1080P高清网课直播摄像头视频会议摄像头",
     "price_cny": "16",
     "shop": "朗行工厂店",
-    "province": "广东",
-    "city": "深圳市",
-    "booked": "7772",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN014rGo3B22PoET2frtW_!!3552607113-0-cib.jpg",
-    "category": "webcam",
-    "source_query": "摄像头"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN014rGo3B22PoET2frtW_!!3552607113-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "电脑摄像头USB网络免驱动1080P高清网课直播摄像头视频会议摄像头",
-    "company": "深圳市朗行致远科技有限公司",
-    "loginid": "朗行工厂店",
-    "is_live": true,
-    "size_bytes": 84977
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 44.1,
     "price_brl": 10.5,
     "title_br": "Webcam USB HD 1080P para streaming, aulas online e videoconferências.",
-    "url": "https://www.rakumart.com.br/product/775117081490",
-    "crosswalked_at": "2026-06-22T15:29:56Z"
+    "url": "https://www.rakumart.com.br/product/775117081490"
   },
   "enriched_at": "2026-06-21T15:17:25.991100Z",
   "category": "webcam",
@@ -36,7 +19,6 @@
     "n1": "电子数码",
     "n2": "安防监控",
     "n3": "摄像头",
-    "n4": "电脑摄像头",
-    "path": "电子数码/安防监控/摄像头/电脑摄像头"
+    "n4": "电脑摄像头"
   }
 }

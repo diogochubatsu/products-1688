@@ -1,34 +1,17 @@
 {
   "offer_id": 826813122588,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_手电筒_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_826813122588.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "LED强光小手电筒USB可充电多功能迷你学生便携照明工作灯批发礼品",
     "price_cny": "6.8",
     "shop": "神鱼照明科技",
-    "province": "浙江",
-    "city": "宁波市",
-    "booked": "9007",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN014oUg4F1ZkJ4CfOyEu_!!2212812083232-0-cib.jpg",
-    "category": "flashlight",
-    "source_query": "手电筒"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN014oUg4F1ZkJ4CfOyEu_!!2212812083232-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "LED强光小手电筒USB可充电多功能迷你学生便携照明工作灯批发礼品",
-    "company": "宁波神鱼照明科技有限公司",
-    "loginid": "神鱼照明科技",
-    "is_live": true,
-    "size_bytes": 83420
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 54.1,
     "price_brl": 6.8,
     "title_br": "Mini lanterna LED super potente, recarregável via USB, multifuncional, ideal para estudantes e uso portátil. Perfeita para trabalho e como presente promocional. Venda no atacado.",
-    "url": "https://www.rakumart.com.br/product/826813122588",
-    "crosswalked_at": "2026-06-22T15:36:44Z"
+    "url": "https://www.rakumart.com.br/product/826813122588"
   },
   "enriched_at": "2026-06-21T15:17:26.011887Z",
   "category": "flashlight",
@@ -36,7 +19,6 @@
     "n1": "电子数码",
     "n2": "照明",
     "n3": "手电筒",
-    "n4": "LED手电筒",
-    "path": "电子数码/照明/手电筒/LED手电筒"
+    "n4": "LED手电筒"
   }
 }

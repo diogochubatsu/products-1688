@@ -1,34 +1,17 @@
 {
   "offer_id": 968206984287,
-  "bronze_refs": {
-    "mtop": "LEGACY: youyazi_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: youyazi_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "70克跨境3D蜂巢蜂窝无缝高腰棉裆收腹提臀打底塑身平角内裤女平角",
     "price_cny": 3.8,
     "shop": "尤雅姿内衣厂",
-    "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
-    "province": "广东",
-    "city": "汕头市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01IJRYGF2AktSVj63b1_!!2211950918242-0-cib.jpg",
-    "booked": 126,
-    "category": "underwear"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01IJRYGF2AktSVj63b1_!!2211950918242-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "70克跨境3D蜂巢蜂窝无缝高腰棉裆收腹提臀打底塑身平角内裤女平角",
-    "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 71971
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 63.1,
     "price_brl": 5.0,
     "title_br": "Cueca feminina de cintura média em tecido refrescante, com efeito modelador no abdômen e elevação do bumbum, respirável, altamente elástica, antibacteriana na entreperna, sem costura aparente, fina e ",
-    "url": "https://www.rakumart.com.br/product/870309723525",
-    "crosswalked_at": "2026-06-18T01:16:26Z"
+    "url": "https://www.rakumart.com.br/product/870309723525"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身裤",
-    "n4": "打底塑裤",
-    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+    "n4": "打底塑裤"
   }
 }

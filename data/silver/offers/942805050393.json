@@ -1,34 +1,17 @@
 {
   "offer_id": 942805050393,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_童袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_942805050393.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "儿童袜子夏薄款网眼透气儿童中筒袜无骨运动卡通女童男童袜子厂家",
     "price_cny": "0.85",
     "shop": "诸暨市富翔针织",
-    "province": "浙江",
-    "city": "绍兴市",
-    "booked": "6477",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01jpGlte1tpc3Q6r7lq_!!2216098675951-0-cib.jpg",
-    "category": "socks",
-    "source_query": "童袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01jpGlte1tpc3Q6r7lq_!!2216098675951-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "儿童袜子夏薄款网眼透气儿童中筒袜无骨运动卡通女童男童袜子厂家",
-    "company": "诸暨市富翔针织有限公司",
-    "loginid": "诸暨市富翔针织",
-    "is_live": true,
-    "size_bytes": 307801
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 39.3,
     "price_brl": 1.5,
     "title_br": "Meias antiderrapantes direto da fábrica, ideais para pular em trampolim, educação infantil e uso no chão. Modelo de malha respirável para o verão, também perfeito para ioga adulto. Personalize com seu",
-    "url": "https://www.rakumart.com.br/product/680213376417",
-    "crosswalked_at": "2026-06-23T01:19:42Z"
+    "url": "https://www.rakumart.com.br/product/680213376417"
   },
   "enriched_at": "2026-06-22T15:39:38.418728Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "童袜",
-    "path": "服装鞋帽/袜子/通用袜子/童袜"
+    "n4": "童袜"
   }
 }

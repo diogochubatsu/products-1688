@@ -58,7 +58,6 @@ def search_rakumart_br(query: str, source: str = '1688'):
             'title': title,
             'price_brl': price,
             'url': product_url,
-            'iid': iid,
         })
     return out
 
@@ -190,7 +189,6 @@ def main():
                 'price_brl': match['price_brl'],
                 'title_br': match['title'],
                 'url': match['url'],
-                'crosswalked_at': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()),
             }
             f.write_text(json.dumps(o, ensure_ascii=False, indent=2), encoding='utf-8')
             matched += 1

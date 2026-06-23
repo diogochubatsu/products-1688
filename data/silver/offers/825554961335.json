@@ -1,32 +1,13 @@
 {
   "offer_id": 825554961335,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": "LEGACY: socks_full_*.json rak_match"
-  },
   "mtop": {
     "title": "袜子男夏季韩版船袜女士薄款隐形袜硅胶防滑不掉跟浅口短袜子批发",
     "price_cny": 1.3,
     "shop": "诸暨市紫谷针织厂",
-    "shop_text": "诸暨市紫谷针织厂",
-    "province": "浙江",
-    "city": "诸暨市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01viHZWh1aChceKvlR1_!!2218439783294-0-cib.jpg",
-    "booked": 7126,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01viHZWh1aChceKvlR1_!!2218439783294-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "袜子男夏季韩版船袜女士薄款隐形袜硅胶防滑不掉跟浅口短袜子批发",
-    "company": "诸暨市紫谷针织厂",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 107983
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "725146242684",
-    "title_cn": "袜子女夏季韩版船袜防臭薄款隐形硅胶防滑不掉跟短袜浅口低帮袜子",
-    "title_pt": "Meias baixas femininas para o verão, estilo coreano, com silicone antideslizante que não escorrega, finas e discretas, antidotores.",
     "price_brl": 1.21,
     "match_score": 80.0
   },
@@ -36,7 +17,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

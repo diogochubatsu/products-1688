@@ -1,32 +1,13 @@
 {
   "offer_id": 684505918229,
-  "bronze_refs": {
-    "mtop": "LEGACY: youyazi_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: youyazi_*_enriched.json",
-    "rakumart": "LEGACY: youyazi_full_*.json rak_match"
-  },
   "mtop": {
     "title": "新款大码无缝高腰收腹内裤石墨烯纯棉档塑身美体裤女塑形提臀",
     "price_cny": 3.2,
     "shop": "尤雅姿内衣厂",
-    "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
-    "province": "广东",
-    "city": "汕头市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01VzlLdQ2Akt9azw1wA_!!2211950918242-0-cib.jpg",
-    "booked": 196,
-    "category": "underwear"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01VzlLdQ2Akt9azw1wA_!!2211950918242-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "新款大码无缝高腰收腹内裤石墨烯纯棉档塑身美体裤女塑形提臀",
-    "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 83747
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "700989784436",
-    "title_cn": "外贸加大码无痕高腰交叉收腹裤女士网纱透气美体束腰塑身提臀内裤",
-    "title_pt": "Calça modeladora de cintura alta, sem costura visível, com efeito cruzado para modelar a barriga e empinar o bumbum. Feita em malha respirável, ideal para mulheres que buscam conforto e silhueta definida. Disponível em tamanhos grandes.",
     "price_brl": 8.8,
     "match_score": 53.3
   },
@@ -36,7 +17,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身裤",
-    "n4": "提臀塑裤",
-    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+    "n4": "提臀塑裤"
   }
 }

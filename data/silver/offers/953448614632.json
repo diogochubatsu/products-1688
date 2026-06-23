@@ -1,34 +1,17 @@
 {
   "offer_id": 953448614632,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_船袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_953448614632.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "袜子男春夏季船袜黑色浅口短袜防臭吸汗运动商务隐形袜潮薄款",
     "price_cny": "0.41",
     "shop": "友荣针织科技",
-    "province": "浙江",
-    "city": "绍兴市",
-    "booked": "1349",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN0116x6QE29VwvoV3krx_!!2217629448074-0-cib.jpg",
-    "category": "socks",
-    "source_query": "船袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN0116x6QE29VwvoV3krx_!!2217629448074-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "袜子男春夏季船袜黑色浅口短袜防臭吸汗运动商务隐形袜潮薄款",
-    "company": "诸暨市友荣针织科技有限公司",
-    "loginid": "友荣针织科技",
-    "is_live": true,
-    "size_bytes": 89825
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 71.6,
     "price_brl": 1.45,
     "title_br": "Meia masculina de verão, modelo barco, fina, antiodor, invisível, curta, absorve suor, antiderrapante e não escorrega do calcanhar.",
-    "url": "https://www.rakumart.com.br/product/923583885641",
-    "crosswalked_at": "2026-06-23T01:12:41Z"
+    "url": "https://www.rakumart.com.br/product/923583885641"
   },
   "enriched_at": "2026-06-22T15:39:38.425893Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

@@ -1,32 +1,13 @@
 {
   "offer_id": 568295045934,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": "LEGACY: socks_full_*.json rak_match"
-  },
   "mtop": {
     "title": "百搭素色隐形袜子 男士春夏季硅胶防滑棉船袜5双腰封装厂家批发",
     "price_cny": 1.55,
     "shop": "加勒比1688",
-    "shop_text": "诸暨市北夏针织有限公司",
-    "province": "浙江",
-    "city": "诸暨市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/8809577877_651991878.jpg",
-    "booked": 88648,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/8809577877_651991878.jpg"
   },
-  "su_detail": {
-    "subject": "百搭素色隐形袜子 男士春夏季硅胶防滑棉船袜5双腰封装厂家批发",
-    "company": "诸暨市北夏针织有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 123881
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "568295045934",
-    "title_cn": "百搭素色隐形袜子 男士春夏季硅胶防滑棉船袜5双腰封装厂家批发",
-    "title_pt": "Meia invisível básica, cor sólida, com silicone antideslizante e algodão, ideal para homens na primavera e verão. Pacote com 5 pares, embalagem de cintura, venda direta da fábrica.",
     "price_brl": 1.9,
     "match_score": 100.0
   },
@@ -36,7 +17,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

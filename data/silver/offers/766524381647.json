@@ -1,34 +1,17 @@
 {
   "offer_id": 766524381647,
-  "bronze_refs": {
-    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: drill_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "手电钻多功能电转电动工具省力小电手钻打孔交流手枪钻带有线220V",
     "price_cny": 43.0,
     "shop": "台州市艾锐盾商贸有限公司",
-    "shop_text": "台州市艾锐盾商贸有限公司",
-    "province": "浙江",
-    "city": "台州市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN0158xCsy1UjKClQP0EE_!!2217269052553-0-cib.jpg",
-    "booked": 3144,
-    "category": "drill"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN0158xCsy1UjKClQP0EE_!!2217269052553-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "手电钻多功能电转电动工具省力小电手钻打孔交流手枪钻带有线220V",
-    "company": "台州市艾锐盾商贸有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 233082
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 37.8,
     "price_brl": 358.0,
     "title_br": "Furadeira de bancada multifuncional Aoben, modelo mini para uso doméstico e industrial, 220V, alta precisão.",
-    "url": "https://www.rakumart.com.br/product/803032893250",
-    "crosswalked_at": "2026-06-18T01:05:47Z"
+    "url": "https://www.rakumart.com.br/product/803032893250"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "drill",
@@ -36,7 +19,6 @@
     "n1": "五金工具",
     "n2": "电动工具",
     "n3": "钻孔工具",
-    "n4": "电钻",
-    "path": "五金工具/电动工具/钻孔工具/电钻"
+    "n4": "电钻"
   }
 }

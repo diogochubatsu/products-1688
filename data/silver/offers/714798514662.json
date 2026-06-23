@@ -1,34 +1,17 @@
 {
   "offer_id": 714798514662,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "袜子男条纹船袜休闲百搭短袜吸汗短筒袜夏季薄款低帮浅口隐形船袜",
     "price_cny": 0.5,
     "shop": "常新电子商务有限公司",
-    "shop_text": "诸暨市常新电子商务有限公司",
-    "province": "浙江",
-    "city": "诸暨市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01JS1Nox1EKYirPQJs9_!!2209062480333-0-cib.jpg",
-    "booked": 3132,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01JS1Nox1EKYirPQJs9_!!2209062480333-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "袜子男条纹船袜休闲百搭短袜吸汗短筒袜夏季薄款低帮浅口隐形船袜",
-    "company": "诸暨市常新电子商务有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 74008
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 69.9,
     "price_brl": 0.82,
     "title_br": "Meia masculina de verão, branca, estilo bico, antiodor e absorve suor. Meia curta confortável, invisível no sapato, 100% algodão, modelo fino para homens.",
-    "url": "https://www.rakumart.com.br/product/712109090221",
-    "crosswalked_at": "2026-06-18T01:05:35Z"
+    "url": "https://www.rakumart.com.br/product/712109090221"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

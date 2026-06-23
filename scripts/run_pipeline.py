@@ -237,32 +237,19 @@ def stage_silver(offers: list, category: str, date_str: str):
         su_block = None
         if su_html:
             html = su_html[0].read_text(encoding='utf-8', errors='ignore')
-            su_block = {
-                'subject': (re.search(r'"subject"\s*:\s*"([^"]{5,200})"', html) or [None, None])[1],
-                'company': (re.search(r'"companyName"\s*:\s*"([^"]{2,100})"', html) or [None, None])[1],
-                'loginid': (re.search(r'"loginId"\s*:\s*"([^"]{2,50})"', html) or [None, None])[1],
-                'is_live': len(html) > 50000,
-                'size_bytes': len(html),
-            }
+            if len(html) > 50000:
+                company = (re.search(r'"companyName"\s*:\s*"([^"]{2,100})"', html) or [None, None])[1]
+                su_block = {'shop_name': company} if company else {}
 
         silver = {
             'offer_id': oid,
-            'bronze_refs': {
-                'mtop': str(mtop_files[0].relative_to(BRONZE.parent)) if mtop_files else None,
-                'su_detail': str(su_html[0].relative_to(BRONZE.parent)) if su_html else None,
-                'rakumart': f'bronze/rakumart/{date_str}_*.json' if offer.get('rakumart') else None,
-            },
             'mtop': {
                 'title': offer['title'],
                 'price_cny': offer['price_cny'],
                 'shop': offer.get('shop'),
-                'province': offer.get('province'),
-                'city': offer.get('city'),
-                'booked': offer.get('booked_count', 0),
                 'image_url': offer.get('image_url'),
-                'category': category,
             },
-            'su_detail': su_block,
+            'su_detail': su_block or {},
             'rakumart': offer.get('rakumart'),
             'enriched_at': datetime.now().isoformat() + 'Z',
             'category': category,

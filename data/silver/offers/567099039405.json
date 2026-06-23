@@ -1,34 +1,17 @@
 {
   "offer_id": 567099039405,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_沙滩夹_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_567099039405.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "沙滩夹 鲸鱼眼镜西瓜 拖鞋造型  毛巾夹浴巾夹塑料夹子",
     "price_cny": "4.2",
     "shop": "永坤塑料制品",
-    "province": "浙江",
-    "city": "宁波市",
-    "booked": "550",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Iv1IbI1d2ZlPCA1YV_!!2863353678-0-cib.jpg",
-    "category": "beach_clip",
-    "source_query": "沙滩夹"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Iv1IbI1d2ZlPCA1YV_!!2863353678-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "沙滩夹 鲸鱼眼镜西瓜 拖鞋造型  毛巾夹浴巾夹塑料夹子",
-    "company": "宁波市海曙古林永坤塑料制品厂",
-    "loginid": "永坤塑料制品",
-    "is_live": true,
-    "size_bytes": 86942
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 60.6,
     "price_brl": 5.0,
     "title_br": "Clipe de toalha no formato de chinelo, com tema de praia: baleia, óculos e melancia. Feito em plástico resistente. Ideal para prender toalhas na piscina ou na praia.",
-    "url": "https://www.rakumart.com.br/product/684980907299",
-    "crosswalked_at": "2026-06-18T01:05:53Z"
+    "url": "https://www.rakumart.com.br/product/684980907299"
   },
   "enriched_at": "2026-06-18T00:06:26.706997Z",
   "category": "beach_clip",
@@ -36,7 +19,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

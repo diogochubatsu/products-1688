@@ -1,32 +1,13 @@
 {
   "offer_id": 726097341220,
-  "bronze_refs": {
-    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: drill_*_enriched.json",
-    "rakumart": "LEGACY: drill_full_*.json rak_match"
-  },
   "mtop": {
     "title": "手电钻转冲击钻家用多功能锂电池手电动钻充电式手枪钻电动螺丝刀",
     "price_cny": 64.0,
     "shop": "浙江劲创工贸有限公司",
-    "shop_text": "永康市劲创工贸有限公司",
-    "province": "浙江",
-    "city": "金华市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01YnPKym1MkDra7wp8m_!!2215548821472-0-cib.jpg",
-    "booked": 7924,
-    "category": "drill"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01YnPKym1MkDra7wp8m_!!2215548821472-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "手电钻转冲击钻家用多功能锂电池手电动钻充电式手枪钻电动螺丝刀",
-    "company": "永康市劲创工贸有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 83318
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "727685685635",
-    "title_cn": "浩成锂电手电钻冲击钻多功能充电式手枪钻家用电动螺丝刀电钻工具",
-    "title_pt": "Broca de impacto recarregável a bateria, multifuncional, pistola elétrica para uso doméstico, chave de fenda e furadeira elétrica.",
     "price_brl": 48.0,
     "match_score": 66.7
   },
@@ -36,7 +17,6 @@
     "n1": "五金工具",
     "n2": "电动工具",
     "n3": "钻孔工具",
-    "n4": "电钻",
-    "path": "五金工具/电动工具/钻孔工具/电钻"
+    "n4": "电钻"
   }
 }

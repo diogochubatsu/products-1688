@@ -1,32 +1,13 @@
 {
   "offer_id": 898949588161,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": "LEGACY: socks_full_*.json rak_match"
-  },
   "mtop": {
     "title": "袜子男款夏薄款棉袜子防臭吸汗网眼中筒袜全棉男袜海宁袜子批发",
     "price_cny": 3.4,
     "shop": "hnwsdwy",
-    "shop_text": "海宁市万事达袜业有限公司",
-    "province": "浙江",
-    "city": "海宁市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01GOWN3E1TPnk1yRpfS_!!1055212375-0-cib.jpg",
-    "booked": 4847,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01GOWN3E1TPnk1yRpfS_!!1055212375-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "袜子男款夏薄款棉袜子防臭吸汗网眼中筒袜全棉男袜海宁袜子批发",
-    "company": "海宁市万事达袜业有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 101643
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "785514799660",
-    "title_cn": "中筒袜子男夏季薄款潮袜吸汗透气中短筒夏天舒适镂空网眼男士潮袜",
-    "title_pt": "Meia média masculina de verão, fina e estilosa, super respirável e que absorve o suor. Confortável com malha em ponto aberto, ideal para os dias quentes.",
     "price_brl": 0.68,
     "match_score": 60.0
   },
@@ -36,7 +17,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "棉袜",
-    "path": "服装鞋帽/袜子/通用袜子/棉袜"
+    "n4": "棉袜"
   }
 }

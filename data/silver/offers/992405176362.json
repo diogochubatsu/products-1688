@@ -1,34 +1,17 @@
 {
   "offer_id": 992405176362,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_运动袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_992405176362.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "一次性袜子男款吸汗防臭袜子四季袜子中筒袜春夏秋冬透气袜诸暨批",
     "price_cny": "0.62",
     "shop": "棉韵针织源头工厂",
-    "province": "浙江",
-    "city": "诸暨市",
-    "booked": "4111",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN011K2uXR26vBuyW6vaR_!!2220979777723-0-cib.jpg",
-    "category": "socks",
-    "source_query": "运动袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN011K2uXR26vBuyW6vaR_!!2220979777723-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "一次性袜子男款吸汗防臭袜子四季袜子中筒袜春夏秋冬透气袜诸暨批",
-    "company": "义乌市卓信针织有限公司",
-    "loginid": "棉韵针织源头工厂",
-    "is_live": true,
-    "size_bytes": 94808
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 65.0,
     "price_brl": 4.0,
     "title_br": "Meia masculina de cano baixo 98% algodão australiano com elastano, super respirável, antiodor e absorve o suor.",
-    "url": "https://www.rakumart.com.br/product/625303956980",
-    "crosswalked_at": "2026-06-23T01:18:01Z"
+    "url": "https://www.rakumart.com.br/product/625303956980"
   },
   "enriched_at": "2026-06-22T15:39:38.439167Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

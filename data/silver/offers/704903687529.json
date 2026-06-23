@@ -1,32 +1,13 @@
 {
   "offer_id": 704903687529,
-  "bronze_refs": {
-    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: drill_*_enriched.json",
-    "rakumart": "LEGACY: drill_full_*.json rak_match"
-  },
   "mtop": {
     "title": "电动螺丝刀充电式小型家用螺丝批工具迷你手枪钻电起子电批手电钻",
     "price_cny": 10.8,
     "shop": "军远贸易",
-    "shop_text": "永康市军远工贸有限公司",
-    "province": "浙江",
-    "city": "金华市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01hi4oVs2CmNyyEEJEp_!!2211417498516-0-cib.jpg",
-    "booked": 45737,
-    "category": "drill"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01hi4oVs2CmNyyEEJEp_!!2211417498516-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "电动螺丝刀充电式小型家用螺丝批工具迷你手枪钻电起子电批手电钻",
-    "company": "永康市军远工贸有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 98921
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "704903687529",
-    "title_cn": "电动螺丝刀充电式小型家用螺丝批工具迷你手枪钻电起子电批手电钻",
-    "title_pt": "Chave de fenda elétrica recarregável, pequena para uso doméstico, mini furadeira no formato de pistola, parafusadeira e furadeira manual.",
     "price_brl": 8.8,
     "match_score": 100.0
   },
@@ -36,7 +17,6 @@
     "n1": "五金工具",
     "n2": "电动工具",
     "n3": "钻孔工具",
-    "n4": "电钻",
-    "path": "五金工具/电动工具/钻孔工具/电钻"
+    "n4": "电钻"
   }
 }

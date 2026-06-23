@@ -1,34 +1,17 @@
 {
   "offer_id": 914142264634,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_内裤_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_914142264634.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "山茶花香氛奶皮无痕内裤女桑蚕丝10A抑菌加长裆女士冰丝女生批发",
     "price_cny": "4.96",
     "shop": "曼珠沙华针织内衣厂",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "31676",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01W2fQqk1qNj4eWaljY_!!2207505865484-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "内裤"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01W2fQqk1qNj4eWaljY_!!2207505865484-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "山茶花香氛奶皮无痕内裤女桑蚕丝10A抑菌加长裆女士冰丝女生批发",
-    "company": "汕头市曼珠沙华针织有限公司",
-    "loginid": "曼珠沙华针织内衣厂",
-    "is_live": true,
-    "size_bytes": 131073
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 49.6,
     "price_brl": 6.2,
     "title_br": "Calcinha de seda natural com aroma de flor de camélia, sem marca visível, proteção antibacteriana e entreperna alongada. Ideal para mulheres, tecido refrescante em fibra de gelo. Venda no atacado.",
-    "url": "https://www.rakumart.com.br/product/914142264634",
-    "crosswalked_at": "2026-06-18T01:06:06Z"
+    "url": "https://www.rakumart.com.br/product/914142264634"
   },
   "enriched_at": "2026-06-18T00:06:26.791972Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "内裤",
-    "n4": "无痕内裤",
-    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+    "n4": "无痕内裤"
   }
 }

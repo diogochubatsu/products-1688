@@ -1,34 +1,17 @@
 {
   "offer_id": 595810183034,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_塑身衣_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_595810183034.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "薄款腰封收腹带女士束腰带塑腰带塑腹带透气孕妇产后塑身美体大码",
     "price_cny": "5.2",
     "shop": "雅派贸易",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "23588",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/11472646134_478473888.jpg",
-    "category": "underwear",
-    "source_query": "塑身衣"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/11472646134_478473888.jpg"
   },
-  "su_detail": {
-    "subject": "薄款腰封收腹带女士束腰带塑腰带塑腹带透气孕妇产后塑身美体大码",
-    "company": "汕头市潮阳区贵屿恒利发针织内衣厂",
-    "loginid": "雅派贸易",
-    "is_live": true,
-    "size_bytes": 79482
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 73.1,
     "price_brl": 8.7,
     "title_br": "Cinto pós-parto grande, modelador de cintura e abdômen sem costura para mulheres.",
-    "url": "https://www.rakumart.com.br/product/561474750371",
-    "crosswalked_at": "2026-06-18T01:11:04Z"
+    "url": "https://www.rakumart.com.br/product/561474750371"
   },
   "enriched_at": "2026-06-18T00:06:26.709666Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身衣",
-    "n4": "提臀塑身",
-    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+    "n4": "提臀塑身"
   }
 }

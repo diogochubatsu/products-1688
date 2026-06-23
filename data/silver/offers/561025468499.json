@@ -1,34 +1,17 @@
 {
   "offer_id": 561025468499,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_内裤_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_561025468499.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "全棉男士内裤宽松透气四角裤肥佬加大码中高腰纯棉红色青年平角裤",
     "price_cny": "8.6",
     "shop": "albbqingweizhong",
-    "province": "广东",
-    "city": "深圳市",
-    "booked": "15755",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/2019/624/117/11642711426_516580347.jpg",
-    "category": "underwear",
-    "source_query": "内裤"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/2019/624/117/11642711426_516580347.jpg"
   },
-  "su_detail": {
-    "subject": "全棉男士内裤宽松透气四角裤肥佬加大码中高腰纯棉红色青年平角裤",
-    "company": "深圳市弗莱奇贸易有限公司",
-    "loginid": "albbqingweizhong",
-    "is_live": true,
-    "size_bytes": 157900
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 71.7,
     "price_brl": 2.68,
     "title_br": "Cueca boxer masculina para pais e idosos, cintura média/alta, estilo harém, tamanhos grandes, venda direta da fábrica.",
-    "url": "https://www.rakumart.com.br/product/669295629325",
-    "crosswalked_at": "2026-06-18T01:02:41Z"
+    "url": "https://www.rakumart.com.br/product/669295629325"
   },
   "enriched_at": "2026-06-18T00:06:26.705074Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "内裤",
-    "n4": "男士内裤",
-    "path": "服装鞋帽/内衣/内裤/男士内裤"
+    "n4": "男士内裤"
   }
 }

@@ -1,28 +1,12 @@
 {
   "offer_id": 1012813915568,
-  "bronze_refs": {
-    "mtop": "LEGACY: youyazi_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: youyazi_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "无痕冰丝性感超薄裸感无钢圈文胸新款梯形杯u型无扣女士运动内衣",
     "price_cny": 4.75,
     "shop": "尤雅姿内衣厂",
-    "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
-    "province": "广东",
-    "city": "汕头市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01bBLsub2AktUasg2W0_!!2211950918242-0-cib.jpg",
-    "booked": 1,
-    "category": "underwear"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01bBLsub2AktUasg2W0_!!2211950918242-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "无痕冰丝性感超薄裸感无钢圈文胸新款梯形杯u型无扣女士运动内衣",
-    "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 115602
-  },
+  "su_detail": {},
   "rakumart": null,
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "underwear",
@@ -30,7 +14,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身衣",
-    "n4": "提臀塑身",
-    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+    "n4": "提臀塑身"
   }
 }

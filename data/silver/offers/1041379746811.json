@@ -1,28 +1,12 @@
 {
   "offer_id": 1041379746811,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_摄像头_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_1041379746811.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "99240-M6100适用现代i起亚 倒车摄像头后视摄像头99240-M6100",
     "price_cny": "1",
     "shop": "马王汽车电子",
-    "province": "山东",
-    "city": "济南市",
-    "booked": "13",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Q4aMRl1FocdV8BDfW_!!2207854000534-0-cib.jpg",
-    "category": "webcam",
-    "source_query": "摄像头"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Q4aMRl1FocdV8BDfW_!!2207854000534-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "99240-M6100适用现代i起亚 倒车摄像头后视摄像头99240-M6100",
-    "company": "济南市历城区马王汽车用品商行",
-    "loginid": "马王汽车电子",
-    "is_live": true,
-    "size_bytes": 58176
-  },
+  "su_detail": {},
   "rakumart": null,
   "enriched_at": "2026-06-21T15:17:25.977592Z",
   "category": "webcam",
@@ -30,7 +14,6 @@
     "n1": "电子数码",
     "n2": "安防监控",
     "n3": "摄像头",
-    "n4": "监控摄像头",
-    "path": "电子数码/安防监控/摄像头/监控摄像头"
+    "n4": "监控摄像头"
   }
 }

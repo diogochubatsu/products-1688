@@ -1,32 +1,13 @@
 {
   "offer_id": 642303483411,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": null,
-    "rakumart": "LEGACY: socks_full_*.json rak_match"
-  },
   "mtop": {
     "title": "黑白灰袜子女中筒袜春夏ins潮三色纯色透气情侣短筒运动袜学生袜",
     "price_cny": 1.6,
     "shop": "悦行电商",
-    "shop_text": "绍兴悦行电子商务有限公司",
-    "province": "浙江",
-    "city": "诸暨市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01xRmlgt2GepV8tpN9z_!!2208645569041-0-cib.jpg",
-    "booked": 4139,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01xRmlgt2GepV8tpN9z_!!2208645569041-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": null,
-    "company": null,
-    "loginid": null,
-    "is_live": false,
-    "size_bytes": 251
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "791916036561",
-    "title_cn": "白色网眼袜子女中筒袜夏季薄款棉网眼透气夏天镂空卷边堆堆长袜",
-    "title_pt": "Meia de malha branca para mulher, meia cano médio, modelo fino e respirável de algodão com furos no tecido, ideal para o verão.",
     "price_brl": 3.2,
     "match_score": 53.3
   },
@@ -36,7 +17,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "运动袜",
-    "path": "服装鞋帽/袜子/通用袜子/运动袜"
+    "n4": "运动袜"
   }
 }

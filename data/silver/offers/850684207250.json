@@ -1,30 +1,12 @@
 {
   "offer_id": 850684207250,
-  "bronze_refs": {
-    "mtop": "LEGACY: baiyite_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: baiyite_*_enriched.json",
-    "rakumart": "LEGACY: baiyite_full_*.json rak_match"
-  },
   "mtop": {
     "title": "亚马逊热销款天鹅沙滩夹子 火烈鸟沙滩毛巾防风夹",
     "price_cny": 3.5,
-    "shop": "tzbaiyite",
-    "booked": 0,
-    "category": "beach_clip"
+    "shop": "tzbaiyite"
   },
-  "su_detail": {
-    "subject": "亚马逊热销款天鹅沙滩夹子 火烈鸟沙滩毛巾防风夹",
-    "company": "台州市佰亿特塑业有限公司",
-    "loginid": "tzbaiyite",
-    "is_live": true,
-    "image_count": 0,
-    "page_kb": 54.5,
-    "has_sku": false
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "850684207250",
-    "title_cn": "亚马逊热销款天鹅沙滩夹子 火烈鸟沙滩毛巾防风夹",
-    "title_pt": "Clássico da Amazon: prendedor de toalha de praia em formato de cisne e flamingo, com design resistente ao vento.",
     "price_brl": 3.5,
     "match_score": 100.0,
     "url": "https://www.rakumart.com.br/product/850684207250"
@@ -35,7 +17,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

@@ -55,7 +55,7 @@ def build():
             if score >= 30:
                 categories[cat]['matched'] += 1
                 total_matched += 1
-        if o.get('su_detail') and o['su_detail'].get('is_live'):
+        if o.get('su_detail') and o.get('su_detail') and len(o['su_detail']) > 0:
             categories[cat]['enriched'] += 1
             total_enriched += 1
 

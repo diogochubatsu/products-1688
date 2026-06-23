@@ -1,34 +1,17 @@
 {
   "offer_id": 783400527722,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_手电筒_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_783400527722.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "LED强光消防手电筒可充电酒店宾馆消防应急检查可印LOGO小手电筒",
     "price_cny": "3.16",
     "shop": "致阳照明电器商行",
-    "province": "广东",
-    "city": "深圳市",
-    "booked": "363",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01guEkJ421ObUjHlKzE_!!2217264996975-0-cib.jpg",
-    "category": "flashlight",
-    "source_query": "手电筒"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01guEkJ421ObUjHlKzE_!!2217264996975-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "LED强光消防手电筒可充电酒店宾馆消防应急检查可印LOGO小手电筒",
-    "company": "深圳市宝安区致阳照明电器商行(个体工商户)",
-    "loginid": "致阳照明电器商行",
-    "is_live": true,
-    "size_bytes": 88025
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 72.1,
     "price_brl": 4.8,
     "title_br": "Lanterna de emergência para bombeiros com LED superbrilhante, recarregável, ideal para hotéis e pousadas. Pode ter seu logotipo gravado.",
-    "url": "https://www.rakumart.com.br/product/765261352073",
-    "crosswalked_at": "2026-06-22T15:34:19Z"
+    "url": "https://www.rakumart.com.br/product/765261352073"
   },
   "enriched_at": "2026-06-21T15:17:26.003792Z",
   "category": "flashlight",
@@ -36,7 +19,6 @@
     "n1": "电子数码",
     "n2": "照明",
     "n3": "手电筒",
-    "n4": "LED手电筒",
-    "path": "电子数码/照明/手电筒/LED手电筒"
+    "n4": "LED手电筒"
   }
 }

@@ -1,34 +1,17 @@
 {
   "offer_id": 567013326214,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_沙滩夹_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_567013326214.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "动物夹子毛巾夹沙滩夹海豚夹子家用卧室旅行夹子太阳眼镜鲸鱼夹",
     "price_cny": "2.63",
     "shop": "永坤塑料制品",
-    "province": "浙江",
-    "city": "宁波市",
-    "booked": "638",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN011HL2RF1d2Zf2E98NK_!!2863353678-0-cib.jpg",
-    "category": "beach_clip",
-    "source_query": "沙滩夹"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN011HL2RF1d2Zf2E98NK_!!2863353678-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "动物夹子毛巾夹沙滩夹海豚夹子家用卧室旅行夹子太阳眼镜鲸鱼夹",
-    "company": "宁波市海曙古林永坤塑料制品厂",
-    "loginid": "永坤塑料制品",
-    "is_live": true,
-    "size_bytes": 59475
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 43.6,
     "price_brl": 3.5,
     "title_br": "Clipes de toalha com formato de animal, ideal para praia, quarto e viagens. Inclui modelos em forma de golfinho e baleia, além de suporte para óculos de sol. Perfeito para uso doméstico!",
-    "url": "https://www.rakumart.com.br/product/687565549943",
-    "crosswalked_at": "2026-06-18T01:10:51Z"
+    "url": "https://www.rakumart.com.br/product/687565549943"
   },
   "enriched_at": "2026-06-18T00:06:26.706043Z",
   "category": "beach_clip",
@@ -36,7 +19,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

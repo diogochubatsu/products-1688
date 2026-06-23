@@ -1,34 +1,17 @@
 {
   "offer_id": 670545215060,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "双针短袜子女隐形袜春夏白色硅胶防滑日系低帮浅口船袜抗起球吸汗",
     "price_cny": 3.6,
     "shop": "诸暨市怀鑫针织厂",
-    "shop_text": "诸暨市怀鑫针织厂",
-    "province": "浙江",
-    "city": "诸暨市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01tqzDME1fHLTuuAZCV_!!2212559263981-0-cib.jpg",
-    "booked": 7385,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01tqzDME1fHLTuuAZCV_!!2212559263981-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "双针短袜子女隐形袜春夏白色硅胶防滑日系低帮浅口船袜抗起球吸汗",
-    "company": "诸暨市怀鑫针织厂",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 82763
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 60.0,
     "price_brl": 0.9,
     "title_br": "Meia de cano baixo feminina 100% algodão, atacado, com silicone antiderrapante, estilo japonês invisível, ideal para primavera e verão, modelo fino e curto.",
-    "url": "https://www.rakumart.com.br/product/620252814785",
-    "crosswalked_at": "2026-06-18T01:04:25Z"
+    "url": "https://www.rakumart.com.br/product/620252814785"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

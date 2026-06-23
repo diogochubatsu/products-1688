@@ -1,34 +1,17 @@
 {
   "offer_id": 676455676469,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_676455676469.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "多用途夹子 优质彩色 神器收纳封口夹晒衣夹子旅行户外袜子夹单个",
     "price_cny": "0.13",
     "shop": "义乌财润汽车用品",
-    "province": "浙江",
-    "city": "金华市",
-    "booked": "3816",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01oUZ4kR1fClgOjhW4R_!!2206699363971-0-cib.jpg",
-    "category": "beach_clip",
-    "source_query": "沙滩巾夹"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01oUZ4kR1fClgOjhW4R_!!2206699363971-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "多用途夹子 优质彩色 神器收纳封口夹晒衣夹子旅行户外袜子夹单个",
-    "company": "义乌市财润供应链有限公司",
-    "loginid": "义乌财润汽车用品",
-    "is_live": true,
-    "size_bytes": 73883
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 69.3,
     "price_brl": 4.48,
     "title_br": "Clipes de secar roupas sem deixar marcas, fixação forte para meias, cesta organizadora à prova de vento e escorregões, ideal para uso doméstico e em dormitórios.",
-    "url": "https://www.rakumart.com.br/product/766518064862",
-    "crosswalked_at": "2026-06-18T01:12:31Z"
+    "url": "https://www.rakumart.com.br/product/766518064862"
   },
   "enriched_at": "2026-06-18T00:06:26.760026Z",
   "category": "beach_clip",
@@ -36,7 +19,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

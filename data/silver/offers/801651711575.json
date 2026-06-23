@@ -1,34 +1,17 @@
 {
   "offer_id": 801651711575,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_手电筒_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_801651711575.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "强光手电筒伸缩变焦数显户外远射可充电灯芯手电强光远射手电筒",
     "price_cny": "7",
     "shop": "义乌市冒险家电器有限公司",
-    "province": "浙江",
-    "city": "金华市",
-    "booked": "2461",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01ErjQmf1lExSKP7AAM_!!2215920564788-0-cib.jpg",
-    "category": "flashlight",
-    "source_query": "手电筒"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01ErjQmf1lExSKP7AAM_!!2215920564788-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "强光手电筒伸缩变焦数显户外远射可充电灯芯手电强光远射手电筒",
-    "company": "义乌市冒险家电器有限公司",
-    "loginid": "义乌市冒险家电器有限公司",
-    "is_live": true,
-    "size_bytes": 103518
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 72.4,
     "price_brl": 6.5,
     "title_br": "Lanterna tática de LED com zoom variável, display digital, recarregável e alcance ultra longo para uso ao ar livre.",
-    "url": "https://www.rakumart.com.br/product/801651711575",
-    "crosswalked_at": "2026-06-22T15:30:52Z"
+    "url": "https://www.rakumart.com.br/product/801651711575"
   },
   "enriched_at": "2026-06-21T15:17:26.006815Z",
   "category": "flashlight",
@@ -36,7 +19,6 @@
     "n1": "电子数码",
     "n2": "照明",
     "n3": "手电筒",
-    "n4": "LED手电筒",
-    "path": "电子数码/照明/手电筒/LED手电筒"
+    "n4": "LED手电筒"
   }
 }

@@ -1,34 +1,17 @@
 {
   "offer_id": 600682046258,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_内裤_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_600682046258.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "新疆棉简约纯棉内裤女棉裆部舒适性感提臀三角裤内裤纯棉女士批发",
     "price_cny": "4.5",
     "shop": "悦娜内衣厂",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "52612",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/13333184185_2132067536.jpg",
-    "category": "underwear",
-    "source_query": "内裤"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/13333184185_2132067536.jpg"
   },
-  "su_detail": {
-    "subject": "新疆棉简约纯棉内裤女棉裆部舒适性感提臀三角裤内裤纯棉女士批发",
-    "company": "汕头市潮阳区谷饶悦娜针织厂",
-    "loginid": "悦娜内衣厂",
-    "is_live": true,
-    "size_bytes": 116757
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 30.4,
     "price_brl": 5.2,
     "title_br": "Calcinha feminina de algodão egípcio, cintura alta, 100% algodão, com tecnologia antibacteriana, sem marcações visíveis e modeladora da barriga. Disponível em tamanhos grandes para atacado.",
-    "url": "https://www.rakumart.com.br/product/624134594331",
-    "crosswalked_at": "2026-06-20T14:38:40Z"
+    "url": "https://www.rakumart.com.br/product/624134594331"
   },
   "enriched_at": "2026-06-18T00:06:26.711689Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身裤",
-    "n4": "提臀塑裤",
-    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+    "n4": "提臀塑裤"
   }
 }

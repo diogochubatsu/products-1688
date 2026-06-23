@@ -1,34 +1,17 @@
 {
   "offer_id": 839537717046,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_摄像头_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_839537717046.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "跨境爆款货车摄像头四路监控AHD广角高清夜视大巴收割机倒车影像",
     "price_cny": "30",
     "shop": "elebest2025",
-    "province": "广东",
-    "city": "深圳市",
-    "booked": "457",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01FKEHQR2JfF1agd8t9_!!2218636729448-0-cib.jpg",
-    "category": "webcam",
-    "source_query": "摄像头"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01FKEHQR2JfF1agd8t9_!!2218636729448-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "跨境爆款货车摄像头四路监控AHD广角高清夜视大巴收割机倒车影像",
-    "company": "贝思特视讯(深圳)有限公司",
-    "loginid": "elebest2025",
-    "is_live": true,
-    "size_bytes": 67667
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 30.5,
     "price_brl": 11.5,
     "title_br": "Câmera de ré AHD HD para espelho retrovisor, com imagem para navegação veicular e visão traseira.",
-    "url": "https://www.rakumart.com.br/product/702653917650",
-    "crosswalked_at": "2026-06-22T15:32:39Z"
+    "url": "https://www.rakumart.com.br/product/702653917650"
   },
   "enriched_at": "2026-06-21T15:17:26.014858Z",
   "category": "webcam",
@@ -36,7 +19,6 @@
     "n1": "电子数码",
     "n2": "安防监控",
     "n3": "摄像头",
-    "n4": "监控摄像头",
-    "path": "电子数码/安防监控/摄像头/监控摄像头"
+    "n4": "监控摄像头"
   }
 }

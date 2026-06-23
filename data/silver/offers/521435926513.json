@@ -1,34 +1,17 @@
 {
   "offer_id": 521435926513,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_手电筒_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_521435926513.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "LED迷你强光5号电池铝合金家用手电筒户外应急小型强光钥匙扣手电",
     "price_cny": "2.2",
     "shop": "wurenchuan1688",
-    "province": "浙江",
-    "city": "义乌市",
-    "booked": "3456",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/8827025135_1526292261.jpg",
-    "category": "flashlight",
-    "source_query": "手电筒"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/8827025135_1526292261.jpg"
   },
-  "su_detail": {
-    "subject": "LED迷你强光5号电池铝合金家用手电筒户外应急小型强光钥匙扣手电",
-    "company": "义乌市黑鹰电子商务有限公司",
-    "loginid": "wurenchuan1688",
-    "is_live": true,
-    "size_bytes": 98096
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 37.7,
     "price_brl": 2.5,
     "title_br": "Mini lanterna LED de alta intensidade, corpo em alumínio, usa pilhas AA, ideal para uso doméstico e emergências ao ar livre. Pequena, potente e com chaveiro prático.",
-    "url": "https://www.rakumart.com.br/product/720718840322",
-    "crosswalked_at": "2026-06-22T15:25:44Z"
+    "url": "https://www.rakumart.com.br/product/720718840322"
   },
   "enriched_at": "2026-06-21T15:17:25.980882Z",
   "category": "flashlight",
@@ -36,7 +19,6 @@
     "n1": "电子数码",
     "n2": "照明",
     "n3": "手电筒",
-    "n4": "LED手电筒",
-    "path": "电子数码/照明/手电筒/LED手电筒"
+    "n4": "LED手电筒"
   }
 }

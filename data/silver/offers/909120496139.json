@@ -1,34 +1,17 @@
 {
   "offer_id": 909120496139,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_童袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_909120496139.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "可爱蕾丝女婴童花边袜中筒春夏薄款配裙子儿童宝宝精梳棉地板袜子",
     "price_cny": "2.8",
     "shop": "金华市楷足袜业有限公司",
-    "province": "浙江",
-    "city": "金华市",
-    "booked": "1",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN013QlCdZ1gchrvSGSLw_!!2219451424163-0-cib.jpg",
-    "category": "socks",
-    "source_query": "童袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN013QlCdZ1gchrvSGSLw_!!2219451424163-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "可爱蕾丝女婴童花边袜中筒春夏薄款配裙子儿童宝宝精梳棉地板袜子",
-    "company": "金华市楷足袜业有限公司",
-    "loginid": "金华市楷足袜业有限公司",
-    "is_live": true,
-    "size_bytes": 70259
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 66.5,
     "price_brl": 1.65,
     "title_br": "Meia fina de verão para mulher, transparente estilo vidro, com babados e laço fofo, estilo japonês, ideal para meninas, com estampa de bolinhas.",
-    "url": "https://www.rakumart.com.br/product/933577758170",
-    "crosswalked_at": "2026-06-23T01:12:54Z"
+    "url": "https://www.rakumart.com.br/product/933577758170"
   },
   "enriched_at": "2026-06-22T15:39:38.270524Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

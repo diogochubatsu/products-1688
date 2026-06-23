@@ -1,34 +1,17 @@
 {
   "offer_id": 870124783512,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_收腹塑身衣_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_870124783512.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "跨境字母收腹带女束腰带瘦腰束腹塑身衣透气产后束缚腰带收腰束腹",
     "price_cny": "6",
     "shop": "燕黛曦针织厂",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "1927",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN014yaK8U1i6lSMLnbzt_!!2206726484364-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "收腹塑身衣"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN014yaK8U1i6lSMLnbzt_!!2206726484364-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "跨境字母收腹带女束腰带瘦腰束腹塑身衣透气产后束缚腰带收腰束腹",
-    "company": "汕头市潮阳区贵屿燕黛曦针织厂",
-    "loginid": "燕黛曦针织厂",
-    "is_live": true,
-    "size_bytes": 87850
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 57.4,
     "price_brl": 5.5,
     "title_br": "Cinto modelador de cintura e abdômen elástico para treino, fitness e yoga.",
-    "url": "https://www.rakumart.com.br/product/779681383077",
-    "crosswalked_at": "2026-06-23T01:19:48Z"
+    "url": "https://www.rakumart.com.br/product/779681383077"
   },
   "enriched_at": "2026-06-22T15:39:38.248417Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身衣",
-    "n4": "提臀塑身",
-    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+    "n4": "提臀塑身"
   }
 }

@@ -1,34 +1,17 @@
 {
   "offer_id": 668202573196,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_沙滩夹_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_668202573196.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "跨境火烈鸟塑料沙滩夹 户外防风毛巾夹 动物造型多功能沙滩椅夹子",
     "price_cny": "4.6",
     "shop": "plasticpowertoy",
-    "province": "广东",
-    "city": "东莞市",
-    "booked": "1860",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN011IIF9d2J9B2csouXD_!!2200789069378-0-cib.jpg",
-    "category": "beach_clip",
-    "source_query": "沙滩夹"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN011IIF9d2J9B2csouXD_!!2200789069378-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "跨境火烈鸟塑料沙滩夹 户外防风毛巾夹 动物造型多功能沙滩椅夹子",
-    "company": "东莞市捷利塑胶玩具制品有限公司",
-    "loginid": "plasticpowertoy",
-    "is_live": true,
-    "size_bytes": 246506
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 52.4,
     "price_brl": 3.68,
     "title_br": "Clipe de praia em formato de flamingo, ideal para o verão. Feito em plástico resistente, serve como prendedor de toalha de praia, secador de roupas e muito mais.",
-    "url": "https://www.rakumart.com.br/product/891182091271",
-    "crosswalked_at": "2026-06-22T15:39:05Z"
+    "url": "https://www.rakumart.com.br/product/891182091271"
   },
   "enriched_at": "2026-06-18T00:06:26.752741Z",
   "category": "beach_clip",
@@ -36,7 +19,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

@@ -1,32 +1,13 @@
 {
   "offer_id": 794071916062,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": "LEGACY: socks_full_*.json rak_match"
-  },
   "mtop": {
     "title": "袜子男短袜男士防臭吸汗短筒袜夏季薄款低帮浅口隐形船袜潮男休闲",
     "price_cny": 0.6,
     "shop": "粒派针织厂",
-    "shop_text": "诸暨市粒派针织厂",
-    "province": "浙江",
-    "city": "绍兴市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01SCFubp1rj53y9cnEn_!!2217736385666-0-cib.jpg",
-    "booked": 7122,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01SCFubp1rj53y9cnEn_!!2217736385666-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "袜子男短袜男士防臭吸汗短筒袜夏季薄款低帮浅口隐形船袜潮男休闲",
-    "company": "诸暨市粒派针织厂",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 180361
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "794071916062",
-    "title_cn": "袜子男短袜男士防臭吸汗短筒袜夏季薄款低帮浅口隐形船袜潮男休闲",
-    "title_pt": "Meia masculina curta, antiodor e absorvente de suor, modelo fino para o verão, baixa e discreta, estilo barco, ideal para homens modernos e casuais.",
     "price_brl": 0.48,
     "match_score": 100.0
   },
@@ -36,7 +17,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

@@ -1,32 +1,13 @@
 {
   "offer_id": 764309872774,
-  "bronze_refs": {
-    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: drill_*_enriched.json",
-    "rakumart": "LEGACY: drill_full_*.json rak_match"
-  },
   "mtop": {
     "title": "源头工厂21V电钻锂电钻多功能三功能冲击钻电动螺丝刀套装",
     "price_cny": 62.0,
     "shop": "南通缇艾斯机电",
-    "shop_text": "南通缇艾斯机电有限公司",
-    "province": "江苏",
-    "city": "南通市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01NMMLoa216kBeSyjlW_!!2215887016936-0-cib.jpg",
-    "booked": 1433,
-    "category": "drill"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01NMMLoa216kBeSyjlW_!!2215887016936-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "源头工厂21V电钻锂电钻多功能三功能冲击钻电动螺丝刀套装",
-    "company": "南通缇艾斯机电有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 91527
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "764309872774",
-    "title_cn": "源头工厂21V电钻锂电钻多功能三功能冲击钻电动螺丝刀套装",
-    "title_pt": "Kit de furadeira e parafusadeira elétrica a bateria de 21V, direto da fábrica, com três funções: furadeira, impacto e parafusadeira.",
     "price_brl": 27.0,
     "match_score": 100.0
   },
@@ -36,7 +17,6 @@
     "n1": "五金工具",
     "n2": "电动工具",
     "n3": "钻孔工具",
-    "n4": "电钻",
-    "path": "五金工具/电动工具/钻孔工具/电钻"
+    "n4": "电钻"
   }
 }

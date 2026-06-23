@@ -1,34 +1,17 @@
 {
   "offer_id": 672940027405,
-  "bronze_refs": {
-    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: drill_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "阿斯兰无刷手电钻螺丝刀套装充电式起子双速12v锂电钻钻孔神器",
     "price_cny": 110.0,
     "shop": "ivslan",
-    "shop_text": "阿斯兰(广东)科技有限公司",
-    "province": "广东",
-    "city": "深圳市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN018Ckjkb216kDa9QZOb_!!2855616936-0-cib.jpg",
-    "booked": 885,
-    "category": "drill"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN018Ckjkb216kDa9QZOb_!!2855616936-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "阿斯兰无刷手电钻螺丝刀套装充电式起子双速12v锂电钻钻孔神器",
-    "company": "阿斯兰科技有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 299358
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 63.1,
     "price_brl": 72.5,
     "title_br": "Kit de furadeira de impacto sem fio, potente e recarregável da marca alemã Airedun, com bateria de íon-lítio.",
-    "url": "https://www.rakumart.com.br/product/853871018473",
-    "crosswalked_at": "2026-06-18T01:02:52Z"
+    "url": "https://www.rakumart.com.br/product/853871018473"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "drill",
@@ -36,7 +19,6 @@
     "n1": "五金工具",
     "n2": "电动工具",
     "n3": "钻孔工具",
-    "n4": "电钻",
-    "path": "五金工具/电动工具/钻孔工具/电钻"
+    "n4": "电钻"
   }
 }

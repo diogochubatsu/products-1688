@@ -65,7 +65,7 @@ def category_for_query(query: str) -> str:
 
 def build_mtop_index(date_str: str) -> dict:
     """Build offer_id → mtop_data, derived from all bronze mtop files for the date."""
-    mtop_data = {}  # offer_id -> {title, price_cny, ..., source_query}
+    mtop_data = {}  # offer_id -> {title, price_cny, shop, image_url, category}
     query_to_category = {}
 
     for mf in sorted((BRONZE / 'mtop').glob(f'{date_str}_*.json')):
@@ -96,11 +96,7 @@ def build_mtop_index(date_str: str) -> dict:
                 'title': re.sub(r'<[^>]+>', '', d.get('title', ''))[:200],
                 'price_cny': (d.get('priceInfo') or {}).get('price'),
                 'shop': unquote(loginid) if loginid else '',
-                'province': d.get('province'),
-                'city': d.get('city'),
-                'booked_count': d.get('bookedCount') or 0,
                 'image_url': d.get('offerPicUrl'),
-                'source_query': query,
                 'category': category,
             }
 
@@ -108,19 +104,14 @@ def build_mtop_index(date_str: str) -> dict:
 
 
 def parse_su_html(html_path: Path) -> dict:
-    """Extract subject/company/loginid from raw SU HTML."""
+    """Extract shop_name from raw SU HTML (simplified schema)."""
     if not html_path.exists():
-        return None
+        return {}
     html = html_path.read_text(encoding='utf-8', errors='ignore')
     if len(html) < 50000:
-        return {'is_live': False, 'size_bytes': len(html)}
-    return {
-        'subject': (re.search(r'"subject"\s*:\s*"([^"]{5,200})"', html) or [None, None])[1],
-        'company': (re.search(r'"companyName"\s*:\s*"([^"]{2,100})"', html) or [None, None])[1],
-        'loginid': (re.search(r'"loginId"\s*:\s*"([^"]{2,50})"', html) or [None, None])[1],
-        'is_live': True,
-        'size_bytes': len(html),
-    }
+        return {}
+    company = (re.search(r'"companyName"\s*:\s*"([^"]{2,100})"', html) or [None, None])[1]
+    return {'shop_name': company} if company else {}
 
 
 def build(date_str: str = None, target_category: str = None):
@@ -157,24 +148,13 @@ def build(date_str: str = None, target_category: str = None):
 
         silver = {
             'offer_id': oid,
-            'bronze_refs': {
-                'mtop': f'bronze/mtop/{date_str}_{m.get("source_query", "unknown")}_p1.json'
-                         if m.get('source_query') else None,
-                'su_detail': str(su_path.relative_to(DATA)),
-                'rakumart': None,
-            },
             'mtop': {
                 'title': m.get('title', ''),
                 'price_cny': m.get('price_cny'),
                 'shop': m.get('shop'),
-                'province': m.get('province'),
-                'city': m.get('city'),
-                'booked': m.get('booked_count', 0),
                 'image_url': m.get('image_url'),
-                'category': category,
-                'source_query': m.get('source_query'),
             },
-            'su_detail': su_block,
+            'su_detail': su_block or {},
             'rakumart': None,
             'enriched_at': datetime.now().isoformat() + 'Z',
             'category': category,

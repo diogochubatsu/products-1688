@@ -1,34 +1,17 @@
 {
   "offer_id": 977597801604,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "【新疆棉】四季款袜男女款短中长筒纯色棉袜吸汗透气防臭白色棉袜",
     "price_cny": 1.05,
     "shop": "晗语袜业",
-    "shop_text": "诸暨市晗予针织有限公司",
-    "province": "浙江",
-    "city": "绍兴市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01cypcoo1Jkjh0wgduV_!!2214735791067-0-cib.jpg",
-    "booked": 6839,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01cypcoo1Jkjh0wgduV_!!2214735791067-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "【新疆棉】四季款袜男女款短中长筒纯色棉袜吸汗透气防臭白色棉袜",
-    "company": "诸暨市晗予针织有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 115784
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 68.8,
     "price_brl": 3.2,
     "title_br": "Meia cano médio feminina branca, 100% algodão, estilo coreano e japonês, com barra solta e costura plana.",
-    "url": "https://www.rakumart.com.br/product/682939324215",
-    "crosswalked_at": "2026-06-18T01:07:54Z"
+    "url": "https://www.rakumart.com.br/product/682939324215"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "棉袜",
-    "path": "服装鞋帽/袜子/通用袜子/棉袜"
+    "n4": "棉袜"
   }
 }

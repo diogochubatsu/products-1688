@@ -1,34 +1,17 @@
 {
   "offer_id": 784384693887,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "袜子男中筒韩版潮流运动袜子春夏季薄款防臭吸汗男士网眼透气男袜",
     "price_cny": 1.05,
     "shop": "昊程针织工厂店",
-    "shop_text": "义乌市企胜服饰有限公司",
-    "province": "浙江",
-    "city": "绍兴市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01MJnhIR28h6ov37lFH_!!2217115927963-0-cib.jpg",
-    "booked": 4140,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01MJnhIR28h6ov37lFH_!!2217115927963-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "袜子男中筒韩版潮流运动袜子春夏季薄款防臭吸汗男士网眼透气男袜",
-    "company": "义乌市企胜服饰有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 90642
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 44.4,
     "price_brl": 1.05,
     "title_br": "Meia masculina média, estilo coreano, moda e esporte, ideal para primavera e verão. Modelo fino, antiodor, absorve suor, com malha respirável.",
-    "url": "https://www.rakumart.com.br/product/784384693887",
-    "crosswalked_at": "2026-06-18T01:04:51Z"
+    "url": "https://www.rakumart.com.br/product/784384693887"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "运动袜",
-    "path": "服装鞋帽/袜子/通用袜子/运动袜"
+    "n4": "运动袜"
   }
 }

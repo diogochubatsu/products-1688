@@ -1,34 +1,17 @@
 {
   "offer_id": 591890784720,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_内衣_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_591890784720.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "日韩性感简约少女内衣3D隐形内衣 无钢圈无肩带抹胸聚拢文胸",
     "price_cny": "12.8",
     "shop": "内恋花季纺",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "108277",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/11532828560_1245588113.jpg",
-    "category": "underwear",
-    "source_query": "内衣"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/11532828560_1245588113.jpg"
   },
-  "su_detail": {
-    "subject": "日韩性感简约少女内衣3D隐形内衣 无钢圈无肩带抹胸聚拢文胸",
-    "company": "汕头市潮南区仙城内恋花季内衣商店",
-    "loginid": "内恋花季纺",
-    "is_live": true,
-    "size_bytes": 106870
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 64.4,
     "price_brl": 4.8,
     "title_br": "Venda de sutiãs esportivos e de ioga, super elásticos, modelo U grande, estilo coreano. Roupas íntimas femininas sem aro, com efeito de elevação e modelagem, incluindo tops e bustiês.",
-    "url": "https://www.rakumart.com.br/product/681860685436",
-    "crosswalked_at": "2026-06-20T14:38:03Z"
+    "url": "https://www.rakumart.com.br/product/681860685436"
   },
   "enriched_at": "2026-06-18T00:06:26.708958Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身衣",
-    "n4": "提臀塑身",
-    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+    "n4": "提臀塑身"
   }
 }

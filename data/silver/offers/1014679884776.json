@@ -1,34 +1,17 @@
 {
   "offer_id": 1014679884776,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_化妆品收纳_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_1014679884776.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "化妆品收纳盒抽拉式收纳架首饰盒便携式多层分格收纳置物架",
     "price_cny": "8.97",
     "shop": "义乌市伯龙日用品厂",
-    "province": "浙江",
-    "city": "金华市",
-    "booked": "1",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Lh0jJy278TLRq9KK1_!!2218187947752-0-cib.jpg",
-    "category": "organization",
-    "source_query": "化妆品收纳"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Lh0jJy278TLRq9KK1_!!2218187947752-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "化妆品收纳盒抽拉式收纳架首饰盒便携式多层分格收纳置物架",
-    "company": "义乌市伯龙日用品厂",
-    "loginid": "义乌市伯龙日用品厂",
-    "is_live": true,
-    "size_bytes": 66744
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 37.0,
     "price_brl": 5.5,
     "title_br": "Caixa de medicamentos em alumínio, organizador para três refeições por dia com lembrete para tomar os remédios, caixa portátil pequena e separador de doses.",
-    "url": "https://www.rakumart.com.br/product/671325050696",
-    "crosswalked_at": "2026-06-22T15:28:34Z"
+    "url": "https://www.rakumart.com.br/product/671325050696"
   },
   "enriched_at": "2026-06-21T15:17:25.975080Z",
   "category": "organization",
@@ -36,7 +19,6 @@
     "n1": "家居日用",
     "n2": "收纳整理",
     "n3": "通用收纳",
-    "n4": "通用收纳",
-    "path": "家居日用/收纳整理/通用收纳/通用收纳"
+    "n4": "通用收纳"
   }
 }

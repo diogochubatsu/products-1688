@@ -104,8 +104,7 @@ def build_gold_rankings():
         _rk = o.get('rakumart') or {}
         _price_brl = _rk.get('price_brl')
         _match_score = _rk.get('match_score')
-        _rakumart_url = (f"https://www.rakumart.com.br/product/{_rk.get('iid', '')}"
-                         if _rk.get('iid') else _rk.get('url'))
+        _rk_url = _rk.get('url', '') if isinstance(_rk, dict) else ''
         rank = {
             'rank': len(out['rankings']) + 1,
             'offer_id': o['offer_id'],
@@ -115,7 +114,7 @@ def build_gold_rankings():
             'price_cny': (o.get('mtop') or {}).get('price_cny'),
             'price_brl_rakumart': _price_brl,
             'match_score': _match_score,
-            'rakumart_url': _rakumart_url,
+            'rakumart_url': _rk_url,
             'naive_margin_pct': (o.get('_margins') or {}).get('naive_margin_pct'),
             'opportunity': (o.get('_margins') or {}).get('opportunity'),
         }
@@ -162,7 +161,7 @@ def build_gold_by_category():
             'category': slug,
             'case_type': cat.get('case_type', 'CATEGORY'),
             'generated_at': datetime.now().isoformat() + 'Z',
-            'methodology': 'Ranked by opportunity (HIGH>MEDIUM>LOW>NONE), then by booked count',
+            'methodology': 'Ranked by opportunity (HIGH>MEDIUM>LOW>NONE)',
             'total_in_silver': len(offers),
             'top_count': len(top),
             'rankings': []
@@ -174,7 +173,7 @@ def build_gold_by_category():
                 'title': o['mtop']['title'] if o.get('mtop') else None,
                 'shop': o['mtop']['shop'] if o.get('mtop') else None,
                 'price_cny': o['mtop']['price_cny'] if o.get('mtop') else None,
-                'booked': o['mtop'].get('booked', 0) if o.get('mtop') else None,
+                
                 'price_brl_rakumart': o['rakumart']['price_brl'] if o.get('rakumart') else None,
                 'naive_margin_pct': o['_margins']['naive_margin_pct'],
                 'opportunity': o['_margins']['opportunity'],

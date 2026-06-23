@@ -1,32 +1,13 @@
 {
   "offer_id": 714661640028,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": "LEGACY: socks_full_*.json rak_match"
-  },
   "mtop": {
     "title": "船袜男夏季薄款防滑不掉跟袜子男短袜浅口隐形无痕低帮纯棉底冰丝",
     "price_cny": 1.8,
     "shop": "诸暨果嫣针织有限公司",
-    "shop_text": "义乌果嫣针织有限公司",
-    "province": "浙江",
-    "city": "诸暨市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01kcdFWI1l286p0X8Hz_!!2215082944760-0-cib.jpg",
-    "booked": 7155,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01kcdFWI1l286p0X8Hz_!!2215082944760-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "船袜男夏季薄款防滑不掉跟袜子男短袜浅口隐形无痕低帮纯棉底冰丝",
-    "company": "义乌果嫣针织有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 99904
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "928165883185",
-    "title_cn": "船袜男夏季薄款防滑不掉跟袜套纯棉底袜子男士短袜浅口隐形袜代发",
-    "title_pt": "Meia baixa masculina de verão, fina, com sola de algodão que não escorrega e não cai do calcanhar. Meia curta rasa, estilo invisível no sapato. Envio direto.",
     "price_brl": 2.98,
     "match_score": 86.7
   },
@@ -36,7 +17,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

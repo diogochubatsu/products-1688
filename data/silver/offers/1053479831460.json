@@ -1,34 +1,17 @@
 {
   "offer_id": 1053479831460,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_提臀塑身衣_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_1053479831460.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "跨境塑身欧美大码连体收腰提臀束腹性感吊带抹胸文胸美体塑身衣",
     "price_cny": "8.8",
     "shop": "富佳盛内衣",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "20",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01nBlN0H1GiUxkSa5Sx_!!2548400656-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "提臀塑身衣"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01nBlN0H1GiUxkSa5Sx_!!2548400656-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "跨境塑身欧美大码连体收腰提臀束腹性感吊带抹胸文胸美体塑身衣",
-    "company": "汕头市富佳盛内衣有限公司",
-    "loginid": "富佳盛内衣",
-    "is_live": true,
-    "size_bytes": 128771
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 43.6,
     "price_brl": 32.9,
     "title_br": "Corset sexy com biquíni integrado, modelador de cintura alta, estilo europeu e americano, top sem alças feminino.",
-    "url": "https://www.rakumart.com.br/product/819134219314",
-    "crosswalked_at": "2026-06-23T01:19:56Z"
+    "url": "https://www.rakumart.com.br/product/819134219314"
   },
   "enriched_at": "2026-06-22T15:39:38.185574Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身衣",
-    "n4": "提臀塑身",
-    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+    "n4": "提臀塑身"
   }
 }

@@ -1,34 +1,17 @@
 {
   "offer_id": 660439631826,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_内衣_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_660439631826.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "镂空网孔运动内衣女防震背心跑步瑜伽健身文胸美背聚拢大码亚马逊",
     "price_cny": "7",
     "shop": "维梦丝针织内衣厂",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "9232",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01YDPsXk1uS4yPPo2FZ_!!3903846035-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "内衣"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01YDPsXk1uS4yPPo2FZ_!!3903846035-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "镂空网孔运动内衣女防震背心跑步瑜伽健身文胸美背聚拢大码亚马逊",
-    "company": "汕头市潮阳区贵屿维华丝针织厂(个体工商户)",
-    "loginid": "维梦丝针织内衣厂",
-    "is_live": true,
-    "size_bytes": 164313
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 63.8,
     "price_brl": 20.0,
     "title_br": "Sutiã de espuma e látex em uma única peça, sem aro, com efeito push-up, super confortável, estilo colete, ideal para gestantes e prática esportiva. Roupa íntima feminina sem costura aparente.",
-    "url": "https://www.rakumart.com.br/product/684811451343",
-    "crosswalked_at": "2026-06-20T14:36:37Z"
+    "url": "https://www.rakumart.com.br/product/684811451343"
   },
   "enriched_at": "2026-06-18T00:06:26.745557Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身衣",
-    "n4": "提臀塑身",
-    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+    "n4": "提臀塑身"
   }
 }

@@ -1,34 +1,17 @@
 {
   "offer_id": 854563066608,
-  "bronze_refs": {
-    "mtop": "LEGACY: youyazi_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: youyazi_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "超薄裸感纯欲风面膜无痕女士简约风三角内裤可爱草莓学生",
     "price_cny": 1.55,
     "shop": "尤雅姿内衣厂",
-    "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
-    "province": "广东",
-    "city": "汕头市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01soJl4C2AktNpfISPr_!!2211950918242-0-cib.jpg",
-    "booked": 5,
-    "category": "underwear"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01soJl4C2AktNpfISPr_!!2211950918242-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "超薄裸感纯欲风面膜无痕女士简约风三角内裤可爱草莓学生",
-    "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 101532
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 38.1,
     "price_brl": 5.0,
     "title_br": "Calcinha de algodão puro com toque ultrafino e invisível, modelo 3D sem costura, cintura média que eleva o bumbum, parte íntima antibacteriana e tecido tipo ice silk.",
-    "url": "https://www.rakumart.com.br/product/713254807430",
-    "crosswalked_at": "2026-06-18T01:11:43Z"
+    "url": "https://www.rakumart.com.br/product/713254807430"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "内裤",
-    "n4": "无痕内裤",
-    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+    "n4": "无痕内裤"
   }
 }

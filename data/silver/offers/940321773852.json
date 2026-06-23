@@ -1,34 +1,17 @@
 {
   "offer_id": 940321773852,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_摄像头_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_940321773852.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "CCD高清夜视鱼眼CVBS后视倒车影像摄像头 车载摄像头鱼眼星光夜视",
     "price_cny": "11.5",
     "shop": "广州酷思特电子",
-    "province": "广东",
-    "city": "广州市",
-    "booked": "38",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN015gpreD2F9rUgH3MS9_!!2219843948838-0-cib.jpg",
-    "category": "webcam",
-    "source_query": "摄像头"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN015gpreD2F9rUgH3MS9_!!2219843948838-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "CCD高清夜视鱼眼CVBS后视倒车影像摄像头 车载摄像头鱼眼星光夜视",
-    "company": "广州市酷思特汽车电子商行(个人独资)",
-    "loginid": "广州酷思特电子",
-    "is_live": true,
-    "size_bytes": 77915
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 49.6,
     "price_brl": 29.0,
     "title_br": "Câmera de ré CCD HD para carro, AHD CVBS, olho de peixe com visão noturna tipo estrela, resolução 720P.",
-    "url": "https://www.rakumart.com.br/product/637076302809",
-    "crosswalked_at": "2026-06-22T15:34:09Z"
+    "url": "https://www.rakumart.com.br/product/637076302809"
   },
   "enriched_at": "2026-06-21T15:17:26.024488Z",
   "category": "webcam",
@@ -36,7 +19,6 @@
     "n1": "电子数码",
     "n2": "安防监控",
     "n3": "摄像头",
-    "n4": "车载摄像头",
-    "path": "电子数码/安防监控/摄像头/车载摄像头"
+    "n4": "车载摄像头"
   }
 }

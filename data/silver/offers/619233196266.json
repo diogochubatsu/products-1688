@@ -1,30 +1,12 @@
 {
   "offer_id": 619233196266,
-  "bronze_refs": {
-    "mtop": "LEGACY: baiyite_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: baiyite_*_enriched.json",
-    "rakumart": "LEGACY: baiyite_full_*.json rak_match"
-  },
   "mtop": {
     "title": "户外沙滩巾插夹 沙滩防风夹 防风塑料沙滩夹子",
     "price_cny": 2.0,
-    "shop": "tzbaiyite",
-    "booked": 5,
-    "category": "beach_clip"
+    "shop": "tzbaiyite"
   },
-  "su_detail": {
-    "subject": "户外沙滩巾插夹 沙滩防风夹 防风塑料沙滩夹子",
-    "company": "台州市佰亿特塑业有限公司",
-    "loginid": "tzbaiyite",
-    "is_live": true,
-    "image_count": 0,
-    "page_kb": 76.4,
-    "has_sku": false
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "619233196266",
-    "title_cn": "户外沙滩巾插夹 沙滩防风夹 防风塑料沙滩夹子",
-    "title_pt": "Clipe para toalha de praia ao ar livre, clipe anti-vento para praia, clipe plástico anti-vento para areia.",
     "price_brl": 2.0,
     "match_score": 100.0,
     "url": "https://www.rakumart.com.br/product/619233196266"
@@ -35,7 +17,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

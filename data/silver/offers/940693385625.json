@@ -1,34 +1,17 @@
 {
   "offer_id": 940693385625,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_船袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_940693385625.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "纯棉男士船袜低帮浅口短袜硅胶防滑防臭透气隐形船袜诸暨袜子批发",
     "price_cny": "0.99",
     "shop": "袜柔针织实力工厂",
-    "province": "浙江",
-    "city": "诸暨市",
-    "booked": "1263",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Tc4GyB1v8DlBSzXmz_!!2217906036127-0-cib.jpg",
-    "category": "socks",
-    "source_query": "船袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Tc4GyB1v8DlBSzXmz_!!2217906036127-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "纯棉男士船袜低帮浅口短袜硅胶防滑防臭透气隐形船袜诸暨袜子批发",
-    "company": "义乌市婉亦服饰有限公司",
-    "loginid": "袜柔针织实力工厂",
-    "is_live": true,
-    "size_bytes": 83215
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 47.7,
     "price_brl": 1.9,
     "title_br": "Novidade para primavera e verão: meia social masculina de cano baixo, com silicone antiderrapante, em algodão penteado respirável e antiodor, modelo invisível. Venda no atacado.",
-    "url": "https://www.rakumart.com.br/product/565302005418",
-    "crosswalked_at": "2026-06-23T01:14:45Z"
+    "url": "https://www.rakumart.com.br/product/565302005418"
   },
   "enriched_at": "2026-06-22T15:39:38.285803Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

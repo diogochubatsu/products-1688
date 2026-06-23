@@ -1,32 +1,13 @@
 {
   "offer_id": 646750292825,
-  "bronze_refs": {
-    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: drill_*_enriched.json",
-    "rakumart": "LEGACY: drill_full_*.json rak_match"
-  },
   "mtop": {
     "title": "电动螺丝刀跨境爆款源头厂家3.6V套装充电式手自一体电动螺丝刀",
     "price_cny": 56.0,
     "shop": "启东石力机电有限公司",
-    "shop_text": "启东市石力机电有限公司",
-    "province": "江苏",
-    "city": "启东市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01eHXM4p1Jg9l3gJlTg_!!2210736211057-0-cib.jpg",
-    "booked": 1427,
-    "category": "drill"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01eHXM4p1Jg9l3gJlTg_!!2210736211057-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "电动螺丝刀跨境爆款源头厂家3.6V套装充电式手自一体电动螺丝刀",
-    "company": "启东市石力机电有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 189363
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "646750292825",
-    "title_cn": "电动螺丝刀跨境爆款源头厂家3.6V套装充电式手自一体电动螺丝刀",
-    "title_pt": "Chave de fenda elétrica 3.6V, kit recarregável com modo manual e automático, direto da fábrica, produto mais vendido para exportação.",
     "price_brl": 55.0,
     "match_score": 100.0
   },
@@ -36,7 +17,6 @@
     "n1": "五金工具",
     "n2": "电动工具",
     "n3": "钻孔工具",
-    "n4": "电钻",
-    "path": "五金工具/电动工具/钻孔工具/电钻"
+    "n4": "电钻"
   }
 }

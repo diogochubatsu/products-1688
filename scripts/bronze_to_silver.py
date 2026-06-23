@@ -40,19 +40,13 @@ CATEGORIES = {
 
 
 def parse_su_detail(html_path: Path) -> dict:
-    """Parse Decodo SU HTML to extract subject, company, sku, images."""
+    """Parse Decodo SU HTML to extract shop_name only (simplified schema)."""
     if not html_path.exists() or html_path.stat().st_size < 10000:
-        return {'is_live': False, 'size_bytes': html_path.stat().st_size if html_path.exists() else 0}
+        return {}
 
     body = html_path.read_text(encoding='utf-8', errors='ignore')
-    return {
-        'subject': (re.search(r'"subject"\s*:\s*"([^"]{5,200})"', body) or [None, None])[1],
-        'company': (re.search(r'"companyName"\s*:\s*"([^"]{2,100})"', body) or [None, None])[1],
-        'loginid': (re.search(r'"loginId"\s*:\s*"([^"]{2,50})"', body) or [None, None])[1],
-        'is_live': True,
-        'size_bytes': len(body),
-        'image_count': len(re.findall(r'"imageUrl"', body)),
-    }
+    company = (re.search(r'"companyName"\s*:\s*"([^"]{2,100})"', body) or [None, None])[1]
+    return {'shop_name': company} if company else {}
 
 
 def migrate_legacy(case: str, category: str):
@@ -86,74 +80,34 @@ def migrate_legacy(case: str, category: str):
                 'title': p.get('mtop_title'),
                 'price_cny': p.get('mtop_price_cny'),
                 'shop': me.get('loginid', 'unknown'),
-                'booked': p.get('mtop_booked', 0),
-                'category': category,
             }
         else:
             mtop_block = {
                 'title': p.get('title'),
                 'price_cny': p.get('price_cny'),
                 'shop': p.get('shop', 'unknown'),
-                'shop_text': p.get('shop_text'),
-                'province': p.get('province'),
-                'city': p.get('city'),
                 'image_url': p.get('image_url'),
-                'booked': p.get('booked', 0),
-                'category': category,
             }
 
         # Build SU detail block
         su_block = None
         if me:
-            if case == 'baiyite':
-                su_block = {
-                    'subject': me.get('title'),
-                    'company': me.get('company'),
-                    'loginid': me.get('loginid'),
-                    'is_live': True,
-                    'image_count': me.get('image_count', 0),
-                    'page_kb': me.get('page_kb', 0),
-                    'has_sku': bool(me.get('sku')),
-                }
-            else:
-                su_block = {
-                    'subject': me.get('subject'),
-                    'company': me.get('company'),
-                    'loginid': me.get('loginid'),
-                    'is_live': me.get('is_live', False),
-                    'size_bytes': me.get('size_bytes', 0),
-                }
+            su_block = {'shop_name': me.get('company') or me.get('loginid')}
 
         # Build Rakumart block
         rak_block = None
         if rm and rm.get('match_score', 0) > 50:
-            if case == 'baiyite':
-                rak_block = {
-                    'iid': rm.get('rak_iid'),
-                    'title_cn': rm.get('rak_title_cn'),
-                    'title_pt': rm.get('rak_title_pt'),
-                    'price_brl': rm.get('rak_price_brl'),
-                    'match_score': rm.get('match_score'),
-                    'url': rm.get('rak_url'),
-                }
-            else:
-                rak_block = {
-                    'iid': rm.get('iid'),
-                    'title_cn': rm.get('title_cn'),
-                    'title_pt': rm.get('title_pt'),
-                    'price_brl': rm.get('price_brl'),
-                    'match_score': rm.get('match_score'),
-                }
+            rak_block = {
+                'title_br': rm.get('rak_title_pt') or rm.get('title_pt'),
+                'price_brl': rm.get('rak_price_brl') or rm.get('price_brl'),
+                'match_score': rm.get('match_score'),
+                'url': rm.get('rak_url') or rm.get('url'),
+            }
 
         silver = {
             'offer_id': offer_id,
-            'bronze_refs': {
-                'mtop': f'LEGACY: {case}_*.json (2026-06-17, pre-architecture)',
-                'su_detail': f'LEGACY: {case}_*_enriched.json' if su_block and su_block.get('is_live') else None,
-                'rakumart': f'LEGACY: {case}_full_*.json rak_match' if rak_block else None,
-            },
             'mtop': mtop_block,
-            'su_detail': su_block,
+            'su_detail': su_block or {},
             'rakumart': rak_block,
             'enriched_at': '2026-06-17T00:00:00Z',
             'category': category,

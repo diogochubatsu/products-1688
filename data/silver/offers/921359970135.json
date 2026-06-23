@@ -1,28 +1,12 @@
 {
   "offer_id": 921359970135,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-21_摄像头_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-21_921359970135.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "86790-48300 适用于2022款丰田 雷克萨斯 后视倒车摄像头 带支架",
     "price_cny": "1",
     "shop": "广州路拓汽配有限公司",
-    "province": "广东",
-    "city": "广州市",
-    "booked": "1",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN016sdnxP1rfsTpOjoqC_!!2210400115659-0-cib.jpg",
-    "category": "webcam",
-    "source_query": "摄像头"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN016sdnxP1rfsTpOjoqC_!!2210400115659-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "86790-48300 适用于2022款丰田 雷克萨斯 后视倒车摄像头 带支架",
-    "company": "广州诺尔达汽配有限公司",
-    "loginid": "广州路拓汽配有限公司",
-    "is_live": true,
-    "size_bytes": 62526
-  },
+  "su_detail": {},
   "rakumart": null,
   "enriched_at": "2026-06-21T15:17:26.019492Z",
   "category": "webcam",
@@ -30,7 +14,6 @@
     "n1": "电子数码",
     "n2": "安防监控",
     "n3": "摄像头",
-    "n4": "监控摄像头",
-    "path": "电子数码/安防监控/摄像头/监控摄像头"
+    "n4": "监控摄像头"
   }
 }

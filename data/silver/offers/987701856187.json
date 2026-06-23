@@ -1,34 +1,17 @@
 {
   "offer_id": 987701856187,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_无痕内裤_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_987701856187.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "高腰提臀收腹裤女2026新款桑蚕丝裆无痕透气加压塑形美体裤女",
     "price_cny": "5.6",
     "shop": "庚源针织",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "2915",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Hnaw7G1lKSDHhFSh3_!!1641064800-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "无痕内裤"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Hnaw7G1lKSDHhFSh3_!!1641064800-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "高腰提臀收腹裤女2026新款桑蚕丝裆无痕透气加压塑形美体裤女",
-    "company": "广州泓源内衣制造有限公司",
-    "loginid": "庚源针织",
-    "is_live": true,
-    "size_bytes": 104595
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 44.1,
     "price_brl": 9.5,
     "title_br": "Calça modeladora feminina de cintura alta para elevar o bumbum e afinar a barriga, com efeito sem costura e compressão forte pós-parto.",
-    "url": "https://www.rakumart.com.br/product/730809025727",
-    "crosswalked_at": "2026-06-23T01:16:27Z"
+    "url": "https://www.rakumart.com.br/product/730809025727"
   },
   "enriched_at": "2026-06-22T15:39:38.433216Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身衣",
-    "n4": "提臀塑身",
-    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+    "n4": "提臀塑身"
   }
 }

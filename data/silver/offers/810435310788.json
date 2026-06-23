@@ -1,28 +1,12 @@
 {
   "offer_id": 810435310788,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_810435310788.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "3字夹不锈钢挂钩三字夹子家用浸塑无痕收纳晾晒帽夹夹丝巾围巾夹",
     "price_cny": "0.18",
     "shop": "大创日用品厂",
-    "province": "浙江",
-    "city": "东阳市",
-    "booked": "10828",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01mq98c72GrCUbekWkM_!!2207599989068-0-cib.jpg",
-    "category": "beach_clip",
-    "source_query": "沙滩巾夹"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01mq98c72GrCUbekWkM_!!2207599989068-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "3字夹不锈钢挂钩三字夹子家用浸塑无痕收纳晾晒帽夹夹丝巾围巾夹",
-    "company": "义乌市瑞奉日用品有限公司",
-    "loginid": "大创日用品厂",
-    "is_live": true,
-    "size_bytes": 85552
-  },
+  "su_detail": {},
   "rakumart": null,
   "enriched_at": "2026-06-18T00:06:26.780972Z",
   "category": "beach_clip",
@@ -30,7 +14,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

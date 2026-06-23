@@ -1,32 +1,16 @@
 {
   "offer_id": 614614191876,
-  "bronze_refs": {
-    "mtop": "LEGACY: baiyite_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: baiyite_*_enriched.json",
-    "rakumart": null
-  },
   "mtop": {
     "title": "强力塑料防风大号棉被夹多功能晾晒衣夹 沙滩夹",
     "price_cny": 2.0,
-    "shop": "tzbaiyite",
-    "booked": 1,
-    "category": "beach_clip"
+    "shop": "tzbaiyite"
   },
-  "su_detail": {
-    "subject": "强力塑料防风大号棉被夹多功能晾晒衣夹 沙滩夹",
-    "company": "台州市佰亿特塑业有限公司",
-    "loginid": "tzbaiyite",
-    "is_live": true,
-    "image_count": 0,
-    "page_kb": 77.2,
-    "has_sku": false
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 47.8,
     "price_brl": 0.46,
     "title_br": "Clipe de roupa grande, à prova de vento e que não cai, ideal para secar meias, roupas e cobertores. Clipe plástico multifuncional, prático e de grande capacidade.",
-    "url": "https://www.rakumart.com.br/product/836222237043",
-    "crosswalked_at": "2026-06-18T01:11:16Z"
+    "url": "https://www.rakumart.com.br/product/836222237043"
   },
   "enriched_at": "2026-06-17T00:00:00Z",
   "category": "beach_clip",
@@ -34,7 +18,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

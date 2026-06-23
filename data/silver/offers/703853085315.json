@@ -1,32 +1,13 @@
 {
   "offer_id": 703853085315,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": "LEGACY: socks_full_*.json rak_match"
-  },
   "mtop": {
     "title": "新款多色棉质堆堆袜子女ins潮纯色无骨袜中长筒春秋月子袜批发",
     "price_cny": 1.61,
     "shop": "诸暨申流针织厂",
-    "shop_text": "诸暨市申流针织有限公司",
-    "province": "浙江",
-    "city": "绍兴市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01lEjc8m1zUtavIzPWN_!!2206619616718-0-cib.jpg",
-    "booked": 5508,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01lEjc8m1zUtavIzPWN_!!2206619616718-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "新款多色棉质堆堆袜子女ins潮纯色无骨袜中长筒春秋月子袜批发",
-    "company": "诸暨市申流针织有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 112547
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "683276361464",
-    "title_cn": "新款无骨月子袜棉质堆堆袜ins春夏中筒透气学生袜百搭纯色吸汗",
-    "title_pt": "Novas meias sem costura de algodão, estilo stacker, ideais para primavera e verão. Meia média com tecido respirável, perfeita para estudantes e combina com tudo. Cor sólida e absorve o suor.",
     "price_brl": 2.59,
     "match_score": 66.7
   },
@@ -36,7 +17,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

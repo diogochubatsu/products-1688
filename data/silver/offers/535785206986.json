@@ -1,34 +1,17 @@
 {
   "offer_id": 535785206986,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_塑身衣_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_535785206986.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "厂家直销孕妇产后骨盆带 透气弹力产后收腹带 收胯提臀托腹盆骨带",
     "price_cny": "9",
     "shop": "飘倩内衣pq",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "10649",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/3241896157_8949058.jpg",
-    "category": "underwear",
-    "source_query": "塑身衣"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/3241896157_8949058.jpg"
   },
-  "su_detail": {
-    "subject": "厂家直销孕妇产后骨盆带 透气弹力产后收腹带 收胯提臀托腹盆骨带",
-    "company": "汕头市潮阳区谷饶飘一倩内衣厂",
-    "loginid": "飘倩内衣pq",
-    "is_live": true,
-    "size_bytes": 77515
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 33.5,
     "price_brl": 8.7,
     "title_br": "Cinto pós-parto grande, modelador de cintura e abdômen sem costura para mulheres.",
-    "url": "https://www.rakumart.com.br/product/561474750371",
-    "crosswalked_at": "2026-06-18T01:07:14Z"
+    "url": "https://www.rakumart.com.br/product/561474750371"
   },
   "enriched_at": "2026-06-18T00:06:26.700909Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身衣",
-    "n4": "提臀塑身",
-    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+    "n4": "提臀塑身"
   }
 }

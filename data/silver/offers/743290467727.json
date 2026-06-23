@@ -1,34 +1,17 @@
 {
   "offer_id": 743290467727,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_沙滩巾夹_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_743290467727.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "多功能3字夹家用单钩衣柜收纳裤夹无痕防滑裙夹袜子夹衣服晾晒夹",
     "price_cny": "0.25",
     "shop": "义乌沃吖家居",
-    "province": "浙江",
-    "city": "义乌市",
-    "booked": "972",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rAwgz61X43CSgL0Va_!!2214956732869-0-cib.jpg",
-    "category": "beach_clip",
-    "source_query": "沙滩巾夹"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rAwgz61X43CSgL0Va_!!2214956732869-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "多功能3字夹家用单钩衣柜收纳裤夹无痕防滑裙夹袜子夹衣服晾晒夹",
-    "company": "义乌市简弋日用品有限公司",
-    "loginid": "义乌沃吖家居",
-    "is_live": true,
-    "size_bytes": 72259
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 33.6,
     "price_brl": 0.17,
     "title_br": "Clipe de aço inoxidável para secar meias em casa, multifuncional, com gancho metálico à prova de vento e revestimento de borracha. Ideal para prender meias na varanda ou no quintal.",
-    "url": "https://www.rakumart.com.br/product/911416957951",
-    "crosswalked_at": "2026-06-18T01:04:57Z"
+    "url": "https://www.rakumart.com.br/product/911416957951"
   },
   "enriched_at": "2026-06-18T00:06:26.771713Z",
   "category": "beach_clip",
@@ -36,7 +19,6 @@
     "n1": "户外运动",
     "n2": "沙滩装备",
     "n3": "沙滩用品",
-    "n4": "沙滩夹",
-    "path": "户外运动/沙滩装备/沙滩用品/沙滩夹"
+    "n4": "沙滩夹"
   }
 }

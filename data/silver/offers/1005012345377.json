@@ -1,32 +1,13 @@
 {
   "offer_id": 1005012345377,
-  "bronze_refs": {
-    "mtop": "LEGACY: youyazi_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: youyazi_*_enriched.json",
-    "rakumart": "LEGACY: youyazi_full_*.json rak_match"
-  },
   "mtop": {
     "title": "女士内裤全包臀不夹屁股平角短裤10a级抗菌裆部防走光四角安全裤",
     "price_cny": 4.1,
     "shop": "尤雅姿内衣厂",
-    "shop_text": "汕头市潮阳区谷饶尤雅姿内衣厂",
-    "province": "广东",
-    "city": "汕头市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Fhq9nF2AktUDY6OzJ_!!2211950918242-0-cib.jpg",
-    "booked": 1,
-    "category": "underwear"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Fhq9nF2AktUDY6OzJ_!!2211950918242-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "女士内裤全包臀不夹屁股平角短裤10a级抗菌裆部防走光四角安全裤",
-    "company": "汕头市潮阳区谷饶尤雅姿内衣厂",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 107890
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "772652378356",
-    "title_cn": "中老年女士内裤平角五分短裤女纯棉高腰大码宽松纯棉薄款老人短裤",
-    "title_pt": "Calcinha de algodão 100% para senhoras, modelo shortinho de cinco polegadas com cintura alta, corte largo e tamanho grande, ideal para mulheres mais velhas.",
     "price_brl": 6.9,
     "match_score": 53.3
   },
@@ -36,7 +17,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "内裤",
-    "n4": "女士内裤",
-    "path": "服装鞋帽/内衣/内裤/女士内裤"
+    "n4": "女士内裤"
   }
 }

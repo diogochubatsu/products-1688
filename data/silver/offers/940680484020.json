@@ -1,34 +1,17 @@
 {
   "offer_id": 940680484020,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_童袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_940680484020.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "【爆款】婴儿袜子夏季超薄款透气吸汗糖果色系可爱新生儿网眼短袜",
     "price_cny": "0.93",
     "shop": "耀盈针织源头厂家",
-    "province": "浙江",
-    "city": "义乌市",
-    "booked": "44",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01wC3N5B1Q8uGNe4R2w_!!2209369241932-0-cib.jpg",
-    "category": "socks",
-    "source_query": "童袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01wC3N5B1Q8uGNe4R2w_!!2209369241932-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "【爆款】婴儿袜子夏季超薄款透气吸汗糖果色系可爱新生儿网眼短袜",
-    "company": "诸暨市八耀盈针织有限公司",
-    "loginid": "耀盈针织源头厂家",
-    "is_live": true,
-    "size_bytes": 77923
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 40.6,
     "price_brl": 2.4,
     "title_br": "Meia feminina de verão, fina e curta, sem costura em seda natural, meia-calça média com malha antibacteriana e respirável, estilo balé branca para o calor do verão.",
-    "url": "https://www.rakumart.com.br/product/946641213458",
-    "crosswalked_at": "2026-06-23T01:13:43Z"
+    "url": "https://www.rakumart.com.br/product/946641213458"
   },
   "enriched_at": "2026-06-22T15:39:38.283450Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

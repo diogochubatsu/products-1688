@@ -1,34 +1,17 @@
 {
   "offer_id": 719990935735,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_运动袜_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_719990935735.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "23年新款-S002圣诞桔色袜子女冬季加厚INS潮保暖家居袜珊瑚绒地板",
     "price_cny": "2.4",
     "shop": "诸暨市魅琪针织厂",
-    "province": "浙江",
-    "city": "诸暨市",
-    "booked": "119",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01KvVvLN1mqL9KzyyfZ_!!4199585005-0-cib.jpg",
-    "category": "socks",
-    "source_query": "运动袜"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01KvVvLN1mqL9KzyyfZ_!!4199585005-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "23年新款-S002圣诞桔色袜子女冬季加厚INS潮保暖家居袜珊瑚绒地板",
-    "company": "诸暨市佳展服饰有限公司",
-    "loginid": "诸暨市魅琪针织厂",
-    "is_live": true,
-    "size_bytes": 71695
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 47.6,
     "price_brl": 2.4,
     "title_br": "Novidade de 2023 - S002: meias femininas cor laranja natal, modelo quente e reforçado para inverno, estilo trendy do Instagram, ideais para uso em casa. Feitas em coral fleece, perfeitas para andar pe",
-    "url": "https://www.rakumart.com.br/product/719990935735",
-    "crosswalked_at": "2026-06-23T01:19:17Z"
+    "url": "https://www.rakumart.com.br/product/719990935735"
   },
   "enriched_at": "2026-06-22T15:39:38.215802Z",
   "category": "socks",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

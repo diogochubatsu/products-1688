@@ -1,32 +1,13 @@
 {
   "offer_id": 694490754581,
-  "bronze_refs": {
-    "mtop": "LEGACY: drill_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: drill_*_enriched.json",
-    "rakumart": "LEGACY: drill_full_*.json rak_match"
-  },
   "mtop": {
     "title": "跨境多功能电动螺丝刀充电起子电动螺丝刀小型家用套装锂电起子机",
     "price_cny": 19.9,
     "shop": "雷钧工贸有限公司",
-    "shop_text": "永康市雷钧工贸有限公司",
-    "province": "浙江",
-    "city": "永康市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01tFcIJr1T09Jyyqiti_!!2214020022319-0-cib.jpg",
-    "booked": 6103,
-    "category": "drill"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01tFcIJr1T09Jyyqiti_!!2214020022319-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "跨境多功能电动螺丝刀充电起子电动螺丝刀小型家用套装锂电起子机",
-    "company": "永康市雷钧工贸有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 105678
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "583458707271",
-    "title_cn": "欧神电动螺丝刀电动起子改锥电批220V直插式OS-500-600-700螺丝批",
-    "title_pt": "Oscam Parafusadeira Elétrica OS-500/600/700, 220V, Plugue Direto",
     "price_brl": 40.0,
     "match_score": 60.0
   },
@@ -36,7 +17,6 @@
     "n1": "五金工具",
     "n2": "电动工具",
     "n3": "钻孔工具",
-    "n4": "电钻",
-    "path": "五金工具/电动工具/钻孔工具/电钻"
+    "n4": "电钻"
   }
 }

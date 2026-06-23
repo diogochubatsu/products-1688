@@ -1,34 +1,17 @@
 {
   "offer_id": 952581346444,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_收腹塑身衣_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_952581346444.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "收腹带夏季薄款女士产后束腰神器收小肚子强力冰丝无痕塑身束缚带",
     "price_cny": "7",
     "shop": "雅莉绮内衣源头工厂",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "241",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01KI1iMD2DfLVTSgd1J_!!2218450358636-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "收腹塑身衣"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01KI1iMD2DfLVTSgd1J_!!2218450358636-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "收腹带夏季薄款女士产后束腰神器收小肚子强力冰丝无痕塑身束缚带",
-    "company": "汕头市雅莉绮内衣有限公司",
-    "loginid": "雅莉绮内衣源头工厂",
-    "is_live": true,
-    "size_bytes": 76208
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 43.7,
     "price_brl": 5.5,
     "title_br": "Cinto modelador de cintura e abdômen elástico para treino, fitness e yoga.",
-    "url": "https://www.rakumart.com.br/product/779681383077",
-    "crosswalked_at": "2026-06-23T01:13:36Z"
+    "url": "https://www.rakumart.com.br/product/779681383077"
   },
   "enriched_at": "2026-06-22T15:39:38.423601Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身衣",
-    "n4": "提臀塑身",
-    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+    "n4": "提臀塑身"
   }
 }

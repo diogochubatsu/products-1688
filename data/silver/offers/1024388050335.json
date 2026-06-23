@@ -1,32 +1,13 @@
 {
   "offer_id": 1024388050335,
-  "bronze_refs": {
-    "mtop": "LEGACY: socks_*.json (2026-06-17, pre-architecture)",
-    "su_detail": "LEGACY: socks_*_enriched.json",
-    "rakumart": "LEGACY: socks_full_*.json rak_match"
-  },
   "mtop": {
     "title": "棉底船袜浅口隐形女夏季薄防滑掉跟防破底新鞋高跟鞋袜子褚暨袜子",
     "price_cny": 1.59,
     "shop": "鑫阳针织源头工厂",
-    "shop_text": "义乌市矜彩服饰有限公司",
-    "province": "浙江",
-    "city": "绍兴市",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01lVNqwK1mXZCAbifv2_!!2220550944964-0-cib.jpg",
-    "booked": 6218,
-    "category": "socks"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01lVNqwK1mXZCAbifv2_!!2220550944964-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "棉底船袜浅口隐形女夏季薄防滑掉跟防破底新鞋高跟鞋袜子褚暨袜子",
-    "company": "义乌市矜彩服饰有限公司",
-    "loginid": null,
-    "is_live": true,
-    "size_bytes": 228450
-  },
+  "su_detail": {},
   "rakumart": {
-    "iid": "811814037442",
-    "title_cn": "船袜女夏季薄款纯棉底防滑不掉跟浅口隐形夏天女士高跟鞋袜子女",
-    "title_pt": "Meia de cano curto feminina, ideal para o verão: tecido leve em algodão puro na sola com antiderrapante, não desce do calcanhar e fica invisível dentro de sapatos de salto alto.",
     "price_brl": 1.7,
     "match_score": 60.0
   },
@@ -36,7 +17,6 @@
     "n1": "服装鞋帽",
     "n2": "袜子",
     "n3": "通用袜子",
-    "n4": "船袜",
-    "path": "服装鞋帽/袜子/通用袜子/船袜"
+    "n4": "船袜"
   }
 }

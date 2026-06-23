@@ -1,34 +1,17 @@
 {
   "offer_id": 1040170085055,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-22_无痕内裤_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-22_1040170085055.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "一件代发欧美冰丝无痕低腰大码女三角裤性感透气运动内裤工厂直销",
     "price_cny": "5.2",
     "shop": "sdj168668",
-    "province": "广东",
-    "city": "汕头市",
-    "booked": "66",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01MUIbvc1aP4Sz4QmgN_!!2222209353321-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "无痕内裤"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01MUIbvc1aP4Sz4QmgN_!!2222209353321-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "一件代发欧美冰丝无痕低腰大码女三角裤性感透气运动内裤工厂直销",
-    "company": "汕头市裕莞服饰贸易有限公司",
-    "loginid": "sdj168668",
-    "is_live": true,
-    "size_bytes": 111757
-  },
+  "su_detail": {},
   "rakumart": {
     "match_score": 41.2,
     "price_brl": 2.5,
     "title_br": "Venda direta da fábrica: calcinha de seda fria para exportação, estilo Europa e EUA. Algodão na entreperna, cintura baixa, design sexy, toque macio na pele, cor sólida e tamanhos grandes.",
-    "url": "https://www.rakumart.com.br/product/808585951023",
-    "crosswalked_at": "2026-06-23T01:12:47Z"
+    "url": "https://www.rakumart.com.br/product/808585951023"
   },
   "enriched_at": "2026-06-22T15:39:38.171180Z",
   "category": "underwear",
@@ -36,7 +19,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "内裤",
-    "n4": "无痕内裤",
-    "path": "服装鞋帽/内衣/内裤/无痕内裤"
+    "n4": "无痕内裤"
   }
 }

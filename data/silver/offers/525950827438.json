@@ -1,28 +1,12 @@
 {
   "offer_id": 525950827438,
-  "bronze_refs": {
-    "mtop": "bronze/mtop/2026-06-17_内衣_p1.json",
-    "su_detail": "bronze/su_detail/2026-06-17_525950827438.html",
-    "rakumart": null
-  },
   "mtop": {
     "title": "厂价批发硅胶文胸 隐形文胸内衣二倍 4倍立体发泡轻 乳贴隐形",
     "price_cny": "4.9",
     "shop": "义乌市醉凯电子商务商行",
-    "province": "浙江",
-    "city": "东阳市",
-    "booked": "24110",
-    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01D4icBS1JiRV36akrA_!!2459681062-0-cib.jpg",
-    "category": "underwear",
-    "source_query": "内衣"
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01D4icBS1JiRV36akrA_!!2459681062-0-cib.jpg"
   },
-  "su_detail": {
-    "subject": "厂价批发硅胶文胸 隐形文胸内衣二倍 4倍立体发泡轻 乳贴隐形",
-    "company": "义乌市醉凯电子商务商行",
-    "loginid": "义乌市醉凯电子商务商行",
-    "is_live": true,
-    "size_bytes": 171120
-  },
+  "su_detail": {},
   "rakumart": null,
   "enriched_at": "2026-06-18T00:06:26.699778Z",
   "category": "underwear",
@@ -30,7 +14,6 @@
     "n1": "服装鞋帽",
     "n2": "内衣",
     "n3": "塑身衣",
-    "n4": "提臀塑身",
-    "path": "服装鞋帽/内衣/塑身衣/提臀塑身"
+    "n4": "提臀塑身"
   }
 }
