@@ -795,6 +795,63 @@ Bypasses BaXia (Onebound handles scraping). But you pay for it.
 
 ---
 
+
+---
+
+## Data Browser UI (added 2026-06-23)
+
+**Access:** `http://<host>:3003/` (table browser) and `http://<host>:3003/api/*` (JSON)
+
+```
+Server:    FastAPI on port 3003 (single port for HTML + API, same-origin)
+Start:     cd /mnt/ssd/1688-only && /mnt/ssd/arbitlens/.venv/bin/python3 scripts/api_server.py
+Endpoints: 11 total (manifest, categories, offers, search, stats/*, opportunities, image proxy)
+Frontend:  public/index.html — table view with filters, sorting, image gallery
+Image:    /api/image/{offer_id} — proxy with disk cache (bypasses Alibaba CDN hotlink)
+```
+
+### Current N1-N4 Taxonomy (2026-06-23)
+
+```
+服装鞋帽 (N1) 76 + 36 + 23 + 15 = 150 products
+├─ 内衣 (N2)
+│  ├─ 塑身衣 (N3) — 36 products (Modeladores)
+│  │  ├─ 提臀塑身 (N4) 19 — Modelador levanta-bumbum
+│  │  ├─ 连体塑身 (N4) 5  — Modelador corpo inteiro
+│  │  └─ 收腹塑身 (N4) 1  — Modelador controle abdominal
+│  ├─ 内裤 (N3) — 23 products (Cuecas/Calcínhas)
+│  │  ├─ 无痕内裤 (N4) 13  — Calcinha sem costura
+│  │  ├─ 女士内裤 (N4) 2   — Calcinha feminina
+│  │  └─ 男士内裤 (N4) 8   — Cueca masculina
+│  └─ 塑身裤 (N3) — 15 products (Calças modeladoras) [NEW 2026-06-23]
+│     ├─ 提臀塑裤 (N4) 9   — Calça modeladora levanta-bumbum
+│     ├─ 打底塑裤 (N4) 3   — Calça legging modeladora [NEW]
+│     ├─ 收腹塑裤 (N4) 2   — Calça modeladora abdominal
+│     └─ 安全塑裤 (N4) 1   — Short anti-luz modelador [NEW]
+└─ 袜子 (N2)
+   └─ 通用袜子 (N3) — 76 products (Meias)
+
+其他 N1: 户外运动 (59), 五金工具 (50), 家居日用 (15), 电子数码 (20)
+Total: 294 silver products across 9 N1 / 14 N2 / 16 N3 / 35 N4
+
+## Recent Refactors (2026-06-23)
+
+1. **Taxonomy: split 内裤 into 内裤 + 塑身裤** (commit dc2f12c)
+   - 15 products reclassified based on title keywords (塑身/收腹/束腰/提臀)
+   - 2 new N4 leaves: 打底塑裤, 安全塑裤
+   - Total shapewear: 51 products (was 40 mixed in 内裤)
+
+2. **API server deployed on port 3003**
+   - Single port serves HTML + JSON (same-origin, no CORS)
+   - 11 endpoints including image proxy with disk cache
+   - Frontend: filters, sorting, pagination, image gallery, click-to-enlarge
+
+3. **Git initialized** in /mnt/ssd/1688-only/ (separate from 1688-intel V3.0)
+   - 609 files committed, 386K insertions
+   - This is the local data lake, not the production GCP-deployed app
+
+---
+
 ## 16. MTOP API BREAKTHROUGH (NEW - 2026-06-16 18:30)
 
 ### The Discovery

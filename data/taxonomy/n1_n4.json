@@ -49,6 +49,14 @@
               "收腹塑裤": {
                 "name_pt": "Calça modeladora controle abdominal",
                 "current_cat": "underwear"
+              },
+              "打底塑裤": {
+                "name_pt": "Calça legging modeladora",
+                "current_cat": "underwear"
+              },
+              "安全塑裤": {
+                "name_pt": "Short anti-luz modelador",
+                "current_cat": "underwear"
               }
             }
           }
