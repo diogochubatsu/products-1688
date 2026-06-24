@@ -1,0 +1,24 @@
+{
+  "offer_id": 1058004704202,
+  "mtop": {
+    "title": "格美堂家用微压电饭煲大容量电煮锅微压锅家用电压力锅多功能批发",
+    "price_cny": 75.0,
+    "shop": "科创电子888",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01DD8Opm23hxfkhOxHZ_!!3429157288-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T06:25:30.037388Z",
+  "category": "small_appliances",
+  "taxonomy": {
+    "n1": "电子数码",
+    "n2": "家用电器",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 3,
+    "province": "广东",
+    "repurchase_rate": "50%"
+  }
+}

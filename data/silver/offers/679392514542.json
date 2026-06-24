@@ -1,0 +1,24 @@
+{
+  "offer_id": 679392514542,
+  "mtop": {
+    "title": "美容导入仪 家用面部微电流按摩导入负离子导出震动清洁美容仪",
+    "price_cny": 41.75,
+    "shop": "kimairay",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01MgpVjL1PcqcWIMUhY_!!2213048141862-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T06:25:30.055229Z",
+  "category": "beauty_devices",
+  "taxonomy": {
+    "n1": "美妆护肤",
+    "n2": "美容仪器",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 67,
+    "province": "广东",
+    "repurchase_rate": ""
+  }
+}

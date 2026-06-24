@@ -1,0 +1,24 @@
+{
+  "offer_id": 1049735465030,
+  "mtop": {
+    "title": "罗娅微压电饭煲炖汤火锅煮粥家用多功能电煮锅电压力锅",
+    "price_cny": 99.0,
+    "shop": "罗娅电器工厂",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01m35Mv01Jaf1pASuCq_!!2212954981045-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T06:25:30.039171Z",
+  "category": "small_appliances",
+  "taxonomy": {
+    "n1": "电子数码",
+    "n2": "家用电器",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 12,
+    "province": "广东",
+    "repurchase_rate": "66%"
+  }
+}

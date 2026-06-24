@@ -1,0 +1,24 @@
+{
+  "offer_id": 1014598134854,
+  "mtop": {
+    "title": "先科 智能电饭煲3-4人多功能4-5饭锅家用大容量厚釜内胆5L电饭锅",
+    "price_cny": 41.0,
+    "shop": "聚惠乐电器",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01xzQIHF2BeJPveSSLy_!!2218545938363-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T06:25:30.039323Z",
+  "category": "small_appliances",
+  "taxonomy": {
+    "n1": "电子数码",
+    "n2": "家用电器",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 3238,
+    "province": "广东",
+    "repurchase_rate": "26%"
+  }
+}

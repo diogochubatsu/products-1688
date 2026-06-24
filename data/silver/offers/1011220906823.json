@@ -1,0 +1,24 @@
+{
+  "offer_id": 1011220906823,
+  "mtop": {
+    "title": "便携式榨汁果汁机 小型无线电动顿顿杯果蔬菜榨汁杯 大容量吨吨桶",
+    "price_cny": 33.0,
+    "shop": "启志达科技",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Uxu0Rw1vEAxdF5gEq_!!2220652636140-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T06:25:30.092385Z",
+  "category": "kitchen",
+  "taxonomy": {
+    "n1": "家居日用",
+    "n2": "厨房用品",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 702,
+    "province": "广东",
+    "repurchase_rate": "15%"
+  }
+}

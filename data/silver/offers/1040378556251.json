@@ -1,0 +1,24 @@
+{
+  "offer_id": 1040378556251,
+  "mtop": {
+    "title": "数字分段瑜伽弹力带阻力带力量训练拉力带健身练背普拉提舞蹈美体",
+    "price_cny": 6.53,
+    "shop": "艺悠日用百货",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01fntwzO2MJCx7CUqhY_!!2218733549806-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T06:25:30.071409Z",
+  "category": "fitness",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "健身器材",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 339,
+    "province": "浙江",
+    "repurchase_rate": "3%"
+  }
+}

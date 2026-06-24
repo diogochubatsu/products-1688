@@ -1,0 +1,24 @@
+{
+  "offer_id": 1037380389111,
+  "mtop": {
+    "title": "先科5升大容量电饭煲家用智能不粘锅多功能电饭锅小型3-4人煮饭锅",
+    "price_cny": 37.0,
+    "shop": "中山唯琪电器",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01fLoJbe1kg9ONJniuQ_!!2219807654712-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T06:25:30.039700Z",
+  "category": "small_appliances",
+  "taxonomy": {
+    "n1": "电子数码",
+    "n2": "家用电器",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 1853,
+    "province": "广东",
+    "repurchase_rate": "18%"
+  }
+}

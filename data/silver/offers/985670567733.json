@@ -1,0 +1,24 @@
+{
+  "offer_id": 985670567733,
+  "mtop": {
+    "title": "正半球多功能电饭煲家用智能预约全自动微压力陶瓷内胆电饭锅煮饭",
+    "price_cny": 79.9,
+    "shop": "廉江市美德电器厂",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01qfEJ0l1yq8cGAe8ZS_!!2207000656629-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T06:25:30.040020Z",
+  "category": "small_appliances",
+  "taxonomy": {
+    "n1": "电子数码",
+    "n2": "家用电器",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 273,
+    "province": "广东",
+    "repurchase_rate": "2%"
+  }
+}

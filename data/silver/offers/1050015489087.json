@@ -1,0 +1,24 @@
+{
+  "offer_id": 1050015489087,
+  "mtop": {
+    "title": "跨境大容量快充充电宝10万毫安充电宝太阳能户外便携露营移动电源",
+    "price_cny": 60.0,
+    "shop": "港之能科技",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01a7SspD1f1mPW0WuEu_!!2219771993947-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T06:25:30.086834Z",
+  "category": "electronics",
+  "taxonomy": {
+    "n1": "电子数码",
+    "n2": "数码配件",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 60,
+    "province": "广东",
+    "repurchase_rate": "1%"
+  }
+}

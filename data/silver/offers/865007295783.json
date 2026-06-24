@@ -1,0 +1,24 @@
+{
+  "offer_id": 865007295783,
+  "mtop": {
+    "title": "正半球电饭煲家用智能大容量3L4升5升全自动多功能电饭锅预约蒸煮",
+    "price_cny": 59.0,
+    "shop": "远想电器有限公司",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01t1C3Nw1EDh1b1gjtm_!!2214216400318-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T06:25:30.038079Z",
+  "category": "small_appliances",
+  "taxonomy": {
+    "n1": "电子数码",
+    "n2": "家用电器",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 2479,
+    "province": "广东",
+    "repurchase_rate": "17%"
+  }
+}

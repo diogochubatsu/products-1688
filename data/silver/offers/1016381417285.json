@@ -1,0 +1,24 @@
+{
+  "offer_id": 1016381417285,
+  "mtop": {
+    "title": "德国Zemkon电饭煲1.2L智能家用小功率1-2人蒸煮一体钛胆电饭煲",
+    "price_cny": 79.0,
+    "shop": "壹田电器",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01zMdfpW2HaXr3PA10V_!!2212466529167-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T06:25:30.038930Z",
+  "category": "small_appliances",
+  "taxonomy": {
+    "n1": "电子数码",
+    "n2": "家用电器",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 180,
+    "province": "广东",
+    "repurchase_rate": "9%"
+  }
+}

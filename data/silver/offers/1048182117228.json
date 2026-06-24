@@ -1,0 +1,24 @@
+{
+  "offer_id": 1048182117228,
+  "mtop": {
+    "title": "荣事达榨汁杯大容量无线便携式榨汁机多功能鲜榨果汁机碎冰榨汁桶",
+    "price_cny": 43.0,
+    "shop": "中山优沃电器",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01WjyuYn1YftnCLkqiv_!!2219498513087-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T06:25:30.091052Z",
+  "category": "kitchen",
+  "taxonomy": {
+    "n1": "家居日用",
+    "n2": "厨房用品",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 242,
+    "province": "广东",
+    "repurchase_rate": "4%"
+  }
+}
