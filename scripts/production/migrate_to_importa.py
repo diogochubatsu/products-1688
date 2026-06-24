@@ -145,7 +145,7 @@ def load_offer(path: Path) -> dict:
         su.get('shop_name'),           # supplier_name
         (rd := o.get('raw_data') or {}).get('booked') if isinstance(rd, dict) else None,  # monthly_sales
         json.dumps(raw_data, ensure_ascii=False),  # raw_data
-        'scrape_1688.py',             # script_name
+        'scrape_1688_mtop.py',             # script_name
     )
 
 
