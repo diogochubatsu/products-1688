@@ -177,5 +177,82 @@
   </ul>
 </div>
 
+
+<div class="section" style="border-color:#fbc02d;background:#fffde7;">
+  <h2 style="color:#f57f17;">❓ Questions for Main App Agent</h2>
+  <p style="font-size:13px;color:#666;margin:0 0 12px 0">
+    Before migrating, we need answers from the ImportaSimples team.
+  </p>
+  
+  <div style="margin-bottom:12px;">
+    <strong style="color:#333;">1. IP Authorization</strong>
+    <p style="font-size:13px;color:#666;margin:4px 0 0 0">
+      Our scraper server IP needs to be authorized in GCP Cloud SQL → Connections → Networking.
+      Which IP should we whitelist? Or should we test connection first and see if it's already authorized?
+    </p>
+  </div>
+
+  <div style="margin-bottom:12px;">
+    <strong style="color:#333;">2. Required Fields</strong>
+    <p style="font-size:13px;color:#666;margin:4px 0 0 0">
+      <code>title</code> is NOT NULL. Do other fields accept NULL? Specifically:
+    </p>
+    <ul style="font-size:13px;color:#666;margin:4px 0 0 16px;">
+      <li><code>price_brl</code> — 21 products have no Rakumart match (NULL)</li>
+      <li><code>supplier_name</code> — can be NULL if SU scrape failed</li>
+      <li><code>image_url</code> — can be NULL?</li>
+    </ul>
+  </div>
+
+  <div style="margin-bottom:12px;">
+    <strong style="color:#333;">3. title_br (Portuguese)</strong>
+    <p style="font-size:13px;color:#666;margin:4px 0 0 0">
+      Your schema has no dedicated column for Portuguese titles.
+      Should we put it in <code>raw_data->>'title_br'</code>?
+      Or do you want us to add a column?
+    </p>
+  </div>
+
+  <div style="margin-bottom:12px;">
+    <strong style="color:#333;">4. Unmatched Products</strong>
+    <p style="font-size:13px;color:#666;margin:4px 0 0 0">
+      We have 294 products total, 273 with Rakumart match.
+      The 21 unmatched have NULL <code>price_brl</code>, <code>title_br</code>, <code>url</code>.
+    </p>
+    <ul style="font-size:13px;color:#666;margin:4px 0 0 16px;">
+      <li>A) Migrate all 294 (some fields NULL)</li>
+      <li>B) Only migrate 273 matched products</li>
+    </ul>
+  </div>
+
+  <div style="margin-bottom:12px;">
+    <strong style="color:#333;">5. Images</strong>
+    <p style="font-size:13px;color:#666;margin:4px 0 0 0">
+      Your bucket accepts uploads but needs a service account.
+      Should we:
+    </p>
+    <ul style="font-size:13px;color:#666;margin:4px 0 0 16px;">
+      <li>A) Just copy <code>image_url</code> from alicdn.com (simpler, may break if CDN changes)</li>
+      <li>B) Download images and upload to your bucket (more robust, needs service account)</li>
+    </ul>
+  </div>
+
+  <div style="margin-bottom:12px;">
+    <strong style="color:#333;">6. Sales Data (booked)</strong>
+    <p style="font-size:13px;color:#666;margin:4px 0 0 0">
+      We removed <code>mtop.booked</code> (monthly sales) from our v2 schema.
+      Should we put it in <code>raw_data->>'booked'</code>? Useful for ranking.
+    </p>
+  </div>
+
+  <div style="margin-bottom:12px;">
+    <strong style="color:#333;">7. Script Name</strong>
+    <p style="font-size:13px;color:#666;margin:4px 0 0 0">
+      What <code>script_name</code> should we use?
+      Suggestions: <code>migrate_to_importa</code>, <code>datalake_sync</code>, <code>products_1688_sync</code>
+    </p>
+  </div>
+</div>
+
 </body>
 </html>
