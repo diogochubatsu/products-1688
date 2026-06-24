@@ -224,12 +224,35 @@
             "name_pt": "Maquiagem",
             "n4": {
               "化妆刷": {
-                "name_pt": "Pincéis de maquiagem",
-                "current_cat": null
+                "name_pt": "Pincéis de maquiagem"
               },
-              "美甲工具": {
-                "name_pt": "Manicure",
-                "current_cat": null
+              "美妆蛋": {
+                "name_pt": "Beauty blender"
+              },
+              "眼影盘": {
+                "name_pt": "Paleta de sombras"
+              },
+              "粉扑": {
+                "name_pt": "Powder puff"
+              }
+            }
+          },
+          "眼部工具": {
+            "name_pt": "Ferramentas para olhos",
+            "n4": {
+              "睫毛刷": {
+                "name_pt": "Escova de cílios"
+              },
+              "眉刷": {
+                "name_pt": "Escova de sobrancelha"
+              }
+            }
+          },
+          "美甲工具": {
+            "name_pt": "Manicure",
+            "n4": {
+              "美甲刷": {
+                "name_pt": "Escova de unha"
               }
             }
           }
@@ -264,22 +287,24 @@
           "儿童袜子": {
             "name_pt": "Meias infantis",
             "n4": {
-              "童袜": {
-                "name_pt": "Meia infantil",
-                "current_cat": "socks"
+              "婴儿袜": {
+                "name_pt": "Meias de bebê"
               }
             }
           },
-          "儿童配饰": {
-            "name_pt": "Acessórios infantis",
+          "婴儿服装": {
+            "name_pt": "Roupas de bebê",
             "n4": {
-              "童帽": {
-                "name_pt": "Boné infantil",
-                "current_cat": null
-              },
-              "童巾": {
-                "name_pt": "Toalha infantil",
-                "current_cat": null
+              "婴儿服": {
+                "name_pt": "Roupas de bebê"
+              }
+            }
+          },
+          "儿童用品": {
+            "name_pt": "Produtos infantis",
+            "n4": {
+              "儿童用品": {
+                "name_pt": "Produtos infantis"
               }
             }
           }
@@ -302,6 +327,19 @@
             }
           }
         }
+      },
+      "喂养用品": {
+        "name_pt": "Produtos de amamentação",
+        "n3": {
+          "奶瓶": {
+            "name_pt": "Mamadeiras",
+            "n4": {
+              "奶瓶": {
+                "name_pt": "Mamadeira"
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -311,20 +349,45 @@
       "宠物配饰": {
         "name_pt": "Acessórios pet",
         "n3": {
-          "宠物日常": {
-            "name_pt": "Dia a dia",
+          "牵引绳": {
+            "name_pt": "Guia e coleira",
+            "n4": {
+              "狗绳": {
+                "name_pt": "Guia para cães"
+              }
+            }
+          }
+        }
+      },
+      "宠物日用": {
+        "name_pt": "Dia a dia pet",
+        "n3": {
+          "宠物玩具": {
+            "name_pt": "Brinquedos pet",
             "n4": {
               "宠物玩具": {
-                "name_pt": "Brinquedo pet",
-                "current_cat": null
-              },
-              "宠物服装": {
-                "name_pt": "Roupa pet",
-                "current_cat": null
-              },
-              "宠物牵引": {
-                "name_pt": "Guia e coleira",
-                "current_cat": null
+                "name_pt": "Brinquedo pet"
+              }
+            }
+          },
+          "宠物用品": {
+            "name_pt": "Produtos pet",
+            "n4": {
+              "宠物用品": {
+                "name_pt": "Produtos pet"
+              }
+            }
+          }
+        }
+      },
+      "宠物食品": {
+        "name_pt": "Ração e petiscos",
+        "n3": {
+          "猫粮": {
+            "name_pt": "Ração para gatos",
+            "n4": {
+              "猫粮": {
+                "name_pt": "Ração de gato"
               }
             }
           }
@@ -338,16 +401,35 @@
       "书写工具": {
         "name_pt": "Escrita",
         "n3": {
-          "通用文具": {
-            "name_pt": "Papelaria geral",
+          "笔记本": {
+            "name_pt": "Cadernos",
             "n4": {
-              "笔类": {
-                "name_pt": "Canetas",
-                "current_cat": null
+              "笔记本": {
+                "name_pt": "Caderno"
+              }
+            }
+          },
+          "笔类": {
+            "name_pt": "Canetas",
+            "n4": {
+              "中性笔": {
+                "name_pt": "Caneta gel"
               },
-              "本册": {
-                "name_pt": "Cadernos",
-                "current_cat": null
+              "笔类": {
+                "name_pt": "Canetas"
+              }
+            }
+          }
+        }
+      },
+      "收纳整理": {
+        "name_pt": "Organização",
+        "n3": {
+          "文件夹": {
+            "name_pt": "Pastas",
+            "n4": {
+              "文件夹": {
+                "name_pt": "Pasta"
               }
             }
           }
