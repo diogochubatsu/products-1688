@@ -1,0 +1,23 @@
+{
+  "offer_id": 612177826998,
+  "mtop": {
+    "title": "篮球定 制儿童5号幼儿园小学生男女3-4号皮球五号蓝球儿童篮球",
+    "price_cny": 24.0,
+    "shop": "厦门斯帕克体育",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01fMjyOy297DUanvNlG_!!2207229048020-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T19:43:25.268121Z",
+  "category": "户外运动",
+  "taxonomy": {
+    "n1": "户外运动",
+    "n2": "球类运动",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 5715,
+    "province": "福建"
+  }
+}

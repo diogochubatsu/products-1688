@@ -15,7 +15,7 @@ import requests
 from pathlib import Path
 import argparse
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = str(Path(__file__).parent.parent / '.gcp-service-account.json')
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = str(Path(__file__).parent.parent.parent / '.gcp-service-account.json')
 
 from google.cloud import storage
 

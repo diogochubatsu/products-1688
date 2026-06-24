@@ -17,7 +17,7 @@ from pathlib import Path
 from datetime import datetime
 import argparse
 
-DATA = Path(__file__).parent.parent / 'data'
+DATA = Path(__file__).parent.parent.parent / 'data'
 
 # ── ImportaSimples connection ──
 DB_CONFIG = {
