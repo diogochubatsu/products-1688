@@ -1,0 +1,24 @@
+{
+  "offer_id": 1006287722581,
+  "mtop": {
+    "title": "宠物球游戏罩自嗨解闷躲藏罩电动捕猎罩逗猫棒自动猫转盘猫咪玩具",
+    "price_cny": 10.69,
+    "shop": "一颗牙宠物有限公司",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Lrtkdd1qrxFFbgKQr_!!2218540405550-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T02:08:45.276081Z",
+  "category": "pet",
+  "taxonomy": {
+    "n1": "宠物用品",
+    "n2": "",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 4203,
+    "province": "浙江",
+    "repurchase_rate": "5%"
+  }
+}

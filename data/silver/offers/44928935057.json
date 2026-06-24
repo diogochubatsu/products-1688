@@ -1,0 +1,24 @@
+{
+  "offer_id": 44928935057,
+  "mtop": {
+    "title": "办公用品 A4资料册文件夹资料插页文件夹10 20 30 40 60 80 100页",
+    "price_cny": 4.95,
+    "shop": "火沃电子商务商行",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/4228456703_1829924068.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T02:08:45.293557Z",
+  "category": "stationery",
+  "taxonomy": {
+    "n1": "文具办公",
+    "n2": "",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 6141,
+    "province": "浙江",
+    "repurchase_rate": "9%"
+  }
+}

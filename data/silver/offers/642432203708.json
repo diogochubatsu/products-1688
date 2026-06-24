@@ -1,0 +1,24 @@
+{
+  "offer_id": 642432203708,
+  "mtop": {
+    "title": "猫粮批发全价鲜肉猫粮大袋50斤试吃装成猫幼猫猫舍专用猫粮10kg",
+    "price_cny": 9.9,
+    "shop": "山东八方牧歌",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01CaaaCa21nL5rWkdbu_!!2206418177029-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T02:08:45.278523Z",
+  "category": "pet",
+  "taxonomy": {
+    "n1": "宠物用品",
+    "n2": "",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 120274,
+    "province": "山东",
+    "repurchase_rate": "23%"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "offer_id": 979887792980,
+  "mtop": {
+    "title": "猫玩具大礼包套装猫薄荷鱼逗猫棒木天蓼磨牙棒大胡萝卜宠物用品",
+    "price_cny": 6.39,
+    "shop": "星煊宠物用品",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01CdoFe61JcwxdbpAP6_!!2220636241050-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T02:08:45.275141Z",
+  "category": "pet",
+  "taxonomy": {
+    "n1": "宠物用品",
+    "n2": "",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 2335,
+    "province": "浙江",
+    "repurchase_rate": "5%"
+  }
+}

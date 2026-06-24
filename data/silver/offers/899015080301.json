@@ -1,0 +1,24 @@
+{
+  "offer_id": 899015080301,
+  "mtop": {
+    "title": "宠物用品套装批发  棉绳玩具磨牙耐咬绳结球狗玩具组合 洁齿",
+    "price_cny": 1.16,
+    "shop": "莱维宠物用品厂",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01TooIi024ckg7MHtqy_!!3336197412-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T02:08:45.274249Z",
+  "category": "pet",
+  "taxonomy": {
+    "n1": "宠物用品",
+    "n2": "",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 8,
+    "province": "浙江",
+    "repurchase_rate": ""
+  }
+}

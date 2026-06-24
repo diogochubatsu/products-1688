@@ -1,0 +1,24 @@
+{
+  "offer_id": 608187313744,
+  "mtop": {
+    "title": "厂家供应 美妆蛋 葫芦粉扑 水滴粉扑 彩妆蛋 化妆蛋气垫海绵粉扑",
+    "price_cny": 0.56,
+    "shop": "银利化妆用具加工厂",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/12717034580_931552087.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T02:08:45.259170Z",
+  "category": "beauty",
+  "taxonomy": {
+    "n1": "美妆护肤",
+    "n2": "",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 53292,
+    "province": "浙江",
+    "repurchase_rate": "18%"
+  }
+}

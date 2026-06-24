@@ -1,0 +1,24 @@
+{
+  "offer_id": 580594919860,
+  "mtop": {
+    "title": "厂家直销  美妆蛋 葫芦粉扑 水滴粉扑 彩妆蛋 化妆蛋斜切海绵粉扑",
+    "price_cny": 0.5,
+    "shop": "鸿泽商贸",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01esDHuQ1JzqWmdVx7m_!!3470811100-0-cib.400x400.jpg,https://cbu01.alicdn.com/img/ibank/9596362954_169443264.400x400.jpg,https://cbu01.alicdn.com/img/ibank/O1CN01DFDssJ1JzqWlZTDk4_!!3470811100-0-cib.400x400.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T02:08:45.257088Z",
+  "category": "beauty",
+  "taxonomy": {
+    "n1": "美妆护肤",
+    "n2": "",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 81450,
+    "province": "浙江",
+    "repurchase_rate": "18%"
+  }
+}

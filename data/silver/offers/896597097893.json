@@ -1,0 +1,24 @@
+{
+  "offer_id": 896597097893,
+  "mtop": {
+    "title": "宠物用品遛狗绳子金毛小型犬 中型犬 大型犬狗链子狗绳反光牵引绳",
+    "price_cny": 1.0,
+    "shop": "义乌金豆宠物用品有限公司",
+    "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01oYVHiw1al3Nt1qtND_!!2218066883369-0-cib.jpg"
+  },
+  "su_detail": {},
+  "rakumart": null,
+  "enriched_at": "2026-06-24T02:08:45.281434Z",
+  "category": "pet",
+  "taxonomy": {
+    "n1": "宠物用品",
+    "n2": "",
+    "n3": "",
+    "n4": ""
+  },
+  "raw_data": {
+    "booked": 83,
+    "province": "浙江",
+    "repurchase_rate": "37%"
+  }
+}
