@@ -6,7 +6,9 @@
     "shop": "双宝文具558",
     "image_url": "https://cbu01.alicdn.com/img/ibank/12161326589_669464441.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市一统文化用品有限公司"
+  },
   "rakumart": {
     "match_score": 50.4,
     "price_brl": 0.31,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 2235
   }
 }

@@ -6,7 +6,9 @@
     "shop": "舒奈美针织内衣",
     "image_url": "https://cbu01.alicdn.com/img/ibank/22332721806_706110251.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市舒奈美针织有限公司"
+  },
   "rakumart": {
     "match_score": 39.2,
     "price_brl": 9.0,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身裤",
     "n4": "安全塑裤"
+  },
+  "raw_data": {
+    "booked": 156435
   }
 }

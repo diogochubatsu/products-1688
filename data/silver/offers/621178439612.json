@@ -6,7 +6,9 @@
     "shop": "东莞儿童玩具",
     "image_url": "https://cbu01.alicdn.com/img/ibank/16891248419_2134768598.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "东莞市美佳塑胶玩具有限公司"
+  },
   "rakumart": {
     "match_score": 52.6,
     "price_brl": 3.5,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 2588
   }
 }

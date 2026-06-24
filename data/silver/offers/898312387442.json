@@ -6,7 +6,9 @@
     "shop": "辽源袜子厂家批发",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01JkUXAH1zT3zmZoSLo_!!3220586714-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "辽源蒂泽袜业有限公司"
+  },
   "rakumart": {
     "match_score": 46.6,
     "price_brl": 1.7,
@@ -20,5 +22,8 @@
     "n2": "袜子",
     "n3": "通用袜子",
     "n4": "船袜"
+  },
+  "raw_data": {
+    "booked": 37
   }
 }

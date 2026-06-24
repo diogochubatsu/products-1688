@@ -6,7 +6,9 @@
     "shop": "义乌市优阁袜厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01DgwFZC20gAtRkRdlW_!!2214041896878-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市优阁袜业有限公司"
+  },
   "rakumart": {
     "match_score": 45.4,
     "price_brl": 1.25,
@@ -20,5 +22,8 @@
     "n2": "袜子",
     "n3": "通用袜子",
     "n4": "船袜"
+  },
+  "raw_data": {
+    "booked": 15861
   }
 }

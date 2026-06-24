@@ -6,7 +6,9 @@
     "shop": "益瑞玩具厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Uqb4qN2DxCZiRi41o_!!2207487888675-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市益瑞玩具有限公司"
+  },
   "rakumart": {
     "match_score": 37.7,
     "price_brl": 0.59,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 486
   }
 }

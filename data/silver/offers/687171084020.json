@@ -6,7 +6,9 @@
     "shop": "和兴不锈钢厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01q37Nkc2BwAWkM6chh_!!2213944618402-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "潮州市兴倍家家居用品有限公司"
+  },
   "rakumart": {
     "match_score": 33.0,
     "price_brl": 0.31,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 2486
   }
 }

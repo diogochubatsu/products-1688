@@ -6,7 +6,9 @@
     "shop": "无悠良品",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01l1pSPL1iOcy1cCOVh_!!2219337934403-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市忻履电子商务有限公司"
+  },
   "rakumart": {
     "match_score": 36.8,
     "price_brl": 3.8,
@@ -20,5 +22,8 @@
     "n2": "收纳整理",
     "n3": "通用收纳",
     "n4": "通用收纳"
+  },
+  "raw_data": {
+    "booked": 2
   }
 }

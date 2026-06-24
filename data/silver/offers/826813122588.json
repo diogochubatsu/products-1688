@@ -6,7 +6,9 @@
     "shop": "神鱼照明科技",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN014oUg4F1ZkJ4CfOyEu_!!2212812083232-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "宁波神鱼照明科技有限公司"
+  },
   "rakumart": {
     "match_score": 54.1,
     "price_brl": 6.8,
@@ -20,5 +22,8 @@
     "n2": "照明",
     "n3": "手电筒",
     "n4": "LED手电筒"
+  },
+  "raw_data": {
+    "booked": 9007
   }
 }

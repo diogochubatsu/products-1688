@@ -6,7 +6,9 @@
     "shop": "weiduo1688",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN018G5yIL1nFWmx9DMoE_!!997185060-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "上海薛维红电子商务有限公司"
+  },
   "rakumart": {
     "match_score": 51.9,
     "price_brl": 4.1,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "内裤",
     "n4": "无痕内裤"
+  },
+  "raw_data": {
+    "booked": 27693
   }
 }

@@ -6,7 +6,9 @@
     "shop": "舒雅奈儿针织内衣厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01XFgQhT1gUSnINjhpR_!!2214518324145-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区谷饶舒雅奈儿内衣厂"
+  },
   "rakumart": {
     "match_score": 40.1,
     "price_brl": 8.0,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "内裤",
     "n4": "无痕内裤"
+  },
+  "raw_data": {
+    "booked": 2990
   }
 }

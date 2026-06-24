@@ -6,7 +6,9 @@
     "shop": "尚依娜美服饰",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN012y3gQW1I0BhcJwCL0_!!2211252490830-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区谷饶尚依娜美服饰商行"
+  },
   "rakumart": {
     "match_score": 61.3,
     "price_brl": 8.8,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身裤",
     "n4": "收腹塑裤"
+  },
+  "raw_data": {
+    "booked": 2916
   }
 }

@@ -6,7 +6,9 @@
     "shop": "youbeitoys",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01hLhqeE248WQpq8Bmh_!!953477346-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市童润玩具有限公司"
+  },
   "rakumart": {
     "match_score": 65.1,
     "price_brl": 7.2,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 714
   }
 }

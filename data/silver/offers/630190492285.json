@@ -6,7 +6,9 @@
     "shop": "三目艾samaeye",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN013MGbtU22wms7flBsP_!!4003197185-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "珠海市翼行科技有限责任公司"
+  },
   "rakumart": {
     "match_score": 35.5,
     "price_brl": 6.8,
@@ -20,5 +22,8 @@
     "n2": "安防监控",
     "n3": "摄像头",
     "n4": "车载摄像头"
+  },
+  "raw_data": {
+    "booked": 4408
   }
 }

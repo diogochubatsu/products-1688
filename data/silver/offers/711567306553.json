@@ -6,7 +6,9 @@
     "shop": "义乌楠博婉",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Cd11XB2MdM4heTWx5_!!2215667149850-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市楠博婉文具有限公司"
+  },
   "rakumart": {
     "match_score": 66.4,
     "price_brl": 0.04,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 3742
   }
 }

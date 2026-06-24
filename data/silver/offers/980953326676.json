@@ -6,7 +6,9 @@
     "shop": "猫七小八1688",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01AbaHoB1SmPgjjKhvX_!!2209302102289-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "普宁市流沙猫七小八服装店"
+  },
   "rakumart": {
     "match_score": 42.9,
     "price_brl": 4.99,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "内裤",
     "n4": "无痕内裤"
+  },
+  "raw_data": {
+    "booked": 517
   }
 }

@@ -6,7 +6,9 @@
     "shop": "义乌市钰悦日用品有限公司",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01MFVI801XWRmo8oEKB_!!2213318932931-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市钰悦日用品有限公司"
+  },
   "rakumart": null,
   "enriched_at": "2026-06-21T15:17:25.999321Z",
   "category": "organization",
@@ -15,5 +17,8 @@
     "n2": "收纳整理",
     "n3": "通用收纳",
     "n4": "通用收纳"
+  },
+  "raw_data": {
+    "booked": 70
   }
 }

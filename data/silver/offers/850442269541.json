@@ -6,7 +6,9 @@
     "shop": "铂莱服装辅料",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01wARPIL1Chnl248d3v_!!2213235570113-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "永嘉柏特莱服装辅料有限公司"
+  },
   "rakumart": {
     "match_score": 34.2,
     "price_brl": 0.83,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 934
   }
 }

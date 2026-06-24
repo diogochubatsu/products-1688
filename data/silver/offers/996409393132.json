@@ -6,7 +6,9 @@
     "shop": "权鼎针织源头工厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01WHlDBT1XhRTr4VW0j_!!2220987212955-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市鹤舞服饰有限公司"
+  },
   "rakumart": {
     "match_score": 68.8,
     "price_brl": 1.09,
@@ -20,5 +22,8 @@
     "n2": "袜子",
     "n3": "通用袜子",
     "n4": "棉袜"
+  },
+  "raw_data": {
+    "booked": 11109
   }
 }

@@ -6,7 +6,9 @@
     "shop": "宁波承常",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01q06qpQ1sDlm9jic3J_!!2219783715733-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "宁波承常电器有限公司"
+  },
   "rakumart": null,
   "enriched_at": "2026-06-21T15:17:25.969802Z",
   "category": "flashlight",
@@ -15,5 +17,8 @@
     "n2": "照明",
     "n3": "手电筒",
     "n4": "LED手电筒"
+  },
+  "raw_data": {
+    "booked": 357
   }
 }

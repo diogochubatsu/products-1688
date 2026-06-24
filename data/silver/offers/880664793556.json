@@ -6,7 +6,9 @@
     "shop": "瑞贝雅针织内衣厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01IhLSSM2GRYKC5vp4w_!!0-item_pic.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区贵屿瑞贝雅针织内衣厂（个体工商户）"
+  },
   "rakumart": null,
   "enriched_at": "2026-06-18T00:06:26.785888Z",
   "category": "underwear",
@@ -15,5 +17,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 10314
   }
 }

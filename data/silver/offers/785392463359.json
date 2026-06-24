@@ -6,7 +6,9 @@
     "shop": "黛莱姿服饰",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01gSQ1HI1txOhBn7fkk_!!2215100645968-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市黛莱姿服饰有限公司"
+  },
   "rakumart": {
     "match_score": 64.1,
     "price_brl": 39.0,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 18695
   }
 }

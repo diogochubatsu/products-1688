@@ -6,7 +6,9 @@
     "shop": "雅派贸易",
     "image_url": "https://cbu01.alicdn.com/img/ibank/11472646134_478473888.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区贵屿恒利发针织内衣厂"
+  },
   "rakumart": {
     "match_score": 73.1,
     "price_brl": 8.7,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 23588
   }
 }

@@ -6,7 +6,9 @@
     "shop": "沐春喜",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01MZPDHT2K1E7UxrT4Y_!!2218372719496-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "佛山市南海区沐春喜五金塑胶制品厂（个体工商户）"
+  },
   "rakumart": {
     "match_score": 50.9,
     "price_brl": 0.8,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 654
   }
 }

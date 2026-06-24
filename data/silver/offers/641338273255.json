@@ -6,7 +6,9 @@
     "shop": "舒奈美针织内衣",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01vR5qzz1Pq7dE6ZBSN_!!3683161891-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市舒奈美针织有限公司"
+  },
   "rakumart": null,
   "enriched_at": "2026-06-18T00:06:26.730822Z",
   "category": "underwear",
@@ -15,5 +17,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 25759
   }
 }

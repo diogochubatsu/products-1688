@@ -6,7 +6,9 @@
     "shop": "万林服饰商行",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01LXwHfy1xiyRuQtBf7_!!2399506478-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "普宁市流沙万林服装经营部"
+  },
   "rakumart": {
     "match_score": 42.1,
     "price_brl": 39.9,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 44818
   }
 }

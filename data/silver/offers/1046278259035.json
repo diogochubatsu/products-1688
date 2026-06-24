@@ -6,7 +6,9 @@
     "shop": "义乌市品言日用品有限公司",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01aNOpRu1GwEq2SLe4x_!!2211944850686-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市品言塑业有限公司"
+  },
   "rakumart": {
     "match_score": 39.5,
     "price_brl": 0.2,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 455
   }
 }

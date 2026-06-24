@@ -6,7 +6,9 @@
     "shop": "莉春纱针织内衣厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN015q7Nr91SuenNw5IyU_!!2208404032307-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区贵屿莉春纱针织内衣厂"
+  },
   "rakumart": {
     "match_score": 36.4,
     "price_brl": 8.0,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身裤",
     "n4": "收腹塑裤"
+  },
+  "raw_data": {
+    "booked": 11441
   }
 }

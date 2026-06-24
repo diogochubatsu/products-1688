@@ -6,7 +6,9 @@
     "shop": "富佳盛内衣",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01nBlN0H1GiUxkSa5Sx_!!2548400656-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市富佳盛内衣有限公司"
+  },
   "rakumart": {
     "match_score": 43.6,
     "price_brl": 32.9,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 20
   }
 }

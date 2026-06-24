@@ -6,7 +6,9 @@
     "shop": "哲叶针织品有限公司",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01mgEWii1hepJhYCWFf_!!2208864814303-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "诸暨市哲叶针织有限公司"
+  },
   "rakumart": {
     "match_score": 71.6,
     "price_brl": 1.25,
@@ -20,5 +22,8 @@
     "n2": "袜子",
     "n3": "通用袜子",
     "n4": "童袜"
+  },
+  "raw_data": {
+    "booked": 232
   }
 }

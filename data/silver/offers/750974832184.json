@@ -6,7 +6,9 @@
     "shop": "唯雅姿针织内衣厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01nw2lAT2JTKdKOQ2yo_!!2213765579422-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区贵屿唯雅姿针织内衣厂"
+  },
   "rakumart": {
     "match_score": 57.3,
     "price_brl": 43.0,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "连体塑身"
+  },
+  "raw_data": {
+    "booked": 655
   }
 }

@@ -6,7 +6,9 @@
     "shop": "美之匙内衣",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01bGrNKu2JPD0zak7VA_!!3310099413-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市合生宜服饰有限公司"
+  },
   "rakumart": {
     "match_score": 51.4,
     "price_brl": 6.4,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身裤",
     "n4": "提臀塑裤"
+  },
+  "raw_data": {
+    "booked": 15643
   }
 }

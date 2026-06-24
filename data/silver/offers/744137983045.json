@@ -6,7 +6,9 @@
     "shop": "yiwu鑫耀箱包",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN017WlHQU1aUYyXmVXhJ_!!2214971823333-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市鑫耀箱包有限公司"
+  },
   "rakumart": {
     "match_score": 45.7,
     "price_brl": 0.9,
@@ -20,5 +22,8 @@
     "n2": "收纳整理",
     "n3": "通用收纳",
     "n4": "通用收纳"
+  },
+  "raw_data": {
+    "booked": 2332
   }
 }

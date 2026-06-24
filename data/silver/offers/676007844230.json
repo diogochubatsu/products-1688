@@ -6,7 +6,9 @@
     "shop": "胜蓝日用品有限公司",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01aZQory1miYKyyDuYa_!!3994824988-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市胜然日用品有限公司"
+  },
   "rakumart": {
     "match_score": 31.9,
     "price_brl": 0.35,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 16610
   }
 }

@@ -6,7 +6,9 @@
     "shop": "夏野的晚风",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01DLeyxJ2APMguNWFPu_!!2213817458195-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区谷饶夏野内衣厂"
+  },
   "rakumart": {
     "match_score": 54.3,
     "price_brl": 6.0,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "内裤",
     "n4": "无痕内裤"
+  },
+  "raw_data": {
+    "booked": 9984
   }
 }

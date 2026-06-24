@@ -6,7 +6,9 @@
     "shop": "朵熙嫣针织内衣厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01pvXCOr2H6JWCeem6V_!!2212197799101-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市朵熙嫣针织有限公司"
+  },
   "rakumart": {
     "match_score": 36.1,
     "price_brl": 6.8,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "内裤",
     "n4": "女士内裤"
+  },
+  "raw_data": {
+    "booked": 1970
   }
 }

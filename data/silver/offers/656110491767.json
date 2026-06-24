@@ -6,7 +6,9 @@
     "shop": "魅蓝之都内衣",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01vhN4Hs1P5PGSlqScO_!!2212439421789-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区谷饶美人传计内衣厂"
+  },
   "rakumart": {
     "match_score": 46.3,
     "price_brl": 33.84,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "收腹塑身"
+  },
+  "raw_data": {
+    "booked": 3989
   }
 }

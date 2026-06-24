@@ -6,7 +6,9 @@
     "shop": "宝盛内衣有限公司",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01PEJEiD21WOKudQNiN_!!2219564986992-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "广州宝盛内衣有限公司"
+  },
   "rakumart": {
     "match_score": 51.8,
     "price_brl": 16.5,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 261
   }
 }

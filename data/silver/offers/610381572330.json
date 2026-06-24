@@ -6,7 +6,9 @@
     "shop": "四季丽姿内衣",
     "image_url": "https://cbu01.alicdn.com/img/ibank/13114726343_75353636.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区贵屿四季丽姿针织内衣厂"
+  },
   "rakumart": {
     "match_score": 37.6,
     "price_brl": 5.0,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 1312
   }
 }

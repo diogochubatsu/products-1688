@@ -6,7 +6,9 @@
     "shop": "燕奈儿针织厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01m7mVbC21Dbks7TWNg_!!2207908076951-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区谷饶燕奈儿针织厂"
+  },
   "rakumart": {
     "match_score": 39.4,
     "price_brl": 27.0,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 10876
   }
 }

@@ -6,7 +6,9 @@
     "shop": "力达箱包皮具",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01NbqkBF24q2E68yu03_!!2218971377441-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "深圳市力达箱包皮具制品有限公司"
+  },
   "rakumart": {
     "match_score": 30.2,
     "price_brl": 26.0,
@@ -20,5 +22,8 @@
     "n2": "收纳整理",
     "n3": "通用收纳",
     "n4": "通用收纳"
+  },
+  "raw_data": {
+    "booked": 52
   }
 }

@@ -6,7 +6,9 @@
     "shop": "义乌乐韵日用百货有限公司",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01yp9Ekz1D9HIfXLqfE_!!2214425240173-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市乐韵日用百货有限公司"
+  },
   "rakumart": {
     "match_score": 50.5,
     "price_brl": 1.02,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 1112
   }
 }

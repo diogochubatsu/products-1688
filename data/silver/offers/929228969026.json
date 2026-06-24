@@ -6,7 +6,9 @@
     "shop": "贤君塑料厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN018vA2lq1PcqX7XzB8v_!!2216971791862-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "台州市路桥贤君塑料厂(个体工商户)"
+  },
   "rakumart": {
     "match_score": 62.5,
     "price_brl": 19.53,
@@ -20,5 +22,8 @@
     "n2": "收纳整理",
     "n3": "通用收纳",
     "n4": "通用收纳"
+  },
+  "raw_data": {
+    "booked": 0
   }
 }

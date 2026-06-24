@@ -6,7 +6,9 @@
     "shop": "鹏达竹木制品",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN018nk6KV259j9DREbMH_!!2215836207484-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "龙门县龙潭镇鹏达竹木加工厂"
+  },
   "rakumart": {
     "match_score": 50.7,
     "price_brl": 2.35,
@@ -20,5 +22,8 @@
     "n2": "收纳整理",
     "n3": "通用收纳",
     "n4": "通用收纳"
+  },
+  "raw_data": {
+    "booked": 37
   }
 }

@@ -6,7 +6,9 @@
     "shop": "内恋花季纺",
     "image_url": "https://cbu01.alicdn.com/img/ibank/11532828560_1245588113.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮南区仙城内恋花季内衣商店"
+  },
   "rakumart": {
     "match_score": 64.4,
     "price_brl": 4.8,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 108277
   }
 }

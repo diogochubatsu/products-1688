@@ -6,7 +6,9 @@
     "shop": "贵屿万姿雅针织内衣厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Ne9vcQ1jENgIyo7UE_!!2219389094516-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区贵屿万姿雅针织内衣厂（个体工商户）"
+  },
   "rakumart": {
     "match_score": 30.1,
     "price_brl": 25.0,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 9166
   }
 }

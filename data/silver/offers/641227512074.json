@@ -6,7 +6,9 @@
     "shop": "益美箱包配件",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01olp0xj1CJWVOyocFJ_!!2211011070060-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "泉州市益美箱包配件有限公司"
+  },
   "rakumart": {
     "match_score": 39.8,
     "price_brl": 0.22,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 1098
   }
 }

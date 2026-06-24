@@ -6,7 +6,9 @@
     "shop": "义乌市昝贝电子商务",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rVM8CL1EDEh6HkUPp_!!2222409480317-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市昝贝电子商务商行(个体工商户)"
+  },
   "rakumart": {
     "match_score": 75.4,
     "price_brl": 3.5,
@@ -20,5 +22,8 @@
     "n2": "袜子",
     "n3": "通用袜子",
     "n4": "船袜"
+  },
+  "raw_data": {
+    "booked": 14
   }
 }

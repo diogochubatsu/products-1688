@@ -6,7 +6,9 @@
     "shop": "恒兴泰内衣",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN016MGAPS2GW8BFeo3CH_!!3322229022-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区贵屿恒宏泰针织内衣厂"
+  },
   "rakumart": {
     "match_score": 37.0,
     "price_brl": 86.0,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身裤",
     "n4": "打底塑裤"
+  },
+  "raw_data": {
+    "booked": 18676
   }
 }

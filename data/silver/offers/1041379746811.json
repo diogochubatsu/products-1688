@@ -6,7 +6,9 @@
     "shop": "马王汽车电子",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Q4aMRl1FocdV8BDfW_!!2207854000534-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "济南市历城区马王汽车用品商行"
+  },
   "rakumart": null,
   "enriched_at": "2026-06-21T15:17:25.977592Z",
   "category": "webcam",
@@ -15,5 +17,8 @@
     "n2": "安防监控",
     "n3": "摄像头",
     "n4": "监控摄像头"
+  },
+  "raw_data": {
+    "booked": 13
   }
 }

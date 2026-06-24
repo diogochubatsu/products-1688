@@ -6,7 +6,9 @@
     "shop": "cmjj668",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rodQqN1KcJjc07gsE_!!1620721184-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市爱都供应链管理有限公司"
+  },
   "rakumart": {
     "match_score": 40.4,
     "price_brl": 0.45,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 5617
   }
 }

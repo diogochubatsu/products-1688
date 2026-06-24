@@ -6,7 +6,9 @@
     "shop": "诸暨市可韵针织厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01f97Zgw1QvucBWwLRi_!!2218293632039-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "诸暨市可韵针织厂(个体工商户)"
+  },
   "rakumart": {
     "match_score": 57.5,
     "price_brl": 1.7,
@@ -20,5 +22,8 @@
     "n2": "袜子",
     "n3": "通用袜子",
     "n4": "船袜"
+  },
+  "raw_data": {
+    "booked": 115
   }
 }

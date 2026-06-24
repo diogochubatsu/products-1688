@@ -6,7 +6,9 @@
     "shop": "中山市京腾服饰有限公司",
     "image_url": "https://cbu01.alicdn.com/img/ibank/2019/303/459/12354954303_958705494.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "中山市京腾服饰有限公司"
+  },
   "rakumart": {
     "match_score": 33.4,
     "price_brl": 5.0,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "内裤",
     "n4": "无痕内裤"
+  },
+  "raw_data": {
+    "booked": 39633
   }
 }

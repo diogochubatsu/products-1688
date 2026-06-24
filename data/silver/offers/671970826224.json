@@ -6,7 +6,9 @@
     "shop": "中山市习艺服饰有限公司",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN011rS2l61Kv5vY17EmN_!!3695421225-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "中山市习艺科技有限公司"
+  },
   "rakumart": {
     "match_score": 31.5,
     "price_brl": 14.0,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "内裤",
     "n4": "女士内裤"
+  },
+  "raw_data": {
+    "booked": 14949
   }
 }

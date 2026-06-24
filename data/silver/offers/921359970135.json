@@ -6,7 +6,9 @@
     "shop": "广州路拓汽配有限公司",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN016sdnxP1rfsTpOjoqC_!!2210400115659-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "广州诺尔达汽配有限公司"
+  },
   "rakumart": null,
   "enriched_at": "2026-06-21T15:17:26.019492Z",
   "category": "webcam",
@@ -15,5 +17,8 @@
     "n2": "安防监控",
     "n3": "摄像头",
     "n4": "监控摄像头"
+  },
+  "raw_data": {
+    "booked": 1
   }
 }

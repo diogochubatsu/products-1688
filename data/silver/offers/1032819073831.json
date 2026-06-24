@@ -6,7 +6,9 @@
     "shop": "温州芬岚电子",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01CuHd2J1V8ySjwDeIF_!!2222144552609-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "温州芬岚电子商务有限公司"
+  },
   "rakumart": {
     "match_score": 46.3,
     "price_brl": 33.84,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 0
   }
 }

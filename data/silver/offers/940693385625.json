@@ -6,7 +6,9 @@
     "shop": "袜柔针织实力工厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Tc4GyB1v8DlBSzXmz_!!2217906036127-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市婉亦服饰有限公司"
+  },
   "rakumart": {
     "match_score": 47.7,
     "price_brl": 1.9,
@@ -20,5 +22,8 @@
     "n2": "袜子",
     "n3": "通用袜子",
     "n4": "船袜"
+  },
+  "raw_data": {
+    "booked": 1263
   }
 }

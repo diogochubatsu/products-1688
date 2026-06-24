@@ -6,7 +6,9 @@
     "shop": "一心照明灯饰",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN013lHn7U21bQKeZj4P2_!!2211356427003-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "深圳市龙华区一心照明灯饰厂(个体工商户)"
+  },
   "rakumart": {
     "match_score": 73.4,
     "price_brl": 3.16,
@@ -20,5 +22,8 @@
     "n2": "照明",
     "n3": "手电筒",
     "n4": "LED手电筒"
+  },
+  "raw_data": {
+    "booked": 1300
   }
 }

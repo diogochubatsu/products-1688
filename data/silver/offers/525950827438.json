@@ -6,7 +6,9 @@
     "shop": "义乌市醉凯电子商务商行",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01D4icBS1JiRV36akrA_!!2459681062-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市醉凯电子商务商行"
+  },
   "rakumart": null,
   "enriched_at": "2026-06-18T00:06:26.699778Z",
   "category": "underwear",
@@ -15,5 +17,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 24110
   }
 }

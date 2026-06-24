@@ -6,7 +6,9 @@
     "shop": "台州市黄岩跃豪塑料厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/2020/662/245/20398542266_1980567807.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "台州市黄岩跃豪工贸有限公司"
+  },
   "rakumart": {
     "match_score": 48.6,
     "price_brl": 4.9,
@@ -20,5 +22,8 @@
     "n2": "收纳整理",
     "n3": "通用收纳",
     "n4": "通用收纳"
+  },
+  "raw_data": {
+    "booked": 17630
   }
 }

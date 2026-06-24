@@ -6,7 +6,9 @@
     "shop": "蓝梦琳针织厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01ZdNCHF1WGaVVmMZjF_!!2200719022761-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区贵屿蓝梦琳针织厂"
+  },
   "rakumart": {
     "match_score": 33.7,
     "price_brl": 7.57,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "内裤",
     "n4": "无痕内裤"
+  },
+  "raw_data": {
+    "booked": 9676
   }
 }

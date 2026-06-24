@@ -6,7 +6,9 @@
     "shop": "义乌芳润袜业",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01aYRvOc1TELnnBCKdl_!!2218906762350-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市芳润贸易有限公司"
+  },
   "rakumart": {
     "match_score": 60.2,
     "price_brl": 2.0,
@@ -20,5 +22,8 @@
     "n2": "袜子",
     "n3": "通用袜子",
     "n4": "船袜"
+  },
+  "raw_data": {
+    "booked": 4990
   }
 }

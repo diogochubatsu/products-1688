@@ -6,7 +6,9 @@
     "shop": "诸暨市魅琪针织厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01KvVvLN1mqL9KzyyfZ_!!4199585005-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "诸暨市佳展服饰有限公司"
+  },
   "rakumart": {
     "match_score": 47.6,
     "price_brl": 2.4,
@@ -20,5 +22,8 @@
     "n2": "袜子",
     "n3": "通用袜子",
     "n4": "船袜"
+  },
+  "raw_data": {
+    "booked": 119
   }
 }

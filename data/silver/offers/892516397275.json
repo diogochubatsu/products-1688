@@ -6,7 +6,9 @@
     "shop": "诸暨市舒竹袜加工厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01QiH4hB1pixoLeiFYY_!!2211138465395-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "诸暨市舒竹袜加工厂"
+  },
   "rakumart": {
     "match_score": 51.4,
     "price_brl": 2.0,
@@ -20,5 +22,8 @@
     "n2": "袜子",
     "n3": "通用袜子",
     "n4": "船袜"
+  },
+  "raw_data": {
+    "booked": 149
   }
 }

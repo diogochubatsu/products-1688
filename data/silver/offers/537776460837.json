@@ -6,7 +6,9 @@
     "shop": "姿丽雅内衣",
     "image_url": "https://cbu01.alicdn.com/img/ibank/19372891248_1311258120.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "江门市维奈思服饰有限公司"
+  },
   "rakumart": null,
   "enriched_at": "2026-06-18T00:06:26.702301Z",
   "category": "underwear",
@@ -15,5 +17,8 @@
     "n2": "内衣",
     "n3": "内裤",
     "n4": "女士内裤"
+  },
+  "raw_data": {
+    "booked": 17276
   }
 }

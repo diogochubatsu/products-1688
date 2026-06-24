@@ -6,7 +6,9 @@
     "shop": "梦璐诗针织内衣厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rLog8Z2BCN1PCauFW_!!2216675028302-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区贵屿梦璐诗针织内衣厂"
+  },
   "rakumart": {
     "match_score": 44.2,
     "price_brl": 18.9,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 13685
   }
 }

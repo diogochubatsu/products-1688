@@ -6,7 +6,9 @@
     "shop": "elebest2025",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01FKEHQR2JfF1agd8t9_!!2218636729448-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "贝思特视讯(深圳)有限公司"
+  },
   "rakumart": {
     "match_score": 30.5,
     "price_brl": 11.5,
@@ -20,5 +22,8 @@
     "n2": "安防监控",
     "n3": "摄像头",
     "n4": "监控摄像头"
+  },
+  "raw_data": {
+    "booked": 457
   }
 }

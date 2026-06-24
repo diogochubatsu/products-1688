@@ -6,7 +6,9 @@
     "shop": "锴诺工贸",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01oYTJze2J48zG9ky8O_!!2208328189367-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "永康市锴诺工贸有限公司"
+  },
   "rakumart": {
     "match_score": 52.3,
     "price_brl": 7.0,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 821
   }
 }

@@ -6,7 +6,9 @@
     "shop": "友荣针织科技",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN0116x6QE29VwvoV3krx_!!2217629448074-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "诸暨市友荣针织科技有限公司"
+  },
   "rakumart": {
     "match_score": 71.6,
     "price_brl": 1.45,
@@ -20,5 +22,8 @@
     "n2": "袜子",
     "n3": "通用袜子",
     "n4": "船袜"
+  },
+  "raw_data": {
+    "booked": 1349
   }
 }

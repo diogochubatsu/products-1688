@@ -6,7 +6,9 @@
     "shop": "义乌沃吖家居",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rAwgz61X43CSgL0Va_!!2214956732869-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市简弋日用品有限公司"
+  },
   "rakumart": {
     "match_score": 33.6,
     "price_brl": 0.17,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 972
   }
 }

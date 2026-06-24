@@ -6,7 +6,9 @@
     "shop": "束调针织内衣厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01LlCwVh1nKZY1LzgAC_!!2208132685071-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市聚盛泰内衣有限公司"
+  },
   "rakumart": {
     "match_score": 74.2,
     "price_brl": 5.5,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 12667
   }
 }

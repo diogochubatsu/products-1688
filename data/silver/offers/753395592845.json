@@ -6,7 +6,9 @@
     "shop": "东阳昌耀工贸",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01aIJICL1yb1UuDtwU2_!!2211024996596-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "东阳市昌耀工贸有限公司"
+  },
   "rakumart": {
     "match_score": 44.5,
     "price_brl": 16.9,
@@ -20,5 +22,8 @@
     "n2": "收纳整理",
     "n3": "通用收纳",
     "n4": "通用收纳"
+  },
+  "raw_data": {
+    "booked": 19119
   }
 }

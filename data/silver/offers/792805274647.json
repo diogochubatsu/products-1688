@@ -6,7 +6,9 @@
     "shop": "慕雅真内衣厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN010ZaUXD1K1gNsHteUb_!!2214952721104-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区贵屿慕雅真内衣厂"
+  },
   "rakumart": {
     "match_score": 49.8,
     "price_brl": 7.0,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身裤",
     "n4": "提臀塑裤"
+  },
+  "raw_data": {
+    "booked": 11541
   }
 }

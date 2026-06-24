@@ -6,7 +6,9 @@
     "shop": "wurenchuan1688",
     "image_url": "https://cbu01.alicdn.com/img/ibank/8827025135_1526292261.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市黑鹰电子商务有限公司"
+  },
   "rakumart": {
     "match_score": 37.7,
     "price_brl": 2.5,
@@ -20,5 +22,8 @@
     "n2": "照明",
     "n3": "手电筒",
     "n4": "LED手电筒"
+  },
+  "raw_data": {
+    "booked": 3456
   }
 }

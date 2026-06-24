@@ -6,7 +6,9 @@
     "shop": "义乌市冒险家电器有限公司",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01ErjQmf1lExSKP7AAM_!!2215920564788-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市冒险家电器有限公司"
+  },
   "rakumart": {
     "match_score": 72.4,
     "price_brl": 6.5,
@@ -20,5 +22,8 @@
     "n2": "照明",
     "n3": "手电筒",
     "n4": "LED手电筒"
+  },
+  "raw_data": {
+    "booked": 2461
   }
 }

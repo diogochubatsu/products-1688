@@ -6,7 +6,9 @@
     "shop": "广州酷思特电子",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN015gpreD2F9rUgH3MS9_!!2219843948838-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "广州市酷思特汽车电子商行(个人独资)"
+  },
   "rakumart": {
     "match_score": 49.6,
     "price_brl": 29.0,
@@ -20,5 +22,8 @@
     "n2": "安防监控",
     "n3": "摄像头",
     "n4": "车载摄像头"
+  },
+  "raw_data": {
+    "booked": 38
   }
 }

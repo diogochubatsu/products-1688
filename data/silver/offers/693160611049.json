@@ -6,7 +6,9 @@
     "shop": "火炮手内衣店",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01P9lJks24AoH1kLzYS_!!2207625647351-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "中山市三人共创服饰科技有限公司"
+  },
   "rakumart": {
     "match_score": 36.2,
     "price_brl": 4.5,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "内裤",
     "n4": "无痕内裤"
+  },
+  "raw_data": {
+    "booked": 16814
   }
 }

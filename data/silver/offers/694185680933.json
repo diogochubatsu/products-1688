@@ -6,7 +6,9 @@
     "shop": "北极洋有限公司",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01dvX3w91owrzM13UiZ_!!2215074705290-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "深圳市北极洋科技有限公司"
+  },
   "rakumart": {
     "match_score": 73.3,
     "price_brl": 9.5,
@@ -20,5 +22,8 @@
     "n2": "照明",
     "n3": "手电筒",
     "n4": "LED手电筒"
+  },
+  "raw_data": {
+    "booked": 4633
   }
 }

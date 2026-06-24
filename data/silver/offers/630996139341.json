@@ -6,7 +6,9 @@
     "shop": "东晟制衣厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Rmpuyq1WEIa0MVPiR_!!4611686018427382468-0-cbu_common_content.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "绍兴洛书服饰有限公司"
+  },
   "rakumart": {
     "match_score": 68.6,
     "price_brl": 26.0,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "内裤",
     "n4": "男士内裤"
+  },
+  "raw_data": {
+    "booked": 28258
   }
 }

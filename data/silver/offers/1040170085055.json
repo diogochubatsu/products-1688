@@ -6,7 +6,9 @@
     "shop": "sdj168668",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01MUIbvc1aP4Sz4QmgN_!!2222209353321-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市裕莞服饰贸易有限公司"
+  },
   "rakumart": {
     "match_score": 41.2,
     "price_brl": 2.5,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "内裤",
     "n4": "无痕内裤"
+  },
+  "raw_data": {
+    "booked": 66
   }
 }

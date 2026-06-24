@@ -6,7 +6,9 @@
     "shop": "诸暨浚源针织",
     "image_url": "https://cbu01.alicdn.com/img/ibank/14600377090_2005613062.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "诸暨市浚源针织有限公司"
+  },
   "rakumart": {
     "match_score": 72.3,
     "price_brl": 1.5,
@@ -20,5 +22,8 @@
     "n2": "袜子",
     "n3": "通用袜子",
     "n4": "童袜"
+  },
+  "raw_data": {
+    "booked": 6214
   }
 }

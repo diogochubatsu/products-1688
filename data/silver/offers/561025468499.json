@@ -6,7 +6,9 @@
     "shop": "albbqingweizhong",
     "image_url": "https://cbu01.alicdn.com/img/ibank/2019/624/117/11642711426_516580347.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "深圳市弗莱奇贸易有限公司"
+  },
   "rakumart": {
     "match_score": 71.7,
     "price_brl": 2.68,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "内裤",
     "n4": "男士内裤"
+  },
+  "raw_data": {
+    "booked": 15755
   }
 }

@@ -6,7 +6,9 @@
     "shop": "永坤塑料制品",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN011HL2RF1d2Zf2E98NK_!!2863353678-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "宁波市海曙古林永坤塑料制品厂"
+  },
   "rakumart": {
     "match_score": 43.6,
     "price_brl": 3.5,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 638
   }
 }

@@ -6,7 +6,9 @@
     "shop": "悦娜内衣厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/13333184185_2132067536.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区谷饶悦娜针织厂"
+  },
   "rakumart": {
     "match_score": 30.4,
     "price_brl": 5.2,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身裤",
     "n4": "提臀塑裤"
+  },
+  "raw_data": {
+    "booked": 52612
   }
 }

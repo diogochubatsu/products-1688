@@ -6,7 +6,9 @@
     "shop": "yaterousi",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN019FD1FU1jLi1ACMe1h_!!963684532-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市沛森针织有限公司"
+  },
   "rakumart": {
     "match_score": 46.6,
     "price_brl": 6.0,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "内裤",
     "n4": "女士内裤"
+  },
+  "raw_data": {
+    "booked": 21718
   }
 }

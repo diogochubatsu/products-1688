@@ -6,7 +6,9 @@
     "shop": "张威百货贸易",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01mY8R4n2HzjbaHCVAg_!!2986519222-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市新捷供应链服务有限公司"
+  },
   "rakumart": {
     "match_score": 59.9,
     "price_brl": 0.91,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 1048
   }
 }

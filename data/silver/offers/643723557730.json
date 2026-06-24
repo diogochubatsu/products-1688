@@ -6,7 +6,9 @@
     "shop": "广州平福电子",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN019xmi4N1LyaZUpCPZO_!!2843211368-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "广州平福汽车用品有限公司"
+  },
   "rakumart": {
     "match_score": 40.6,
     "price_brl": 5.9,
@@ -20,5 +22,8 @@
     "n2": "安防监控",
     "n3": "摄像头",
     "n4": "车载摄像头"
+  },
+  "raw_data": {
+    "booked": 5317
   }
 }

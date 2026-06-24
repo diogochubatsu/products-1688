@@ -6,7 +6,9 @@
     "shop": "利宝娜针织内衣厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01L66yyT2IkuObRZkmp_!!2210421629325-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区贵屿利宝娜针织内衣厂"
+  },
   "rakumart": {
     "match_score": 69.8,
     "price_brl": 5.6,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 487
   }
 }

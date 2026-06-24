@@ -6,7 +6,9 @@
     "shop": "威诺瓦科技工厂店",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01w8WRS21oDzVNf7ESg_!!2220299885192-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "威诺瓦科技有限公司"
+  },
   "rakumart": null,
   "enriched_at": "2026-06-21T15:17:25.976344Z",
   "category": "webcam",
@@ -15,5 +17,8 @@
     "n2": "安防监控",
     "n3": "摄像头",
     "n4": "监控摄像头"
+  },
+  "raw_data": {
+    "booked": 0
   }
 }

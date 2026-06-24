@@ -6,7 +6,9 @@
     "shop": "义乌财润汽车用品",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01oUZ4kR1fClgOjhW4R_!!2206699363971-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市财润供应链有限公司"
+  },
   "rakumart": {
     "match_score": 69.3,
     "price_brl": 4.48,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 3816
   }
 }

@@ -6,7 +6,9 @@
     "shop": "棉韵针织源头工厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01VPmkmp26vBvvDGZY1_!!2220979777723-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市卓信针织有限公司"
+  },
   "rakumart": {
     "match_score": 45.6,
     "price_brl": 0.42,
@@ -20,5 +22,8 @@
     "n2": "袜子",
     "n3": "通用袜子",
     "n4": "运动袜"
+  },
+  "raw_data": {
+    "booked": 4
   }
 }

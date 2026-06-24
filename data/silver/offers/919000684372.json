@@ -6,7 +6,9 @@
     "shop": "璟也日用品",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01wisTKT1Sg06NCAM2r_!!2219376252275-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市铭雍贸易有限公司"
+  },
   "rakumart": {
     "match_score": 41.3,
     "price_brl": 0.26,
@@ -20,5 +22,8 @@
     "n2": "照明",
     "n3": "手电筒",
     "n4": "LED手电筒"
+  },
+  "raw_data": {
+    "booked": 1134
   }
 }

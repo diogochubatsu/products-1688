@@ -6,7 +6,9 @@
     "shop": "云舒针织内衣厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01ttYhvz1P8cN4jnqIB_!!2218433661796-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "汕头市潮阳区谷饶云舒针织内衣厂(个体工商户)"
+  },
   "rakumart": null,
   "enriched_at": "2026-06-22T15:39:38.243064Z",
   "category": "underwear",
@@ -15,5 +17,8 @@
     "n2": "内衣",
     "n3": "内裤",
     "n4": "无痕内裤"
+  },
+  "raw_data": {
+    "booked": 1077
   }
 }

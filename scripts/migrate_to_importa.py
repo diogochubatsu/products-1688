@@ -110,6 +110,8 @@ def load_offer(path: Path) -> dict:
     source_url = rak.get('url', '')  # Rakumart preferred
     product_url = source_url if source_url else f'https://detail.1688.com/offer/{o["offer_id"]}.html'
 
+    rd = o.get('raw_data') or {}
+
     # Raw data (audit trail)
     raw_data = {
         'title_br': title_br if title_br else None,
@@ -117,6 +119,7 @@ def load_offer(path: Path) -> dict:
         'category': cat_raw,
         'shop': mtop.get('shop'),
         'match_score': rak.get('match_score'),
+        'booked': rd.get('booked') if isinstance(rd, dict) else None,
     }
 
     return (
@@ -140,7 +143,7 @@ def load_offer(path: Path) -> dict:
         n3 or None,                    # category_l3
         n4 or None,                    # category_l4
         su.get('shop_name'),           # supplier_name
-        None,                          # monthly_sales (no booked in v2)
+        (rd := o.get('raw_data') or {}).get('booked') if isinstance(rd, dict) else None,  # monthly_sales
         json.dumps(raw_data, ensure_ascii=False),  # raw_data
         'scrape_1688.py',             # script_name
     )

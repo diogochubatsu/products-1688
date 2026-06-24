@@ -6,7 +6,9 @@
     "shop": "庚源针织",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01Hnaw7G1lKSDHhFSh3_!!1641064800-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "广州泓源内衣制造有限公司"
+  },
   "rakumart": {
     "match_score": 44.1,
     "price_brl": 9.5,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 2915
   }
 }

@@ -6,7 +6,9 @@
     "shop": "新艺电商",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01N0qLuX272VsSE7EQi_!!2212385537739-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市艺燊服饰有限公司"
+  },
   "rakumart": {
     "match_score": 55.4,
     "price_brl": 3.5,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 2929
   }
 }

@@ -6,7 +6,9 @@
     "shop": "朗行工厂店",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN014rGo3B22PoET2frtW_!!3552607113-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "深圳市朗行致远科技有限公司"
+  },
   "rakumart": {
     "match_score": 44.1,
     "price_brl": 10.5,
@@ -20,5 +22,8 @@
     "n2": "安防监控",
     "n3": "摄像头",
     "n4": "电脑摄像头"
+  },
+  "raw_data": {
+    "booked": 7772
   }
 }

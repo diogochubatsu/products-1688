@@ -6,7 +6,9 @@
     "shop": "义乌市凯伟电子商务商行",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01JW4RkL2F4MeoJAu37_!!2531178826-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市凯伟五金工具商行"
+  },
   "rakumart": {
     "match_score": 42.4,
     "price_brl": 31.0,
@@ -20,5 +22,8 @@
     "n2": "照明",
     "n3": "手电筒",
     "n4": "充电手电筒"
+  },
+  "raw_data": {
+    "booked": 18971
   }
 }

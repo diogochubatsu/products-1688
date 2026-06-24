@@ -6,7 +6,9 @@
     "shop": "艾希户外用品厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01GDBkb01O6xQ7dss9H_!!2215785611657-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "宁海县艾希户外用品厂"
+  },
   "rakumart": {
     "match_score": 60.9,
     "price_brl": 3.2,
@@ -20,5 +22,8 @@
     "n2": "照明",
     "n3": "手电筒",
     "n4": "LED手电筒"
+  },
+  "raw_data": {
+    "booked": 56
   }
 }

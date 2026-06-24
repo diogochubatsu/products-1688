@@ -6,7 +6,9 @@
     "shop": "义乌市期雨贸易商行",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01wSNzik27YZv2btSd1_!!2218899117809-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌市期雨贸易商行"
+  },
   "rakumart": {
     "match_score": 36.3,
     "price_brl": 5.4,
@@ -20,5 +22,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 1702
   }
 }

@@ -6,7 +6,9 @@
     "shop": "玖品塑业源头厂家",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01aSJqKl1aQtp0Kda4Q_!!3265673325-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "义乌玖品饰家日用百货有限公司"
+  },
   "rakumart": {
     "match_score": 30.0,
     "price_brl": 19.8,
@@ -20,5 +22,8 @@
     "n2": "收纳整理",
     "n3": "通用收纳",
     "n4": "通用收纳"
+  },
+  "raw_data": {
+    "booked": 344
   }
 }

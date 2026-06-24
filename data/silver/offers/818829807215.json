@@ -6,7 +6,9 @@
     "shop": "汐漫少女内衣",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01cOvwOz1KBkwaSgzxo_!!2218303341126-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "普宁市麒麟汐漫少女内衣商行(个体工商户)"
+  },
   "rakumart": {
     "match_score": 65.2,
     "price_brl": 7.7,
@@ -20,5 +22,8 @@
     "n2": "内衣",
     "n3": "塑身衣",
     "n4": "提臀塑身"
+  },
+  "raw_data": {
+    "booked": 17012
   }
 }

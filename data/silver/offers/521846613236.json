@@ -6,7 +6,9 @@
     "shop": "弘锦针织",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01S22UbY233CEwiMRa2_!!1704427199-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "诸暨市悦顺针织有限公司"
+  },
   "rakumart": {
     "match_score": 65.0,
     "price_brl": 3.0,
@@ -20,5 +22,8 @@
     "n2": "袜子",
     "n3": "通用袜子",
     "n4": "童袜"
+  },
+  "raw_data": {
+    "booked": 1395
   }
 }

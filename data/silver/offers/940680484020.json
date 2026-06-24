@@ -6,7 +6,9 @@
     "shop": "耀盈针织源头厂家",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01wC3N5B1Q8uGNe4R2w_!!2209369241932-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "诸暨市八耀盈针织有限公司"
+  },
   "rakumart": {
     "match_score": 40.6,
     "price_brl": 2.4,
@@ -20,5 +22,8 @@
     "n2": "袜子",
     "n3": "通用袜子",
     "n4": "船袜"
+  },
+  "raw_data": {
+    "booked": 44
   }
 }

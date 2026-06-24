@@ -6,7 +6,9 @@
     "shop": "母婴玩具厂",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01yiN85J2LwIvELDAOX_!!3613819756-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "深圳市福田区星漫玩具商行(个体工商户)"
+  },
   "rakumart": null,
   "enriched_at": "2026-06-18T00:06:26.734269Z",
   "category": "beach_clip",
@@ -15,5 +17,8 @@
     "n2": "沙滩装备",
     "n3": "沙滩用品",
     "n4": "沙滩夹"
+  },
+  "raw_data": {
+    "booked": 601
   }
 }

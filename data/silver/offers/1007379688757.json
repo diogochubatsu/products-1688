@@ -6,7 +6,9 @@
     "shop": "深圳超惟视讯科技",
     "image_url": "https://cbu01.alicdn.com/img/ibank/O1CN01rBjjAf2J495FvYrUF_!!2221314489367-0-cib.jpg"
   },
-  "su_detail": {},
+  "su_detail": {
+    "shop_name": "深圳市超惟视讯科技有限公司"
+  },
   "rakumart": {
     "match_score": 37.0,
     "price_brl": 120.0,
@@ -20,5 +22,8 @@
     "n2": "安防监控",
     "n3": "摄像头",
     "n4": "监控摄像头"
+  },
+  "raw_data": {
+    "booked": 18
   }
 }
