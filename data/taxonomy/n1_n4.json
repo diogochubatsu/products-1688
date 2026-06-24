@@ -88,7 +88,15 @@
           }
         }
       }
-    }
+    },
+    "official_1688_names": [
+      "女装",
+      "男装",
+      "内衣",
+      "配饰",
+      "鞋",
+      "箱包"
+    ]
   },
   "家居日用": {
     "name_pt": "Casa e Dia a Dia",
@@ -125,7 +133,13 @@
           }
         }
       }
-    }
+    },
+    "official_1688_names": [
+      "收纳清洁",
+      "日用餐厨",
+      "居家日用",
+      "家纺家饰"
+    ]
   },
   "户外运动": {
     "name_pt": "Outdoor e Esportes",
@@ -144,7 +158,10 @@
           }
         }
       }
-    }
+    },
+    "official_1688_names": [
+      "运动户外"
+    ]
   },
   "五金工具": {
     "name_pt": "Ferramentas",
@@ -167,7 +184,10 @@
           }
         }
       }
-    }
+    },
+    "official_1688_names": [
+      "工业用品"
+    ]
   },
   "电子数码": {
     "name_pt": "Eletrônicos",
@@ -212,7 +232,12 @@
           }
         }
       }
-    }
+    },
+    "official_1688_names": [
+      "家用电器",
+      "数码电脑",
+      "家装灯饰"
+    ]
   },
   "美妆护肤": {
     "name_pt": "Beleza e cuidados",
@@ -276,7 +301,10 @@
           }
         }
       }
-    }
+    },
+    "official_1688_names": [
+      "美妆个护"
+    ]
   },
   "母婴用品": {
     "name_pt": "Bebê e crianças",
@@ -341,7 +369,10 @@
           }
         }
       }
-    }
+    },
+    "official_1688_names": [
+      "玩具童装"
+    ]
   },
   "宠物用品": {
     "name_pt": "Pet shop",
@@ -393,7 +424,10 @@
           }
         }
       }
-    }
+    },
+    "official_1688_names": [
+      "宠物园艺"
+    ]
   },
   "文具办公": {
     "name_pt": "Papelaria e escritório",
@@ -435,6 +469,9 @@
           }
         }
       }
-    }
+    },
+    "official_1688_names": [
+      "办公文化"
+    ]
   }
 }
