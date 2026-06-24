@@ -254,5 +254,91 @@
   </div>
 </div>
 
+
+<div class="section" style="border-color:#2e7d32;">
+  <h2 style="color:#2e7d32;">✅ Migration Confirmed — Quality Report</h2>
+  <p style="font-size:13px;color:#666;margin:0 0 12px 0">
+    Migration completed: <strong>2026-06-24 01:47 UTC</strong><br>
+    Source: <code>/mnt/ssd/1688-only/data/silver/offers/*.json</code><br>
+    Destination: <code>bronze_products</code> (source='datalake')
+  </p>
+  
+  <h3 style="font-size:14px;margin:16px 0 8px 0;">Field Completeness</h3>
+  <table>
+    <tr><th>Column</th><th>Count</th><th>%</th><th>Status</th></tr>
+    <tr><td>source_id</td><td>294/294</td><td>100%</td><td style="color:#2e7d32;">✓ Required OK</td></tr>
+    <tr><td>title</td><td>294/294</td><td>100%</td><td style="color:#2e7d32;">✓ Required OK</td></tr>
+    <tr><td>title_cn</td><td>294/294</td><td>100%</td><td style="color:#2e7d32;">✓</td></tr>
+    <tr><td>price_cny</td><td>294/294</td><td>100%</td><td style="color:#2e7d32;">✓</td></tr>
+    <tr><td>url</td><td>294/294</td><td>100%</td><td style="color:#2e7d32;">✓</td></tr>
+    <tr><td>category_l1</td><td>294/294</td><td>100%</td><td style="color:#2e7d32;">✓</td></tr>
+    <tr><td>category_l2</td><td>294/294</td><td>100%</td><td style="color:#2e7d32;">✓</td></tr>
+    <tr><td>category_l3</td><td>294/294</td><td>100%</td><td style="color:#2e7d32;">✓</td></tr>
+    <tr><td>category_l4</td><td>294/294</td><td>100%</td><td style="color:#2e7d32;">✓</td></tr>
+    <tr><td>image_url</td><td>279/294</td><td>95%</td><td style="color:#f57f17;">⚠ 15 without image</td></tr>
+    <tr><td>price_brl</td><td>273/294</td><td>93%</td><td style="color:#f57f17;">⚠ 21 unmatched (expected)</td></tr>
+    <tr><td>supplier_name</td><td>0/294</td><td>0%</td><td style="color:#c62828;">✗ SU parse failed</td></tr>
+  </table>
+
+  <h3 style="font-size:14px;margin:16px 0 8px 0;">Price Distribution (BRL)</h3>
+  <table>
+    <tr><th>Metric</th><th>Value</th></tr>
+    <tr><td>Minimum</td><td>R$ 0.04</td></tr>
+    <tr><td>Maximum</td><td>R$ 385.00</td></tr>
+    <tr><td>Average</td><td>R$ 16.93</td></tr>
+    <tr><td>Products with price</td><td>273/294 (93%)</td></tr>
+  </table>
+
+  <h3 style="font-size:14px;margin:16px 0 8px 0;">Category Distribution (L1)</h3>
+  <table>
+    <tr><th>Category</th><th>Count</th><th>%</th></tr>
+    <tr><td>服装鞋帽 (Vestuário)</td><td>150</td><td>51%</td></tr>
+    <tr><td>户外运动 (Outdoor)</td><td>59</td><td>20%</td></tr>
+    <tr><td>五金工具 (Ferramentas)</td><td>50</td><td>17%</td></tr>
+    <tr><td>电子数码 (Eletrônicos)</td><td>20</td><td>7%</td></tr>
+    <tr><td>家居日用 (Casa)</td><td>15</td><td>5%</td></tr>
+  </table>
+
+  <h3 style="font-size:14px;margin:16px 0 8px 0;">Category Distribution (L3)</h3>
+  <table>
+    <tr><th>Category</th><th>Count</th></tr>
+    <tr><td>通用袜子 (Meias gerais)</td><td>76</td></tr>
+    <tr><td>沙滩用品 (Acessórios de praia)</td><td>59</td></tr>
+    <tr><td>钻孔工具 (Furadeiras)</td><td>50</td></tr>
+    <tr><td>塑身衣 (Modeladores)</td><td>36</td></tr>
+    <tr><td>内裤 (Cuecas)</td><td>23</td></tr>
+    <tr><td>塑身裤 (Calças modeladoras)</td><td>15</td></tr>
+    <tr><td>通用收纳 (Organização)</td><td>15</td></tr>
+    <tr><td>摄像头 (Câmeras)</td><td>10</td></tr>
+    <tr><td>手电筒 (Lanternas)</td><td>10</td></tr>
+  </table>
+
+  <h3 style="font-size:14px;margin:16px 0 8px 0;">Metadata</h3>
+  <table>
+    <tr><th>Field</th><th>Value</th></tr>
+    <tr><td>marketplace</td><td>1688 (all 294)</td></tr>
+    <tr><td>script_name</td><td>scrape_1688.py (all 294)</td></tr>
+    <tr><td>silver_processed</td><td>FALSE (all 294)</td></tr>
+    <tr><td>scraped_at</td><td>2026-06-24 01:47:06 UTC</td></tr>
+    <tr><td>first_seen</td><td>NULL (set by DB on first INSERT)</td></tr>
+  </table>
+
+  <h3 style="font-size:14px;margin:16px 0 8px 0;">Known Issues</h3>
+  <ul style="font-size:13px;color:#666;margin:0;padding-left:20px;">
+    <li><strong>supplier_name = 0%</strong> — SU Detail HTML parsing didn't find <code>companyName</code> in the HTML responses. Need to re-parse bronze SU files or accept NULL for now.</li>
+    <li><strong>image_url = 95%</strong> — 15 offers from legacy categories (webcam, flashlight) don't have images in MTOP data.</li>
+    <li><strong>price_brl = 93%</strong> — 21 products have no Rakumart match (expected, per agent guidance).</li>
+    <li><strong>monthly_sales = NULL</strong> — We removed <code>mtop.booked</code> from v2 schema. Can re-add if needed.</li>
+  </ul>
+
+  <div style="background:#e8f5e9;padding:12px;border-radius:6px;margin-top:16px;">
+    <strong style="color:#2e7d32;">Migration Status: ✅ COMPLETE</strong>
+    <p style="font-size:13px;color:#333;margin:6px 0 0 0">
+      294 products successfully written to ImportaSimples database.
+      All required fields populated. 93% have BRL prices for Brazilian sellers.
+    </p>
+  </div>
+</div>
+
 </body>
 </html>
