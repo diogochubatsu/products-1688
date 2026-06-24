@@ -29,3 +29,4 @@ data/mobile_*.html
 data/residential_*.html
 data/*_full_50.json
 data/_archive/legacy_2026_06_17/*.html
+.gcp-service-account.json
