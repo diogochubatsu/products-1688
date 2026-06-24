@@ -132,6 +132,63 @@
             }
           }
         }
+      },
+      "浴室用品": {
+        "name_pt": "Banheiro",
+        "n3": {
+          "浴室收纳": {
+            "name_pt": "Organização de banheiro",
+            "n4": {
+              "毛巾架": {
+                "name_pt": "Porta-toalha"
+              },
+              "浴室收纳": {
+                "name_pt": "Organizador"
+              },
+              "牙刷架": {
+                "name_pt": "Porta-escova"
+              }
+            }
+          }
+        }
+      },
+      "卧室用品": {
+        "name_pt": "Quarto",
+        "n3": {
+          "床上用品": {
+            "name_pt": "Cama",
+            "n4": {
+              "枕头": {
+                "name_pt": "Travesseiro"
+              },
+              "被子": {
+                "name_pt": "Cobertor"
+              },
+              "床单": {
+                "name_pt": "Lençol"
+              }
+            }
+          }
+        }
+      },
+      "客厅用品": {
+        "name_pt": "Sala",
+        "n3": {
+          "装饰品": {
+            "name_pt": "Decoração",
+            "n4": {
+              "花瓶": {
+                "name_pt": "Vaso"
+              },
+              "相框": {
+                "name_pt": "Moldura"
+              },
+              "装饰品": {
+                "name_pt": "Decoração"
+              }
+            }
+          }
+        }
       }
     },
     "official_1688_names": [
@@ -151,8 +208,49 @@
             "name_pt": "Acessórios de praia",
             "n4": {
               "沙滩夹": {
-                "name_pt": "Presilha de praia",
-                "current_cat": "beach_clip"
+                "name_pt": "Presilha de praia"
+              }
+            }
+          },
+          "健身器材": {
+            "name_pt": "Equipamentos de academia",
+            "n4": {
+              "哑铃": {
+                "name_pt": "Halteres"
+              },
+              "拉力器": {
+                "name_pt": "Elástico"
+              },
+              "俯卧撑架": {
+                "name_pt": "Suporte para flexão"
+              }
+            }
+          },
+          "户外装备": {
+            "name_pt": "Equipamentos outdoor",
+            "n4": {
+              "登山杖": {
+                "name_pt": "Bastão de trekking"
+              },
+              "帐篷": {
+                "name_pt": "Barraca"
+              },
+              "睡袋": {
+                "name_pt": "Saco de dormir"
+              }
+            }
+          },
+          "球类运动": {
+            "name_pt": "Bolas e esportes",
+            "n4": {
+              "篮球": {
+                "name_pt": "Basquete"
+              },
+              "足球": {
+                "name_pt": "Futebol"
+              },
+              "羽毛球拍": {
+                "name_pt": "Raquete de badminton"
               }
             }
           }
@@ -173,12 +271,46 @@
             "name_pt": "Furadeiras",
             "n4": {
               "电钻": {
-                "name_pt": "Furadeira elétrica",
-                "current_cat": "drill"
+                "name_pt": "Furadeira elétrica"
+              }
+            }
+          },
+          "切割工具": {
+            "name_pt": "Cortadoras",
+            "n4": {
+              "角磨机": {
+                "name_pt": "Esmerilhadeira"
               },
-              "冲击钻": {
-                "name_pt": "Furadeira de impacto",
-                "current_cat": "drill"
+              "电锯": {
+                "name_pt": "Serra elétrica"
+              }
+            }
+          },
+          "手动工具": {
+            "name_pt": "Ferramentas manuais",
+            "n4": {
+              "扳手": {
+                "name_pt": "Chave inglesa"
+              },
+              "螺丝刀": {
+                "name_pt": "Chave de fenda"
+              },
+              "钳子": {
+                "name_pt": "Alicate"
+              }
+            }
+          },
+          "测量工具": {
+            "name_pt": "Medição",
+            "n4": {
+              "卷尺": {
+                "name_pt": "Trena"
+              },
+              "水平仪": {
+                "name_pt": "Nível"
+              },
+              "激光测距": {
+                "name_pt": "Medidor laser"
               }
             }
           }
@@ -227,6 +359,63 @@
               "车载摄像头": {
                 "name_pt": "Câmera veicular",
                 "current_cat": "webcam"
+              }
+            }
+          }
+        }
+      },
+      "电脑配件": {
+        "name_pt": "Acessórios PC",
+        "n3": {
+          "输入设备": {
+            "name_pt": "Periféricos",
+            "n4": {
+              "键盘": {
+                "name_pt": "Teclado"
+              },
+              "鼠标": {
+                "name_pt": "Mouse"
+              },
+              "显示器支架": {
+                "name_pt": "Suporte de monitor"
+              }
+            }
+          }
+        }
+      },
+      "手机配件": {
+        "name_pt": "Acessórios celular",
+        "n3": {
+          "手机壳": {
+            "name_pt": "Capas",
+            "n4": {
+              "手机壳": {
+                "name_pt": "Capa de celular"
+              },
+              "充电线": {
+                "name_pt": "Cabo de carregamento"
+              },
+              "手机支架": {
+                "name_pt": "Suporte de celular"
+              }
+            }
+          }
+        }
+      },
+      "智能家居": {
+        "name_pt": "Casa inteligente",
+        "n3": {
+          "智能设备": {
+            "name_pt": "Dispositivos smart",
+            "n4": {
+              "智能插座": {
+                "name_pt": "Tomada inteligente"
+              },
+              "智能灯泡": {
+                "name_pt": "Lâmpada inteligente"
+              },
+              "摄像头": {
+                "name_pt": "Câmera"
               }
             }
           }

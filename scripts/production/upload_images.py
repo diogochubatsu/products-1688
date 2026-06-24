@@ -19,7 +19,7 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = str(Path(__file__).parent.parent.
 
 from google.cloud import storage
 
-DATA = Path(__file__).parent.parent / 'data'
+DATA = Path(__file__).parent.parent.parent / 'data'
 BUCKET_NAME = 'importasimples-intel-images'
 PUBLIC_URL = f'https://storage.googleapis.com/{BUCKET_NAME}'
 
