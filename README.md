@@ -1,15 +1,18 @@
 
 Comprehensive documentation of 1688.com scraping research, BaXia bypass, discovery mechanisms, and Chinese aggregator tools research. 100% focused on 1688.
 
-**Date**: 2026-06-23 (v2 CLOSED)
+**Date**: 2026-06-24 (V1 PRODUCTION)
 
-## 1. Status (2026-06-23 — v2 CLOSED at 95%)
+## 1. Status (V1 — PRODUCTION READY 2026-06-24)
 **Workspace**: /mnt/ssd/1688-only/
 **For**: Diogo Chubatsu / ImportaSimples
 
 ---
 
-## TL;DR - One-Page Summary (UPDATED 2026-06-23 — v2 CLOSED at 95%)
+## TL;DR - V1 Production Summary (UPDATED 2026-06-24)
+
+**Products:** 848 | **Categories:** 16 | **N4 Leaves:** 48 | **Images:** 848/848 (100% GCS)
+**DB:** 848 in ImportaSimples | **Cron:** Daily sync 06:00 UTC | **Frontend:** http://136.111.212.52:3003/
 
 **Sprint 4 v2 complete: 294 silver offers, 273 Rakumart matched (92.9%), 9 N1 cats with deep taxonomy.**
 
