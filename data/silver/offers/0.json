@@ -1,0 +1,19 @@
+{
+  "offer_id": "0",
+  "category": "Móveis",
+  "enriched_at": "2026-06-25T21:13:48.098359",
+  "mtop": {
+    "title": "",
+    "price_cny": null,
+    "shop": "",
+    "image_url": "https://cbu01.alicdn.com/images/cn/market/trade/list/070423/nopic.gif"
+  },
+  "su_detail": {},
+  "rakumart": {},
+  "taxonomy": {
+    "n1": "家居日用",
+    "n2": "家具",
+    "n3": null,
+    "n4": null
+  }
+}
