@@ -17,7 +17,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-DATA_ROOT = Path(__file__).parent.parent / 'data'
+DATA_ROOT = Path(__file__).parent.parent.parent / 'data'
 BRONZE = DATA_ROOT / 'bronze'
 
 
