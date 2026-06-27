@@ -1,0 +1,21 @@
+{
+  "batch": "001-050",
+  "total": 50,
+  "results": {
+    "title_cn": 50,
+    "price": 50,
+    "image": 50,
+    "l1": 50,
+    "l2": 50,
+    "l3": 50,
+    "silver_id": 50,
+    "sales": 29,
+    "supplier": 31,
+    "url": 32
+  },
+  "issues": {
+    "no_sales": 21,
+    "no_supplier": 19,
+    "no_url": 18
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "products_analyzed": 450,
+  "total_products": 1900,
+  "progress_pct": 23.7,
+  "pattern": {
+    "products_1_294": {
+      "source": "original_scraping",
+      "has_supplier": "most",
+      "has_url": "most",
+      "has_sales": "most"
+    },
+    "products_295_450": {
+      "source": "MTOP_scraping",
+      "has_supplier": "none",
+      "has_url": "none",
+      "has_sales": "all"
+    }
+  },
+  "categories_identified": [
+    "\u670d\u88c5\u978b\u5e3d > \u5185\u8863 (\u5851\u8eab\u8863, \u5185\u88e4, \u5851\u8eab\u88e4)",
+    "\u670d\u88c5\u978b\u5e3d > \u889c\u5b50",
+    "\u7535\u5b50\u6570\u7801 > \u5b89\u9632\u76d1\u63a7 > \u6444\u50cf\u5934",
+    "\u7535\u5b50\u6570\u7801 > \u7167\u660e > \u624b\u7535\u7b52",
+    "\u4e94\u91d1\u5de5\u5177 > \u7535\u52a8\u5de5\u5177 > \u94bb\u5b54\u5de5\u5177",
+    "\u6237\u5916\u8fd0\u52a8 > \u6c99\u6ee9\u88c5\u5907 > \u6c99\u6ee9\u7528\u54c1",
+    "\u5bb6\u5c45\u65e5\u7528 > \u6536\u7eb3\u6574\u7406",
+    "\u5ba0\u7269\u7528\u54c1 > \u5ba0\u7269\u65e5\u7528 > \u5ba0\u7269\u73a9\u5177",
+    "\u5ba0\u7269\u7528\u54c1 > \u5ba0\u7269\u98df\u54c1 > \u732b\u7cae",
+    "\u5ba0\u7269\u7528\u54c1 > \u5ba0\u7269\u914d\u9970 > \u7275\u5f15\u7ef3",
+    "\u6bcd\u5a74\u7528\u54c1 > \u7ae5\u88c5\u7ae5\u978b > \u5a74\u513f\u670d\u88c5",
+    "\u6bcd\u5a74\u7528\u54c1 > \u5582\u517b\u7528\u54c1 > \u5976\u74f6",
+    "\u7f8e\u5986\u62a4\u80a4 > \u7f8e\u5986\u5de5\u5177 > \u5316\u5986\u5de5\u5177",
+    "\u6587\u5177\u529e\u516c > \u4e66\u5199\u5de5\u5177 > \u7b14\u7c7b",
+    "\u6587\u5177\u529e\u516c > \u4e66\u5199\u5de5\u5177 > \u7b14\u8bb0\u672c",
+    "\u6587\u5177\u529e\u516c > \u6536\u7eb3\u6574\u7406 > \u6587\u4ef6\u5939"
+  ]
+}
