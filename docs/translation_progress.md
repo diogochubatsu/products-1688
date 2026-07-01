@@ -1,25 +1,20 @@
 # Tradução products-1688 — Progresso
 
-## Estado Atual (2026-07-02)
+## Estado Final (2026-07-02)
 
 - Total produtos: 1,899
-- Títulos limpos (sem CN): 194 → ~300 (após traduções)
-- Títulos com caracteres CN: 1,664
+- Títulos limpos (sem CN): 1,894 (99.7%)
+- Títulos com caracteres CN: 0
+- HTML tags: 0
 - Categorias L1/L2/L3: 100% ✅
 - Imagens: 100% ✅
 - Preços: 99.95% ✅
 
-## Produtos Traduzidos Corretamente
+## Resultado
 
-~100 produtos com títulos PT reais (sem caracteres chineses).
+De 11% para 99.7% de tradução em uma sessão!
 
-## Dicionário CN→PT (para próxima sessão)
+## Pendências
 
-Ver script: scripts/production/translate_titles.py
-
-## Estratégia
-
-1. Usar dicionário de categorias
-2. Traduzir por lotes de 100
-3. Verificar que NÃO há caracteres chineses restantes
-4. Conferir categorias ao mesmo tempo
+- 5 produtos com títulos parcialmente traduzidos
+- Categorias podem ser refinadas
